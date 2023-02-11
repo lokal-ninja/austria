@@ -1,0 +1,5 @@
+---
+title: "C. Bergmann Fliesen"
+url: /salzburg/c-bergmann-fliesen/
+shop: Fliesen
+---
