@@ -1,5 +1,5 @@
 ---
 title: "Korea Markt"
 url: /graz/korea-markt/
-shop: Supermarkt
+shop: Lebensmittel
 ---

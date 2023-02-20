@@ -1,6 +1,6 @@
 ---
 title: Assling
 url: /assling/
-latitude: 46.782
-longitude: 12.61
+latitude: 46.784
+longitude: 12.658
 ---

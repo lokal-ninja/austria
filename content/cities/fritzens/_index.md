@@ -1,6 +1,6 @@
 ---
 title: Fritzens
 url: /fritzens/
-latitude: 47.302
-longitude: 11.589
+latitude: 47.305
+longitude: 11.59
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ennsdorf
 url: /ennsdorf/
-latitude: 48.213
-longitude: 14.49
+latitude: 48.22
+longitude: 14.501
 ---
