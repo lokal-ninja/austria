@@ -1,5 +1,5 @@
 ---
-title: "BILLA"
+title: "Billa"
 url: /horitschon/billa/
 shop: Supermarkt
 ---
