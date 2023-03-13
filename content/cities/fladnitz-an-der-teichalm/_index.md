@@ -1,6 +1,6 @@
 ---
 title: Fladnitz an der Teichalm
 url: /fladnitz-an-der-teichalm/
-latitude: 47.35
-longitude: 15.461
+latitude: 47.351
+longitude: 15.46
 ---

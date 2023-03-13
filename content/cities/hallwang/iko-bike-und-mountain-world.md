@@ -1,5 +1,5 @@
 ---
 title: "iko bike & mountain WORLD"
 url: /hallwang/iko-bike-und-mountain-world/
-shop: Fahrrad
+shop: Sport
 ---

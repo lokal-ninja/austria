@@ -1,6 +1,6 @@
 ---
 title: Bad Blumau
 url: /bad-blumau/
-latitude: 47.115
-longitude: 16.059
+latitude: 47.111
+longitude: 16.049
 ---
