@@ -1,6 +1,6 @@
 ---
 title: Rennweg
 url: /rennweg/
-latitude: 47.018
-longitude: 13.612
+latitude: 47.031
+longitude: 13.595
 ---
