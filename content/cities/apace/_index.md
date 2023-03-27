@@ -1,6 +1,6 @@
 ---
 title: Apače
 url: /apace/
-latitude: 46.698
-longitude: 15.91
+latitude: 46.692
+longitude: 15.926
 ---

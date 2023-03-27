@@ -6,6 +6,6 @@ postcode: "1230"
 city: Wien
 street: "Erlaaer Straße"
 housenumber: 171
-phone: "+43 1 66110 100"
-opening_hours: "Mo-Th: 08:00-18:00; Fr 07:00-18:00"
-website: ""
+phone: ""
+opening_hours: "Mo-Th 08:00-18:00; Fr 07:00-18:00"
+website: "https://www.radatz.at/wurst-gross-markt"
