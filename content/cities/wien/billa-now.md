@@ -1,5 +1,5 @@
 ---
-title: "Billa now"
+title: "Billa Now"
 url: /wien/billa-now/
-shop: Supermarkt
+shop: Lebensmittel
 ---

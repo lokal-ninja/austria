@@ -1,6 +1,6 @@
 ---
 title: Klöch
 url: /kloech/
-latitude: 46.764
-longitude: 15.966
+latitude: 46.784
+longitude: 15.975
 ---
