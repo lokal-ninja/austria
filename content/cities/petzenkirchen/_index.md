@@ -1,6 +1,6 @@
 ---
 title: Petzenkirchen
 url: /petzenkirchen/
-latitude: 48.146
-longitude: 15.155
+latitude: 48.143
+longitude: 15.157
 ---

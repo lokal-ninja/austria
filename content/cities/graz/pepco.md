@@ -1,5 +1,5 @@
 ---
-title: "pepco"
+title: "Pepco"
 url: /graz/pepco/
 shop: Kleidung
 ---
