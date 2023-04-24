@@ -1,11 +1,11 @@
 id: 5403570069
 type: node
-latitude: 48.18978
-longitude: 16.40067
+latitude: 48.1899
+longitude: 16.40076
 postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 173-175
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Tu-Fr 10:00-13:30,14:30-17:00"
+website: "https://www.radgeber.bike"

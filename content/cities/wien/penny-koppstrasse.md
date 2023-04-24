@@ -1,5 +1,5 @@
 ---
-title: "Penny"
+title: "PENNY"
 url: /wien/penny/
 shop: Supermarkt
 ---

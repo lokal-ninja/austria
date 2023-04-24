@@ -1,5 +1,5 @@
 ---
-title: "Mail Boxes Etc."
+title: "Mail Boxes etc."
 url: /wien/mail-boxes-etc/
-shop: Allgemein
+shop: Kopieren
 ---

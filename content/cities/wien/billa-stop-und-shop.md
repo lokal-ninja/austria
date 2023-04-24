@@ -1,5 +1,5 @@
 ---
-title: "BILLA stop & shop"
+title: "Billa stop & shop"
 url: /wien/billa-stop-und-shop/
 shop: Lebensmittel
 ---
