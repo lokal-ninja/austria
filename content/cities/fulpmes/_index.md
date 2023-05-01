@@ -1,6 +1,6 @@
 ---
 title: Fulpmes
 url: /fulpmes/
-latitude: 47.153
-longitude: 11.351
+latitude: 47.151
+longitude: 11.354
 ---

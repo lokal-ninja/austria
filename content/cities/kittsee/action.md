@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /kittsee/action/
-shop: Supermarkt
+shop: Kramladen
 ---
