@@ -1,6 +1,6 @@
 ---
 title: Leonding
 url: /leonding/
-latitude: 48.279
-longitude: 14.249
+latitude: 48.276
+longitude: 14.266
 ---
