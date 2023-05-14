@@ -1,6 +1,6 @@
 ---
 title: Scharnitz
 url: /scharnitz/
-latitude: 47.377
-longitude: 11.237
+latitude: 47.387
+longitude: 11.259
 ---

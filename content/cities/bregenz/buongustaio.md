@@ -1,5 +1,5 @@
 ---
 title: "Buongustaio"
 url: /bregenz/buongustaio/
-shop: Lebensmittel
+shop: Feinkost
 ---
