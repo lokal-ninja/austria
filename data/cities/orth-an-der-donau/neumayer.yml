@@ -7,5 +7,5 @@ city: Orth an der Donau
 street: "Am Markt"
 housenumber: 5
 phone: "+4322122228"
-opening_hours: "Mo 06:30-12:00; Tu 06:30-12:00; Tu 15:00-18:00; We 06:30-12:30; Th 06:30-12:00; Fr 06:30-12:30; Fr 15:00-18:00; Sa 06:30-12:00"
+opening_hours: "Mo 06:30-12:00; Tu 06:30-12:00,15:00-18:00; We 06:30-12:30; Th 06:30-12:00; Fr 06:30-12:30,15:00-18:00; Sa 06:30-12:00"
 website: ""

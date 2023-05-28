@@ -2,5 +2,5 @@
 title: Seewalchen am Attersee
 url: /seewalchen-am-attersee/
 latitude: 47.955
-longitude: 13.585
+longitude: 13.583
 ---

@@ -7,5 +7,5 @@ city: Hausleiten
 street: "Schmidastraße"
 housenumber: 1
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 07:30-12:00, 13:00-16:30; We,Sa,So,PH off"
+opening_hours: "Mo,Tu,Th,Fr 07:30-12:00,13:00-16:30; We,Sa,Su,PH off"
 website: ""
