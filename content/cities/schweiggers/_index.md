@@ -1,6 +1,6 @@
 ---
 title: Schweiggers
 url: /schweiggers/
-latitude: 48.667
-longitude: 15.068
+latitude: 48.699
+longitude: 15.117
 ---

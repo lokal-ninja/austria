@@ -1,6 +1,6 @@
 ---
 title: Söll
 url: /soell/
-latitude: 47.509
-longitude: 12.195
+latitude: 47.504
+longitude: 12.192
 ---

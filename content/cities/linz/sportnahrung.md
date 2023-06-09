@@ -1,5 +1,5 @@
 ---
 title: "Sportnahrung"
 url: /linz/sportnahrung/
-shop: Bioladen
+shop: Nahrungsergänzung
 ---

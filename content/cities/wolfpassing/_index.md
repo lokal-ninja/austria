@@ -1,6 +1,6 @@
 ---
 title: Wolfpassing
 url: /wolfpassing/
-latitude: 48.313
-longitude: 16.179
+latitude: 48.082
+longitude: 15.089
 ---

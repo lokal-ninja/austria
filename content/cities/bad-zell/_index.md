@@ -1,6 +1,6 @@
 ---
 title: Bad Zell
 url: /bad-zell/
-latitude: 48.348
-longitude: 14.669
+latitude: 48.35
+longitude: 14.67
 ---
