@@ -7,5 +7,5 @@ city: Wien
 street: "Margaretenstraße"
 housenumber: 85
 phone: "+43 1 5446369"
-opening_hours: "Mo-Fr 10:00-18:00"
+opening_hours: "Tu,Fr 10:00-18:00; We,Th 10:00-15:00; Sa 10:00-13:00"
 website: "http://www.goeth.co.at/"

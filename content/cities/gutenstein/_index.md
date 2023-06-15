@@ -1,6 +1,6 @@
 ---
 title: Gutenstein
 url: /gutenstein/
-latitude: 47.88
-longitude: 15.91
+latitude: 47.876
+longitude: 15.89
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
 url: /unterwart/lagerhaus/
-shop: Eisenwaren
+shop: Haushaltsartikel
 ---

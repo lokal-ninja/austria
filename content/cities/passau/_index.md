@@ -1,6 +1,6 @@
 ---
 title: Passau
 url: /passau/
-latitude: 48.585
-longitude: 13.501
+latitude: 48.563
+longitude: 13.475
 ---

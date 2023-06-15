@@ -1,5 +1,5 @@
 ---
 title: "Bellaflora"
 url: /voesendorf/bellaflora/
-shop: Blumen
+shop: Garten-Center
 ---

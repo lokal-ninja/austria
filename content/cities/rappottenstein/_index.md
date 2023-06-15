@@ -1,6 +1,6 @@
 ---
 title: Rappottenstein
 url: /rappottenstein/
-latitude: 48.53
-longitude: 15.128
+latitude: 48.539
+longitude: 15.051
 ---
