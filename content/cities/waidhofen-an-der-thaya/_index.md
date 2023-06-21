@@ -1,6 +1,6 @@
 ---
 title: Waidhofen an der Thaya
 url: /waidhofen-an-der-thaya/
-latitude: 48.814
-longitude: 15.284
+latitude: 48.811
+longitude: 15.267
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meiselding
 url: /meiselding/
-latitude: 46.834
-longitude: 14.405
+latitude: 46.839
+longitude: 14.396
 ---
