@@ -1,6 +1,6 @@
 ---
 title: St Leonhard/Pitztal
 url: /st-leonhard-pitztal/
-latitude: 46.987
-longitude: 10.868
+latitude: 47.011
+longitude: 10.865
 ---

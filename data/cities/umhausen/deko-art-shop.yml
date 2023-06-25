@@ -7,5 +7,5 @@ city: Umhausen
 street: "Dorf"
 housenumber: 20
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:00-16:00"
+opening_hours: "Mo-Fr 08:00-12:00,13:00-16:00"
 website: "https://www.tirol.lebenshilfe.at/"
