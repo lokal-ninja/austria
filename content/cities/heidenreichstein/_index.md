@@ -1,6 +1,6 @@
 ---
 title: Heidenreichstein
 url: /heidenreichstein/
-latitude: 48.859
-longitude: 15.12
+latitude: 48.857
+longitude: 15.112
 ---

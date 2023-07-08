@@ -1,6 +1,6 @@
 ---
 title: Meiningen
 url: /meiningen/
-latitude: 47.298
-longitude: 9.579
+latitude: 47.295
+longitude: 9.577
 ---
