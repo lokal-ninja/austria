@@ -1,6 +1,6 @@
 ---
 title: Nauders
 url: /nauders/
-latitude: 46.892
-longitude: 10.502
+latitude: 46.891
+longitude: 10.503
 ---
