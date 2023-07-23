@@ -1,6 +1,6 @@
 ---
 title: Pucking
 url: /pucking/
-latitude: 48.186
-longitude: 14.186
+latitude: 48.188
+longitude: 14.185
 ---
