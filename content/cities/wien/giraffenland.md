@@ -1,5 +1,5 @@
 ---
 title: "Giraffenland"
 url: /wien/giraffenland/
-shop: Leerstehend
+shop: Nähzubehör
 ---

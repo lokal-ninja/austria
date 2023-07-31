@@ -1,5 +1,5 @@
 ---
 title: "Aero"
 url: /villach/aero/
-shop: Modehaus
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Graz
 url: /graz/
-latitude: 47.051
-longitude: 15.479
+latitude: 47.079
+longitude: 15.473
 ---

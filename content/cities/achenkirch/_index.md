@@ -1,6 +1,6 @@
 ---
 title: Achenkirch
 url: /achenkirch/
-latitude: 47.531
-longitude: 11.706
+latitude: 47.529
+longitude: 11.707
 ---

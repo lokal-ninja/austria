@@ -1,6 +1,6 @@
 ---
 title: Saalbach-Hinterglemm
 url: /saalbach-hinterglemm/
-latitude: 47.378
-longitude: 12.592
+latitude: 47.391
+longitude: 12.636
 ---

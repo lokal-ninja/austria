@@ -1,5 +1,5 @@
 ---
 title: "finnshop"
 url: /wien/finnshop/
-shop: Allgemein
+shop: Kleidung
 ---
