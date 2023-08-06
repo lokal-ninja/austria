@@ -1,6 +1,6 @@
 ---
 title: Zwettl
 url: /zwettl/
-latitude: 48.6
-longitude: 15.192
+latitude: 48.605
+longitude: 15.166
 ---

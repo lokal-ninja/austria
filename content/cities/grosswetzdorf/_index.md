@@ -1,6 +1,6 @@
 ---
 title: Großwetzdorf
 url: /grosswetzdorf/
-latitude: 48.502
-longitude: 15.96
+latitude: 48.5
+longitude: 15.956
 ---
