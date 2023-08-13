@@ -1,5 +1,5 @@
 ---
-title: "trés chic"
+title: "très chic"
 url: /wien/tres-chic/
 shop: Taschen & Koffer
 ---

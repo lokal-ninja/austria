@@ -1,5 +1,0 @@
----
-title: "B15"
-url: /klagenfurt-am-woerthersee/b15/
-shop: Kleidung
----
