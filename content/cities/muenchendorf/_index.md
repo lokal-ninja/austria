@@ -1,6 +1,6 @@
 ---
 title: Münchendorf
 url: /muenchendorf/
-latitude: 48.03
-longitude: 16.379
+latitude: 48.027
+longitude: 16.378
 ---

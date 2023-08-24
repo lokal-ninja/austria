@@ -1,5 +1,5 @@
 ---
-title: "hemps VIENNA"
+title: "hemps Vienna"
 url: /wien/hemps-vienna/
-shop: Kräuter
+shop: Hanf
 ---
