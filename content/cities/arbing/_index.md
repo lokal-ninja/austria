@@ -2,5 +2,5 @@
 title: Arbing
 url: /arbing/
 latitude: 48.229
-longitude: 14.7
+longitude: 14.699
 ---

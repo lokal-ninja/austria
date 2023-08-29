@@ -1,5 +1,5 @@
 ---
 title: "Reifen Weichberger"
 url: /graz/reifen-weichberger/
-shop: Reifen
+shop: Autowerkstatt
 ---
