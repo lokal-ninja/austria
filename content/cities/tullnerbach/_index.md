@@ -1,6 +1,6 @@
 ---
 title: Tullnerbach
 url: /tullnerbach/
-latitude: 48.185
-longitude: 16.094
+latitude: 48.184
+longitude: 16.092
 ---
