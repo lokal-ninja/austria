@@ -1,5 +1,5 @@
 ---
 title: "Beranek"
-url: /wien/beranek/
+url: /wien/beranek-rathstrasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /salzburg/penny/
+url: /salzburg/penny-robinigstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /wien/intersport/
+url: /wien/intersport-breitenfurter-strasse/
 shop: Sport
 ---

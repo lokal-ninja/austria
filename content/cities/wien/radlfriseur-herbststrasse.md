@@ -1,5 +1,5 @@
 ---
 title: "Radlfriseur"
-url: /wien/radlfriseur/
+url: /wien/radlfriseur-herbststrasse/
 shop: Friseur
 ---

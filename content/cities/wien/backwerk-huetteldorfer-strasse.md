@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /wien/backwerk/
+url: /wien/backwerk-huetteldorfer-strasse/
 shop: Bäckerei
 ---

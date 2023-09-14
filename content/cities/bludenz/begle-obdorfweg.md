@@ -1,5 +1,5 @@
 ---
 title: "Begle"
-url: /bludenz/begle/
+url: /bludenz/begle-obdorfweg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schlafmanufaktur"
-url: /innsbruck/schlafmanufaktur/
+url: /innsbruck/schlafmanufaktur-maximilianstrasse/
 shop: Möbel
 ---

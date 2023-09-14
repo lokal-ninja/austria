@@ -1,5 +1,5 @@
 ---
 title: "bookpoint"
-url: /wien/bookpoint/
+url: /wien/bookpoint-sandleitengasse/
 shop: Bücher
 ---

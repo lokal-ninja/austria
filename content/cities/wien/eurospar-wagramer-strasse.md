@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /wien/eurospar/
+url: /wien/eurospar-wagramer-strasse/
 shop: Supermarkt
 ---

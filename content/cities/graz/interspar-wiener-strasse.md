@@ -1,5 +1,5 @@
 ---
 title: "Interspar"
-url: /graz/interspar/
+url: /graz/interspar-wiener-strasse/
 shop: Supermarkt
 ---

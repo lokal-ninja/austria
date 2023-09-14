@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /amstetten/bipa/
+url: /amstetten/bipa-waidhofner-strasse/
 shop: Drogerie
 ---

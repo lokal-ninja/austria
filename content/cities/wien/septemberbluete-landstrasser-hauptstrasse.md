@@ -1,5 +1,5 @@
 ---
 title: "Septemberblüte"
-url: /wien/septemberbluete/
+url: /wien/septemberbluete-landstrasser-hauptstrasse/
 shop: Blumen
 ---

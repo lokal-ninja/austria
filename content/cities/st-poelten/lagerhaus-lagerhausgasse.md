@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
-url: /st-poelten/lagerhaus/
+url: /st-poelten/lagerhaus-lagerhausgasse/
 shop: Baumarkt
 ---

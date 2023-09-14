@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /stockerau/penny/
+url: /stockerau/penny-eduard-roesch-strasse/
 shop: Supermarkt
 ---

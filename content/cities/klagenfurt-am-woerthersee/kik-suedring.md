@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /klagenfurt-am-woerthersee/kik/
+url: /klagenfurt-am-woerthersee/kik-suedring/
 shop: Kleidung
 ---

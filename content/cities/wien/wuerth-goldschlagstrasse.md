@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /wien/wuerth/
+url: /wien/wuerth-goldschlagstrasse/
 shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /gross-enzersdorf/billa/
+url: /gross-enzersdorf/billa-lobaustrasse/
 shop: Supermarkt
 ---

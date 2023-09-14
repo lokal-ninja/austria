@@ -1,5 +1,5 @@
 ---
 title: "Nöbauer"
-url: /wien/noebauer/
+url: /wien/noebauer-doningasse/
 shop: Bäckerei
 ---

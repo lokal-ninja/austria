@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /oberwart/bipa/
+url: /oberwart/bipa-grazerstrasse/
 shop: Drogerie
 ---

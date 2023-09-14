@@ -1,5 +1,5 @@
 ---
 title: "Radatz"
-url: /wien/radatz/
+url: /wien/radatz-2/
 shop: Metzgerei
 ---

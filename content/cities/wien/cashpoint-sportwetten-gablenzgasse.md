@@ -1,5 +1,5 @@
 ---
 title: "Cashpoint Sportwetten"
-url: /wien/cashpoint-sportwetten/
+url: /wien/cashpoint-sportwetten-gablenzgasse/
 shop: Wettbüro
 ---

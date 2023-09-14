@@ -1,5 +1,5 @@
 ---
 title: "Bestpreismarkt"
-url: /wien/bestpreismarkt/
+url: /wien/bestpreismarkt-jaegerstrasse/
 shop: Kramladen
 ---

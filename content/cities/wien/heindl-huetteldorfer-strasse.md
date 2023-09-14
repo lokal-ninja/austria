@@ -1,5 +1,5 @@
 ---
 title: "Heindl"
-url: /wien/heindl/
+url: /wien/heindl-huetteldorfer-strasse/
 shop: Süßwaren
 ---

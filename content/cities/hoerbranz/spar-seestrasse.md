@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /hoerbranz/spar/
+url: /hoerbranz/spar-seestrasse/
 shop: Supermarkt
 ---

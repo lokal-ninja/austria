@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /st-poelten/deichmann/
+url: /st-poelten/deichmann-roedlgasse/
 shop: Schuhe
 ---

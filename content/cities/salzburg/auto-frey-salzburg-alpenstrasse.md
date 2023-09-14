@@ -1,5 +1,5 @@
 ---
 title: "Auto Frey Salzburg"
-url: /salzburg/auto-frey-salzburg/
+url: /salzburg/auto-frey-salzburg-alpenstrasse/
 shop: Autohaus
 ---

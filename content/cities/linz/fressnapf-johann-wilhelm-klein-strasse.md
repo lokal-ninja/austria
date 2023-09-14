@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /linz/fressnapf/
+url: /linz/fressnapf-johann-wilhelm-klein-strasse/
 shop: Tiere
 ---

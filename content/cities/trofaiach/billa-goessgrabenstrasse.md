@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /trofaiach/billa/
+url: /trofaiach/billa-goessgrabenstrasse/
 shop: Supermarkt
 ---

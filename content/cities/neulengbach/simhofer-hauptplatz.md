@@ -1,5 +1,5 @@
 ---
 title: "Simhofer"
-url: /neulengbach/simhofer/
+url: /neulengbach/simhofer-hauptplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /wien/hofer/
+url: /wien/hofer-johnstrasse/
 shop: Supermarkt
 ---

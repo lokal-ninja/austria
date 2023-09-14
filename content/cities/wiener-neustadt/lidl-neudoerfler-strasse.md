@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /wiener-neustadt/lidl/
+url: /wiener-neustadt/lidl-neudoerfler-strasse/
 shop: Supermarkt
 ---

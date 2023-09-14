@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /graz/intersport/
+url: /graz/intersport-wiener-strasse/
 shop: Sport
 ---

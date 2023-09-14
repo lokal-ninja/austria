@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /wien/kik/
+url: /wien/kik-gewerbeparkstrasse/
 shop: Kleidung
 ---

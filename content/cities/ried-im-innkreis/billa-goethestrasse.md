@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /ried-im-innkreis/billa/
+url: /ried-im-innkreis/billa-goethestrasse/
 shop: Supermarkt
 ---

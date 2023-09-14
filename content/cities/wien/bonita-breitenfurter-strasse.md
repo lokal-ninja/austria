@@ -1,5 +1,5 @@
 ---
 title: "Bonita"
-url: /wien/bonita/
+url: /wien/bonita-breitenfurter-strasse/
 shop: Kleidung
 ---

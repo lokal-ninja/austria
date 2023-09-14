@@ -1,5 +1,5 @@
 ---
 title: "Wienerroither"
-url: /villach/wienerroither/
+url: /villach/wienerroither-bruno-kreisky-strasse/
 shop: Bäckerei
 ---

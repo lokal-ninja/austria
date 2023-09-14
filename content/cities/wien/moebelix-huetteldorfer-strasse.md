@@ -1,5 +1,5 @@
 ---
 title: "Möbelix"
-url: /wien/moebelix/
+url: /wien/moebelix-huetteldorfer-strasse/
 shop: Möbel
 ---

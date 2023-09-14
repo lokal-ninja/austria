@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /innsbruck/mediamarkt/
+url: /innsbruck/mediamarkt-grabenweg/
 shop: Elektronik
 ---

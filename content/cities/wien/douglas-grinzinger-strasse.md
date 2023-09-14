@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /wien/douglas/
+url: /wien/douglas-grinzinger-strasse/
 shop: Parfümerie
 ---

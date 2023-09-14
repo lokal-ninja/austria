@@ -1,5 +1,5 @@
 ---
 title: "Glanzschnitt"
-url: /koeflach/glanzschnitt/
+url: /koeflach/glanzschnitt-2/
 shop: Friseur
 ---

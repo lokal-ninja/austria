@@ -1,5 +1,5 @@
 ---
 title: "Humanic"
-url: /wien/humanic/
+url: /wien/humanic-olympiaplatz/
 shop: Schuhe
 ---

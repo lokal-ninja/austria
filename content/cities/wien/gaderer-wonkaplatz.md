@@ -1,5 +1,5 @@
 ---
 title: "Gaderer"
-url: /wien/gaderer/
+url: /wien/gaderer-wonkaplatz/
 shop: Blumen
 ---

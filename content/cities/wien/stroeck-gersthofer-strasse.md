@@ -1,5 +1,5 @@
 ---
 title: "Ströck"
-url: /wien/stroeck/
+url: /wien/stroeck-gersthofer-strasse/
 shop: Bäckerei
 ---

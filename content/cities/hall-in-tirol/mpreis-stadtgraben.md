@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /hall-in-tirol/mpreis/
+url: /hall-in-tirol/mpreis-stadtgraben/
 shop: Supermarkt
 ---

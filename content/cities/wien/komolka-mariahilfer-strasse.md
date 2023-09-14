@@ -1,5 +1,5 @@
 ---
 title: "Komolka"
-url: /wien/komolka/
+url: /wien/komolka-mariahilfer-strasse/
 shop: Textil
 ---

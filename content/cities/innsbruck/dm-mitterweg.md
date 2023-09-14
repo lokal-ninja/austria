@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /innsbruck/dm/
+url: /innsbruck/dm-mitterweg/
 shop: Drogerie
 ---

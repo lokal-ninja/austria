@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /zeltweg/billa/
+url: /zeltweg/billa-hauptstrasse/
 shop: Supermarkt
 ---

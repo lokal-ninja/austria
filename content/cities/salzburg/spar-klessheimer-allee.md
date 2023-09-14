@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /salzburg/spar/
+url: /salzburg/spar-klessheimer-allee/
 shop: Supermarkt
 ---

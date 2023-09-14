@@ -1,5 +1,5 @@
 ---
 title: "Gumprecht"
-url: /wien/gumprecht/
+url: /wien/gumprecht-brigittenauer-laende/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /fuerstenfeld/billa/
+url: /fuerstenfeld/billa-ledergasse/
 shop: Supermarkt
 ---

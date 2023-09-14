@@ -1,5 +1,5 @@
 ---
 title: "Drei"
-url: /wien/drei/
+url: /wien/drei-stephansplatz/
 shop: Handy
 ---

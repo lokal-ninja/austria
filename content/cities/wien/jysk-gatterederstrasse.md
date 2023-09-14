@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /wien/jysk/
+url: /wien/jysk-gatterederstrasse/
 shop: Möbel
 ---

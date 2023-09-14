@@ -1,5 +1,5 @@
 ---
 title: "der Walter"
-url: /wien/der-walter/
+url: /wien/der-walter-landgutgasse/
 shop: Kleidung
 ---

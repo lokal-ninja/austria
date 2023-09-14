@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /hartberg/eurospar/
+url: /hartberg/eurospar-ressavarstrasse/
 shop: Supermarkt
 ---

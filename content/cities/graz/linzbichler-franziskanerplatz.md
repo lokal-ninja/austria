@@ -1,5 +1,5 @@
 ---
 title: "Linzbichler"
-url: /graz/linzbichler/
+url: /graz/linzbichler-franziskanerplatz/
 shop: Süßwaren
 ---

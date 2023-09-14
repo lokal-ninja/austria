@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /villach/cunda/
+url: /villach/cunda-kaerntner-strasse/
 shop: Kleidung
 ---

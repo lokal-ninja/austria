@@ -1,5 +1,5 @@
 ---
 title: "Hervis"
-url: /villach/hervis/
+url: /villach/hervis-kaerntner-strasse/
 shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /fischamend/penny/
+url: /fischamend/penny-hainburger-strasse/
 shop: Supermarkt
 ---

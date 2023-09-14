@@ -1,5 +1,5 @@
 ---
 title: "GmbHaar"
-url: /wien/gmbhaar/
+url: /wien/gmbhaar-kirchengasse/
 shop: Friseur
 ---

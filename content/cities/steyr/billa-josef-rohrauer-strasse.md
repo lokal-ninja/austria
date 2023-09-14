@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /steyr/billa/
+url: /steyr/billa-josef-rohrauer-strasse/
 shop: Supermarkt
 ---

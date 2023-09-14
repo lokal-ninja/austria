@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /villach/mueller/
+url: /villach/mueller-maria-gailer-strasse/
 shop: Drogerie
 ---

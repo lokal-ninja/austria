@@ -1,5 +1,5 @@
 ---
 title: "Ströck"
-url: /wien/stroeck/
+url: /wien/stroeck-lassallestrasse/
 shop: Bäckerei
 ---

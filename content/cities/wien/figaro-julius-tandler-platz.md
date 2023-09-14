@@ -1,5 +1,5 @@
 ---
 title: "Figaro"
-url: /wien/figaro/
+url: /wien/figaro-julius-tandler-platz/
 shop: Friseur
 ---

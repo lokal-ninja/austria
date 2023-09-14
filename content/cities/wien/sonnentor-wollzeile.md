@@ -1,5 +1,5 @@
 ---
 title: "Sonnentor"
-url: /wien/sonnentor/
+url: /wien/sonnentor-wollzeile/
 shop: Tee
 ---

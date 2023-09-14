@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /klagenfurt-am-woerthersee/eurospar/
+url: /klagenfurt-am-woerthersee/eurospar-welzenegger-strasse/
 shop: Supermarkt
 ---

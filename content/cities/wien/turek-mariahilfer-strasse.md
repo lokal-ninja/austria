@@ -1,5 +1,5 @@
 ---
 title: "Turek"
-url: /wien/turek/
+url: /wien/turek-mariahilfer-strasse/
 shop: Kleidung
 ---

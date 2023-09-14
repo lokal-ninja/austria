@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /graz/jysk/
+url: /graz/jysk-weinzoettlstrasse/
 shop: Möbel
 ---

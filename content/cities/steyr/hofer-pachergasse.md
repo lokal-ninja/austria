@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /steyr/hofer/
+url: /steyr/hofer-pachergasse/
 shop: Supermarkt
 ---

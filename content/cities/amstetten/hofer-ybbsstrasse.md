@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /amstetten/hofer/
+url: /amstetten/hofer-ybbsstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /zirl/mpreis/
+url: /zirl/mpreis-meilstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hager"
-url: /wilhelmsburg/hager/
+url: /wilhelmsburg/hager-fleschplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humanic"
-url: /graz/humanic/
+url: /graz/humanic-herrengasse/
 shop: Schuhe
 ---

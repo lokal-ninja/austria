@@ -1,5 +1,5 @@
 ---
 title: "Pilz"
-url: /gmuend/pilz/
+url: /gmuend/pilz-litschauer-strasse/
 shop: Supermarkt
 ---

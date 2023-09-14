@@ -1,5 +1,5 @@
 ---
 title: "Birner"
-url: /wien/birner/
+url: /wien/birner-nibelungengasse/
 shop: Autoteile
 ---

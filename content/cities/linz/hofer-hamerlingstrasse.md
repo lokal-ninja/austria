@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /linz/hofer/
+url: /linz/hofer-hamerlingstrasse/
 shop: Supermarkt
 ---

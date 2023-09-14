@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /st-johann-in-tirol/dm/
+url: /st-johann-in-tirol/dm-salzburgerstrasse/
 shop: Drogerie
 ---

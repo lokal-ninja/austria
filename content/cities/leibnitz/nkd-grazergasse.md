@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /leibnitz/nkd/
+url: /leibnitz/nkd-grazergasse/
 shop: Kleidung
 ---

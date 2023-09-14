@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /wels/bipa/
+url: /wels/bipa-kaiser-josef-platz/
 shop: Drogerie
 ---

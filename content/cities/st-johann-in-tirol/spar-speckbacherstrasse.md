@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /st-johann-in-tirol/spar/
+url: /st-johann-in-tirol/spar-speckbacherstrasse/
 shop: Supermarkt
 ---

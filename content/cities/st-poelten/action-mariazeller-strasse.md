@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /st-poelten/action/
+url: /st-poelten/action-mariazeller-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /wien/obi/
+url: /wien/obi-sverigestrasse/
 shop: Baumarkt
 ---

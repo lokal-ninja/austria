@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /villach/fressnapf/
+url: /villach/fressnapf-gewerbezeile/
 shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mister Minit"
-url: /wien/mister-minit/
+url: /wien/mister-minit-mariahilfer-strasse/
 shop: Schlüsseldienst
 ---

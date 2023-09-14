@@ -1,5 +1,5 @@
 ---
 title: "Taschenausgabe"
-url: /wien/taschenausgabe/
+url: /wien/taschenausgabe-neubaugasse/
 shop: Taschen & Koffer
 ---

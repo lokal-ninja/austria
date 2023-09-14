@@ -1,5 +1,5 @@
 ---
 title: "Sutterlüty"
-url: /feldkirch/sutterluety/
+url: /feldkirch/sutterluety-egelseestrasse/
 shop: Supermarkt
 ---

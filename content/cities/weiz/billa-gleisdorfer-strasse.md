@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /weiz/billa/
+url: /weiz/billa-gleisdorfer-strasse/
 shop: Supermarkt
 ---

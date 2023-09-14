@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /wien/bp/
+url: /wien/bp-morzinplatz/
 shop: Lebensmittel
 ---

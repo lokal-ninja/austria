@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /wiener-neustadt/bipa/
+url: /wiener-neustadt/bipa-gerasdorfer-gasse/
 shop: Drogerie
 ---

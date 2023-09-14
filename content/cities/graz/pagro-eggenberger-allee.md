@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /graz/pagro/
+url: /graz/pagro-eggenberger-allee/
 shop: Schreibwaren
 ---

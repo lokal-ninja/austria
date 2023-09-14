@@ -1,5 +1,5 @@
 ---
 title: "H&N"
-url: /reith-im-alpachtal/hundn/
+url: /reith-im-alpachtal/hundn-dorf/
 shop: Sport
 ---

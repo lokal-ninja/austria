@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dornbirn/spar/
+url: /dornbirn/spar-schwefel-2/
 shop: Lebensmittel
 ---

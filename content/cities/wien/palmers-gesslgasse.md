@@ -1,5 +1,5 @@
 ---
 title: "Palmers"
-url: /wien/palmers/
+url: /wien/palmers-gesslgasse/
 shop: Kleidung
 ---

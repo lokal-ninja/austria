@@ -1,5 +1,5 @@
 ---
 title: "T&G"
-url: /villach/tundg/
+url: /villach/tundg-vassacher-strasse/
 shop: Supermarkt
 ---

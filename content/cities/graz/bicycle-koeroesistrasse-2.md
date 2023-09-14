@@ -1,5 +1,5 @@
 ---
 title: "Bicycle"
-url: /graz/bicycle/
+url: /graz/bicycle-koeroesistrasse-2/
 shop: Fahrrad
 ---

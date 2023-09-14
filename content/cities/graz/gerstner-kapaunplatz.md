@@ -1,5 +1,5 @@
 ---
 title: "Gerstner"
-url: /graz/gerstner/
+url: /graz/gerstner-kapaunplatz/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabak Trafik"
-url: /krems-an-der-donau/tabak-trafik/
+url: /krems-an-der-donau/tabak-trafik-steiner-donaulaende/
 shop: Tabak
 ---

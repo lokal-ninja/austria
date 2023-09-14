@@ -1,5 +1,5 @@
 ---
 title: "Knize"
-url: /wien/knize/
+url: /wien/knize-graben/
 shop: Kleidung
 ---

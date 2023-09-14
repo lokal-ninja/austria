@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
-url: /innsbruck/baguette/
+url: /innsbruck/baguette-franz-fischer-strasse-2/
 shop: Bäckerei
 ---

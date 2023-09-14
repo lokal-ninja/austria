@@ -1,5 +1,5 @@
 ---
 title: "Topsi"
-url: /wien/topsi/
+url: /wien/topsi-opernring/
 shop: Kosmetik
 ---

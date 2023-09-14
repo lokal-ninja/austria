@@ -1,5 +1,5 @@
 ---
 title: "ADEG"
-url: /wien/adeg/
+url: /wien/adeg-hausfeldstrasse/
 shop: Supermarkt
 ---

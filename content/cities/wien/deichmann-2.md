@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /wien/deichmann/
+url: /wien/deichmann-2/
 shop: Schuhe
 ---

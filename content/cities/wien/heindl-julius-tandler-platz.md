@@ -1,5 +1,5 @@
 ---
 title: "Heindl"
-url: /wien/heindl/
+url: /wien/heindl-julius-tandler-platz/
 shop: Tabak
 ---

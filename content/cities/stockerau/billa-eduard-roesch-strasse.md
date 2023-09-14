@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /stockerau/billa/
+url: /stockerau/billa-eduard-roesch-strasse/
 shop: Supermarkt
 ---

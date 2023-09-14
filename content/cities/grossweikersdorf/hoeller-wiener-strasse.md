@@ -1,5 +1,5 @@
 ---
 title: "Höller"
-url: /grossweikersdorf/hoeller/
+url: /grossweikersdorf/hoeller-wiener-strasse/
 shop: Blumen
 ---

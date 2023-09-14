@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /lienz/mpreis/
+url: /lienz/mpreis-iseltaler-strasse/
 shop: Supermarkt
 ---

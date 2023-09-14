@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
-url: /graz/forstinger/
+url: /graz/forstinger-strassganger-strasse/
 shop: Autowerkstatt
 ---

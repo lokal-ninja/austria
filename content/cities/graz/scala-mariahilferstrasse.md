@@ -1,5 +1,5 @@
 ---
 title: "Scala"
-url: /graz/scala/
+url: /graz/scala-mariahilferstrasse/
 shop: Waffen
 ---

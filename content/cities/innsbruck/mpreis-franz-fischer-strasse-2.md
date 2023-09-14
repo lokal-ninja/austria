@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /innsbruck/mpreis/
+url: /innsbruck/mpreis-franz-fischer-strasse-2/
 shop: Supermarkt
 ---

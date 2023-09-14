@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /graz/nkd/
+url: /graz/nkd-weinzoettlstrasse/
 shop: Kleidung
 ---

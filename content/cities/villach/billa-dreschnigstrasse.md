@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /villach/billa/
+url: /villach/billa-dreschnigstrasse/
 shop: Supermarkt
 ---

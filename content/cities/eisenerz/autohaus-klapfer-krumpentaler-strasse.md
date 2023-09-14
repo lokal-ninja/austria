@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Klapfer"
-url: /eisenerz/autohaus-klapfer/
+url: /eisenerz/autohaus-klapfer-krumpentaler-strasse/
 shop: Autowerkstatt
 ---

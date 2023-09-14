@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
-url: /wien/forstinger/
+url: /wien/forstinger-2/
 shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /neunkirchen/eurospar/
+url: /neunkirchen/eurospar-schoellerstrasse/
 shop: Supermarkt
 ---

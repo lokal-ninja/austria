@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /traiskirchen/bipa/
+url: /traiskirchen/bipa-hauptplatz/
 shop: Drogerie
 ---

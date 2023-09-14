@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /graz/calzedonia/
+url: /graz/calzedonia-sackstrasse/
 shop: Kleidung
 ---

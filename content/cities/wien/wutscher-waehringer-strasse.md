@@ -1,5 +1,5 @@
 ---
 title: "Wutscher"
-url: /wien/wutscher/
+url: /wien/wutscher-waehringer-strasse/
 shop: Optiker
 ---

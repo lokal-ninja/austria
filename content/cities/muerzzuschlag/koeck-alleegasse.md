@@ -1,5 +1,5 @@
 ---
 title: "Köck"
-url: /muerzzuschlag/koeck/
+url: /muerzzuschlag/koeck-alleegasse/
 shop: Bäckerei
 ---

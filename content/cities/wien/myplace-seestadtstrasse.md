@@ -1,5 +1,5 @@
 ---
 title: "MyPlace"
-url: /wien/myplace/
+url: /wien/myplace-seestadtstrasse/
 shop: Mieten
 ---

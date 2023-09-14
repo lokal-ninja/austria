@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /lustenau/hofer/
+url: /lustenau/hofer-zellgasse/
 shop: Supermarkt
 ---

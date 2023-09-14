@@ -1,5 +1,5 @@
 ---
 title: "Theaterkasse"
-url: /graz/theaterkasse/
+url: /graz/theaterkasse-hofgasse/
 shop: Tickets
 ---

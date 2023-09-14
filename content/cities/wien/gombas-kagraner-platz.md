@@ -1,5 +1,5 @@
 ---
 title: "Gombas"
-url: /wien/gombas/
+url: /wien/gombas-kagraner-platz/
 shop: Autowerkstatt
 ---

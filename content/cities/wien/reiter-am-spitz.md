@@ -1,5 +1,5 @@
 ---
 title: "Reiter"
-url: /wien/reiter/
+url: /wien/reiter-am-spitz/
 shop: Betten
 ---

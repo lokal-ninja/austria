@@ -1,5 +1,5 @@
 ---
 title: "Cashpoint"
-url: /wien/cashpoint/
+url: /wien/cashpoint-wagramer-strasse/
 shop: Wettbüro
 ---

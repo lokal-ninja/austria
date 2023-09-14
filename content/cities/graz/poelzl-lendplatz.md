@@ -1,5 +1,5 @@
 ---
 title: "pölzl"
-url: /graz/poelzl/
+url: /graz/poelzl-lendplatz/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neuroth"
-url: /wien/neuroth/
+url: /wien/neuroth-doeblinger-hauptstrasse/
 shop: Hörgeräte
 ---

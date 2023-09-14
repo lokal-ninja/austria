@@ -1,5 +1,5 @@
 ---
 title: "Möbelix"
-url: /wels/moebelix/
+url: /wels/moebelix-loewenzahnstrasse/
 shop: Möbel
 ---

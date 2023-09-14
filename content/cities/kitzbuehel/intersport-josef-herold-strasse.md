@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /kitzbuehel/intersport/
+url: /kitzbuehel/intersport-josef-herold-strasse/
 shop: Ski
 ---

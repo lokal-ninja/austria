@@ -1,5 +1,5 @@
 ---
 title: "Citroen"
-url: /wels/citroen/
+url: /wels/citroen-eferdinger-strasse/
 shop: Autohaus
 ---

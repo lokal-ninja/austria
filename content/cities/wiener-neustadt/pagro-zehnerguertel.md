@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /wiener-neustadt/pagro/
+url: /wiener-neustadt/pagro-zehnerguertel/
 shop: Schreibwaren
 ---

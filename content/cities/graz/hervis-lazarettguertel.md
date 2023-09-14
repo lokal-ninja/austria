@@ -1,5 +1,5 @@
 ---
 title: "Hervis"
-url: /graz/hervis/
+url: /graz/hervis-lazarettguertel/
 shop: Sport
 ---

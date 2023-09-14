@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /baden/hofer/
+url: /baden/hofer-haidhofstrasse/
 shop: Supermarkt
 ---

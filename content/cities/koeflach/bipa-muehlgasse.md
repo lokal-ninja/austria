@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /koeflach/bipa/
+url: /koeflach/bipa-muehlgasse/
 shop: Drogerie
 ---

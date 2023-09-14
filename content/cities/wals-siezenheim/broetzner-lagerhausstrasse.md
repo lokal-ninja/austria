@@ -1,5 +1,5 @@
 ---
 title: "Brötzner"
-url: /wals-siezenheim/broetzner/
+url: /wals-siezenheim/broetzner-lagerhausstrasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Högl"
-url: /wien/hoegl/
+url: /wien/hoegl-mariahilfer-strasse/
 shop: Schuhe
 ---

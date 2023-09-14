@@ -1,5 +1,5 @@
 ---
 title: "Ford Gaberszik"
-url: /graz/ford-gaberszik/
+url: /graz/ford-gaberszik-fabriksgasse/
 shop: Autohaus
 ---

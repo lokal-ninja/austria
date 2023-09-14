@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /stockerau/spar/
+url: /stockerau/spar-bahnhofstrasse/
 shop: Supermarkt
 ---

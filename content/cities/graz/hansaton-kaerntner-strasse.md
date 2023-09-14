@@ -1,5 +1,5 @@
 ---
 title: "Hansaton"
-url: /graz/hansaton/
+url: /graz/hansaton-kaerntner-strasse/
 shop: Hörgeräte
 ---

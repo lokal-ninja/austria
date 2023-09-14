@@ -1,5 +1,5 @@
 ---
 title: "Geier"
-url: /wien/geier/
+url: /wien/geier-sechsschimmelgasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /waidhofen-an-der-ybbs/spar/
+url: /waidhofen-an-der-ybbs/spar-wienerstrasse/
 shop: Supermarkt
 ---

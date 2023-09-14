@@ -1,5 +1,5 @@
 ---
 title: "Moschen"
-url: /innsbruck/moschen/
+url: /innsbruck/moschen-bozner-platz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schwarz"
-url: /wien/baeckerei-schwarz/
+url: /wien/baeckerei-schwarz-herbststrasse/
 shop: Bäckerei
 ---

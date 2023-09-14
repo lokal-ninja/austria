@@ -1,5 +1,5 @@
 ---
 title: "Interspar"
-url: /villach/interspar/
+url: /villach/interspar-kaerntner-strasse/
 shop: Supermarkt
 ---

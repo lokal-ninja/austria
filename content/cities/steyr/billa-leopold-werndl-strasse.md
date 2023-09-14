@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /steyr/billa/
+url: /steyr/billa-leopold-werndl-strasse/
 shop: Supermarkt
 ---

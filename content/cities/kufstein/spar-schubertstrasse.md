@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /kufstein/spar/
+url: /kufstein/spar-schubertstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /moedling/billa/
+url: /moedling/billa-babenbergergasse/
 shop: Supermarkt
 ---

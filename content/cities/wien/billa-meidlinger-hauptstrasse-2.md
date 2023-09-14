@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /wien/billa/
+url: /wien/billa-meidlinger-hauptstrasse-2/
 shop: Supermarkt
 ---

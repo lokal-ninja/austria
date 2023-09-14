@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /wien/action/
+url: /wien/action-seyringer-strasse/
 shop: Kramladen
 ---

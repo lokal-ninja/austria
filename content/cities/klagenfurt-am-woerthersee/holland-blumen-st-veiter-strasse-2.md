@@ -1,5 +1,5 @@
 ---
 title: "Holland Blumen"
-url: /klagenfurt-am-woerthersee/holland-blumen/
+url: /klagenfurt-am-woerthersee/holland-blumen-st-veiter-strasse-2/
 shop: Blumen
 ---

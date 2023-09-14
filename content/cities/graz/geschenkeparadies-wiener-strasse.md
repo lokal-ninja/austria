@@ -1,5 +1,5 @@
 ---
 title: "Geschenkeparadies"
-url: /graz/geschenkeparadies/
+url: /graz/geschenkeparadies-wiener-strasse/
 shop: Allgemein
 ---

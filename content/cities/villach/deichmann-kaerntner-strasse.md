@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /villach/deichmann/
+url: /villach/deichmann-kaerntner-strasse/
 shop: Schuhe
 ---

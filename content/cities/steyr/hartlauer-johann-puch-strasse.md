@@ -1,5 +1,5 @@
 ---
 title: "Hartlauer"
-url: /steyr/hartlauer/
+url: /steyr/hartlauer-johann-puch-strasse/
 shop: Elektronik
 ---

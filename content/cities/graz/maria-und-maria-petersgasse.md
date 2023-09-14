@@ -1,5 +1,5 @@
 ---
 title: "Maria & Maria"
-url: /graz/maria-und-maria/
+url: /graz/maria-und-maria-petersgasse/
 shop: Friseur
 ---

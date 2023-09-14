@@ -1,5 +1,5 @@
 ---
 title: "Reiter"
-url: /wien/reiter/
+url: /wien/reiter-zwerchaeckerweg/
 shop: Betten
 ---

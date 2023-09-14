@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /st-poelten/spar/
+url: /st-poelten/spar-purkersdorfer-strasse/
 shop: Supermarkt
 ---

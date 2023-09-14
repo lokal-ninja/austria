@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /woergl/hofer/
+url: /woergl/hofer-innsbrucker-strasse/
 shop: Supermarkt
 ---

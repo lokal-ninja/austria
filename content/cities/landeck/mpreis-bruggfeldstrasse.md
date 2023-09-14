@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /landeck/mpreis/
+url: /landeck/mpreis-bruggfeldstrasse/
 shop: Supermarkt
 ---

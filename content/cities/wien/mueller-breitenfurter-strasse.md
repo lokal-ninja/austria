@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /wien/mueller/
+url: /wien/mueller-breitenfurter-strasse/
 shop: Supermarkt
 ---

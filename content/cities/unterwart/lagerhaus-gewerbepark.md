@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
-url: /unterwart/lagerhaus/
+url: /unterwart/lagerhaus-gewerbepark/
 shop: Haushaltsartikel
 ---

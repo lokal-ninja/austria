@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /graz/kik/
+url: /graz/kik-eggenberger-allee/
 shop: Kleidung
 ---

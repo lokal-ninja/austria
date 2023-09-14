@@ -1,5 +1,5 @@
 ---
 title: "Oliver's Teigwerkstatt"
-url: /wien/olivers-teigwerkstatt/
+url: /wien/olivers-teigwerkstatt-goldschmiedgasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gradwohl"
-url: /wien/gradwohl/
+url: /wien/gradwohl-doeblinger-hauptstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zangerl"
-url: /woergl/zangerl/
+url: /woergl/zangerl-salzburger-strasse/
 shop: Bücher
 ---

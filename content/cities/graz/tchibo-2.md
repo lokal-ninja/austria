@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /graz/tchibo/
+url: /graz/tchibo-2/
 shop: Kaffee
 ---

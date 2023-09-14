@@ -1,5 +1,5 @@
 ---
 title: "Reutterer"
-url: /bludenz/reutterer/
+url: /bludenz/reutterer-kirchgasse/
 shop: Schuhe
 ---

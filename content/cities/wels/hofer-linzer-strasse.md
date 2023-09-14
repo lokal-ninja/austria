@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /wels/hofer/
+url: /wels/hofer-linzer-strasse/
 shop: Supermarkt
 ---

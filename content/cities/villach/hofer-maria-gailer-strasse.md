@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /villach/hofer/
+url: /villach/hofer-maria-gailer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sorger"
-url: /graz/sorger/
+url: /graz/sorger-waltendorfer-hauptstrasse/
 shop: Bäckerei
 ---

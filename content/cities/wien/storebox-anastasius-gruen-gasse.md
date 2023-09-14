@@ -1,5 +1,5 @@
 ---
 title: "Storebox"
-url: /wien/storebox/
+url: /wien/storebox-anastasius-gruen-gasse/
 shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DM"
-url: /wien/dm/
+url: /wien/dm-assmayergasse/
 shop: Drogerie
 ---

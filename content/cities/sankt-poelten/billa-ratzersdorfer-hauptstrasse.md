@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /sankt-poelten/billa/
+url: /sankt-poelten/billa-ratzersdorfer-hauptstrasse/
 shop: Supermarkt
 ---

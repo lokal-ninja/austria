@@ -1,5 +1,5 @@
 ---
 title: "Haarscharf"
-url: /graz/haarscharf/
+url: /graz/haarscharf-reitschulgasse/
 shop: Friseur
 ---

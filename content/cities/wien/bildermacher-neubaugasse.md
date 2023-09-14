@@ -1,5 +1,5 @@
 ---
 title: "Bildermacher"
-url: /wien/bildermacher/
+url: /wien/bildermacher-neubaugasse/
 shop: Foto
 ---

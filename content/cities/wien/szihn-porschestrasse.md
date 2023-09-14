@@ -1,5 +1,5 @@
 ---
 title: "Szihn"
-url: /wien/szihn/
+url: /wien/szihn-porschestrasse/
 shop: Bäckerei
 ---

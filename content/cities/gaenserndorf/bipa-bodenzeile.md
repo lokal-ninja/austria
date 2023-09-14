@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /gaenserndorf/bipa/
+url: /gaenserndorf/bipa-bodenzeile/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SPAR Gourmet"
-url: /wien/spar-gourmet/
+url: /wien/spar-gourmet-thaliastrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /wien/mediamarkt/
+url: /wien/mediamarkt-handelskai/
 shop: Elektronik
 ---

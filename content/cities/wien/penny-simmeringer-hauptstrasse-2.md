@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /wien/penny/
+url: /wien/penny-simmeringer-hauptstrasse-2/
 shop: Supermarkt
 ---

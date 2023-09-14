@@ -1,5 +1,5 @@
 ---
 title: "Longtone"
-url: /wien/longtone/
+url: /wien/longtone-burggasse/
 shop: Hifi
 ---

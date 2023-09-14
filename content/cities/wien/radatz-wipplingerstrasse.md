@@ -1,5 +1,5 @@
 ---
 title: "Radatz"
-url: /wien/radatz/
+url: /wien/radatz-wipplingerstrasse/
 shop: Metzgerei
 ---

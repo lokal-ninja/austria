@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Annamühle"
-url: /baden/backhaus-annamuehle/
+url: /baden/backhaus-annamuehle-wimmergasse/
 shop: Bäckerei
 ---

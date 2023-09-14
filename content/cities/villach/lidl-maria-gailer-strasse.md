@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /villach/lidl/
+url: /villach/lidl-maria-gailer-strasse/
 shop: Supermarkt
 ---

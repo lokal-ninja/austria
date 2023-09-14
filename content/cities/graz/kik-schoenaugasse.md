@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /graz/kik/
+url: /graz/kik-schoenaugasse/
 shop: Kleidung
 ---

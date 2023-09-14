@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Windbacher"
-url: /kindberg/autohaus-windbacher/
+url: /kindberg/autohaus-windbacher-hauptstrasse/
 shop: Autohaus
 ---

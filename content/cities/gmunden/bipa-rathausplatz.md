@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /gmunden/bipa/
+url: /gmunden/bipa-rathausplatz/
 shop: Drogerie
 ---

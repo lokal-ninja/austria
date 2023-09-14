@@ -1,5 +1,5 @@
 ---
 title: "Kleiderbauer"
-url: /wien/kleiderbauer/
+url: /wien/kleiderbauer-hofferplatz/
 shop: Kleidung
 ---

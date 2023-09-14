@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /linz/penny/
+url: /linz/penny-johann-wilhelm-klein-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T&G"
-url: /innsbruck/tundg/
+url: /innsbruck/tundg-grabenweg/
 shop: Getränke
 ---

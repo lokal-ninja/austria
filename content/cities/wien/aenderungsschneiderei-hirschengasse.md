@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /wien/aenderungsschneiderei/
+url: /wien/aenderungsschneiderei-hirschengasse/
 shop: Schneiderei
 ---

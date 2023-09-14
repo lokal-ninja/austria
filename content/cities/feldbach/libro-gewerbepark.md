@@ -1,5 +1,5 @@
 ---
 title: "Libro"
-url: /feldbach/libro/
+url: /feldbach/libro-gewerbepark/
 shop: Bücher
 ---

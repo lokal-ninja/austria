@@ -1,5 +1,5 @@
 ---
 title: "Hansaton"
-url: /wien/hansaton/
+url: /wien/hansaton-europaplatz/
 shop: Hörgeräte
 ---

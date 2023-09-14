@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /linz/bipa/
+url: /linz/bipa-bluetenstrasse/
 shop: Drogerie
 ---

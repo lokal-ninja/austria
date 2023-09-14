@@ -1,5 +1,5 @@
 ---
 title: "Winzerfamilie Artner"
-url: /sankt-margarethen-im-burgenland/winzerfamilie-artner/
+url: /sankt-margarethen-im-burgenland/winzerfamilie-artner-flurgasse/
 shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /wien/thalia/
+url: /wien/thalia-landstrasser-hauptstrasse/
 shop: Bücher
 ---

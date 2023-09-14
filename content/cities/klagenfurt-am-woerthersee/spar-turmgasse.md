@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /klagenfurt-am-woerthersee/spar/
+url: /klagenfurt-am-woerthersee/spar-turmgasse/
 shop: Supermarkt
 ---

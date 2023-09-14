@@ -1,5 +1,5 @@
 ---
 title: "Felber"
-url: /wien/felber/
+url: /wien/felber-prager-strasse/
 shop: Bäckerei
 ---

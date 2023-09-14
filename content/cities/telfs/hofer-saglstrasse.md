@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /telfs/hofer/
+url: /telfs/hofer-saglstrasse/
 shop: Supermarkt
 ---

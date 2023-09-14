@@ -1,5 +1,5 @@
 ---
 title: "Huber"
-url: /wien/huber/
+url: /wien/huber-wallensteinstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /purkersdorf/billa/
+url: /purkersdorf/billa-an-der-stadlhuette/
 shop: Supermarkt
 ---

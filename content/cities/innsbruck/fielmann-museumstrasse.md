@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /innsbruck/fielmann/
+url: /innsbruck/fielmann-museumstrasse/
 shop: Optiker
 ---

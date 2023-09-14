@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /wien/spar/
+url: /wien/spar-an-den-alten-schanzen/
 shop: Supermarkt
 ---

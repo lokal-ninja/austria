@@ -1,5 +1,5 @@
 ---
 title: "Friseur Gabi"
-url: /wien/friseur-gabi/
+url: /wien/friseur-gabi-schallergasse/
 shop: Friseur
 ---

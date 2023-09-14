@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /innsbruck/tui/
+url: /innsbruck/tui-bozner-platz/
 shop: Reisebüro
 ---

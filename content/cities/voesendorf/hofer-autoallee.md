@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /voesendorf/hofer/
+url: /voesendorf/hofer-autoallee/
 shop: Supermarkt
 ---

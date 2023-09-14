@@ -1,5 +1,5 @@
 ---
 title: "Interspar"
-url: /wien/interspar/
+url: /wien/interspar-anton-baumgartner-strasse/
 shop: Supermarkt
 ---

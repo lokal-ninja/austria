@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /wien/mueller/
+url: /wien/mueller-olympiaplatz/
 shop: Drogerie
 ---

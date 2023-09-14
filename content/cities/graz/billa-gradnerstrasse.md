@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /graz/billa/
+url: /graz/billa-gradnerstrasse/
 shop: Supermarkt
 ---

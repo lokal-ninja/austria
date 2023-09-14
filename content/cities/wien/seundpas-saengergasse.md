@@ -1,5 +1,5 @@
 ---
 title: "SE&PAŞ"
-url: /wien/seundpas/
+url: /wien/seundpas-saengergasse/
 shop: Supermarkt
 ---

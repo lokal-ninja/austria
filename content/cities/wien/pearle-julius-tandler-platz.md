@@ -1,5 +1,5 @@
 ---
 title: "Pearle"
-url: /wien/pearle/
+url: /wien/pearle-julius-tandler-platz/
 shop: Optiker
 ---

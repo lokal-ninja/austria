@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /freistadt/billa/
+url: /freistadt/billa-linzer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Arena"
-url: /wien/baeckerei-arena/
+url: /wien/baeckerei-arena-engerthstrasse/
 shop: Bäckerei
 ---

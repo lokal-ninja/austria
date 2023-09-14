@@ -1,5 +1,5 @@
 ---
 title: "Unimarkt"
-url: /wels/unimarkt/
+url: /wels/unimarkt-ringstrasse/
 shop: Supermarkt
 ---

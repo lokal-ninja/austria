@@ -1,5 +1,5 @@
 ---
 title: "Sutterlüty"
-url: /dornbirn/sutterluety/
+url: /dornbirn/sutterluety-mozartstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
-url: /gosau/kiosk/
+url: /gosau/kiosk-gosauseestrasse/
 shop: Kiosk
 ---

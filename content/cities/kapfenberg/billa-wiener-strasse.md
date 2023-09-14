@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /kapfenberg/billa/
+url: /kapfenberg/billa-wiener-strasse/
 shop: Supermarkt
 ---

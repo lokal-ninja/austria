@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /steyr/spar/
+url: /steyr/spar-wehrgrabengasse/
 shop: Supermarkt
 ---

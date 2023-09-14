@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /steyr/bipa/
+url: /steyr/bipa-gleinker-hauptstrasse/
 shop: Drogerie
 ---

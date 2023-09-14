@@ -1,5 +1,5 @@
 ---
 title: "UniMarkt"
-url: /linz/unimarkt/
+url: /linz/unimarkt-zeppelinstrasse/
 shop: Supermarkt
 ---

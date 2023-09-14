@@ -1,5 +1,5 @@
 ---
 title: "Schober"
-url: /wien/schober/
+url: /wien/schober-leopoldsgasse/
 shop: Wäscherei
 ---

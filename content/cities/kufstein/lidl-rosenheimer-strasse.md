@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /kufstein/lidl/
+url: /kufstein/lidl-rosenheimer-strasse/
 shop: Supermarkt
 ---

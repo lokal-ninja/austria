@@ -1,5 +1,5 @@
 ---
 title: "World of Archery"
-url: /krenglbach/world-of-archery/
+url: /krenglbach/world-of-archery-bahnhofplatz/
 shop: Sport
 ---

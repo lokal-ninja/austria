@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /graz/douglas/
+url: /graz/douglas-sporgasse/
 shop: Parfümerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fastbox"
-url: /wien/fastbox/
+url: /wien/fastbox-simmeringer-hauptstrasse/
 shop: Autoteile
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gumprecht"
-url: /wien/gumprecht/
+url: /wien/gumprecht-meidlinger-markt-stand/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /lienz/mpreis/
+url: /lienz/mpreis-beda-weber-gasse/
 shop: Supermarkt
 ---

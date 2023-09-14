@@ -1,5 +1,5 @@
 ---
 title: "Hartlauer"
-url: /bad-ischl/hartlauer/
+url: /bad-ischl/hartlauer-esplanade/
 shop: Optiker
 ---

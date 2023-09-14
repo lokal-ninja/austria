@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /knittelfeld/billa/
+url: /knittelfeld/billa-wiener-strasse/
 shop: Supermarkt
 ---

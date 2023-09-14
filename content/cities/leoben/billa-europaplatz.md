@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /leoben/billa/
+url: /leoben/billa-europaplatz/
 shop: Supermarkt
 ---

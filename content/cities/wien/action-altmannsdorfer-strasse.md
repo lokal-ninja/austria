@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /wien/action/
+url: /wien/action-altmannsdorfer-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /imst/hofer/
+url: /imst/hofer-brennbichl/
 shop: Supermarkt
 ---

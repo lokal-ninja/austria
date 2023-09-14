@@ -1,5 +1,5 @@
 ---
 title: "Lego"
-url: /wien/lego/
+url: /wien/lego-wagramer-strasse/
 shop: Spielzeug
 ---

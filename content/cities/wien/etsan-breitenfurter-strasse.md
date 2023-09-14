@@ -1,5 +1,5 @@
 ---
 title: "Etsan"
-url: /wien/etsan/
+url: /wien/etsan-breitenfurter-strasse/
 shop: Lebensmittel
 ---

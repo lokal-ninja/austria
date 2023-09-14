@@ -1,5 +1,5 @@
 ---
 title: "Strauß"
-url: /stockerau/strauss/
+url: /stockerau/strauss-hornerstrasse/
 shop: Autohaus
 ---

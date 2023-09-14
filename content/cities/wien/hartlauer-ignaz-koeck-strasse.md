@@ -1,5 +1,5 @@
 ---
 title: "Hartlauer"
-url: /wien/hartlauer/
+url: /wien/hartlauer-ignaz-koeck-strasse/
 shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellaflora"
-url: /graz/bellaflora/
+url: /graz/bellaflora-sankt-peter-guertel/
 shop: Garten-Center
 ---

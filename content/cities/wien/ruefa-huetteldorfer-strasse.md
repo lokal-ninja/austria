@@ -1,5 +1,5 @@
 ---
 title: "Ruefa"
-url: /wien/ruefa/
+url: /wien/ruefa-huetteldorfer-strasse/
 shop: Reisebüro
 ---

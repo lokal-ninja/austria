@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /rankweil/bipa/
+url: /rankweil/bipa-vorarlberger-strasse/
 shop: Drogerie
 ---

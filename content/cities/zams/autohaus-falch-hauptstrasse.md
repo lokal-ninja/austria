@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Falch"
-url: /zams/autohaus-falch/
+url: /zams/autohaus-falch-hauptstrasse/
 shop: Autohaus
 ---

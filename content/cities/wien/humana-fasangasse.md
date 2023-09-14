@@ -1,5 +1,5 @@
 ---
 title: "Humana"
-url: /wien/humana/
+url: /wien/humana-fasangasse/
 shop: Gebrauchtwaren
 ---

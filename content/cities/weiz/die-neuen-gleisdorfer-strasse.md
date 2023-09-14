@@ -1,5 +1,5 @@
 ---
 title: "Die Neuen"
-url: /weiz/die-neuen/
+url: /weiz/die-neuen-gleisdorfer-strasse/
 shop: Badezimmer
 ---

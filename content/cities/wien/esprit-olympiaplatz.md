@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
-url: /wien/esprit/
+url: /wien/esprit-olympiaplatz/
 shop: Kleidung
 ---

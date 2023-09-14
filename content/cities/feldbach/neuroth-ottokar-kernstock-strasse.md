@@ -1,5 +1,5 @@
 ---
 title: "Neuroth"
-url: /feldbach/neuroth/
+url: /feldbach/neuroth-ottokar-kernstock-strasse/
 shop: Hörgeräte
 ---

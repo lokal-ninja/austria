@@ -1,5 +1,5 @@
 ---
 title: "Interspar"
-url: /wels/interspar/
+url: /wels/interspar-oberfeldstrasse/
 shop: Einkaufszentrum
 ---

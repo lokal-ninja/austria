@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /villach/tui/
+url: /villach/tui-kaerntner-strasse/
 shop: Reisebüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schertler"
-url: /feldkirch/schertler/
+url: /feldkirch/schertler-hauptstrasse/
 shop: Bäckerei
 ---

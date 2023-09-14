@@ -1,5 +1,5 @@
 ---
 title: "B&B Blumen"
-url: /wien/bundb-blumen/
+url: /wien/bundb-blumen-hirschstettner-strasse/
 shop: Blumen
 ---

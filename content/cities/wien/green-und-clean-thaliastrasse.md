@@ -1,5 +1,5 @@
 ---
 title: "Green & Clean"
-url: /wien/green-und-clean/
+url: /wien/green-und-clean-thaliastrasse/
 shop: Wäscherei
 ---

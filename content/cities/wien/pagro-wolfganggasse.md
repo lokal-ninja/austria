@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /wien/pagro/
+url: /wien/pagro-wolfganggasse/
 shop: Schreibwaren
 ---

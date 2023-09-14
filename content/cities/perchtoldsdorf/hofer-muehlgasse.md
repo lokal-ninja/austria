@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /perchtoldsdorf/hofer/
+url: /perchtoldsdorf/hofer-muehlgasse/
 shop: Supermarkt
 ---

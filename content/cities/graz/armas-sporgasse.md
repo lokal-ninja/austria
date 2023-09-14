@@ -1,5 +1,5 @@
 ---
 title: "Armas"
-url: /graz/armas/
+url: /graz/armas-sporgasse/
 shop: Kleidung
 ---

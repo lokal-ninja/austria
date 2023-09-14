@@ -1,5 +1,5 @@
 ---
 title: "Sutterlüty"
-url: /rankweil/sutterluety/
+url: /rankweil/sutterluety-stiegstrasse/
 shop: Supermarkt
 ---

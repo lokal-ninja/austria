@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /villach/bipa/
+url: /villach/bipa-hauptplatz/
 shop: Drogerie
 ---

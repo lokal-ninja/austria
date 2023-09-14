@@ -1,5 +1,5 @@
 ---
 title: "Möbelix"
-url: /wien/moebelix/
+url: /wien/moebelix-laxenburger-strasse/
 shop: Möbel
 ---

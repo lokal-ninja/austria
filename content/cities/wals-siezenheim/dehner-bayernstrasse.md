@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /wals-siezenheim/dehner/
+url: /wals-siezenheim/dehner-bayernstrasse/
 shop: Blumen
 ---

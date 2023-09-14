@@ -1,5 +1,5 @@
 ---
 title: "Hartlauer"
-url: /salzburg/hartlauer/
+url: /salzburg/hartlauer-nonntaler-hauptstrasse/
 shop: Elektronik
 ---

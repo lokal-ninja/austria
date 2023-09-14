@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /lienz/spar/
+url: /lienz/spar-franz-von-defregger-strasse/
 shop: Supermarkt
 ---

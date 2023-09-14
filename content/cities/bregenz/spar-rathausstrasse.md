@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /bregenz/spar/
+url: /bregenz/spar-rathausstrasse/
 shop: Supermarkt
 ---

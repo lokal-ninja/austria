@@ -1,5 +1,5 @@
 ---
 title: "Ruetz"
-url: /innsbruck/ruetz/
+url: /innsbruck/ruetz-maximilianstrasse/
 shop: Bäckerei
 ---

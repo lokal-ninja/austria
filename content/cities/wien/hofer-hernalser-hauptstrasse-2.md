@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /wien/hofer/
+url: /wien/hofer-hernalser-hauptstrasse-2/
 shop: Supermarkt
 ---

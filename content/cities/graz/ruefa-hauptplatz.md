@@ -1,5 +1,5 @@
 ---
 title: "Ruefa"
-url: /graz/ruefa/
+url: /graz/ruefa-hauptplatz/
 shop: Reisebüro
 ---

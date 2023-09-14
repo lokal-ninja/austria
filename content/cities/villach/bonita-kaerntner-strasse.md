@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /villach/bonita/
+url: /villach/bonita-kaerntner-strasse/
 shop: Kleidung
 ---

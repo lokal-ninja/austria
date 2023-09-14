@@ -1,5 +1,5 @@
 ---
 title: "Palmers"
-url: /innsbruck/palmers/
+url: /innsbruck/palmers-herzog-friedrich-strasse/
 shop: Kleidung
 ---

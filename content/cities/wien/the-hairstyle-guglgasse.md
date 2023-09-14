@@ -1,5 +1,5 @@
 ---
 title: "The Hairstyle"
-url: /wien/the-hairstyle/
+url: /wien/the-hairstyle-guglgasse/
 shop: Friseur
 ---

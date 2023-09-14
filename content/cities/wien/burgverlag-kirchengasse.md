@@ -1,5 +1,5 @@
 ---
 title: "Burgverlag"
-url: /wien/burgverlag/
+url: /wien/burgverlag-kirchengasse/
 shop: Bücher
 ---

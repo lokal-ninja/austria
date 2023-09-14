@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /klagenfurt-am-woerthersee/tedi/
+url: /klagenfurt-am-woerthersee/tedi-suedring/
 shop: Warenhaus
 ---

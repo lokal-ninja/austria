@@ -1,5 +1,5 @@
 ---
 title: "Schwandl"
-url: /wien/schwandl/
+url: /wien/schwandl-julius-payer-gasse/
 shop: Autowerkstatt
 ---

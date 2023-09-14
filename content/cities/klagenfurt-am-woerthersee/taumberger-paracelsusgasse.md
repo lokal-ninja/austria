@@ -1,5 +1,5 @@
 ---
 title: "Taumberger"
-url: /klagenfurt-am-woerthersee/taumberger/
+url: /klagenfurt-am-woerthersee/taumberger-paracelsusgasse/
 shop: Bäckerei
 ---

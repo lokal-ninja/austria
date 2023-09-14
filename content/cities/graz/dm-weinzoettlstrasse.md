@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /graz/dm/
+url: /graz/dm-weinzoettlstrasse/
 shop: Drogerie
 ---

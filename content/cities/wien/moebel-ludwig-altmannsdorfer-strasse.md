@@ -1,5 +1,5 @@
 ---
 title: "Möbel Ludwig"
-url: /wien/moebel-ludwig/
+url: /wien/moebel-ludwig-altmannsdorfer-strasse/
 shop: Möbel
 ---

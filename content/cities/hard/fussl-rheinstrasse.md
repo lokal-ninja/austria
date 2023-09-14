@@ -1,5 +1,5 @@
 ---
 title: "Fussl"
-url: /hard/fussl/
+url: /hard/fussl-rheinstrasse/
 shop: Kleidung
 ---

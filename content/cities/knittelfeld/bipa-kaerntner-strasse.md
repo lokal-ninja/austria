@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /knittelfeld/bipa/
+url: /knittelfeld/bipa-kaerntner-strasse/
 shop: Drogerie
 ---

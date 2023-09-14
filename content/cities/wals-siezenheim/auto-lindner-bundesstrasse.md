@@ -1,5 +1,5 @@
 ---
 title: "Auto Lindner"
-url: /wals-siezenheim/auto-lindner/
+url: /wals-siezenheim/auto-lindner-bundesstrasse/
 shop: Autowerkstatt
 ---

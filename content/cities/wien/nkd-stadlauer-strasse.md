@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /wien/nkd/
+url: /wien/nkd-stadlauer-strasse/
 shop: Kleidung
 ---

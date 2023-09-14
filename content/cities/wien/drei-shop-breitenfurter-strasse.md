@@ -1,5 +1,5 @@
 ---
 title: "Drei Shop"
-url: /wien/drei-shop/
+url: /wien/drei-shop-breitenfurter-strasse/
 shop: Handy
 ---

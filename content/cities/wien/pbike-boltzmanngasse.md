@@ -1,5 +1,5 @@
 ---
 title: "Pbike"
-url: /wien/pbike/
+url: /wien/pbike-boltzmanngasse/
 shop: Fahrrad
 ---

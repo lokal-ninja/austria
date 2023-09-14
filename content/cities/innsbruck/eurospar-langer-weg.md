@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /innsbruck/eurospar/
+url: /innsbruck/eurospar-langer-weg/
 shop: Supermarkt
 ---

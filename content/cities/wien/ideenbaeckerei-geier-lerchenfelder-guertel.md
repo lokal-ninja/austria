@@ -1,5 +1,5 @@
 ---
 title: "Ideenbäckerei Geier"
-url: /wien/ideenbaeckerei-geier/
+url: /wien/ideenbaeckerei-geier-lerchenfelder-guertel/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zoneextreme"
-url: /schwechat/zoneextreme/
+url: /schwechat/zoneextreme-rathausplatz/
 shop: Fahrrad
 ---

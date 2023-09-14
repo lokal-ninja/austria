@@ -1,5 +1,5 @@
 ---
 title: "flowerpower"
-url: /graz/flowerpower/
+url: /graz/flowerpower-hasnerplatz/
 shop: Blumen
 ---

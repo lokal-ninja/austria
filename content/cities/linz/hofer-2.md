@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /linz/hofer/
+url: /linz/hofer-2/
 shop: Supermarkt
 ---

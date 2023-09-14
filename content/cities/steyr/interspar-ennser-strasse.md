@@ -1,5 +1,5 @@
 ---
 title: "Interspar"
-url: /steyr/interspar/
+url: /steyr/interspar-ennser-strasse/
 shop: Einkaufszentrum
 ---

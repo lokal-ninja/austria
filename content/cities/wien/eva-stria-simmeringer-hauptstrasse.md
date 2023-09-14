@@ -1,5 +1,5 @@
 ---
 title: "Eva Stria"
-url: /wien/eva-stria/
+url: /wien/eva-stria-simmeringer-hauptstrasse/
 shop: Friseur
 ---

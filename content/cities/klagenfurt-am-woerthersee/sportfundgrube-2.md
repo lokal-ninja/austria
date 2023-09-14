@@ -1,5 +1,5 @@
 ---
 title: "Sportfundgrube"
-url: /klagenfurt-am-woerthersee/sportfundgrube/
+url: /klagenfurt-am-woerthersee/sportfundgrube-2/
 shop: Sport
 ---

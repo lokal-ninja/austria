@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /wien/spar/
+url: /wien/spar-bruenner-strasse/
 shop: Supermarkt
 ---

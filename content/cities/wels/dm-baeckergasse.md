@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /wels/dm/
+url: /wels/dm-baeckergasse/
 shop: Drogerie
 ---

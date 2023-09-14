@@ -1,5 +1,5 @@
 ---
 title: "Wiesinger"
-url: /gross-siegharts/wiesinger/
+url: /gross-siegharts/wiesinger-bahnhofstrasse/
 shop: Autohaus
 ---

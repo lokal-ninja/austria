@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /salzburg/hofer/
+url: /salzburg/hofer-alpenstrasse/
 shop: Supermarkt
 ---

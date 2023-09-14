@@ -1,5 +1,5 @@
 ---
 title: "Gady"
-url: /graz/gady/
+url: /graz/gady-liebenauer-hauptstrasse/
 shop: Autohaus
 ---

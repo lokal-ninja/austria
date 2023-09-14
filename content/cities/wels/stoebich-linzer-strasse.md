@@ -1,5 +1,5 @@
 ---
 title: "Stöbich"
-url: /wels/stoebich/
+url: /wels/stoebich-linzer-strasse/
 shop: Bäckerei
 ---

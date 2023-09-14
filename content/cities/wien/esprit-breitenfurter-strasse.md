@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
-url: /wien/esprit/
+url: /wien/esprit-breitenfurter-strasse/
 shop: Kleidung
 ---

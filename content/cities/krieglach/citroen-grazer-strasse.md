@@ -1,5 +1,5 @@
 ---
 title: "Citroen"
-url: /krieglach/citroen/
+url: /krieglach/citroen-grazer-strasse/
 shop: Autowerkstatt
 ---

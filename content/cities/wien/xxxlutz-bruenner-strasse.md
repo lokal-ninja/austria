@@ -1,5 +1,5 @@
 ---
 title: "XXXLutz"
-url: /wien/xxxlutz/
+url: /wien/xxxlutz-bruenner-strasse/
 shop: Möbel
 ---

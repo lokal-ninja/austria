@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /steyr/deichmann/
+url: /steyr/deichmann-resthofstrasse/
 shop: Schuhe
 ---

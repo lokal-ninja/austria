@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /imst/mpreis/
+url: /imst/mpreis-langgasse/
 shop: Supermarkt
 ---

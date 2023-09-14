@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /gschwandt/spar/
+url: /gschwandt/spar-hauptstrasse/
 shop: Supermarkt
 ---

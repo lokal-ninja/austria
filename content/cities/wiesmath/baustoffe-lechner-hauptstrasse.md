@@ -1,5 +1,5 @@
 ---
 title: "Baustoffe Lechner"
-url: /wiesmath/baustoffe-lechner/
+url: /wiesmath/baustoffe-lechner-hauptstrasse/
 shop: Baustoffe
 ---

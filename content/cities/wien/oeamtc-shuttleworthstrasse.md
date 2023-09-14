@@ -1,5 +1,5 @@
 ---
 title: "ÖAMTC"
-url: /wien/oeamtc/
+url: /wien/oeamtc-shuttleworthstrasse/
 shop: Autowerkstatt
 ---

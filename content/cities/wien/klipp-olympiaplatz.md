@@ -1,5 +1,5 @@
 ---
 title: "Klipp"
-url: /wien/klipp/
+url: /wien/klipp-olympiaplatz/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Yorker"
-url: /st-poelten/new-yorker/
+url: /st-poelten/new-yorker-roedlgasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /wien/cunda/
+url: /wien/cunda-olympiaplatz/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /wien/hundm/
+url: /wien/hundm-meidlinger-hauptstrasse/
 shop: Kleidung
 ---

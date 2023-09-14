@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /klosterneuburg/spar/
+url: /klosterneuburg/spar-weidlinger-strasse/
 shop: Supermarkt
 ---

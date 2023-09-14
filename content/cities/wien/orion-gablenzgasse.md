@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /wien/orion/
+url: /wien/orion-gablenzgasse/
 shop: Erotik
 ---

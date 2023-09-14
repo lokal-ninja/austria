@@ -1,5 +1,5 @@
 ---
 title: "Möbelix"
-url: /graz/moebelix/
+url: /graz/moebelix-karlauerguertel/
 shop: Möbel
 ---

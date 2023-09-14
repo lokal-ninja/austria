@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /sollenau/billa/
+url: /sollenau/billa-wiener-neustaedter-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trafik"
-url: /bischofshofen/trafik/
+url: /bischofshofen/trafik-bundesstrasse/
 shop: Kiosk
 ---

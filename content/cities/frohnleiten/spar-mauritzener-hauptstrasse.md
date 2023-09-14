@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /frohnleiten/spar/
+url: /frohnleiten/spar-mauritzener-hauptstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /linz/tchibo/
+url: /linz/tchibo-landstrasse/
 shop: Kaffee
 ---

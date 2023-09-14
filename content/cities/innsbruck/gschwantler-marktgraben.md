@@ -1,5 +1,5 @@
 ---
 title: "Gschwantler"
-url: /innsbruck/gschwantler/
+url: /innsbruck/gschwantler-marktgraben/
 shop: Kleidung
 ---

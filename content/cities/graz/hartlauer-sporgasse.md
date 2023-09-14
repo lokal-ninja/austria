@@ -1,5 +1,5 @@
 ---
 title: "Hartlauer"
-url: /graz/hartlauer/
+url: /graz/hartlauer-sporgasse/
 shop: Elektronik
 ---

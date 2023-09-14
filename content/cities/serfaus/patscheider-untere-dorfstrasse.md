@@ -1,5 +1,5 @@
 ---
 title: "Patscheider"
-url: /serfaus/patscheider/
+url: /serfaus/patscheider-untere-dorfstrasse/
 shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gradwohl"
-url: /wien/gradwohl/
+url: /wien/gradwohl-landstrasser-hauptstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blumen Jirku"
-url: /gross-siegharts/blumen-jirku/
+url: /gross-siegharts/blumen-jirku-waidhofner-strasse/
 shop: Blumen
 ---

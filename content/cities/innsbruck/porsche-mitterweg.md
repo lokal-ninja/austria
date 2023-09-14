@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
-url: /innsbruck/porsche/
+url: /innsbruck/porsche-mitterweg/
 shop: Autohaus
 ---

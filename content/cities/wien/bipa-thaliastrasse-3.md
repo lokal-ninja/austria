@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /wien/bipa/
+url: /wien/bipa-thaliastrasse-3/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /guessing/billa/
+url: /guessing/billa-faludistrasse/
 shop: Supermarkt
 ---

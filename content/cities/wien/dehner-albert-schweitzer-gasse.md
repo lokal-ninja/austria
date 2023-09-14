@@ -1,5 +1,5 @@
 ---
 title: "Dehner"
-url: /wien/dehner/
+url: /wien/dehner-albert-schweitzer-gasse/
 shop: Garten-Center
 ---

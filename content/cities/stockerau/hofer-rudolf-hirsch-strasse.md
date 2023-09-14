@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /stockerau/hofer/
+url: /stockerau/hofer-rudolf-hirsch-strasse/
 shop: Supermarkt
 ---

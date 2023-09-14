@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /krimml/spar/
+url: /krimml/spar-oberkrimml/
 shop: Supermarkt
 ---

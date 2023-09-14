@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /graz/deichmann/
+url: /graz/deichmann-vorbeckgasse/
 shop: Schuhe
 ---

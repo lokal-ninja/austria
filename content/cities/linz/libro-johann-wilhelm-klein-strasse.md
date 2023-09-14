@@ -1,5 +1,5 @@
 ---
 title: "Libro"
-url: /linz/libro/
+url: /linz/libro-johann-wilhelm-klein-strasse/
 shop: Bücher
 ---

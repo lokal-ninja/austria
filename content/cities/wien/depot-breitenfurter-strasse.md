@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /wien/depot/
+url: /wien/depot-breitenfurter-strasse/
 shop: Raumausstattung
 ---

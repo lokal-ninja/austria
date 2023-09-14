@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /deutschlandsberg/bipa/
+url: /deutschlandsberg/bipa-frauentaler-strasse/
 shop: Drogerie
 ---

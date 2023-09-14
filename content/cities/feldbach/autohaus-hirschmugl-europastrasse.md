@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Hirschmugl"
-url: /feldbach/autohaus-hirschmugl/
+url: /feldbach/autohaus-hirschmugl-europastrasse/
 shop: Autowerkstatt
 ---

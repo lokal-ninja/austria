@@ -1,5 +1,5 @@
 ---
 title: "Interio"
-url: /wien/interio/
+url: /wien/interio-grinzinger-strasse/
 shop: Raumausstattung
 ---

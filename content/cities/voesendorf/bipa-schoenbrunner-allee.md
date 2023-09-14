@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /voesendorf/bipa/
+url: /voesendorf/bipa-schoenbrunner-allee/
 shop: Drogerie
 ---

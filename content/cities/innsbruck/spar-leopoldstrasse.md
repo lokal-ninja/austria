@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /innsbruck/spar/
+url: /innsbruck/spar-leopoldstrasse/
 shop: Supermarkt
 ---

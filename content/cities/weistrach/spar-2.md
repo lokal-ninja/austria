@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /weistrach/spar/
+url: /weistrach/spar-2/
 shop: Supermarkt
 ---

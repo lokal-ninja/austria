@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /wien/hofer/
+url: /wien/hofer-albert-schweitzer-gasse/
 shop: Supermarkt
 ---

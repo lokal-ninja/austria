@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /kitzbuehel/billa/
+url: /kitzbuehel/billa-st-johanner-str/
 shop: Supermarkt
 ---

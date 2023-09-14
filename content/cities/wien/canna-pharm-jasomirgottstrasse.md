@@ -1,5 +1,5 @@
 ---
 title: "Canna Pharm"
-url: /wien/canna-pharm/
+url: /wien/canna-pharm-jasomirgottstrasse/
 shop: Hanf
 ---

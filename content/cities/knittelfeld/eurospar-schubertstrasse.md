@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /knittelfeld/eurospar/
+url: /knittelfeld/eurospar-schubertstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /linz/mediamarkt/
+url: /linz/mediamarkt-landstrasse/
 shop: Elektronik
 ---

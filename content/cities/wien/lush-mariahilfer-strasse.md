@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /wien/lush/
+url: /wien/lush-mariahilfer-strasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /laengenfeld/mpreis/
+url: /laengenfeld/mpreis-2/
 shop: Supermarkt
 ---

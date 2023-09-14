@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /wien/takko/
+url: /wien/takko-olympiaplatz/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interspar Sandleitengasse"
-url: /wien/interspar-sandleitengasse/
+url: /wien/interspar-sandleitengasse-sandleitengasse/
 shop: Einkaufszentrum
 ---

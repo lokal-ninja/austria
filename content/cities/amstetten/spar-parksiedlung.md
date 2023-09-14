@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /amstetten/spar/
+url: /amstetten/spar-parksiedlung/
 shop: Supermarkt
 ---

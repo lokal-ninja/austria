@@ -1,5 +1,5 @@
 ---
 title: "Wurstico Abholmarkt"
-url: /wien/wurstico-abholmarkt/
+url: /wien/wurstico-abholmarkt-ettenreichgasse/
 shop: Supermarkt
 ---

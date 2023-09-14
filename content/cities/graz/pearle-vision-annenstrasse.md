@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
-url: /graz/pearle-vision/
+url: /graz/pearle-vision-annenstrasse/
 shop: Optiker
 ---

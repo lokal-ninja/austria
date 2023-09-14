@@ -1,5 +1,5 @@
 ---
 title: "In Ligno"
-url: /villach/in-ligno/
+url: /villach/in-ligno-ossiacher-zeile/
 shop: Möbel
 ---

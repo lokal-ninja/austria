@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /innsbruck/kik/
+url: /innsbruck/kik-andechsstrasse/
 shop: Kleidung
 ---

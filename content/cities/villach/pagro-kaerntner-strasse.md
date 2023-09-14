@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /villach/pagro/
+url: /villach/pagro-kaerntner-strasse/
 shop: Schreibwaren
 ---

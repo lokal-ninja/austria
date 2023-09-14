@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /hartberg/hofer/
+url: /hartberg/hofer-ressavarstrasse/
 shop: Supermarkt
 ---

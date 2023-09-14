@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /salzburg/action/
+url: /salzburg/action-muenchner-bundesstrasse/
 shop: Kramladen
 ---

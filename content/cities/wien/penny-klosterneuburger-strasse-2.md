@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /wien/penny/
+url: /wien/penny-klosterneuburger-strasse-2/
 shop: Supermarkt
 ---

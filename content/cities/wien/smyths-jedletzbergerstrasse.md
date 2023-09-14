@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
-url: /wien/smyths/
+url: /wien/smyths-jedletzbergerstrasse/
 shop: Spielzeug
 ---

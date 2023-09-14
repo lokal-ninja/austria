@@ -1,5 +1,5 @@
 ---
 title: "Lamprecht"
-url: /innsbruck/lamprecht/
+url: /innsbruck/lamprecht-brixner-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schnittig"
-url: /graz/schnittig/
+url: /graz/schnittig-schoenaugasse/
 shop: Friseur
 ---

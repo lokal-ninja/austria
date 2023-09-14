@@ -1,5 +1,5 @@
 ---
 title: "Quester"
-url: /wien/quester/
+url: /wien/quester-johann-schorsch-gasse/
 shop: Baumarkt
 ---

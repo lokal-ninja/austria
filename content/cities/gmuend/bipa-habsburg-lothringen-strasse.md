@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /gmuend/bipa/
+url: /gmuend/bipa-habsburg-lothringen-strasse/
 shop: Drogerie
 ---

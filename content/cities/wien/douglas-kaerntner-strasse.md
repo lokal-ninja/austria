@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /wien/douglas/
+url: /wien/douglas-kaerntner-strasse/
 shop: Parfümerie
 ---

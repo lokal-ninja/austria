@@ -1,5 +1,5 @@
 ---
 title: "Kika"
-url: /wien/kika/
+url: /wien/kika-laxenburger-strasse/
 shop: Möbel
 ---

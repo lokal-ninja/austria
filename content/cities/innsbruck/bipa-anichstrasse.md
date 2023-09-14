@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /innsbruck/bipa/
+url: /innsbruck/bipa-anichstrasse/
 shop: Drogerie
 ---

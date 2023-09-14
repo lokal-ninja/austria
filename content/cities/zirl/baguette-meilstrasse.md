@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
-url: /zirl/baguette/
+url: /zirl/baguette-meilstrasse/
 shop: Bäckerei
 ---

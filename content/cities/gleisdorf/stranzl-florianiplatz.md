@@ -1,5 +1,5 @@
 ---
 title: "Stranzl"
-url: /gleisdorf/stranzl/
+url: /gleisdorf/stranzl-florianiplatz/
 shop: Farben
 ---

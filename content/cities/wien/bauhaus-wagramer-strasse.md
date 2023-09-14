@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /wien/bauhaus/
+url: /wien/bauhaus-wagramer-strasse/
 shop: Baumarkt
 ---

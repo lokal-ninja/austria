@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /korneuburg/spar/
+url: /korneuburg/spar-hauptplatz/
 shop: Supermarkt
 ---

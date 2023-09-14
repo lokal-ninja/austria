@@ -1,5 +1,5 @@
 ---
 title: "Shoe 4 You"
-url: /st-poelten/shoe-4-you/
+url: /st-poelten/shoe-4-you-porschestrasse/
 shop: Schuhe
 ---

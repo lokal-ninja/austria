@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /wien/euromaster/
+url: /wien/euromaster-neilreichgasse/
 shop: Autowerkstatt
 ---

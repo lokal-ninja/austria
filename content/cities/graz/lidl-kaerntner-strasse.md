@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /graz/lidl/
+url: /graz/lidl-kaerntner-strasse/
 shop: Supermarkt
 ---

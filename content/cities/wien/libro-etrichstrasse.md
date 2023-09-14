@@ -1,5 +1,5 @@
 ---
 title: "Libro"
-url: /wien/libro/
+url: /wien/libro-etrichstrasse/
 shop: Schreibwaren
 ---

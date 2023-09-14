@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /lauterach/spar/
+url: /lauterach/spar-lerchenauerstrasse/
 shop: Supermarkt
 ---

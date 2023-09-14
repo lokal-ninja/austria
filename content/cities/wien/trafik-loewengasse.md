@@ -1,5 +1,5 @@
 ---
 title: "Trafik"
-url: /wien/trafik/
+url: /wien/trafik-loewengasse/
 shop: Tabak
 ---

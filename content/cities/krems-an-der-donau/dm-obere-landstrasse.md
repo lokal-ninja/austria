@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /krems-an-der-donau/dm/
+url: /krems-an-der-donau/dm-obere-landstrasse/
 shop: Drogerie
 ---

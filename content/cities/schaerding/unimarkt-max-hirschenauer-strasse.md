@@ -1,5 +1,5 @@
 ---
 title: "Unimarkt"
-url: /schaerding/unimarkt/
+url: /schaerding/unimarkt-max-hirschenauer-strasse/
 shop: Supermarkt
 ---

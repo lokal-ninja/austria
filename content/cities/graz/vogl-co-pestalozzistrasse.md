@@ -1,5 +1,5 @@
 ---
 title: "Vogl + Co"
-url: /graz/vogl-co/
+url: /graz/vogl-co-pestalozzistrasse/
 shop: Autohaus
 ---

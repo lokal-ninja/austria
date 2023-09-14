@@ -1,5 +1,5 @@
 ---
 title: "Der Mann"
-url: /wien/der-mann/
+url: /wien/der-mann-feldgasse/
 shop: Bäckerei
 ---

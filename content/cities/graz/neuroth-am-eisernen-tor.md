@@ -1,5 +1,5 @@
 ---
 title: "Neuroth"
-url: /graz/neuroth/
+url: /graz/neuroth-am-eisernen-tor/
 shop: Hörgeräte
 ---

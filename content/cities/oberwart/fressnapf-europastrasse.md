@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /oberwart/fressnapf/
+url: /oberwart/fressnapf-europastrasse/
 shop: Tiere
 ---

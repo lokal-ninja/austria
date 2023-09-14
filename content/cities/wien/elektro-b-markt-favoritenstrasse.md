@@ -1,5 +1,5 @@
 ---
 title: "Elektro-B-Markt"
-url: /wien/elektro-b-markt/
+url: /wien/elektro-b-markt-favoritenstrasse/
 shop: Elektronik
 ---

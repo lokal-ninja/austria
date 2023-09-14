@@ -1,5 +1,5 @@
 ---
 title: "Tedi"
-url: /wien/tedi/
+url: /wien/tedi-langobardenstrasse/
 shop: Kramladen
 ---

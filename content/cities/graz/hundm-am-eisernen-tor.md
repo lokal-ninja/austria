@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /graz/hundm/
+url: /graz/hundm-am-eisernen-tor/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Massage Fachinstitut"
-url: /wien/massage-fachinstitut/
+url: /wien/massage-fachinstitut-ausstellungsstrasse/
 shop: Massage
 ---

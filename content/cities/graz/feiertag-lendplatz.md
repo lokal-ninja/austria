@@ -1,5 +1,5 @@
 ---
 title: "Feiertag"
-url: /graz/feiertag/
+url: /graz/feiertag-lendplatz/
 shop: Metzgerei
 ---

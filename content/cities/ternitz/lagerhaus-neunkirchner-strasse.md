@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
-url: /ternitz/lagerhaus/
+url: /ternitz/lagerhaus-neunkirchner-strasse/
 shop: Haushaltsartikel
 ---

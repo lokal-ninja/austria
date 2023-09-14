@@ -1,5 +1,5 @@
 ---
 title: "Haas & Haas"
-url: /wien/haas-und-haas/
+url: /wien/haas-und-haas-ertlgasse/
 shop: Wein
 ---

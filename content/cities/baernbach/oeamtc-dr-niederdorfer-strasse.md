@@ -1,5 +1,5 @@
 ---
 title: "ÖAMTC"
-url: /baernbach/oeamtc/
+url: /baernbach/oeamtc-dr-niederdorfer-strasse/
 shop: Autowerkstatt
 ---

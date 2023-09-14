@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /voels/intersport/
+url: /voels/intersport-cytastrasse/
 shop: Sport
 ---

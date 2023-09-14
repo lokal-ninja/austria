@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /wien/penny/
+url: /wien/penny-viktor-adler-platz/
 shop: Supermarkt
 ---

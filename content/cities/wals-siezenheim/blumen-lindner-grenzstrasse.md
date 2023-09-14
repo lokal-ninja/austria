@@ -1,5 +1,5 @@
 ---
 title: "Blumen Lindner"
-url: /wals-siezenheim/blumen-lindner/
+url: /wals-siezenheim/blumen-lindner-grenzstrasse/
 shop: Garten-Center
 ---

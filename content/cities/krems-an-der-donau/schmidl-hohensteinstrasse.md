@@ -1,5 +1,5 @@
 ---
 title: "Schmidl"
-url: /krems-an-der-donau/schmidl/
+url: /krems-an-der-donau/schmidl-hohensteinstrasse/
 shop: Bäckerei
 ---

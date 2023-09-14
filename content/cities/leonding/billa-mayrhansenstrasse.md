@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /leonding/billa/
+url: /leonding/billa-mayrhansenstrasse/
 shop: Supermarkt
 ---

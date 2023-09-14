@@ -1,5 +1,5 @@
 ---
 title: "Neuroth"
-url: /graz/neuroth/
+url: /graz/neuroth-liebenauer-hauptstrasse/
 shop: Hörgeräte
 ---

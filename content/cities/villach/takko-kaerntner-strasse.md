@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /villach/takko/
+url: /villach/takko-kaerntner-strasse/
 shop: Kleidung
 ---

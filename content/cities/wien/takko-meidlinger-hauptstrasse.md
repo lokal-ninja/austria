@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /wien/takko/
+url: /wien/takko-meidlinger-hauptstrasse/
 shop: Kleidung
 ---

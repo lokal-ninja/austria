@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /lustenau/spar/
+url: /lustenau/spar-hohenemser-strasse/
 shop: Supermarkt
 ---

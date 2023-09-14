@@ -1,5 +1,5 @@
 ---
 title: "Fussl"
-url: /wien/fussl/
+url: /wien/fussl-gatterederstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Felzl"
-url: /wien/felzl/
+url: /wien/felzl-leopoldsgasse/
 shop: Bäckerei
 ---

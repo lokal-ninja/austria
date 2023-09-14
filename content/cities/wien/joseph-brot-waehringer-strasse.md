@@ -1,5 +1,5 @@
 ---
 title: "Joseph Brot"
-url: /wien/joseph-brot/
+url: /wien/joseph-brot-waehringer-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Printkultur"
-url: /graz/printkultur/
+url: /graz/printkultur-stremayrgasse/
 shop: Kopieren
 ---

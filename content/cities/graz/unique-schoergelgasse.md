@@ -1,5 +1,5 @@
 ---
 title: "Unique"
-url: /graz/unique/
+url: /graz/unique-schoergelgasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wittwar"
-url: /weissenbach-bei-liezen/wittwar/
+url: /weissenbach-bei-liezen/wittwar-knaufstrasse/
 shop: Autohaus
 ---

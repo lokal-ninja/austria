@@ -1,5 +1,5 @@
 ---
 title: "Fuchs"
-url: /statzendorf/fuchs/
+url: /statzendorf/fuchs-hauptstrasse/
 shop: Konditorei
 ---

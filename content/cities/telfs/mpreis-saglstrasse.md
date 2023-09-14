@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /telfs/mpreis/
+url: /telfs/mpreis-saglstrasse/
 shop: Supermarkt
 ---

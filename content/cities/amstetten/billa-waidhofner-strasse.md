@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /amstetten/billa/
+url: /amstetten/billa-waidhofner-strasse/
 shop: Supermarkt
 ---

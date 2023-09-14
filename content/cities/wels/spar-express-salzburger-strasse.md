@@ -1,5 +1,5 @@
 ---
 title: "Spar Express"
-url: /wels/spar-express/
+url: /wels/spar-express-salzburger-strasse/
 shop: Lebensmittel
 ---

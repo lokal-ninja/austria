@@ -1,5 +1,5 @@
 ---
 title: "bständig"
-url: /wien/bstaendig/
+url: /wien/bstaendig-waehringer-strasse/
 shop: Sanitätshaus
 ---

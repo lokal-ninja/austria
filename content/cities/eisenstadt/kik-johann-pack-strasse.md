@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /eisenstadt/kik/
+url: /eisenstadt/kik-johann-pack-strasse/
 shop: Kleidung
 ---

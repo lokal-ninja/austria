@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /feldbach/hofer/
+url: /feldbach/hofer-industriepark/
 shop: Supermarkt
 ---

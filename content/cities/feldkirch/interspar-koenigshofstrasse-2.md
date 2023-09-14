@@ -1,5 +1,5 @@
 ---
 title: "Interspar"
-url: /feldkirch/interspar/
+url: /feldkirch/interspar-koenigshofstrasse-2/
 shop: Einkaufszentrum
 ---

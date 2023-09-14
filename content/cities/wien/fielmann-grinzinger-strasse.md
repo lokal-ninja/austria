@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /wien/fielmann/
+url: /wien/fielmann-grinzinger-strasse/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stoiber"
-url: /laa-an-der-thaya/stoiber/
+url: /laa-an-der-thaya/stoiber-stadtplatz/
 shop: Bäckerei
 ---

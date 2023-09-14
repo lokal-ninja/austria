@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /gleisdorf/hofer/
+url: /gleisdorf/hofer-feldbacher-strasse/
 shop: Supermarkt
 ---

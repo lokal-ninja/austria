@@ -1,5 +1,5 @@
 ---
 title: "Aycan"
-url: /wien/aycan/
+url: /wien/aycan-simmeringer-hauptstrasse/
 shop: Supermarkt
 ---

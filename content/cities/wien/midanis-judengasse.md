@@ -1,5 +1,5 @@
 ---
 title: "Midanis"
-url: /wien/midanis/
+url: /wien/midanis-judengasse/
 shop: Schuhe
 ---

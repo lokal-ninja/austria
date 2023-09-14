@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /klagenfurt-am-woerthersee/billa/
+url: /klagenfurt-am-woerthersee/billa-voelkermarkter-strasse/
 shop: Supermarkt
 ---

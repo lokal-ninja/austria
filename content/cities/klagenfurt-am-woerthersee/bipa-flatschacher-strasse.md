@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /klagenfurt-am-woerthersee/bipa/
+url: /klagenfurt-am-woerthersee/bipa-flatschacher-strasse/
 shop: Drogerie
 ---

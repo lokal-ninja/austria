@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /leibnitz/penny/
+url: /leibnitz/penny-rudolf-hans-bartsch-gasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ücler"
-url: /wien/uecler/
+url: /wien/uecler-waehringer-strasse/
 shop: Bäckerei
 ---

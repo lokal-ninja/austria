@@ -1,5 +1,5 @@
 ---
 title: "Habari"
-url: /wien/habari/
+url: /wien/habari-theobaldgasse/
 shop: Kunst
 ---

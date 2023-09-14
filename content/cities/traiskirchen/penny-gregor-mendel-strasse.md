@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /traiskirchen/penny/
+url: /traiskirchen/penny-gregor-mendel-strasse/
 shop: Supermarkt
 ---

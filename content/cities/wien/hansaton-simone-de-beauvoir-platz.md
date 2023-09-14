@@ -1,5 +1,5 @@
 ---
 title: "Hansaton"
-url: /wien/hansaton/
+url: /wien/hansaton-simone-de-beauvoir-platz/
 shop: Hörgeräte
 ---

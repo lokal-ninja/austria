@@ -1,5 +1,5 @@
 ---
 title: "midas"
-url: /wien/midas/
+url: /wien/midas-wattgasse/
 shop: Autowerkstatt
 ---

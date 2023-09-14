@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /villach/spar/
+url: /villach/spar-dreschnigstrasse/
 shop: Supermarkt
 ---

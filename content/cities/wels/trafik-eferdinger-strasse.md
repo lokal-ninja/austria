@@ -1,5 +1,5 @@
 ---
 title: "Trafik"
-url: /wels/trafik/
+url: /wels/trafik-eferdinger-strasse/
 shop: Kiosk
 ---

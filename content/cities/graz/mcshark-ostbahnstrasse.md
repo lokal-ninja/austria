@@ -1,5 +1,5 @@
 ---
 title: "McShark"
-url: /graz/mcshark/
+url: /graz/mcshark-ostbahnstrasse/
 shop: Computer
 ---

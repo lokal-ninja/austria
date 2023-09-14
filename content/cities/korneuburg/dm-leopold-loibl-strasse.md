@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /korneuburg/dm/
+url: /korneuburg/dm-leopold-loibl-strasse/
 shop: Drogerie
 ---

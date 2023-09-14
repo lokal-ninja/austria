@@ -1,5 +1,5 @@
 ---
 title: "Tabak Trafik"
-url: /kufstein/tabak-trafik/
+url: /kufstein/tabak-trafik-kinkstrasse/
 shop: Kiosk
 ---

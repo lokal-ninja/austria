@@ -1,5 +1,5 @@
 ---
 title: "Fußpflege"
-url: /griffen/fusspflege/
+url: /griffen/fusspflege-2/
 shop: Kosmetik
 ---

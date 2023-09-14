@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /schwechat/billa/
+url: /schwechat/billa-brauhausstrasse-2/
 shop: Supermarkt
 ---

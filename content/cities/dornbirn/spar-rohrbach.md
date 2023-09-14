@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dornbirn/spar/
+url: /dornbirn/spar-rohrbach/
 shop: Supermarkt
 ---

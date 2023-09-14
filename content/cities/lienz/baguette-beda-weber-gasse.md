@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
-url: /lienz/baguette/
+url: /lienz/baguette-beda-weber-gasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klipp"
-url: /graz/klipp/
+url: /graz/klipp-triester-strasse/
 shop: Friseur
 ---

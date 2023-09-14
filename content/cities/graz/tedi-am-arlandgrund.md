@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /graz/tedi/
+url: /graz/tedi-am-arlandgrund/
 shop: Kramladen
 ---

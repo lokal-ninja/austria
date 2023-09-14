@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /gmunden/hofer/
+url: /gmunden/hofer-fischillstrasse/
 shop: Supermarkt
 ---

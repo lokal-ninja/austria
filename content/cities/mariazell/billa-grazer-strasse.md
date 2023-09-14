@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /mariazell/billa/
+url: /mariazell/billa-grazer-strasse/
 shop: Supermarkt
 ---

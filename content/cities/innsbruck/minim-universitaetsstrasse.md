@@ -1,5 +1,5 @@
 ---
 title: "miniM"
-url: /innsbruck/minim/
+url: /innsbruck/minim-universitaetsstrasse/
 shop: Lebensmittel
 ---

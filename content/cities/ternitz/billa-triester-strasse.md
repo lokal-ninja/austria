@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /ternitz/billa/
+url: /ternitz/billa-triester-strasse/
 shop: Supermarkt
 ---

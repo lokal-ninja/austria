@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Mangold"
-url: /feldkirch/baeckerei-mangold/
+url: /feldkirch/baeckerei-mangold-rheinstrasse/
 shop: Bäckerei
 ---

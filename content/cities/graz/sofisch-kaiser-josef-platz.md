@@ -1,5 +1,5 @@
 ---
 title: "Sofisch"
-url: /graz/sofisch/
+url: /graz/sofisch-kaiser-josef-platz/
 shop: Fisch
 ---

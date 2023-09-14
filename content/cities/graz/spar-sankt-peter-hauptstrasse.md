@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /graz/spar/
+url: /graz/spar-sankt-peter-hauptstrasse/
 shop: Supermarkt
 ---

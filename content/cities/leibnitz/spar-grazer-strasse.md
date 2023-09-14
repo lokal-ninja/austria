@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /leibnitz/spar/
+url: /leibnitz/spar-grazer-strasse/
 shop: Supermarkt
 ---

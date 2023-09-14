@@ -1,5 +1,5 @@
 ---
 title: "Figaro"
-url: /wien/figaro/
+url: /wien/figaro-leopoldauer-platz/
 shop: Friseur
 ---

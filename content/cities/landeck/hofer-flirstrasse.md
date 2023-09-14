@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /landeck/hofer/
+url: /landeck/hofer-flirstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /graz/orion/
+url: /graz/orion-kaerntner-strasse/
 shop: Lampen
 ---

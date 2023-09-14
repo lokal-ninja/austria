@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /innsbruck/hofer/
+url: /innsbruck/hofer-erlerstrasse/
 shop: Friseur
 ---

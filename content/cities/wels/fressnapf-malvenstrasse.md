@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /wels/fressnapf/
+url: /wels/fressnapf-malvenstrasse/
 shop: Tiere
 ---

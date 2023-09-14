@@ -1,5 +1,5 @@
 ---
 title: "Trafik"
-url: /wien/trafik/
+url: /wien/trafik-u-bahn-station-friedensbruecke/
 shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HATRIC"
-url: /hartberg/hatric/
+url: /hartberg/hatric-im-hatric/
 shop: Einkaufszentrum
 ---

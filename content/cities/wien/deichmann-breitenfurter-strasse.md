@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /wien/deichmann/
+url: /wien/deichmann-breitenfurter-strasse/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shakkei"
-url: /wien/shakkei/
+url: /wien/shakkei-burggasse/
 shop: Kleidung
 ---

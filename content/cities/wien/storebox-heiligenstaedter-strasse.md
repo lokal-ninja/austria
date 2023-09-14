@@ -1,5 +1,5 @@
 ---
 title: "Storebox"
-url: /wien/storebox/
+url: /wien/storebox-heiligenstaedter-strasse/
 shop: Mieten
 ---

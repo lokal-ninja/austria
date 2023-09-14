@@ -1,5 +1,5 @@
 ---
 title: "Mayer"
-url: /graz/mayer/
+url: /graz/mayer-ostbahnstrasse/
 shop: Friseur
 ---

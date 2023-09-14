@@ -1,5 +1,5 @@
 ---
 title: "Schuhservice"
-url: /wien/schuhservice/
+url: /wien/schuhservice-joergerstrasse/
 shop: Schuhe
 ---

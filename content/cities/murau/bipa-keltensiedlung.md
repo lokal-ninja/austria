@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /murau/bipa/
+url: /murau/bipa-keltensiedlung/
 shop: Drogerie
 ---

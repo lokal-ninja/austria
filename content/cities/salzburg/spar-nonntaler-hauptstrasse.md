@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /salzburg/spar/
+url: /salzburg/spar-nonntaler-hauptstrasse/
 shop: Supermarkt
 ---

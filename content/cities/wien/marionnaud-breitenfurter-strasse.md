@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /wien/marionnaud/
+url: /wien/marionnaud-breitenfurter-strasse/
 shop: Parfümerie
 ---

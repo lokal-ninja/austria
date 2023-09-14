@@ -1,5 +1,5 @@
 ---
 title: "lalekula"
-url: /wien/lalekula/
+url: /wien/lalekula-lindengasse/
 shop: Babysachen
 ---

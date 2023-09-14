@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /liezen/billa/
+url: /liezen/billa-fronleichnamsweg/
 shop: Supermarkt
 ---

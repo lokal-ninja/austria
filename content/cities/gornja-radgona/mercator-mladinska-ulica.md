@@ -1,5 +1,5 @@
 ---
 title: "Mercator"
-url: /gornja-radgona/mercator/
+url: /gornja-radgona/mercator-mladinska-ulica/
 shop: Lebensmittel
 ---

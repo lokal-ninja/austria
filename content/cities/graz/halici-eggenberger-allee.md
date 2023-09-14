@@ -1,5 +1,5 @@
 ---
 title: "Halici"
-url: /graz/halici/
+url: /graz/halici-eggenberger-allee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /graz/penny/
+url: /graz/penny-strassganger-strasse/
 shop: Supermarkt
 ---

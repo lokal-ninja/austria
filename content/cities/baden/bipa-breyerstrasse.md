@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /baden/bipa/
+url: /baden/bipa-breyerstrasse/
 shop: Drogerie
 ---

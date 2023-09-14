@@ -1,5 +1,5 @@
 ---
 title: "Alphaclean"
-url: /wien/alphaclean/
+url: /wien/alphaclean-davidgasse/
 shop: Wäscherei
 ---

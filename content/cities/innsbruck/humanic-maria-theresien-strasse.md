@@ -1,5 +1,5 @@
 ---
 title: "Humanic"
-url: /innsbruck/humanic/
+url: /innsbruck/humanic-maria-theresien-strasse/
 shop: Schuhe
 ---

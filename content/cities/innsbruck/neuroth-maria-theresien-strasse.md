@@ -1,5 +1,5 @@
 ---
 title: "Neuroth"
-url: /innsbruck/neuroth/
+url: /innsbruck/neuroth-maria-theresien-strasse/
 shop: Hörgeräte
 ---

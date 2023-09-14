@@ -1,5 +1,5 @@
 ---
 title: "Reno"
 url: /lannach/reno/
-shop: Schuhe
+shop: Leerstehend
 ---

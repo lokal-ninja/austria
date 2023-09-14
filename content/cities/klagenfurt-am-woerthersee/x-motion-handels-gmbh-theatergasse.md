@@ -1,5 +1,5 @@
 ---
 title: "X-Motion Handels GmbH"
-url: /klagenfurt-am-woerthersee/x-motion-handels-gmbh/
+url: /klagenfurt-am-woerthersee/x-motion-handels-gmbh-theatergasse/
 shop: Dorfladen
 ---

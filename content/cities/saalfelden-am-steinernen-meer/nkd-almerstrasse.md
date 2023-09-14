@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /saalfelden-am-steinernen-meer/nkd/
-shop: Andenken
+url: /saalfelden-am-steinernen-meer/nkd-almerstrasse/
+shop: Kleidung
 ---

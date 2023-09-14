@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /leoben/hofer/
+url: /leoben/hofer-kaerntner-strasse/
 shop: Supermarkt
 ---

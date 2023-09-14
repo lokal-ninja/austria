@@ -1,5 +1,5 @@
 ---
 title: "GEA"
-url: /graz/gea/
+url: /graz/gea-griesgasse/
 shop: Schuhe
 ---

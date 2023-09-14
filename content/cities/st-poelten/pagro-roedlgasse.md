@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /st-poelten/pagro/
+url: /st-poelten/pagro-roedlgasse/
 shop: Schreibwaren
 ---

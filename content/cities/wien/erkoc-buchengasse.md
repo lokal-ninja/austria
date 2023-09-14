@@ -1,5 +1,5 @@
 ---
 title: "Erkoc"
-url: /wien/erkoc/
+url: /wien/erkoc-buchengasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magenta"
-url: /wien/magenta/
+url: /wien/magenta-breitenfurter-strasse/
 shop: Handy
 ---

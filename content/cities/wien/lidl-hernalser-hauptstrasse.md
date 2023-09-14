@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /wien/lidl/
+url: /wien/lidl-hernalser-hauptstrasse/
 shop: Supermarkt
 ---

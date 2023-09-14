@@ -1,5 +1,5 @@
 ---
 title: "Blumen"
-url: /wien/blumen/
+url: /wien/blumen-siebensterngasse/
 shop: Blumen
 ---

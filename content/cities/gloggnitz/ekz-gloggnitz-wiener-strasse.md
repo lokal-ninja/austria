@@ -1,5 +1,5 @@
 ---
 title: "EKZ Gloggnitz"
-url: /gloggnitz/ekz-gloggnitz/
+url: /gloggnitz/ekz-gloggnitz-wiener-strasse/
 shop: Einkaufszentrum
 ---

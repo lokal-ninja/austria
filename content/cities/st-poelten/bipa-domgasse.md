@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /st-poelten/bipa/
+url: /st-poelten/bipa-domgasse/
 shop: Drogerie
 ---

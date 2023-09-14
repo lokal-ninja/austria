@@ -1,5 +1,5 @@
 ---
 title: "Das Futterhaus"
-url: /wien/das-futterhaus/
+url: /wien/das-futterhaus-gewerbeparkstrasse/
 shop: Tiere
 ---

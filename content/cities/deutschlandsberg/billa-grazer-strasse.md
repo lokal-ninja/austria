@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /deutschlandsberg/billa/
+url: /deutschlandsberg/billa-grazer-strasse/
 shop: Supermarkt
 ---

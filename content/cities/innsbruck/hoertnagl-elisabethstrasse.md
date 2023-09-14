@@ -1,5 +1,5 @@
 ---
 title: "Hörtnagl"
-url: /innsbruck/hoertnagl/
+url: /innsbruck/hoertnagl-elisabethstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ortho-Aktiv"
-url: /graz/ortho-aktiv/
+url: /graz/ortho-aktiv-prankergasse/
 shop: Sanitätshaus
 ---

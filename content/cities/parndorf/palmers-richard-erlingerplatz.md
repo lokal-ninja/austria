@@ -1,5 +1,5 @@
 ---
 title: "Palmers"
-url: /parndorf/palmers/
+url: /parndorf/palmers-richard-erlingerplatz/
 shop: Kleidung
 ---

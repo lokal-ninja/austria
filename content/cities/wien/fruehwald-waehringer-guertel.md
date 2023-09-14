@@ -1,5 +1,5 @@
 ---
 title: "Frühwald"
-url: /wien/fruehwald/
+url: /wien/fruehwald-waehringer-guertel/
 shop: Sanitätshaus
 ---

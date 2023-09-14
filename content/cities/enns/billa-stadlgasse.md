@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /enns/billa/
+url: /enns/billa-stadlgasse/
 shop: Supermarkt
 ---

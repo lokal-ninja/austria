@@ -1,5 +1,5 @@
 ---
 title: "Palmers"
-url: /salzburg/palmers/
+url: /salzburg/palmers-mirabellplatz/
 shop: Kleidung
 ---

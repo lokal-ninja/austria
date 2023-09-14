@@ -1,5 +1,5 @@
 ---
 title: "Popaflo"
-url: /traun/popaflo/
+url: /traun/popaflo-christlgasse/
 shop: Fahrrad
 ---

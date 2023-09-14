@@ -1,5 +1,5 @@
 ---
 title: "Sutterlüty"
-url: /lauterach/sutterluety/
+url: /lauterach/sutterluety-karl-hoell-strasse/
 shop: Supermarkt
 ---

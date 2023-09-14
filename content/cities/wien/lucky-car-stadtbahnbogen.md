@@ -1,5 +1,5 @@
 ---
 title: "Lucky Car"
-url: /wien/lucky-car/
+url: /wien/lucky-car-stadtbahnbogen/
 shop: Autowerkstatt
 ---

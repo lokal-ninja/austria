@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /lieboch/billa/
+url: /lieboch/billa-packer-strasse/
 shop: Supermarkt
 ---

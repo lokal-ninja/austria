@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /st-peter-in-der-au/spar/
+url: /st-peter-in-der-au/spar-burgholzstrasse/
 shop: Supermarkt
 ---

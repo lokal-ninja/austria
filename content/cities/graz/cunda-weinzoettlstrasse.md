@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /graz/cunda/
+url: /graz/cunda-weinzoettlstrasse/
 shop: Kleidung
 ---

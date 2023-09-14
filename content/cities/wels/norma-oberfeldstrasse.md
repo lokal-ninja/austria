@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /wels/norma/
+url: /wels/norma-oberfeldstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Granzer"
-url: /amstetten/auto-granzer/
+url: /amstetten/auto-granzer-holzstrasse/
 shop: Autohaus
 ---

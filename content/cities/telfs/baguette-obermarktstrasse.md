@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
-url: /telfs/baguette/
+url: /telfs/baguette-obermarktstrasse/
 shop: Bäckerei
 ---

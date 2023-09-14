@@ -1,5 +1,5 @@
 ---
 title: "Sonnentor"
-url: /graz/sonnentor/
+url: /graz/sonnentor-ostbahnstrasse/
 shop: Tee
 ---

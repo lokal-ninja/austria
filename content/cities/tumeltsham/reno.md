@@ -1,5 +1,5 @@
 ---
 title: "Reno"
 url: /tumeltsham/reno/
-shop: Schuhe
+shop: Leerstehend
 ---

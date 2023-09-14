@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /salzburg/pagro/
+url: /salzburg/pagro-2/
 shop: Schreibwaren
 ---

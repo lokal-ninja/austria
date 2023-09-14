@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /melk/hofer/
+url: /melk/hofer-wiener-strasse/
 shop: Supermarkt
 ---

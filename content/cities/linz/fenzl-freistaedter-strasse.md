@@ -1,5 +1,5 @@
 ---
 title: "Fenzl"
-url: /linz/fenzl/
+url: /linz/fenzl-freistaedter-strasse/
 shop: Bäckerei
 ---

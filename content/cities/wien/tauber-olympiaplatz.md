@@ -1,5 +1,5 @@
 ---
 title: "Tauber"
-url: /wien/tauber/
+url: /wien/tauber-olympiaplatz/
 shop: Bäckerei
 ---

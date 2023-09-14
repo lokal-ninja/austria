@@ -1,5 +1,5 @@
 ---
 title: "Linsbichler"
-url: /wien/linsbichler/
+url: /wien/linsbichler-poetzleinsdorfer-strasse/
 shop: Bäckerei
 ---

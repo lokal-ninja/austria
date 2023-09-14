@@ -1,5 +1,5 @@
 ---
 title: "Pearle"
-url: /wien/pearle/
+url: /wien/pearle-2/
 shop: Optiker
 ---

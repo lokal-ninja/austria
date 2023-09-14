@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /soelden/intersport/
+url: /soelden/intersport-dorfstrasse/
 shop: Sport
 ---

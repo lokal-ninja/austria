@@ -1,5 +1,5 @@
 ---
 title: "Schranzer"
-url: /graz/schranzer/
+url: /graz/schranzer-mariahilferstrasse/
 shop: Raumausstattung
 ---

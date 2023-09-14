@@ -1,11 +1,11 @@
 id: 4851429230
 type: node
-latitude: 48.22477
-longitude: 16.35667
+latitude: 48.22475
+longitude: 16.35668
 postcode: "1090"
 city: Wien
 street: "Boltzmanngasse"
 housenumber: 21
-phone: "+43 1 403015110"
+phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://pbike.at/"
+website: "https://www.pbike.at"

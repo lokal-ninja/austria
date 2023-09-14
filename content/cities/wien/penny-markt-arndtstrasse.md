@@ -1,5 +1,5 @@
 ---
 title: "Penny Markt"
-url: /wien/penny-markt/
+url: /wien/penny-markt-arndtstrasse/
 shop: Supermarkt
 ---

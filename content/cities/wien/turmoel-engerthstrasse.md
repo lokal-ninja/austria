@@ -1,5 +1,5 @@
 ---
 title: "Turmöl"
-url: /wien/turmoel/
+url: /wien/turmoel-engerthstrasse/
 shop: Kiosk
 ---

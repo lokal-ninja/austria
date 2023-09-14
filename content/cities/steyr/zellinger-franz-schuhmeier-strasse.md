@@ -1,5 +1,5 @@
 ---
 title: "Zellinger"
-url: /steyr/zellinger/
+url: /steyr/zellinger-franz-schuhmeier-strasse/
 shop: Metzgerei
 ---

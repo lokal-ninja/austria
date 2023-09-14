@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /feldkirchen-bei-graz/spar/
+url: /feldkirchen-bei-graz/spar-flughafenstrasse/
 shop: Supermarkt
 ---

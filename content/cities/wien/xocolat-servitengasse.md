@@ -1,5 +1,5 @@
 ---
 title: "Xocolat"
-url: /wien/xocolat/
+url: /wien/xocolat-servitengasse/
 shop: Feinkost
 ---

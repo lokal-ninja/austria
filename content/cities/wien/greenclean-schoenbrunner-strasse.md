@@ -1,5 +1,5 @@
 ---
 title: "GreenClean"
-url: /wien/greenclean/
+url: /wien/greenclean-schoenbrunner-strasse/
 shop: Wäscherei
 ---

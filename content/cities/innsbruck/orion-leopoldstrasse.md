@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /innsbruck/orion/
+url: /innsbruck/orion-leopoldstrasse/
 shop: Erotik
 ---

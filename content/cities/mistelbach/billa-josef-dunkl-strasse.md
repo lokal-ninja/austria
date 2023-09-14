@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /mistelbach/billa/
+url: /mistelbach/billa-josef-dunkl-strasse/
 shop: Supermarkt
 ---

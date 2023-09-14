@@ -1,5 +1,5 @@
 ---
 title: "Mazda Marina"
-url: /bad-gleichenberg/mazda-marina/
+url: /bad-gleichenberg/mazda-marina-kruegeleistrasse/
 shop: Autowerkstatt
 ---

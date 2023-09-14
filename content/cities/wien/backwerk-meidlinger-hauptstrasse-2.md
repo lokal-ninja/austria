@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /wien/backwerk/
+url: /wien/backwerk-meidlinger-hauptstrasse-2/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /bad-voeslau/billa/
+url: /bad-voeslau/billa-flugfeldstrasse/
 shop: Supermarkt
 ---

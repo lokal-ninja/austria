@@ -1,5 +1,5 @@
 ---
 title: "Kontaktil"
-url: /innsbruck/kontaktil/
+url: /innsbruck/kontaktil-wilhelm-greil-strasse/
 shop: Kleidung
 ---

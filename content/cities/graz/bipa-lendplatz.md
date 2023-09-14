@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /graz/bipa/
+url: /graz/bipa-lendplatz/
 shop: Drogerie
 ---

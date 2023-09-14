@@ -1,5 +1,5 @@
 ---
 title: "Tabak Trafik"
-url: /salzburg/tabak-trafik/
+url: /salzburg/tabak-trafik-etrichstrasse/
 shop: Tabak
 ---

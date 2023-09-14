@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /linz/thalia/
+url: /linz/thalia-landstrasse/
 shop: Bücher
 ---

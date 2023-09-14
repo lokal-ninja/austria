@@ -1,5 +1,5 @@
 ---
 title: "Confiserie Heindl"
-url: /wien/confiserie-heindl/
+url: /wien/confiserie-heindl-willendorfer-gasse/
 shop: Schokolade
 ---

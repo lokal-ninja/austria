@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
-url: /wien/intimissimi/
+url: /wien/intimissimi-breitenfurter-strasse/
 shop: Kleidung
 ---

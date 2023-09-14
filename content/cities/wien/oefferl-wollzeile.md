@@ -1,5 +1,5 @@
 ---
 title: "Öfferl"
-url: /wien/oefferl/
+url: /wien/oefferl-wollzeile/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franz"
-url: /wien/franz/
+url: /wien/franz-langobardenstrasse/
 shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /wien/billa/
+url: /wien/billa-lerchenfelder-strasse-2/
 shop: Supermarkt
 ---

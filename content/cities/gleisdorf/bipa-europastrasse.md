@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /gleisdorf/bipa/
+url: /gleisdorf/bipa-europastrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hervis"
-url: /wien/hervis/
+url: /wien/hervis-gewerbeparkstrasse/
 shop: Sport
 ---

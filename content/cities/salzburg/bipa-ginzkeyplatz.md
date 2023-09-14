@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /salzburg/bipa/
+url: /salzburg/bipa-ginzkeyplatz/
 shop: Drogerie
 ---

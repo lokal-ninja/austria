@@ -1,5 +1,5 @@
 ---
 title: "Gramola"
-url: /wien/gramola/
+url: /wien/gramola-phorusgasse/
 shop: Musik
 ---

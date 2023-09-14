@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /feldbach/spar/
+url: /feldbach/spar-gewerbepark/
 shop: Supermarkt
 ---

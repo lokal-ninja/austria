@@ -1,5 +1,5 @@
 ---
 title: "Tabaktrafik"
-url: /wien/tabaktrafik/
+url: /wien/tabaktrafik-hetzendorfer-strasse/
 shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaela"
-url: /graz/michaela/
+url: /graz/michaela-eichbachgasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /ternitz/penny/
+url: /ternitz/penny-triester-strasse/
 shop: Supermarkt
 ---

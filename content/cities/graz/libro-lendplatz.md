@@ -1,5 +1,5 @@
 ---
 title: "Libro"
-url: /graz/libro/
+url: /graz/libro-lendplatz/
 shop: Bücher
 ---

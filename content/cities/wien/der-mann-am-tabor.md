@@ -1,5 +1,5 @@
 ---
 title: "Der Mann"
-url: /wien/der-mann/
+url: /wien/der-mann-am-tabor/
 shop: Bäckerei
 ---

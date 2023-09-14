@@ -1,5 +1,5 @@
 ---
 title: "Heinz"
-url: /wien/heinz/
+url: /wien/heinz-taborstrasse/
 shop: Spielzeug
 ---

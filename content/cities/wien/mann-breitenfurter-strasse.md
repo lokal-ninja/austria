@@ -1,5 +1,5 @@
 ---
 title: "Mann"
-url: /wien/mann/
+url: /wien/mann-breitenfurter-strasse/
 shop: Bäckerei
 ---

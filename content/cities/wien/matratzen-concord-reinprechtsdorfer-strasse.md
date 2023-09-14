@@ -1,5 +1,5 @@
 ---
 title: "Matratzen Concord"
-url: /wien/matratzen-concord/
+url: /wien/matratzen-concord-reinprechtsdorfer-strasse/
 shop: Betten
 ---

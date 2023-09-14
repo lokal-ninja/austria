@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /hollabrunn/billa/
+url: /hollabrunn/billa-muehlenring/
 shop: Supermarkt
 ---

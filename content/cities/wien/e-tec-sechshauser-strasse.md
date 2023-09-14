@@ -1,5 +1,5 @@
 ---
 title: "E-Tec"
-url: /wien/e-tec/
+url: /wien/e-tec-sechshauser-strasse/
 shop: Elektronik
 ---

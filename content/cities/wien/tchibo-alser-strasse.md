@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /wien/tchibo/
+url: /wien/tchibo-alser-strasse/
 shop: Kaffee
 ---

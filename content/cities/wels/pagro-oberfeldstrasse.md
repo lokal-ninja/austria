@@ -1,5 +1,5 @@
 ---
 title: "Pagro"
-url: /wels/pagro/
+url: /wels/pagro-oberfeldstrasse/
 shop: Schreibwaren
 ---

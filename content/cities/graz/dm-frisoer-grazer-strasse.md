@@ -1,5 +1,5 @@
 ---
 title: "dm Frisör"
-url: /graz/dm-frisoer/
+url: /graz/dm-frisoer-grazer-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /eisenstadt/bipa/
+url: /eisenstadt/bipa-ruster-strasse/
 shop: Drogerie
 ---

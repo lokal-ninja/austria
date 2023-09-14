@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /dornbirn/bipa/
+url: /dornbirn/bipa-wallenmahd/
 shop: Drogerie
 ---

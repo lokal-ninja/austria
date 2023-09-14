@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /guntramsdorf/spar/
+url: /guntramsdorf/spar-f-novy-gasse/
 shop: Supermarkt
 ---

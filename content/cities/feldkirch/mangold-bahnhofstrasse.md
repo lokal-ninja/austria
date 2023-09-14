@@ -1,5 +1,5 @@
 ---
 title: "Mangold"
-url: /feldkirch/mangold/
+url: /feldkirch/mangold-bahnhofstrasse/
 shop: Bäckerei
 ---

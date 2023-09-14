@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /klosterneuburg/billa/
+url: /klosterneuburg/billa-wiener-strasse/
 shop: Supermarkt
 ---

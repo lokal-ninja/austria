@@ -1,5 +1,5 @@
 ---
 title: "Auto Aicher"
-url: /koessen/auto-aicher/
+url: /koessen/auto-aicher-huette/
 shop: Autohaus
 ---

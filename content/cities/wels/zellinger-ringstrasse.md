@@ -1,5 +1,5 @@
 ---
 title: "Zellinger"
-url: /wels/zellinger/
+url: /wels/zellinger-ringstrasse/
 shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oppermann"
-url: /baden/oppermann/
+url: /baden/oppermann-erzherzog-rainer-ring/
 shop: Kleidung
 ---

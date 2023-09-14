@@ -1,5 +1,5 @@
 ---
 title: "Tom Tailor"
-url: /wien/tom-tailor/
+url: /wien/tom-tailor-breitenfurter-strasse/
 shop: Kleidung
 ---

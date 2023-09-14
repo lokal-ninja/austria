@@ -1,5 +1,5 @@
 ---
 title: "Lamprechter"
-url: /innsbruck/lamprechter/
+url: /innsbruck/lamprechter-grabenweg/
 shop: Foto
 ---

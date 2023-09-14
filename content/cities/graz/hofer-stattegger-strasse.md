@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /graz/hofer/
+url: /graz/hofer-stattegger-strasse/
 shop: Supermarkt
 ---

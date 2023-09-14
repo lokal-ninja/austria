@@ -1,5 +1,5 @@
 ---
 title: "Baguette"
-url: /kufstein/baguette/
+url: /kufstein/baguette-salurner-strasse/
 shop: Bäckerei
 ---

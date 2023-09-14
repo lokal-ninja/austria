@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /innsbruck/deichmann/
+url: /innsbruck/deichmann-valiergasse/
 shop: Schuhe
 ---

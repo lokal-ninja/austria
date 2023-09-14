@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
-url: /graz/only/
+url: /graz/only-herrengasse/
 shop: Kleidung
 ---

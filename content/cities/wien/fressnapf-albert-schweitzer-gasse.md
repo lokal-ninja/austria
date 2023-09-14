@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /wien/fressnapf/
+url: /wien/fressnapf-albert-schweitzer-gasse/
 shop: Tiere
 ---

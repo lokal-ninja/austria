@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /eisenstadt/dm/
+url: /eisenstadt/dm-hauptstrasse/
 shop: Drogerie
 ---

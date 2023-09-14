@@ -1,5 +1,5 @@
 ---
 title: "Libro"
-url: /villach/libro/
+url: /villach/libro-bruno-kreisky-strasse/
 shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /ansfelden/bipa/
+url: /ansfelden/bipa-hauptplatz/
 shop: Drogerie
 ---

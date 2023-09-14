@@ -1,5 +1,5 @@
 ---
 title: "d'Ambrosio"
-url: /wien/dambrosio/
+url: /wien/dambrosio-jasomirgottstrasse/
 shop: Schuhe
 ---

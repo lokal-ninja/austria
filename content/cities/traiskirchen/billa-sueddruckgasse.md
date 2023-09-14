@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /traiskirchen/billa/
+url: /traiskirchen/billa-sueddruckgasse/
 shop: Supermarkt
 ---

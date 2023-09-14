@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /wien/vomfass/
+url: /wien/vomfass-weimarer-strasse/
 shop: Feinkost
 ---

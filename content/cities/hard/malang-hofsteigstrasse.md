@@ -1,5 +1,5 @@
 ---
 title: "Malang"
-url: /hard/malang/
+url: /hard/malang-hofsteigstrasse/
 shop: Autohaus
 ---

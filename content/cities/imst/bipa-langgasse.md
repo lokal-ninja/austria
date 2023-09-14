@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /imst/bipa/
+url: /imst/bipa-langgasse/
 shop: Drogerie
 ---

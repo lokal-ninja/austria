@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /reutte/hofer/
+url: /reutte/hofer-innsbrucker-strasse/
 shop: Supermarkt
 ---

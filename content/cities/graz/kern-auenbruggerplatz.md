@@ -1,5 +1,5 @@
 ---
 title: "Kern"
-url: /graz/kern/
+url: /graz/kern-auenbruggerplatz/
 shop: Bäckerei
 ---

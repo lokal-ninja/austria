@@ -1,5 +1,5 @@
 ---
 title: "Zgonc"
-url: /wien/zgonc/
+url: /wien/zgonc-hadikgasse/
 shop: Baumarkt
 ---

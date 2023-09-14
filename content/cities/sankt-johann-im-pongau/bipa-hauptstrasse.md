@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /sankt-johann-im-pongau/bipa/
+url: /sankt-johann-im-pongau/bipa-hauptstrasse/
 shop: Drogerie
 ---

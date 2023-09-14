@@ -1,5 +1,5 @@
 ---
 title: "Hauber"
-url: /kufstein/hauber/
+url: /kufstein/hauber-arkadenplatz/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /voecklabruck/bipa/
+url: /voecklabruck/bipa-stadtplatz/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fussl"
-url: /braunau-am-inn/fussl/
+url: /braunau-am-inn/fussl-raitfeldstrasse/
 shop: Kleidung
 ---

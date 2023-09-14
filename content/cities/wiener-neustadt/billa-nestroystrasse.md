@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /wiener-neustadt/billa/
+url: /wiener-neustadt/billa-nestroystrasse/
 shop: Supermarkt
 ---

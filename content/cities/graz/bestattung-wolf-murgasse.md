@@ -1,5 +1,5 @@
 ---
 title: "Bestattung Wolf"
-url: /graz/bestattung-wolf/
+url: /graz/bestattung-wolf-murgasse/
 shop: Bestattungen
 ---

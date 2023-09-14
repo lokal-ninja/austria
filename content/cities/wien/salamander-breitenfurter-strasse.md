@@ -1,5 +1,5 @@
 ---
 title: "Salamander"
-url: /wien/salamander/
+url: /wien/salamander-breitenfurter-strasse/
 shop: Schuhe
 ---

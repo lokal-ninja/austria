@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /mistelbach/hofer/
+url: /mistelbach/hofer-oberhoferstrasse/
 shop: Supermarkt
 ---

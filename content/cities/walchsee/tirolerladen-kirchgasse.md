@@ -1,5 +1,5 @@
 ---
 title: "Tirolerladen"
-url: /walchsee/tirolerladen/
+url: /walchsee/tirolerladen-kirchgasse/
 shop: Lebensmittel
 ---

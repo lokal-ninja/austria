@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /wien/hofer/
+url: /wien/hofer-donau-city-strasse/
 shop: Supermarkt
 ---

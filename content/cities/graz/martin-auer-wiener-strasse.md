@@ -1,5 +1,5 @@
 ---
 title: "Martin Auer"
-url: /graz/martin-auer/
+url: /graz/martin-auer-wiener-strasse/
 shop: Bäckerei
 ---

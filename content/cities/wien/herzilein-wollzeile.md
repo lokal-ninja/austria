@@ -1,5 +1,5 @@
 ---
 title: "Herzilein"
-url: /wien/herzilein/
+url: /wien/herzilein-wollzeile/
 shop: Kleidung
 ---

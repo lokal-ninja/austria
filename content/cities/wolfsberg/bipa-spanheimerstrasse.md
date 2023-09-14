@@ -1,5 +1,5 @@
 ---
 title: "Bipa"
-url: /wolfsberg/bipa/
+url: /wolfsberg/bipa-spanheimerstrasse/
 shop: Drogerie
 ---

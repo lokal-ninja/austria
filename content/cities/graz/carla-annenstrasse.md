@@ -1,5 +1,5 @@
 ---
 title: "Carla"
-url: /graz/carla/
+url: /graz/carla-annenstrasse/
 shop: Gebrauchtwaren
 ---

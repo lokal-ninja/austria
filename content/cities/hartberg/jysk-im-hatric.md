@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /hartberg/jysk/
+url: /hartberg/jysk-im-hatric/
 shop: Möbel
 ---

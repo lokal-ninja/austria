@@ -1,5 +1,5 @@
 ---
 title: "Ledwinka"
-url: /innsbruck/ledwinka/
+url: /innsbruck/ledwinka-adamgasse/
 shop: Friseur
 ---

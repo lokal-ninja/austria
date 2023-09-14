@@ -1,5 +1,5 @@
 ---
 title: "Mass- und Änderungsschneiderei"
-url: /wien/mass-und-aenderungsschneiderei/
+url: /wien/mass-und-aenderungsschneiderei-gentzgasse/
 shop: Allgemein
 ---

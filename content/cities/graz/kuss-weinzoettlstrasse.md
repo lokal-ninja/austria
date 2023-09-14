@@ -1,5 +1,5 @@
 ---
 title: "Kuss"
-url: /graz/kuss/
+url: /graz/kuss-weinzoettlstrasse/
 shop: Autohaus
 ---

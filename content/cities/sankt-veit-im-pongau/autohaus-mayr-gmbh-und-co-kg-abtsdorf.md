@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Mayr GmbH & Co KG"
-url: /sankt-veit-im-pongau/autohaus-mayr-gmbh-und-co-kg/
+url: /sankt-veit-im-pongau/autohaus-mayr-gmbh-und-co-kg-abtsdorf/
 shop: Autohaus
 ---

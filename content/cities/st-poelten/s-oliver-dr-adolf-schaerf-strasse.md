@@ -1,5 +1,5 @@
 ---
 title: "s.Oliver"
-url: /st-poelten/s-oliver/
+url: /st-poelten/s-oliver-dr-adolf-schaerf-strasse/
 shop: Kleidung
 ---

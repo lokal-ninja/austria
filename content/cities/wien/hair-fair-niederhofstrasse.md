@@ -1,5 +1,5 @@
 ---
 title: "Hair Fair"
-url: /wien/hair-fair/
+url: /wien/hair-fair-niederhofstrasse/
 shop: Friseur
 ---

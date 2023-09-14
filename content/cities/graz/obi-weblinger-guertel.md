@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /graz/obi/
+url: /graz/obi-weblinger-guertel/
 shop: Baumarkt
 ---

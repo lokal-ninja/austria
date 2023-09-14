@@ -1,5 +1,5 @@
 ---
 title: "Anker"
-url: /wien/anker/
+url: /wien/anker-mariahilfer-strasse/
 shop: Bäckerei
 ---
