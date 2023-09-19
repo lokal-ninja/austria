@@ -1,6 +1,6 @@
 ---
 title: Schnepfau
 url: /schnepfau/
-latitude: 47.348
-longitude: 9.907
+latitude: 47.347
+longitude: 9.905
 ---
