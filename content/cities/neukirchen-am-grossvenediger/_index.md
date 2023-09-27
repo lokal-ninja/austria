@@ -1,6 +1,6 @@
 ---
 title: Neukirchen am Großvenediger
 url: /neukirchen-am-grossvenediger/
-latitude: 47.254
-longitude: 12.281
+latitude: 47.252
+longitude: 12.279
 ---

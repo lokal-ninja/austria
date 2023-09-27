@@ -1,6 +1,6 @@
 ---
 title: Stockerau
 url: /stockerau/
-latitude: 48.39
-longitude: 16.209
+latitude: 48.389
+longitude: 16.208
 ---

@@ -1,6 +1,6 @@
 ---
 title: Persenbeug
 url: /persenbeug/
-latitude: 48.189
-longitude: 15.093
+latitude: 48.19
+longitude: 15.096
 ---

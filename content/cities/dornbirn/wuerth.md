@@ -1,5 +1,5 @@
 ---
 title: "Würth"
 url: /dornbirn/wuerth/
-shop: Baumarkt
+shop: Eisenwaren
 ---

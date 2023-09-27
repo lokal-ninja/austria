@@ -1,11 +1,11 @@
-id: 471785012
-type: node
-latitude: 48.35666
-longitude: 16.32987
+id: 45251768
+type: way
+latitude: 48.35931
+longitude: 16.3113
 postcode: "2100"
 city: Korneuburg
-street: ""
-housenumber: 
+street: "Stockerauer Straße"
+housenumber: 187
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
 website: ""

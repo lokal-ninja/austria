@@ -1,5 +1,5 @@
 ---
 title: "Kärcher"
 url: /sankt-poelten/kaercher/
-shop: Allgemein
+shop: Staubsauger
 ---

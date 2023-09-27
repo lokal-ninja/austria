@@ -1,5 +1,5 @@
 ---
 title: "Hanfstube"
 url: /innsbruck/hanfstube/
-shop: Allgemein
+shop: Lebensmittel
 ---
