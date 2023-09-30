@@ -1,6 +1,6 @@
 ---
 title: Gobelsburg
 url: /gobelsburg/
-latitude: 48.461
-longitude: 15.696
+latitude: 48.46
+longitude: 15.695
 ---
