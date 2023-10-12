@@ -1,6 +1,6 @@
 ---
 title: Zwentendorf an der Donau
 url: /zwentendorf-an-der-donau/
-latitude: 48.355
-longitude: 15.816
+latitude: 48.339
+longitude: 15.905
 ---

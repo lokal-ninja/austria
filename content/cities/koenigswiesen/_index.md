@@ -1,6 +1,6 @@
 ---
 title: Königswiesen
 url: /koenigswiesen/
-latitude: 48.405
-longitude: 14.837
+latitude: 48.36
+longitude: 14.794
 ---

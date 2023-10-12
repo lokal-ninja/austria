@@ -1,11 +1,11 @@
-id: 7902416038
-type: node
-latitude: 47.23158
-longitude: 10.73576
+id: 244457960
+type: way
+latitude: 47.22938
+longitude: 10.74477
 postcode: "6460"
 city: Imst
-street: "Bundesstraße"
-housenumber: 7
+street: "Langgasse"
+housenumber: 76
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:40-19:30; Sa 07:40-18:00"
+website: "https://www.mpreis.at/standorte/maerktefilialen/index.htm?no_cache=1&tx_usrmbshops_pi1%5BshowUid%5D=12&tx_usrmbshops_pi1%5BshowPostcodeShops%5D=6460"
