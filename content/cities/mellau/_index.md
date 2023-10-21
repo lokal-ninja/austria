@@ -2,5 +2,5 @@
 title: Mellau
 url: /mellau/
 latitude: 47.351
-longitude: 9.883
+longitude: 9.881
 ---

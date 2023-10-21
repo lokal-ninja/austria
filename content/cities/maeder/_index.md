@@ -1,6 +1,6 @@
 ---
 title: Mäder
 url: /maeder/
-latitude: 47.354
+latitude: 47.355
 longitude: 9.617
 ---

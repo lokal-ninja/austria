@@ -7,5 +7,5 @@ city: Linz
 street: "Am Bindermichl"
 housenumber: 23
 phone: "+43732341518"
-opening_hours: "Mo-Th 09:00-12:00,15:00-18:00;Fr 09:00-12:00"
+opening_hours: "Mo,Tu 09:00-12:00,15:00-18:00; We 09:00-12:00"
 website: "http://www.puchinger.eu"
