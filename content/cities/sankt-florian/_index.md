@@ -1,6 +1,6 @@
 ---
 title: Sankt Florian
 url: /sankt-florian/
-latitude: 48.224
-longitude: 14.4
+latitude: 48.203
+longitude: 14.37
 ---

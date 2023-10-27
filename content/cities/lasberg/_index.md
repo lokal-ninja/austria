@@ -1,6 +1,6 @@
 ---
 title: Lasberg
 url: /lasberg/
-latitude: 48.472
-longitude: 14.542
+latitude: 48.473
+longitude: 14.547
 ---

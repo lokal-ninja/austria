@@ -1,5 +1,0 @@
----
-title: "Mail Boxes Etc"
-url: /graz/mail-boxes-etc-neutorgasse/
-shop: Schreibwaren
----

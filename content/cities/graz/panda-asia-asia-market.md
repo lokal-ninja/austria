@@ -1,5 +1,5 @@
 ---
 title: "Panda Asia (Asia Market)"
 url: /graz/panda-asia-asia-market/
-shop: Supermarkt
+shop: Lebensmittel
 ---
