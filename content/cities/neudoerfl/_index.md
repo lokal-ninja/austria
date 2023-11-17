@@ -1,6 +1,6 @@
 ---
 title: Neudörfl
 url: /neudoerfl/
-latitude: 47.802
-longitude: 16.277
+latitude: 47.797
+longitude: 16.295
 ---

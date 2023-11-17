@@ -1,6 +1,6 @@
 ---
 title: Breitenbrunn
 url: /breitenbrunn/
-latitude: 47.917
-longitude: 16.765
+latitude: 47.916
+longitude: 16.768
 ---

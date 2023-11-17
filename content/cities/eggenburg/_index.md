@@ -1,6 +1,6 @@
 ---
 title: Eggenburg
 url: /eggenburg/
-latitude: 48.642
-longitude: 15.818
+latitude: 48.645
+longitude: 15.814
 ---
