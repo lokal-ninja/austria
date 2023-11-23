@@ -1,5 +1,5 @@
 ---
 title: "HOBI"
 url: /teesdorf/hobi/
-shop: Allgemein
+shop: Sanitätshaus
 ---

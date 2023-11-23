@@ -1,6 +1,6 @@
 ---
 title: Fließ
 url: /fliess/
-latitude: 47.12
-longitude: 10.629
+latitude: 47.125
+longitude: 10.588
 ---

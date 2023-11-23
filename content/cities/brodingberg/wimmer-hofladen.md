@@ -1,5 +1,5 @@
 ---
 title: "Wimmer Hofladen"
 url: /brodingberg/wimmer-hofladen/
-shop: Allgemein
+shop: Hofladen
 ---

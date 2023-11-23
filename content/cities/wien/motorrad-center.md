@@ -1,5 +1,5 @@
 ---
 title: "Motorrad Center"
 url: /wien/motorrad-center/
-shop: Allgemein
+shop: Motorrad
 ---

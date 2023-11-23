@@ -1,5 +1,5 @@
 ---
 title: "Wirtex Frottierwarenfabrik"
 url: /gastern/wirtex-frottierwarenfabrik/
-shop: Allgemein
+shop: Textil
 ---

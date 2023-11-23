@@ -1,5 +1,5 @@
 ---
 title: "Baier's Enkel"
 url: /wien/baiers-enkel/
-shop: Allgemein
+shop: Baumarkt
 ---

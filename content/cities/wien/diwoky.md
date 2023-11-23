@@ -1,5 +1,5 @@
 ---
 title: "Diwoky"
 url: /wien/diwoky/
-shop: Allgemein
+shop: Garten-Center
 ---

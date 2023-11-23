@@ -1,6 +1,6 @@
 ---
 title: Leutschach
 url: /leutschach/
-latitude: 46.663
+latitude: 46.664
 longitude: 15.47
 ---
