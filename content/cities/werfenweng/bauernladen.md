@@ -1,5 +1,5 @@
 ---
 title: "Bauernladen"
 url: /werfenweng/bauernladen/
-shop: Allgemein
+shop: Hofladen
 ---
