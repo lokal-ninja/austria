@@ -1,6 +1,6 @@
 ---
 title: Fußach
 url: /fussach/
-latitude: 47.477
-longitude: 9.665
+latitude: 47.478
+longitude: 9.664
 ---

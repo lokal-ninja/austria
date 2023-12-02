@@ -1,6 +1,6 @@
 ---
 title: Werndorf
 url: /werndorf/
-latitude: 46.924
+latitude: 46.922
 longitude: 15.481
 ---
