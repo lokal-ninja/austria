@@ -1,5 +1,5 @@
 ---
-title: "Tedi"
+title: "TEDi"
 url: /ansfelden/tedi/
 shop: Kramladen
 ---
