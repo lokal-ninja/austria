@@ -1,6 +1,6 @@
 ---
 title: Stanzach
 url: /stanzach/
-latitude: 47.385
+latitude: 47.384
 longitude: 10.561
 ---

@@ -1,6 +1,6 @@
 ---
 title: Höfen
 url: /hoefen/
-latitude: 47.473
-longitude: 10.688
+latitude: 47.471
+longitude: 10.687
 ---

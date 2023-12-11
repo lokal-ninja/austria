@@ -1,6 +1,6 @@
 ---
 title: Zwingendorf
 url: /zwingendorf/
-latitude: 48.705
-longitude: 16.241
+latitude: 48.706
+longitude: 16.239
 ---
