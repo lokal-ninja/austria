@@ -1,6 +1,6 @@
 ---
 title: Zirl
 url: /zirl/
-latitude: 47.267
-longitude: 11.229
+latitude: 47.271
+longitude: 11.253
 ---

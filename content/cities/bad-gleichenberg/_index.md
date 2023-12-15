@@ -1,6 +1,6 @@
 ---
 title: Bad Gleichenberg
 url: /bad-gleichenberg/
-latitude: 46.88
-longitude: 15.91
+latitude: 46.871
+longitude: 15.903
 ---

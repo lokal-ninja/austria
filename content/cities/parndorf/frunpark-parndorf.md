@@ -1,5 +1,5 @@
 ---
 title: "FRUNPARK Parndorf"
 url: /parndorf/frunpark-parndorf/
-shop: Einkaufszentrum
+shop: Leerstehend
 ---
