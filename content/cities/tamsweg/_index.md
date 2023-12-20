@@ -1,6 +1,6 @@
 ---
 title: Tamsweg
 url: /tamsweg/
-latitude: 47.127
-longitude: 13.81
+latitude: 47.128
+longitude: 13.809
 ---
