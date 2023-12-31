@@ -1,6 +1,6 @@
 ---
 title: Eisenstadt
 url: /eisenstadt/
-latitude: 47.828
-longitude: 16.524
+latitude: 47.846
+longitude: 16.528
 ---

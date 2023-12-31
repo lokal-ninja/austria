@@ -1,11 +1,11 @@
-id: 4031227335
-type: node
-latitude: 48.22608
-longitude: 16.3452
-postcode: "1180"
+id: 1165180060
+type: way
+latitude: 48.13791
+longitude: 16.2782
+postcode: "1230"
 city: Wien
-street: "Währinger Straße"
-housenumber: 108
-phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:30-17:00"
-website: "https://www.salamander.at/"
+street: "Breitenfurter Straße"
+housenumber: 372/14
+phone: "+43 (1) 815 85 08-1261"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
+website: ""

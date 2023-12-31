@@ -1,6 +1,6 @@
 ---
 title: Gerlos
 url: /gerlos/
-latitude: 47.225
-longitude: 12.035
+latitude: 47.212
+longitude: 12.002
 ---
