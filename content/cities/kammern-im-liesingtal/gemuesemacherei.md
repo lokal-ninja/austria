@@ -1,5 +1,5 @@
 ---
 title: "Gemüsemacherei"
 url: /kammern-im-liesingtal/gemuesemacherei/
-shop: Supermarkt
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ottenschlag
 url: /ottenschlag/
-latitude: 48.421
-longitude: 15.223
+latitude: 48.424
+longitude: 15.219
 ---
