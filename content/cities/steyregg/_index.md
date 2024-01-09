@@ -1,6 +1,6 @@
 ---
 title: Steyregg
 url: /steyregg/
-latitude: 48.285
-longitude: 14.369
+latitude: 48.281
+longitude: 14.372
 ---

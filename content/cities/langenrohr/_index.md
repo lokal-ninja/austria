@@ -1,6 +1,6 @@
 ---
 title: Langenrohr
 url: /langenrohr/
-latitude: 48.321
-longitude: 16.021
+latitude: 48.318
+longitude: 16.017
 ---
