@@ -1,5 +1,5 @@
 ---
-title: "Metro"
+title: "METRO"
 url: /wels/metro/
-shop: Supermarkt
+shop: Großhandel
 ---
