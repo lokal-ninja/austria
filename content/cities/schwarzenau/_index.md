@@ -1,6 +1,6 @@
 ---
 title: Schwarzenau
 url: /schwarzenau/
-latitude: 48.742
-longitude: 15.258
+latitude: 48.74
+longitude: 15.259
 ---

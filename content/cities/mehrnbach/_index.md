@@ -1,6 +1,6 @@
 ---
 title: Mehrnbach
 url: /mehrnbach/
-latitude: 48.217
-longitude: 13.443
+latitude: 48.208
+longitude: 13.437
 ---
