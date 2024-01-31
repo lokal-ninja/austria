@@ -1,6 +1,6 @@
 ---
 title: Langenstein
 url: /langenstein/
-latitude: 48.255
-longitude: 14.467
+latitude: 48.253
+longitude: 14.475
 ---

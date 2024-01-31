@@ -1,5 +1,5 @@
 ---
 title: "Citykauf"
 url: /leibnitz/citykauf/
-shop: Einkaufszentrum
+shop: Leerstehend
 ---
