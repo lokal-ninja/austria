@@ -1,6 +1,6 @@
 ---
 title: Alkoven
 url: /alkoven/
-latitude: 48.288
-longitude: 14.116
+latitude: 48.289
+longitude: 14.113
 ---
