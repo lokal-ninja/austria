@@ -1,6 +1,6 @@
 ---
 title: Sankt Gallen
 url: /sankt-gallen/
-latitude: 47.691
-longitude: 14.617
+latitude: 47.69
+longitude: 14.616
 ---

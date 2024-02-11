@@ -1,5 +1,5 @@
 ---
-title: "Maß- und Änderungsschneiderei"
+title: "Mass- und Änderungsschneiderei"
 url: /wien/mass-und-aenderungsschneiderei/
-shop: Schneiderei
+shop: Allgemein
 ---
