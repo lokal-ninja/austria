@@ -1,6 +1,6 @@
 ---
 title: Piringsdorf
 url: /piringsdorf/
-latitude: 47.448
-longitude: 16.419
+latitude: 47.447
+longitude: 16.416
 ---
