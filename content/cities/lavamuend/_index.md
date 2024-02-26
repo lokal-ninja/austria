@@ -1,6 +1,6 @@
 ---
 title: Lavamünd
 url: /lavamuend/
-latitude: 46.641
-longitude: 14.948
+latitude: 46.642
+longitude: 14.941
 ---

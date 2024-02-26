@@ -1,6 +1,6 @@
 ---
 title: Bad Loipersdorf
 url: /bad-loipersdorf/
-latitude: 47.026
-longitude: 16.09
+latitude: 47.032
+longitude: 16.089
 ---

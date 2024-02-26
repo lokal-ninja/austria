@@ -1,5 +1,5 @@
 ---
-title: "BIPA"
+title: "Bipa"
 url: /laengenfeld/bipa/
 shop: Drogerie
 ---
