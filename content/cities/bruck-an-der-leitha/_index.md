@@ -1,6 +1,6 @@
 ---
 title: Bruck an der Leitha
 url: /bruck-an-der-leitha/
-latitude: 48.025
-longitude: 16.779
+latitude: 48.023
+longitude: 16.778
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hartlauer"
 url: /kindberg/hartlauer/
-shop: Optiker
+shop: Elektronik
 ---
