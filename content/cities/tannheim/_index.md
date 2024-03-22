@@ -1,6 +1,6 @@
 ---
 title: Tannheim
 url: /tannheim/
-latitude: 47.501
-longitude: 10.517
+latitude: 47.499
+longitude: 10.516
 ---
