@@ -1,6 +1,6 @@
 ---
 title: St. Marien
 url: /st-marien/
-latitude: 48.129
-longitude: 14.307
+latitude: 48.154
+longitude: 14.266
 ---

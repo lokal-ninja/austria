@@ -1,6 +1,6 @@
 ---
 title: Weistrach
 url: /weistrach/
-latitude: 48.055
-longitude: 14.584
+latitude: 48.054
+longitude: 14.586
 ---

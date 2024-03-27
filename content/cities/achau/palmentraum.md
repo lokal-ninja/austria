@@ -1,5 +1,5 @@
 ---
 title: "Palmentraum"
 url: /achau/palmentraum/
-shop: Allgemein
+shop: Garten-Center
 ---
