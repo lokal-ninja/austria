@@ -1,6 +1,6 @@
 ---
 title: Wolfern
 url: /wolfern/
-latitude: 48.075
-longitude: 14.391
+latitude: 48.098
+longitude: 14.367
 ---

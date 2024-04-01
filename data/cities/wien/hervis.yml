@@ -1,11 +1,11 @@
-id: 2278424098
+id: 2278213643
 type: node
-latitude: 48.24208
-longitude: 16.43656
-postcode: "1220"
+latitude: 48.21352
+longitude: 16.3121
+postcode: "1160"
 city: Wien
-street: "Donaustadtstraße"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://www.donauzentrum.at/W/do/centre/shop-detail-hervis_sport"
+street: "Ottakringer Straße"
+housenumber: 183
+phone: "+43 1 48 62 61 0"
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-17:00"
+website: "https://www.hervis.at/store/store-finder"
