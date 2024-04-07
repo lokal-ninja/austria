@@ -1,6 +1,6 @@
 ---
 title: Tobaj
 url: /tobaj/
-latitude: 47.109
-longitude: 16.286
+latitude: 47.103
+longitude: 16.296
 ---
