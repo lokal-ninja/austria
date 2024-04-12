@@ -1,6 +1,6 @@
 ---
 title: Globasnitz
 url: /globasnitz/
-latitude: 46.556
-longitude: 14.701
+latitude: 46.573
+longitude: 14.71
 ---
