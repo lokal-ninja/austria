@@ -1,6 +1,6 @@
 ---
 title: Matrei am Brenner
 url: /matrei-am-brenner/
-latitude: 47.122
-longitude: 11.45
+latitude: 47.131
+longitude: 11.453
 ---
