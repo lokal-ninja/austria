@@ -1,6 +1,6 @@
 ---
 title: Greinsfurth
 url: /greinsfurth/
-latitude: 48.11
-longitude: 14.839
+latitude: 48.106
+longitude: 14.833
 ---

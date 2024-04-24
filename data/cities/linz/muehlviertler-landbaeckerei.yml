@@ -1,11 +1,11 @@
-id: 2638295357
+id: 634647133
 type: node
-latitude: 48.28413
-longitude: 14.31956
-postcode: "4020"
+latitude: 48.33393
+longitude: 14.29902
+postcode: "4040"
 city: Linz
-street: "Stahlstraße"
-housenumber: 2-4
-phone: ""
-opening_hours: "Mo-Th 05:30-17:00; Fr 05:30-15:00; Sa 05:30-12:00; PH off"
-website: "https://www.mlb.at/"
+street: "Griesmayrstraße"
+housenumber: 19
+phone: "+43 732 243 504"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 07:00-11:00"
+website: "https://mlb.at/"
