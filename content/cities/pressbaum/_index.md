@@ -1,6 +1,6 @@
 ---
 title: Pressbaum
 url: /pressbaum/
-latitude: 48.181
-longitude: 16.08
+latitude: 48.18
+longitude: 16.078
 ---

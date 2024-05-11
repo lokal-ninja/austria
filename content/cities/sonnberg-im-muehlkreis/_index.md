@@ -1,6 +1,6 @@
 ---
 title: Sonnberg im Mühlkreis
 url: /sonnberg-im-muehlkreis/
-latitude: 48.437
-longitude: 14.293
+latitude: 48.438
+longitude: 14.294
 ---
