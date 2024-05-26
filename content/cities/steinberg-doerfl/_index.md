@@ -1,6 +1,6 @@
 ---
 title: Steinberg-Dörfl
 url: /steinberg-doerfl/
-latitude: 47.475
-longitude: 16.487
+latitude: 47.482
+longitude: 16.489
 ---

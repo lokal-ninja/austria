@@ -1,6 +1,6 @@
 ---
 title: Wildermieming
 url: /wildermieming/
-latitude: 47.315
-longitude: 11.018
+latitude: 47.318
+longitude: 11.005
 ---

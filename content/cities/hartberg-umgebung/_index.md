@@ -1,6 +1,6 @@
 ---
 title: Hartberg Umgebung
 url: /hartberg-umgebung/
-latitude: 47.271
-longitude: 15.959
+latitude: 47.269
+longitude: 15.952
 ---

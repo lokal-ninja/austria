@@ -1,6 +1,6 @@
 ---
 title: Aurach bei Kitzbühel
 url: /aurach-bei-kitzbuehel/
-latitude: 47.413
-longitude: 12.455
+latitude: 47.411
+longitude: 12.428
 ---
