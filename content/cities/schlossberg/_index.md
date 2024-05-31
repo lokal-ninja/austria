@@ -1,6 +1,6 @@
 ---
-title: Schlossberg
+title: Schloßberg
 url: /schlossberg/
 latitude: 46.659
-longitude: 15.469
+longitude: 15.468
 ---

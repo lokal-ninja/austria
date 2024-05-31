@@ -1,11 +1,11 @@
-id: 29161804
-type: way
-latitude: 48.25476
-longitude: 14.28341
-postcode: "4030"
+id: 11939987268
+type: node
+latitude: 48.29709
+longitude: 14.29131
+postcode: "4020"
 city: Linz
-street: "Salzburger Straße"
-housenumber: 266
+street: "Schillerplatz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: ""
 website: ""
