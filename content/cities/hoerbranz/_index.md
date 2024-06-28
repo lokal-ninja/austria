@@ -1,6 +1,6 @@
 ---
 title: Hörbranz
 url: /hoerbranz/
-latitude: 47.554
+latitude: 47.543
 longitude: 9.751
 ---

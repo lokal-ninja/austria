@@ -1,6 +1,6 @@
 ---
 title: Hauskirchen
 url: /hauskirchen/
-latitude: 48.615
-longitude: 16.757
+latitude: 48.614
+longitude: 16.76
 ---

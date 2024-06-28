@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
 url: /gleinstaetten/lagerhaus/
-shop: Haushaltsartikel
+shop: Baumarkt
 ---

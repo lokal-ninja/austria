@@ -1,6 +1,6 @@
 ---
 title: Alpbach
 url: /alpbach/
-latitude: 47.398
-longitude: 11.944
+latitude: 47.399
+longitude: 11.942
 ---

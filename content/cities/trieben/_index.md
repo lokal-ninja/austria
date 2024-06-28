@@ -1,6 +1,6 @@
 ---
 title: Trieben
 url: /trieben/
-latitude: 47.488
-longitude: 14.488
+latitude: 47.486
+longitude: 14.487
 ---
