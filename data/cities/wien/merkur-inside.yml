@@ -1,11 +1,11 @@
-id: 6379540905
-type: node
-latitude: 48.19153
-longitude: 16.27983
-postcode: "1130"
+id: 29780596
+type: way
+latitude: 48.1562
+longitude: 16.34186
+postcode: "1100"
 city: Wien
-street: "Hietzinger Kai"
-housenumber: 133-135
+street: "Triester Straße"
+housenumber: 153
 phone: ""
-opening_hours: "24/7"
+opening_hours: "Mo-Su,PH 00:00-24:00"
 website: ""

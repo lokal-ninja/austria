@@ -1,5 +1,5 @@
 ---
-title: "MERKUR inside"
+title: "Merkur inside"
 url: /wien/merkur-inside/
-shop: Supermarkt
+shop: Lebensmittel
 ---
