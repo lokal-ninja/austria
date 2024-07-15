@@ -1,5 +1,5 @@
 ---
-title: "ecco"
+title: "Ecco"
 url: /innsbruck/ecco/
-shop: Kleidung
+shop: Schuhe
 ---

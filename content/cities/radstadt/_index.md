@@ -1,6 +1,6 @@
 ---
 title: Radstadt
 url: /radstadt/
-latitude: 47.379
-longitude: 13.473
+latitude: 47.385
+longitude: 13.458
 ---
