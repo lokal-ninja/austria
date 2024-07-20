@@ -1,6 +1,6 @@
 ---
 title: Eben am Achensee
 url: /eben-am-achensee/
-latitude: 47.44
-longitude: 11.703
+latitude: 47.424
+longitude: 11.752
 ---
