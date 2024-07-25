@@ -1,5 +1,5 @@
 ---
-title: "Krawany Spiel"
+title: "KRAWANY Spiel"
 url: /moedling/krawany-spiel/
 shop: Spielzeug
 ---
