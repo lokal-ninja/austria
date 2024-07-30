@@ -1,11 +1,11 @@
-id: 10052494352
-type: node
-latitude: 48.20644
-longitude: 16.38487
+id: 587589341
+type: way
+latitude: 48.20695
+longitude: 16.38442
 postcode: "1030"
 city: Wien
 street: "Landstraßer Hauptstraße"
 housenumber: 1b/Top 201
-phone: "01/54 6 99"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
-website: ""
+phone: "+43 5 700 9999"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: "https://www.mediamarkt.at/de/store/wien-mitte-1220"
