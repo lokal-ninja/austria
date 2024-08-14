@@ -1,6 +1,6 @@
 ---
 title: Geras
 url: /geras/
-latitude: 48.797
+latitude: 48.798
 longitude: 15.673
 ---
