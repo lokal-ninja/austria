@@ -1,11 +1,11 @@
-id: 8769867738
-type: node
-latitude: 48.21872
-longitude: 16.39168
-postcode: "1020"
+id: 409444911
+type: way
+latitude: 48.20655
+longitude: 16.36008
+postcode: "1010"
 city: Wien
 street: ""
 housenumber: 
-phone: "+43 1 9054542"
-opening_hours: "Mo-Fr 06:00-19:00; PH,Sa,Su 07:00-18:00"
-website: "https://www.ankerbrot.at/"
+phone: "004315261585"
+opening_hours: "Mo-Fr 05:00-19:00; Sa,Su,PH 05:00-18:00"
+website: ""

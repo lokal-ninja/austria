@@ -1,5 +1,5 @@
 ---
 title: "Libro"
 url: /klagenfurt-viktring/libro/
-shop: Schreibwaren
+shop: Bücher
 ---

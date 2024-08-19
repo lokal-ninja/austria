@@ -1,11 +1,11 @@
-id: 1467055080
-type: node
-latitude: 48.22512
-longitude: 16.36154
-postcode: "1090"
+id: 1165180010
+type: way
+latitude: 48.13729
+longitude: 16.27852
+postcode: "1230"
 city: Wien
-street: "Porzellangasse"
-housenumber: 53
+street: "Breitenfurter Straße"
+housenumber: 372/114
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-13:00; Su,PH off"
+website: "https://www.tui.at/"

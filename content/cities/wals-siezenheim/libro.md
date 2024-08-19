@@ -1,5 +1,5 @@
 ---
-title: "LiBRO"
+title: "Libro"
 url: /wals-siezenheim/libro/
-shop: Schreibwaren
+shop: Bücher
 ---
