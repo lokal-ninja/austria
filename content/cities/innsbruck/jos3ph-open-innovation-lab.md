@@ -1,5 +1,5 @@
 ---
-title: "JOS3PH – Open Innovation Lab"
+title: "JOS3PH - Open Innovation Lab"
 url: /innsbruck/jos3ph-open-innovation-lab/
 shop: Bücher
 ---

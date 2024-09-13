@@ -1,6 +1,6 @@
 ---
 title: Engelhartszell
 url: /engelhartszell/
-latitude: 48.507
-longitude: 13.732
+latitude: 48.506
+longitude: 13.733
 ---

@@ -1,11 +1,11 @@
-id: 182670477
-type: way
-latitude: 47.07511
-longitude: 15.41238
-postcode: "8020"
+id: 12158659299
+type: node
+latitude: 47.03837
+longitude: 15.4863
+postcode: "8042"
 city: Graz
-street: "Starhemberggasse"
-housenumber: 4
+street: "Sankt-Peter-Gürtel"
+housenumber: 25
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.myplace.at/graz"
+opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-13:00"
+website: ""

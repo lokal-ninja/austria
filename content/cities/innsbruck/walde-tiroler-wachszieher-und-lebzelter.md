@@ -1,5 +1,5 @@
 ---
-title: "Walde – Tiroler Wachszieher und Lebzelter"
+title: "Walde - Tiroler Wachszieher und Lebzelter"
 url: /innsbruck/walde-tiroler-wachszieher-und-lebzelter/
 shop: Kerzen
 ---
