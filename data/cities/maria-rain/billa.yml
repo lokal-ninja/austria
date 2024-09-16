@@ -1,11 +1,11 @@
 id: 122107687
-type: way
+type: node
 latitude: 46.56011
 longitude: 14.28212
 postcode: "9161"
 city: Maria Rain
-street: "Göltschacher Straße"
-housenumber: 2
+street: Göltschacher Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 609899726
-type: way
+type: node
 latitude: 48.38995
 longitude: 16.19396
 postcode: "2000"
 city: Stockerau
-street: "Pragerstraße"
-housenumber: 30
+street: Pragerstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

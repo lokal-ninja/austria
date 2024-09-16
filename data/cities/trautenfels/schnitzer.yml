@@ -1,11 +1,11 @@
 id: 401482385
-type: way
+type: node
 latitude: 47.50911
 longitude: 14.05359
 postcode: "8951"
 city: Trautenfels
 street: ""
-housenumber: 67
-phone: "+43 3682 24488"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30"
-website: "https://www.auto-schnitzer.at/"
+housenumber: "67"
+phone: +43 3682 24488
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30
+website: https://www.auto-schnitzer.at/

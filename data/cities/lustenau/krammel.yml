@@ -4,8 +4,9 @@ latitude: 47.41825
 longitude: 9.66341
 postcode: "6890"
 city: Lustenau
-street: "Dornbirner Straße"
+street: Dornbirner Straße
 housenumber: 16a
-phone: "+43 5577 82925"
-opening_hours: "Mo-Fr 09:00-12:00, Mo-We 14:00-17:30, Fr 14:00-17:30, Sa 08:00-12:00; PH off"
-website: "https://krammel.co.at/"
+phone: +43 5577 82925
+opening_hours: Mo-Fr 09:00-12:00, Mo-We 14:00-17:30, Fr 14:00-17:30, Sa 08:00-12:00;
+    PH off
+website: https://krammel.co.at/

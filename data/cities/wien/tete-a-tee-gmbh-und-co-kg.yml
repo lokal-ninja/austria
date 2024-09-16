@@ -4,8 +4,10 @@ latitude: 48.17847
 longitude: 16.2839
 postcode: "1130"
 city: Wien
-street: "Lainzer Straße"
-housenumber: 130
+street: Lainzer Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Sep-Jun Mo 10:00-18:00; Tu off; We 13:00-18:30; Th-Fr 10:00-19:00; Sa 10:00-14:00; Su off; Jul-Aug Mo 10:00-18:00; Tu off; We 13:00-18:30; Th-Fr 10:00-19:00; Sa 10:00-14:00; Su off"
-website: "http://www.teesalon.at/index.lasso"
+opening_hours: Sep-Jun Mo 10:00-18:00; Tu off; We 13:00-18:30; Th-Fr 10:00-19:00;
+    Sa 10:00-14:00; Su off; Jul-Aug Mo 10:00-18:00; Tu off; We 13:00-18:30; Th-Fr
+    10:00-19:00; Sa 10:00-14:00; Su off
+website: http://www.teesalon.at/index.lasso

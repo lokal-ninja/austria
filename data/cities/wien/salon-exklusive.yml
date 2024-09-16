@@ -4,8 +4,8 @@ latitude: 48.22703
 longitude: 16.34215
 postcode: "1180"
 city: Wien
-street: "Martinstraße"
-housenumber: 97
+street: Martinstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-14:00
 website: ""

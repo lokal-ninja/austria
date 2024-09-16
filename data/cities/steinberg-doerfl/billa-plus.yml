@@ -1,11 +1,11 @@
 id: 1240771799
-type: way
+type: node
 latitude: 47.49151
 longitude: 16.49135
 postcode: "7453"
 city: Steinberg-Dörfl
-street: "Businesspark"
-housenumber: 3
+street: Businesspark
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

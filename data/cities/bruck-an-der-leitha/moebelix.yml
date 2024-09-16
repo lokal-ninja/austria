@@ -1,11 +1,11 @@
 id: 136274916
-type: way
+type: node
 latitude: 48.03668
 longitude: 16.80863
 postcode: "2460"
 city: Bruck an der Leitha
-street: "Eco-Plus Park 4.Straße"
-housenumber: 6
+street: Eco-Plus Park 4.Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

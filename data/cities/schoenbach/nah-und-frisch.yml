@@ -1,11 +1,11 @@
 id: 233181272
-type: way
+type: node
 latitude: 48.45302
 longitude: 15.04213
 postcode: "3633"
 city: Schönbach
 street: ""
-housenumber: 106
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

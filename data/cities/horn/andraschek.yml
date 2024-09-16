@@ -4,8 +4,8 @@ latitude: 48.66404
 longitude: 15.6565
 postcode: "3580"
 city: Horn
-street: "Hauptplatz"
-housenumber: 15
+street: Hauptplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 14:00-18:00, Mo-Fr 09:00-12:00, We 09:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 14:00-18:00, Mo-Fr 09:00-12:00, We 09:00-12:00
 website: ""

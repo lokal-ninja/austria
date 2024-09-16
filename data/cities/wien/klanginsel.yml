@@ -4,8 +4,8 @@ latitude: 48.19887
 longitude: 16.35232
 postcode: "1060"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 61
-phone: "+43 06604629999"
-opening_hours: "Mo-Fr 09:00-19:00"
+street: Mariahilfer Straße
+housenumber: "61"
+phone: +43 06604629999
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

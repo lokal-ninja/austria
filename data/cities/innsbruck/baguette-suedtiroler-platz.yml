@@ -4,8 +4,8 @@ latitude: 47.26356
 longitude: 11.40041
 postcode: "6020"
 city: Innsbruck
-street: "Südtiroler Platz"
-housenumber: 3
-phone: "+43 50322 926068"
-opening_hours: "Mo-Sa 06:00-20:00; Su 06:00-20:30"
-website: "https://www.baguette.at/handel/baguette/innsbruck-suedtiroler-platz-3.html"
+street: Südtiroler Platz
+housenumber: "3"
+phone: +43 50322 926068
+opening_hours: Mo-Sa 06:00-20:00; Su 06:00-20:30
+website: https://www.baguette.at/handel/baguette/innsbruck-suedtiroler-platz-3.html

@@ -4,8 +4,8 @@ latitude: 48.18621
 longitude: 16.29898
 postcode: "1130"
 city: Wien
-street: "Hietzinger Hauptstraße"
-housenumber: 17
+street: Hietzinger Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:40-19:30; Sa 07:40-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:40-19:30; Sa 07:40-18:00
+website: https://www.spar.at/

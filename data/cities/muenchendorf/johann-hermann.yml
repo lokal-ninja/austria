@@ -1,11 +1,11 @@
 id: 158532195
-type: way
+type: node
 latitude: 48.03469
 longitude: 16.38187
 postcode: "2482"
 city: Münchendorf
-street: "Siedlerstraße"
-housenumber: 20
+street: Siedlerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

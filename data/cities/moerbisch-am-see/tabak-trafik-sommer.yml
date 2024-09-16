@@ -1,11 +1,11 @@
 id: 266877804
-type: way
+type: node
 latitude: 47.7557
 longitude: 16.66596
 postcode: "7072"
 city: Mörbisch am See
-street: "Hauerstraße"
-housenumber: 11
+street: Hauerstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

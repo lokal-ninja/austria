@@ -1,11 +1,11 @@
 id: 494681724
-type: way
+type: node
 latitude: 48.02967
 longitude: 14.71056
 postcode: "3353"
 city: Biberbach
-street: "Im Ort"
-housenumber: 280
+street: Im Ort
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

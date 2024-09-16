@@ -1,11 +1,11 @@
 id: 108096066
-type: way
+type: node
 latitude: 46.85442
 longitude: 15.41143
 postcode: "8504"
 city: Preding
-street: "Gewerbepark Ost"
-housenumber: 4
+street: Gewerbepark Ost
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

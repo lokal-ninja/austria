@@ -1,11 +1,11 @@
 id: 143830271
-type: way
+type: node
 latitude: 48.35506
 longitude: 14.14468
 postcode: "4111"
 city: Walding
-street: "Mühlkreisbahnstraße"
-housenumber: 26
+street: Mühlkreisbahnstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

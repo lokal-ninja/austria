@@ -4,8 +4,8 @@ latitude: 47.26229
 longitude: 11.37083
 postcode: "6020"
 city: Innsbruck
-street: "Fürstenweg"
-housenumber: 84
-phone: "+43 512 282310"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30; PH off"
-website: "https://www.tyrol-pneu.at/"
+street: Fürstenweg
+housenumber: "84"
+phone: +43 512 282310
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30; PH off
+website: https://www.tyrol-pneu.at/

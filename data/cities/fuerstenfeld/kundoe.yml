@@ -1,11 +1,11 @@
 id: 195193997
-type: way
+type: node
 latitude: 47.0509
 longitude: 16.07728
 postcode: "8280"
 city: Fürstenfeld
-street: "Hauptplatz"
-housenumber: 9
-phone: "+433382 523 03-0"
+street: Hauptplatz
+housenumber: "9"
+phone: +433382 523 03-0
 opening_hours: ""
 website: ""

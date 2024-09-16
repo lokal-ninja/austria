@@ -4,8 +4,8 @@ latitude: 48.21109
 longitude: 16.38984
 postcode: "1030"
 city: Wien
-street: "Radetzkystraße"
-housenumber: 17
-phone: "+43 1 9611318"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Radetzkystraße
+housenumber: "17"
+phone: +43 1 9611318
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

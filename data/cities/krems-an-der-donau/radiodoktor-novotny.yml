@@ -4,8 +4,8 @@ latitude: 48.40786
 longitude: 15.60202
 postcode: "3500"
 city: Krems an der Donau
-street: "Edmund-Hofbauer-Straße"
-housenumber: 5
-phone: "+43 2732 855 97"
-opening_hours: "Mo-Th 09:00-12:30, 15:00-17:00; Fr 09:00-15:00; PH off"
-website: "https://www.redzac.at/novotny/info/Home"
+street: Edmund-Hofbauer-Straße
+housenumber: "5"
+phone: +43 2732 855 97
+opening_hours: Mo-Th 09:00-12:30, 15:00-17:00; Fr 09:00-15:00; PH off
+website: https://www.redzac.at/novotny/info/Home

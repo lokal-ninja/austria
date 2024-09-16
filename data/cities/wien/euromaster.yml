@@ -4,8 +4,8 @@ latitude: 48.25282
 longitude: 16.42557
 postcode: "1210"
 city: Wien
-street: "Donaufelder Straße"
-housenumber: 133
+street: Donaufelder Straße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Jul-Aug: Sa off"
+opening_hours: 'Mo-Fr 08:00-12:00,13:00-17:00; Jul-Aug: Sa off'
 website: ""

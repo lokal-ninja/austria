@@ -1,11 +1,11 @@
 id: 108624543
-type: way
+type: node
 latitude: 47.79685
 longitude: 13.30141
 postcode: "5330"
 city: Fuschl am See
-street: "Dorfstraße"
-housenumber: 2
-phone: "+43 62268539"
+street: Dorfstraße
+housenumber: "2"
+phone: +43 62268539
 opening_hours: ""
-website: "https://www.textileswohnen.at"
+website: https://www.textileswohnen.at

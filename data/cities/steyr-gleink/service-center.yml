@@ -1,11 +1,11 @@
 id: 544284324
-type: way
+type: node
 latitude: 48.06652
 longitude: 14.42056
 postcode: "4407"
 city: Steyr-Gleink
-street: "Gleinker Hauptstraße"
-housenumber: 
+street: Gleinker Hauptstraße
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.28643
 longitude: 9.58623
 postcode: "6830"
 city: Rankweil
-street: "Unterer Paspelsweg"
-housenumber: 11
+street: Unterer Paspelsweg
+housenumber: "11"
 phone: ""
-opening_hours: "call us"
+opening_hours: '"call us"'
 website: ""

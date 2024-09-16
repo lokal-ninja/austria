@@ -1,11 +1,11 @@
 id: 183708769
-type: way
+type: node
 latitude: 48.03584
 longitude: 14.39905
 postcode: "4400"
 city: Steyr
-street: "Aschacher Straße"
-housenumber: 25
+street: Aschacher Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

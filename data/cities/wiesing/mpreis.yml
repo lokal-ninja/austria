@@ -1,11 +1,11 @@
 id: 444329717
-type: way
+type: node
 latitude: 47.40531
 longitude: 11.80341
 postcode: "6210"
 city: Wiesing
 street: ""
-housenumber: 103
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://www.mpreis.at/"
+website: https://www.mpreis.at/

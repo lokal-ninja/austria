@@ -4,8 +4,8 @@ latitude: 48.18406
 longitude: 16.33419
 postcode: "1120"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 223
-phone: "+43 664 1111 881"
-opening_hours: "Mo-Sa 09:00-19:00; Su,PH off"
-website: "https://cocoasian.com/"
+street: Schönbrunner Straße
+housenumber: "223"
+phone: +43 664 1111 881
+opening_hours: Mo-Sa 09:00-19:00; Su,PH off
+website: https://cocoasian.com/

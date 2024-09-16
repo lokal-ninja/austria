@@ -1,11 +1,11 @@
 id: 47121121
-type: way
+type: node
 latitude: 47.2658
 longitude: 11.4258
 postcode: "6020"
 city: Innsbruck
-street: "Andechsstraße"
-housenumber: 81
-phone: "+43 (0)512 3320 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.oeamtc.at/tirol"
+street: Andechsstraße
+housenumber: "81"
+phone: +43 (0)512 3320 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.oeamtc.at/tirol

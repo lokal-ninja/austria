@@ -1,11 +1,11 @@
 id: 398043756
-type: way
+type: node
 latitude: 46.8589
 longitude: 15.90252
 postcode: "8344"
 city: Bad Gleichenberg
 street: ""
-housenumber: 36
-phone: "+43 3159 2276"
+housenumber: "36"
+phone: +43 3159 2276
 opening_hours: ""
 website: ""

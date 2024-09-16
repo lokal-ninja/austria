@@ -4,8 +4,8 @@ latitude: 48.29923
 longitude: 14.29068
 postcode: "4020"
 city: Linz
-street: "Hafferlstraße"
-housenumber: 3
-phone: "+43 732 771872"
-opening_hours: "Mo-We 09:00-18:00, Th-Fr 10:00-19:30, Sa 08:00-14:00"
-website: "http://www.lofthaar.at"
+street: Hafferlstraße
+housenumber: "3"
+phone: +43 732 771872
+opening_hours: Mo-We 09:00-18:00, Th-Fr 10:00-19:30, Sa 08:00-14:00
+website: http://www.lofthaar.at

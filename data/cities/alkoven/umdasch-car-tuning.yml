@@ -1,11 +1,11 @@
 id: 531652015
-type: way
+type: node
 latitude: 48.28951
 longitude: 14.12479
 postcode: "4072"
 city: Alkoven
-street: "Glaserstraße"
-housenumber: 5
+street: Glaserstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.umdasch-tuning.at/"
+website: http://www.umdasch-tuning.at/

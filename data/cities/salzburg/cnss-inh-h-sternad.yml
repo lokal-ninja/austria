@@ -1,11 +1,11 @@
 id: 1254648670
-type: way
+type: node
 latitude: 47.80839
 longitude: 13.05109
 postcode: "5020"
 city: Salzburg
-street: "Bayerhamerstraße"
+street: Bayerhamerstraße
 housenumber: 12e
-phone: "+43 662 87 64 91"
-opening_hours: "Mo-Thu 10:00-16:00, Fr 10:00-15:00"
+phone: +43 662 87 64 91
+opening_hours: Mo-Thu 10:00-16:00, Fr 10:00-15:00
 website: ""

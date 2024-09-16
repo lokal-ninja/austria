@@ -4,8 +4,8 @@ latitude: 48.41155
 longitude: 15.60266
 postcode: "3500"
 city: Krems an der Donau
-street: "Untere Landstraße"
-housenumber: 22
-phone: "+43 2732 77239"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://www.more-and-more.de/"
+street: Untere Landstraße
+housenumber: "22"
+phone: +43 2732 77239
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://www.more-and-more.de/

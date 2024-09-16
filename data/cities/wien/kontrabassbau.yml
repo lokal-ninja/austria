@@ -4,8 +4,8 @@ latitude: 48.19327
 longitude: 16.34886
 postcode: "1060"
 city: Wien
-street: "Hirschengasse"
-housenumber: 1
+street: Hirschengasse
+housenumber: "1"
 phone: ""
-opening_hours: "Geöffnet nur nach Terminvereinbarung, open by appointment only"
-website: "http://www.kontrabass-wien.at/"
+opening_hours: '"Geöffnet nur nach Terminvereinbarung, open by appointment only"'
+website: http://www.kontrabass-wien.at/

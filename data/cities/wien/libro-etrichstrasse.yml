@@ -4,8 +4,8 @@ latitude: 48.15488
 longitude: 16.4647
 postcode: "1110"
 city: Wien
-street: "Etrichstraße"
-housenumber: 34
+street: Etrichstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.42658
 longitude: 9.73884
 postcode: "6850"
 city: Dornbirn
-street: "Johann-Georg-Ulmer-Straße"
-housenumber: 6
+street: Johann-Georg-Ulmer-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.farbenlaube.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.farbenlaube.at

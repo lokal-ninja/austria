@@ -1,11 +1,11 @@
 id: 210369039
-type: way
+type: node
 latitude: 47.33174
 longitude: 9.64288
 postcode: "6840"
 city: Götzis
-street: "Doktor-Alfons-Heinzle-Straße"
-housenumber: 3
+street: Doktor-Alfons-Heinzle-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 09:00-12:00, Mo-We,Fr 14:00-17:30; PH off"
-website: "https://modellbau-boeckle.com/"
+opening_hours: Mo-We,Fr,Sa 09:00-12:00, Mo-We,Fr 14:00-17:30; PH off
+website: https://modellbau-boeckle.com/

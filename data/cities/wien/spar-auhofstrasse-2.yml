@@ -4,8 +4,8 @@ latitude: 48.1951
 longitude: 16.26108
 postcode: "1130"
 city: Wien
-street: "Auhofstraße"
-housenumber: 192
+street: Auhofstraße
+housenumber: "192"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:30-19:50; Sa 07:40-18:00
+website: https://www.spar.at/

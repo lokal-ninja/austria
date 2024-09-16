@@ -1,11 +1,11 @@
 id: 137745546
-type: way
+type: node
 latitude: 47.19911
 longitude: 9.69985
 postcode: "6824"
 city: Schlins
-street: "Walgaustraße"
-housenumber: 68
+street: Walgaustraße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

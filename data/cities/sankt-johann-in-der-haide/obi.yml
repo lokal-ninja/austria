@@ -1,11 +1,11 @@
 id: 88834390
-type: way
+type: node
 latitude: 47.28126
 longitude: 16.01706
 postcode: "8295"
 city: Sankt Johann in der Haide
 street: ""
-housenumber: 111
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

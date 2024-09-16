@@ -5,7 +5,7 @@ longitude: 10.14193
 postcode: "6764"
 city: Lech
 street: ""
-housenumber: 115
-phone: "+43 5583 3737"
+housenumber: "115"
+phone: +43 5583 3737
 opening_hours: ""
-website: "http://www.huber-lech.at"
+website: http://www.huber-lech.at

@@ -1,11 +1,11 @@
 id: 36917404
-type: way
+type: node
 latitude: 48.13452
 longitude: 13.94063
 postcode: "4623"
 city: Gunskirchen
-street: "Pichler Straße"
-housenumber: 4
+street: Pichler Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

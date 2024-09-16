@@ -1,11 +1,11 @@
 id: 86866955
-type: way
+type: node
 latitude: 48.48492
 longitude: 13.98185
 postcode: "4120"
 city: Neufelden
-street: "Veldner Straße"
-housenumber: 61
+street: Veldner Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

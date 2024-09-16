@@ -1,11 +1,11 @@
 id: 13709909
-type: way
+type: node
 latitude: 48.22024
 longitude: 16.30653
 postcode: "1160"
 city: Wien
-street: "Sandleitengasse"
-housenumber: 41
+street: Sandleitengasse
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

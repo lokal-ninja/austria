@@ -1,11 +1,11 @@
 id: 494208956
-type: way
+type: node
 latitude: 48.18528
 longitude: 16.41757
 postcode: "1110"
 city: Wien
-street: "Guglgasse"
-housenumber: 6
+street: Guglgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00"
+opening_hours: Mo-Fr 05:30-18:00
 website: ""

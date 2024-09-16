@@ -1,11 +1,11 @@
 id: 66729002
-type: way
+type: node
 latitude: 48.17974
 longitude: 16.36091
 postcode: "1100"
 city: Wien
-street: "Gudrunstraße"
-housenumber: 196
+street: Gudrunstraße
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

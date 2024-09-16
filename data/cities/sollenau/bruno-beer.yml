@@ -4,8 +4,8 @@ latitude: 47.88654
 longitude: 16.2511
 postcode: "2601"
 city: Sollenau
-street: "Wiener Neustädter Straße"
-housenumber: 65
-phone: "+43 2628 62441"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 09:00-12:00"
-website: "https://beer.co.at/"
+street: Wiener Neustädter Straße
+housenumber: "65"
+phone: +43 2628 62441
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 09:00-12:00
+website: https://beer.co.at/

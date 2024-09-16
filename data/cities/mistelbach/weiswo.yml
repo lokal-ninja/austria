@@ -1,11 +1,11 @@
 id: 242366300
-type: way
+type: node
 latitude: 48.56231
 longitude: 16.58465
 postcode: "2130"
 city: Mistelbach
-street: "Industrieparkstraße"
-housenumber: 13
+street: Industrieparkstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

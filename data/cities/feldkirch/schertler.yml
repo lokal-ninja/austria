@@ -4,8 +4,8 @@ latitude: 47.24087
 longitude: 9.57911
 postcode: "6800"
 city: Feldkirch
-street: "Egelseestraße"
-housenumber: 40
-phone: "+43 5522 72427"
-opening_hours: "Mo-Sa 07:00-11:00"
-website: "https://www.schertlerbrot.at/"
+street: Egelseestraße
+housenumber: "40"
+phone: +43 5522 72427
+opening_hours: Mo-Sa 07:00-11:00
+website: https://www.schertlerbrot.at/

@@ -1,11 +1,11 @@
 id: 29161802
-type: way
+type: node
 latitude: 48.25394
 longitude: 14.27916
 postcode: "4020"
 city: Linz
-street: "Wegscheider Straße"
-housenumber: 3
+street: Wegscheider Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://infracenter.at/"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
+website: https://infracenter.at/

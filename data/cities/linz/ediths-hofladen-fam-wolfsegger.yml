@@ -1,11 +1,11 @@
 id: 93470177
-type: way
+type: node
 latitude: 48.33994
 longitude: 14.32848
 postcode: "4040"
 city: Linz
-street: "Altenberger Straße"
-housenumber: 120
-phone: "+43 664 1002225"
+street: Altenberger Straße
+housenumber: "120"
+phone: +43 664 1002225
 opening_hours: ""
-website: "http://www.ediths-hofladen.sta.io/"
+website: http://www.ediths-hofladen.sta.io/

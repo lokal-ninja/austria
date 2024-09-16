@@ -4,8 +4,8 @@ latitude: 48.2069
 longitude: 16.37042
 postcode: "1010"
 city: Wien
-street: "Seilergasse"
-housenumber: 14
+street: Seilergasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:30; Sa 10:30-18:30"
-website: "https://aumaerk.com/de-AT/at/impressum"
+opening_hours: Mo-Fr 10:30-19:30; Sa 10:30-18:30
+website: https://aumaerk.com/de-AT/at/impressum

@@ -4,8 +4,8 @@ latitude: 48.13907
 longitude: 14.22978
 postcode: "4501"
 city: Neuhofen an der Krems
-street: "Gappstraße"
-housenumber: 4
+street: Gappstraße
+housenumber: "4"
 phone: "+43722722422"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH off"
-website: "https://www.netswerk.net/fairteiler/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30; PH off
+website: https://www.netswerk.net/fairteiler/

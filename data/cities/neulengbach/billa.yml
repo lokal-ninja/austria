@@ -1,11 +1,11 @@
 id: 38348393
-type: way
+type: node
 latitude: 48.19225
 longitude: 15.89402
 postcode: "3040"
 city: Neulengbach
-street: "St. Christophener Straße"
-housenumber: 1
+street: St. Christophener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

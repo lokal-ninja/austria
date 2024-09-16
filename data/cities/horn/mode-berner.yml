@@ -4,8 +4,8 @@ latitude: 48.66274
 longitude: 15.65536
 postcode: "3580"
 city: Horn
-street: "Prager Straße"
-housenumber: 7
-phone: "+43 2982 2858"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; Oct-May: Sa 12:00-17:00"
-website: "https://www.mode-berner.at/"
+street: Prager Straße
+housenumber: "7"
+phone: +43 2982 2858
+opening_hours: 'Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; Oct-May: Sa 12:00-17:00'
+website: https://www.mode-berner.at/

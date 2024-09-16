@@ -1,11 +1,11 @@
 id: 230133785
-type: way
+type: node
 latitude: 46.92894
 longitude: 15.25649
 postcode: "8511"
 city: Sankt Stefan ob Stainz
 street: ""
-housenumber: 140
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30, 15:00-18:30; Sa 07:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-12:30, 15:00-18:30; Sa 07:00-12:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.21797
 longitude: 16.16556
 postcode: "3003"
 city: Gablitz
-street: "Friedrich Lintner-Platz"
-housenumber: 1
+street: Friedrich Lintner-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.bipa.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.bipa.at

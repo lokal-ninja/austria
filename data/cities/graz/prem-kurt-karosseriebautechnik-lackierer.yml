@@ -4,8 +4,8 @@ latitude: 47.03415
 longitude: 15.43717
 postcode: "8055"
 city: Graz
-street: "Puchstraße"
-housenumber: 216
-phone: "+43 664 73 04 51 77"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.prem-kfz.at"
+street: Puchstraße
+housenumber: "216"
+phone: +43 664 73 04 51 77
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.prem-kfz.at

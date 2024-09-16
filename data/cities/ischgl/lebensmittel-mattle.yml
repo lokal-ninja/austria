@@ -1,11 +1,11 @@
 id: 85426639
-type: way
+type: node
 latitude: 46.98795
 longitude: 10.24235
 postcode: "6562"
 city: Ischgl
-street: "Mathoner Straße"
-housenumber: 68
+street: Mathoner Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 07:00-10:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 07:00-10:00
 website: ""

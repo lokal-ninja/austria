@@ -1,11 +1,11 @@
 id: 93077358
-type: way
+type: node
 latitude: 47.75945
 longitude: 16.80826
 postcode: "7142"
 city: Illmitz
-street: "Apetlonerstraße"
-housenumber: 40
+street: Apetlonerstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

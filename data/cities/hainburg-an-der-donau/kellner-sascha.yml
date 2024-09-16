@@ -1,11 +1,11 @@
 id: 129918339
-type: way
+type: node
 latitude: 48.14559
 longitude: 16.93944
 postcode: "2410"
 city: Hainburg an der Donau
-street: "Hummelstraße"
-housenumber: 1
+street: Hummelstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

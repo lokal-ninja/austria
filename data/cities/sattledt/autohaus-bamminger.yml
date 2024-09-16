@@ -1,11 +1,11 @@
 id: 140990912
-type: way
+type: node
 latitude: 48.07544
 longitude: 14.04603
 postcode: "4642"
 city: Sattledt
-street: "Sportplatzstraße"
-housenumber: 2
+street: Sportplatzstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

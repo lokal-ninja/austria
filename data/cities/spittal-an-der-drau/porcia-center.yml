@@ -1,11 +1,11 @@
 id: 161911648
-type: way
+type: node
 latitude: 46.79937
 longitude: 13.49523
 postcode: "9800"
 city: Spittal an der Drau
-street: "Rizzistraße"
-housenumber: 4
+street: Rizzistraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

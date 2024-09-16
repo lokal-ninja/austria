@@ -1,11 +1,11 @@
 id: 1306196300
-type: way
+type: node
 latitude: 46.56271
 longitude: 13.82566
 postcode: "9586"
 city: Fürnitz
-street: "Rosental Straße"
-housenumber: 55
+street: Rosental Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mar-Sep Mo-Fr 09:30-18:00; Mar-Sep Sa 09:00-12:00; Oct-Feb Tu-Fr 09:30-17:00"
+opening_hours: Mar-Sep Mo-Fr 09:30-18:00; Mar-Sep Sa 09:00-12:00; Oct-Feb Tu-Fr 09:30-17:00
 website: ""

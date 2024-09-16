@@ -4,8 +4,8 @@ latitude: 48.19341
 longitude: 16.35826
 postcode: "1050"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 24
-phone: "+43 699 11811775"
-opening_hours: "Th-Fr 11:00-19:00; by appointment"
-website: "http://www.sonjabischur.com/"
+street: Schönbrunner Straße
+housenumber: "24"
+phone: +43 699 11811775
+opening_hours: Th-Fr 11:00-19:00; "by appointment"
+website: http://www.sonjabischur.com/

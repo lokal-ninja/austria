@@ -1,11 +1,11 @@
 id: 228704030
-type: way
+type: node
 latitude: 48.17356
 longitude: 13.34345
 postcode: "4931"
 city: Mettmach
-street: "Wildenauer Straße"
-housenumber: 4
+street: Wildenauer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Su-Tu,PH off; We-Sa 09:00-12:00; Do,Fr 14:00-18:00"
+opening_hours: Su-Tu,PH off; We-Sa 09:00-12:00; Do,Fr 14:00-18:00
 website: ""

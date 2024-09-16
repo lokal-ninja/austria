@@ -4,8 +4,8 @@ latitude: 47.72213
 longitude: 14.32582
 postcode: "4580"
 city: Windischgarsten
-street: "Hauptstraße"
-housenumber: 29
-phone: "+43 650 674 08 54"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; We 09:00-12:00"
-website: "www.wohnstudio-rieser.at"
+street: Hauptstraße
+housenumber: "29"
+phone: +43 650 674 08 54
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:00; We 09:00-12:00
+website: www.wohnstudio-rieser.at

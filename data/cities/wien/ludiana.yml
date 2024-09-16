@@ -4,8 +4,8 @@ latitude: 48.21695
 longitude: 16.35109
 postcode: "1090"
 city: Wien
-street: "Spitalgasse"
-housenumber: 13
-phone: "+43 681 814 169 21"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://ludiana.at/"
+street: Spitalgasse
+housenumber: "13"
+phone: +43 681 814 169 21
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://ludiana.at/

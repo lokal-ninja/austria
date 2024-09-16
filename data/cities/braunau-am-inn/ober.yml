@@ -1,11 +1,11 @@
 id: 106448383
-type: way
+type: node
 latitude: 48.24887
 longitude: 13.02958
 postcode: "5280"
 city: Braunau am Inn
-street: "Osternberger Straße"
-housenumber: 5
+street: Osternberger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.gaertnerei-ober.at/"
+website: http://www.gaertnerei-ober.at/

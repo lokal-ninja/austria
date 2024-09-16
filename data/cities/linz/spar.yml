@@ -4,8 +4,8 @@ latitude: 48.33393
 longitude: 14.29954
 postcode: "4040"
 city: Linz
-street: "Griesmayrstraße"
-housenumber: 21
-phone: "+43 732 750987"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at"
+street: Griesmayrstraße
+housenumber: "21"
+phone: +43 732 750987
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at

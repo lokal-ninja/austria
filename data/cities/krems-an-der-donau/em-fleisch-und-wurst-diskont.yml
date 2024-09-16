@@ -4,8 +4,8 @@ latitude: 48.40471
 longitude: 15.58917
 postcode: "3500"
 city: Krems an der Donau
-street: "Karl-Eybl-Gasse"
-housenumber: 3
-phone: "+43 2732 724 58"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.em-diskont.at/"
+street: Karl-Eybl-Gasse
+housenumber: "3"
+phone: +43 2732 724 58
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.em-diskont.at/

@@ -1,11 +1,11 @@
 id: 677320318
-type: way
+type: node
 latitude: 46.68144
 longitude: 15.97386
 postcode: "9250"
 city: Gornja Radgona
-street: "Podgrad"
-housenumber: 4
-phone: "+3862-5643500"
+street: Podgrad
+housenumber: "4"
+phone: +3862-5643500
 opening_hours: ""
 website: ""

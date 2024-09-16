@@ -1,11 +1,11 @@
 id: 602478182
-type: way
+type: node
 latitude: 48.15309
 longitude: 16.46808
 postcode: "1110"
 city: Wien
-street: "Sängergasse"
-housenumber: 6
-phone: "+43 1 7671105"
+street: Sängergasse
+housenumber: "6"
+phone: +43 1 7671105
 opening_hours: ""
-website: "https://se-pas.at/"
+website: https://se-pas.at/

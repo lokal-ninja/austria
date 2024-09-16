@@ -1,11 +1,11 @@
 id: 419796521
-type: way
+type: node
 latitude: 47.05472
 longitude: 15.92511
 postcode: "8262"
 city: Ilz
 street: ""
-housenumber: 71
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://schlicht.jetzt/"
+website: https://schlicht.jetzt/

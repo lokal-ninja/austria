@@ -4,8 +4,8 @@ latitude: 48.20562
 longitude: 15.62478
 postcode: "3100"
 city: St. Pölten
-street: "Kremser Gasse"
-housenumber: 8
+street: Kremser Gasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.klimesch-schuhe.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.klimesch-schuhe.at

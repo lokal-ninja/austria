@@ -1,11 +1,11 @@
 id: 195557447
-type: way
+type: node
 latitude: 47.04933
 longitude: 16.07954
 postcode: "8280"
 city: Fürstenfeld
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

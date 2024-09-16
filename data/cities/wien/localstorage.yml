@@ -4,8 +4,8 @@ latitude: 48.20897
 longitude: 16.35696
 postcode: "1010"
 city: Wien
-street: "Stadiongasse"
-housenumber: 5
+street: Stadiongasse
+housenumber: "5"
 phone: ""
-opening_hours: "24/7"
-website: "https://localstorage.at/"
+opening_hours: 24/7
+website: https://localstorage.at/

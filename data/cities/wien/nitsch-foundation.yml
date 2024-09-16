@@ -4,8 +4,8 @@ latitude: 48.20399
 longitude: 16.37608
 postcode: "1010"
 city: Wien
-street: "Hegelgasse"
-housenumber: 5
+street: Hegelgasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.nitsch-foundation.com/"
+website: https://www.nitsch-foundation.com/

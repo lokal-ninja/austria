@@ -1,11 +1,11 @@
 id: 154590640
-type: way
+type: node
 latitude: 47.57999
 longitude: 14.45997
 postcode: "8911"
 city: Admont
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.bestattungbutter.at/"
+website: https://www.bestattungbutter.at/

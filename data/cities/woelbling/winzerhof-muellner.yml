@@ -5,7 +5,7 @@ longitude: 15.606
 postcode: "3124"
 city: Wölbling
 street: ""
-housenumber: 2
-phone: "+43 2786 2440"
+housenumber: "2"
+phone: +43 2786 2440
 opening_hours: ""
-website: "http://winzerhof-muellner.at/"
+website: http://winzerhof-muellner.at/

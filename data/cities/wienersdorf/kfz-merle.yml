@@ -1,11 +1,11 @@
 id: 374755565
-type: way
+type: node
 latitude: 47.99585
 longitude: 16.30346
 postcode: "2514"
 city: Wienersdorf
-street: "Hirschäckergasse"
-housenumber: 12
-phone: "+43 2252 82832"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-12:00"
-website: "https://www.kfz-merle.at/"
+street: Hirschäckergasse
+housenumber: "12"
+phone: +43 2252 82832
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-12:00
+website: https://www.kfz-merle.at/

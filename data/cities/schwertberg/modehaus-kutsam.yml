@@ -1,11 +1,11 @@
 id: 403857863
-type: way
+type: node
 latitude: 48.27561
 longitude: 14.58152
 postcode: "4311"
 city: Schwertberg
-street: "Dietmar v. Aiststraße"
-housenumber: 4
+street: Dietmar v. Aiststraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.kutsam.at"
+website: http://www.kutsam.at

@@ -4,8 +4,8 @@ latitude: 48.22639
 longitude: 15.33453
 postcode: "3390"
 city: Melk
-street: "Abbe Stadler-Gasse"
-housenumber: 18
-phone: "+43 2752 536 98"
-opening_hours: "Mo,We-Th 08:30-17:30; Tu 12:00-18:00; Fr 08:30-19:00; Sa 08:00-13:30"
-website: "http://kopfwerk-friseur.com/"
+street: Abbe Stadler-Gasse
+housenumber: "18"
+phone: +43 2752 536 98
+opening_hours: Mo,We-Th 08:30-17:30; Tu 12:00-18:00; Fr 08:30-19:00; Sa 08:00-13:30
+website: http://kopfwerk-friseur.com/

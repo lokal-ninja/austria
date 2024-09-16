@@ -1,11 +1,11 @@
 id: 91603676
-type: way
+type: node
 latitude: 47.4884
 longitude: 12.07134
 postcode: "6300"
 city: Wörgl
-street: "Salzburger Straße"
-housenumber: 33
+street: Salzburger Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://pluswoergl.at/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://pluswoergl.at/

@@ -4,8 +4,8 @@ latitude: 48.40604
 longitude: 15.59027
 postcode: "3500"
 city: Krems an der Donau
-street: "Undstraße"
-housenumber: 7
-phone: "+43 2732 700 08"
-opening_hours: "Mo-Fr 10:00-14:00"
-website: "https://www.grafik-druck.at/"
+street: Undstraße
+housenumber: "7"
+phone: +43 2732 700 08
+opening_hours: Mo-Fr 10:00-14:00
+website: https://www.grafik-druck.at/

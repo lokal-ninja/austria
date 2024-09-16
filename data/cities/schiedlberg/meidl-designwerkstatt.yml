@@ -1,11 +1,11 @@
 id: 238505718
-type: way
+type: node
 latitude: 48.07007
 longitude: 14.27318
 postcode: "4521"
 city: Schiedlberg
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.meidl-tischlerei.at/"
+website: https://www.meidl-tischlerei.at/

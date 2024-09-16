@@ -4,8 +4,8 @@ latitude: 47.80266
 longitude: 16.61632
 postcode: "7062"
 city: St. Margarethen
-street: "Hauptstraße"
-housenumber: 116
+street: Hauptstraße
+housenumber: "116"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://eberherr.at/"
+opening_hours: '"nach Vereinbarung"'
+website: http://eberherr.at/

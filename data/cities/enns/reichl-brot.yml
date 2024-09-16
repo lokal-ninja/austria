@@ -4,8 +4,8 @@ latitude: 48.21352
 longitude: 14.47914
 postcode: "4470"
 city: Enns
-street: "Hauptplatz"
-housenumber: 12
-phone: "+43 7227 8174 251"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00"
-website: "https://www.reichlbrot.at/"
+street: Hauptplatz
+housenumber: "12"
+phone: +43 7227 8174 251
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:00
+website: https://www.reichlbrot.at/

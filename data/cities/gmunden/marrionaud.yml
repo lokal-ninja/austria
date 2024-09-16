@@ -1,11 +1,11 @@
 id: 144721804
-type: way
+type: node
 latitude: 47.91844
 longitude: 13.80046
 postcode: "4810"
 city: Gmunden
-street: "Rathausplatz"
-housenumber: 7
+street: Rathausplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

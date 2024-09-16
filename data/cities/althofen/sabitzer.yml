@@ -4,8 +4,8 @@ latitude: 46.87095
 longitude: 14.47101
 postcode: "9330"
 city: Althofen
-street: "Kreuzstraße"
-housenumber: 5
-phone: "+43 4262 37700 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.expert-sabitzer.at/"
+street: Kreuzstraße
+housenumber: "5"
+phone: +43 4262 37700 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.expert-sabitzer.at/

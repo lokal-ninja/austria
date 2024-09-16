@@ -4,8 +4,8 @@ latitude: 47.28187
 longitude: 15.99085
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 6
-phone: "+43 720 881089"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.action.com/de-at"
+street: Im Hatric
+housenumber: "6"
+phone: +43 720 881089
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.action.com/de-at

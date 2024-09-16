@@ -4,8 +4,8 @@ latitude: 48.14415
 longitude: 16.29912
 postcode: "1230"
 city: Wien
-street: "Klugargasse"
+street: Klugargasse
 housenumber: 9B
-phone: "+43 1 8691811"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-12:00"
-website: "https://www.bluetenreich-fuehrer.at/"
+phone: +43 1 8691811
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-12:00
+website: https://www.bluetenreich-fuehrer.at/

@@ -1,11 +1,11 @@
 id: 176952545
-type: way
+type: node
 latitude: 46.64134
 longitude: 14.44396
 postcode: "9130"
 city: Poggersdorf
-street: "Wirtschaftspark"
-housenumber: 15
+street: Wirtschaftspark
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

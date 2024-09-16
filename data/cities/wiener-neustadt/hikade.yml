@@ -4,8 +4,8 @@ latitude: 47.81344
 longitude: 16.24004
 postcode: "2700"
 city: Wiener Neustadt
-street: "Herzog-Leopold-Straße"
-housenumber: 23
-phone: "+43 2622 21505"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.buecher-hikade.at"
+street: Herzog-Leopold-Straße
+housenumber: "23"
+phone: +43 2622 21505
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.buecher-hikade.at

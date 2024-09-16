@@ -4,8 +4,8 @@ latitude: 48.20743
 longitude: 16.50558
 postcode: "1220"
 city: Wien
-street: "Dittelgasse"
-housenumber: 5
+street: Dittelgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 07:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 07:00-12:00
 website: ""

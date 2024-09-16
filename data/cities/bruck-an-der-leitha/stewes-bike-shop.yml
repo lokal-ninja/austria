@@ -4,8 +4,8 @@ latitude: 48.02251
 longitude: 16.77783
 postcode: "2460"
 city: Bruck an der Leitha
-street: "Kirchengasse"
-housenumber: 26
+street: Kirchengasse
+housenumber: "26"
 phone: "+4367683243302"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00"
-website: "https://www.stewes-bike.at/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00
+website: https://www.stewes-bike.at/

@@ -1,11 +1,11 @@
 id: 169765122
-type: way
+type: node
 latitude: 48.54406
 longitude: 14.38528
 postcode: "4193"
 city: Reichenthal
-street: "Marktplatz"
-housenumber: 3
+street: Marktplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

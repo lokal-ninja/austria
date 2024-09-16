@@ -1,11 +1,11 @@
 id: 403643846
-type: way
+type: node
 latitude: 47.30329
 longitude: 15.83509
 postcode: "8225"
 city: Pöllau
-street: "Märzgasse"
-housenumber: 120
+street: Märzgasse
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

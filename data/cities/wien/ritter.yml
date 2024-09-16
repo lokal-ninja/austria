@@ -4,8 +4,8 @@ latitude: 48.19581
 longitude: 16.34781
 postcode: "1060"
 city: Wien
-street: "Schmalzhofgasse"
-housenumber: 1
+street: Schmalzhofgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-13:00"
+opening_hours: Mo-Th 09:00-16:00; Fr 09:00-13:00
 website: ""

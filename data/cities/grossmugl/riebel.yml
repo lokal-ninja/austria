@@ -1,11 +1,11 @@
 id: 93554393
-type: way
+type: node
 latitude: 48.49873
 longitude: 16.23039
 postcode: "2002"
 city: Großmugl
-street: "Kirchenplatz"
-housenumber: 84
+street: Kirchenplatz
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

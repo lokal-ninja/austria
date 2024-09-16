@@ -1,11 +1,11 @@
 id: 328653362
-type: way
+type: node
 latitude: 46.94969
 longitude: 15.90988
 postcode: "8330"
 city: Feldbach
-street: "Gleichenberger Straße"
-housenumber: 77
-phone: "+43 3152 5146033"
+street: Gleichenberger Straße
+housenumber: "77"
+phone: +43 3152 5146033
 opening_hours: ""
 website: ""

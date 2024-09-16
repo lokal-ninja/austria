@@ -4,8 +4,8 @@ latitude: 48.23991
 longitude: 16.34885
 postcode: "1190"
 city: Wien
-street: "Billrothstraße"
-housenumber: 55
+street: Billrothstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo 10:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

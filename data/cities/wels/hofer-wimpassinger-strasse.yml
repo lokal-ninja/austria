@@ -1,11 +1,11 @@
 id: 121206556
-type: way
+type: node
 latitude: 48.15687
 longitude: 14.00136
 postcode: "4600"
 city: Wels
-street: "Wimpassinger Straße"
-housenumber: 1
-phone: "+43 7242 252653"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Wimpassinger Straße
+housenumber: "1"
+phone: +43 7242 252653
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

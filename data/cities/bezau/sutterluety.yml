@@ -1,11 +1,11 @@
 id: 87206382
-type: way
+type: node
 latitude: 47.38198
 longitude: 9.89717
 postcode: "6870"
 city: Bezau
-street: "Bahnhof"
-housenumber: 741
-phone: "+43 5514 4130"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.sutterluety.at/"
+street: Bahnhof
+housenumber: "741"
+phone: +43 5514 4130
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.sutterluety.at/

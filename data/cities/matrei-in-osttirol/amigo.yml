@@ -4,8 +4,8 @@ latitude: 47.0008
 longitude: 12.53872
 postcode: "9971"
 city: Matrei in Osttirol
-street: "Rauterplatz"
-housenumber: 6
-phone: "+43 4875 5131"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.amigomode.at/"
+street: Rauterplatz
+housenumber: "6"
+phone: +43 4875 5131
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.amigomode.at/

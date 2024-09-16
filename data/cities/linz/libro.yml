@@ -4,8 +4,8 @@ latitude: 48.30141
 longitude: 14.29014
 postcode: "4020"
 city: Linz
-street: "Landstraße"
-housenumber: 38
+street: Landstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-18:00"
-website: "https://www.libro.at/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-18:00
+website: https://www.libro.at/

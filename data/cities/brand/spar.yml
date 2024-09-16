@@ -1,11 +1,11 @@
 id: 177256291
-type: way
+type: node
 latitude: 47.10845
 longitude: 9.74264
 postcode: "6708"
 city: Brand
-street: "Mühledörfle"
-housenumber: 87
+street: Mühledörfle
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:00,14:00-18:00; Su,PH 07:30-12:00"
+opening_hours: Mo-Sa 07:00-12:00,14:00-18:00; Su,PH 07:30-12:00
 website: ""

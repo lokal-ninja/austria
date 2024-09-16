@@ -1,11 +1,11 @@
 id: 137861711
-type: way
+type: node
 latitude: 47.45273
 longitude: 12.15148
 postcode: "6361"
 city: Hopfgarten im Brixental
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

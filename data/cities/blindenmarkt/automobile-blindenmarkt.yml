@@ -1,11 +1,11 @@
 id: 237925445
-type: way
+type: node
 latitude: 48.12828
 longitude: 14.98559
 postcode: "3372"
 city: Blindenmarkt
-street: "Hauptstraße"
-housenumber: 48
-phone: "+43 664 1625191"
+street: Hauptstraße
+housenumber: "48"
+phone: +43 664 1625191
 opening_hours: ""
-website: "wirtschaft.blindenmarkt.info/automobile-blindenmarkt"
+website: wirtschaft.blindenmarkt.info/automobile-blindenmarkt

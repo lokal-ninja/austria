@@ -4,8 +4,8 @@ latitude: 47.26143
 longitude: 11.3934
 postcode: "6020"
 city: Innsbruck
-street: "Templstraße"
-housenumber: 2
-phone: "+43 512 5880800"
-opening_hours: "Mo-Fr 09:30-18:00; PH off || nach Vereinbarung"
-website: "https://kranebitter.at"
+street: Templstraße
+housenumber: "2"
+phone: +43 512 5880800
+opening_hours: Mo-Fr 09:30-18:00; PH off || "nach Vereinbarung"
+website: https://kranebitter.at

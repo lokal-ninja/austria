@@ -1,11 +1,11 @@
 id: 206352250
-type: way
+type: node
 latitude: 47.55921
 longitude: 14.24505
 postcode: "8940"
 city: Liezen
-street: "Wirtschaftspark"
+street: Wirtschaftspark
 housenumber: F
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00; Mo-Th 13:00-17:00; Fr 8:00-11:30; Fr 12:30-17:00"
-website: "http://www.kfzkronsteiner.at"
+opening_hours: Mo-Th 08:00-12:00; Mo-Th 13:00-17:00; Fr 8:00-11:30; Fr 12:30-17:00
+website: http://www.kfzkronsteiner.at

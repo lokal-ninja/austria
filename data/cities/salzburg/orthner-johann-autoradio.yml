@@ -4,8 +4,8 @@ latitude: 47.80602
 longitude: 13.05297
 postcode: "5020"
 city: Salzburg
-street: "Schallmooser Hauptstraße"
-housenumber: 21
-phone: "+43 662 875377"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "www.orthner.at"
+street: Schallmooser Hauptstraße
+housenumber: "21"
+phone: +43 662 875377
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: www.orthner.at

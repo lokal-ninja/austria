@@ -4,8 +4,8 @@ latitude: 48.21756
 longitude: 16.33637
 postcode: "1170"
 city: Wien
-street: "Jörgerstraße"
-housenumber: 33
+street: Jörgerstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, Mo-Th 14:00-17:00"
+opening_hours: Mo-Fr 08:00-13:00, Mo-Th 14:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.19193
 longitude: 16.35346
 postcode: "1060"
 city: Wien
-street: "Turmburggasse"
-housenumber: 1
+street: Turmburggasse
+housenumber: "1"
 phone: ""
-opening_hours: "Tu 17:00-21:00"
-website: "http://flickerei.blogsport.at/"
+opening_hours: Tu 17:00-21:00
+website: http://flickerei.blogsport.at/

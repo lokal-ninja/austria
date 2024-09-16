@@ -1,11 +1,11 @@
 id: 210034984
-type: way
+type: node
 latitude: 46.69148
 longitude: 15.64187
 postcode: "2212"
 city: Šentilj v Slov. goricah
-street: "Dunajska cesta"
-housenumber: 44
+street: Dunajska cesta
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

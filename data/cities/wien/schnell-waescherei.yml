@@ -4,8 +4,8 @@ latitude: 48.26654
 longitude: 16.46055
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 252
-phone: "+43 1 2592134"
-opening_hours: "Mo-Fr 07:00-15:00; Sa 07:00-12:00"
+street: Wagramer Straße
+housenumber: "252"
+phone: +43 1 2592134
+opening_hours: Mo-Fr 07:00-15:00; Sa 07:00-12:00
 website: ""

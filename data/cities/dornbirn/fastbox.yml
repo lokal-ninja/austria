@@ -1,11 +1,11 @@
 id: 231653024
-type: way
+type: node
 latitude: 47.41056
 longitude: 9.72106
 postcode: "6850"
 city: Dornbirn
-street: "Lustenauerstraße"
+street: Lustenauerstraße
 housenumber: 50a
 phone: ""
 opening_hours: ""
-website: "https://www.fastbox.at/"
+website: https://www.fastbox.at/

@@ -4,8 +4,8 @@ latitude: 48.20397
 longitude: 16.33995
 postcode: "1070"
 city: Wien
-street: "Kaiserstraße"
-housenumber: 71
-phone: "+43 1 5222244"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.spar.at/standorte/spar-wien-neubau-1070-kaiserstrasse-71"
+street: Kaiserstraße
+housenumber: "71"
+phone: +43 1 5222244
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.spar.at/standorte/spar-wien-neubau-1070-kaiserstrasse-71

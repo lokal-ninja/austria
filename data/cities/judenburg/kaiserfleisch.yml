@@ -4,8 +4,8 @@ latitude: 47.16901
 longitude: 14.66034
 postcode: "8750"
 city: Judenburg
-street: "Hauptplatz"
-housenumber: 2
-phone: "+43 3572/ 44 168"
-opening_hours: "Tu-Fr 07:30-12:30,15:00-18:00; Sa 07:30-12:00"
-website: "http://www.kaiserfleisch.at/#kontakt"
+street: Hauptplatz
+housenumber: "2"
+phone: +43 3572/ 44 168
+opening_hours: Tu-Fr 07:30-12:30,15:00-18:00; Sa 07:30-12:00
+website: http://www.kaiserfleisch.at/#kontakt

@@ -1,11 +1,11 @@
 id: 126626510
-type: way
+type: node
 latitude: 48.10803
 longitude: 16.76374
 postcode: "2403"
 city: Regelsbrunn
-street: "Wiener Straße"
-housenumber: 34
+street: Wiener Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

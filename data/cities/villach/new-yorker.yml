@@ -4,8 +4,8 @@ latitude: 46.6043
 longitude: 13.87181
 postcode: "9500"
 city: Villach
-street: "Gewerbezeile"
-housenumber: 12
+street: Gewerbezeile
+housenumber: "12"
 phone: "+434242319688"
 opening_hours: ""
-website: "https://www.newyorker.de/at"
+website: https://www.newyorker.de/at

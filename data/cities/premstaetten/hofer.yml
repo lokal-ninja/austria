@@ -1,11 +1,11 @@
 id: 578193680
-type: way
+type: node
 latitude: 46.9701
 longitude: 15.4097
 postcode: "8141"
 city: Premstätten
-street: "Thalerhofstraße"
-housenumber: 11
-phone: "+43 57 0303 1044"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00; Su,PH off"
-website: "https://www.hofer.at/"
+street: Thalerhofstraße
+housenumber: "11"
+phone: +43 57 0303 1044
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00; Su,PH off
+website: https://www.hofer.at/

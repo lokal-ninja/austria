@@ -1,11 +1,11 @@
 id: 1064878006
-type: way
+type: node
 latitude: 47.01423
 longitude: 15.41015
 postcode: "8055"
 city: Seiersberg
-street: "Ganghoferstraße"
-housenumber: 60
+street: Ganghoferstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH closed"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH closed
 website: ""

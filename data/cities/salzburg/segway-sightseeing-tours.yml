@@ -4,8 +4,8 @@ latitude: 47.80454
 longitude: 13.04822
 postcode: "5020"
 city: Salzburg
-street: "Wolf-Dietrich-Straße"
-housenumber: 3
-phone: "+43 676 674 44 25"
-opening_hours: "We-Su 09:30-15:30"
-website: "https://www.segway-salzburg.at/"
+street: Wolf-Dietrich-Straße
+housenumber: "3"
+phone: +43 676 674 44 25
+opening_hours: We-Su 09:30-15:30
+website: https://www.segway-salzburg.at/

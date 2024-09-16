@@ -1,11 +1,11 @@
 id: 330047573
-type: way
+type: node
 latitude: 47.09687
 longitude: 9.86383
 postcode: "6773"
 city: Vandans
-street: "Am Heitersheimerplatz"
-housenumber: 3
+street: Am Heitersheimerplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Th-Sa 08:30-12:00, Mo-Fr 14:30-18:00"
-website: "https://www.wilhelmer.at/"
+opening_hours: Mo,Th-Sa 08:30-12:00, Mo-Fr 14:30-18:00
+website: https://www.wilhelmer.at/

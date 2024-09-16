@@ -4,8 +4,8 @@ latitude: 48.24482
 longitude: 14.16968
 postcode: "4063"
 city: Hörsching
-street: "Niederbuchstraße"
-housenumber: 5
-phone: "+43 660 9300600"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.kfz-charly.at/"
+street: Niederbuchstraße
+housenumber: "5"
+phone: +43 660 9300600
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.kfz-charly.at/

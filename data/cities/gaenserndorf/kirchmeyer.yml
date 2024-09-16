@@ -4,8 +4,8 @@ latitude: 48.34085
 longitude: 16.72218
 postcode: "2230"
 city: Gänserndorf
-street: "Bahnstraße"
-housenumber: 16
+street: Bahnstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.kirchmeyer.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.kirchmeyer.at/

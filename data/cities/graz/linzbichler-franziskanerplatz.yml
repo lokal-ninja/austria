@@ -1,11 +1,11 @@
 id: 89175039
-type: way
+type: node
 latitude: 47.07082
 longitude: 15.43614
 postcode: "8010"
 city: Graz
-street: "Franziskanerplatz"
-housenumber: 16
-phone: "+43 316 84 83 46"
-opening_hours: "Mo-Fr 08:00-18:15; Sa 08:00-12:30"
-website: "https://www.linzbichler-schoko.at/"
+street: Franziskanerplatz
+housenumber: "16"
+phone: +43 316 84 83 46
+opening_hours: Mo-Fr 08:00-18:15; Sa 08:00-12:30
+website: https://www.linzbichler-schoko.at/

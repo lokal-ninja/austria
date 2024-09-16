@@ -4,8 +4,8 @@ latitude: 48.17854
 longitude: 16.33299
 postcode: "1120"
 city: Wien
-street: "Ignazgasse"
-housenumber: 30
+street: Ignazgasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-We 07:30-12:00,13:00-18:00; Th 07:30-12:00,13:00-18:30; Fr off"
-website: "http://www.werkstattkfz.at/"
+opening_hours: Mo-We 07:30-12:00,13:00-18:00; Th 07:30-12:00,13:00-18:30; Fr off
+website: http://www.werkstattkfz.at/

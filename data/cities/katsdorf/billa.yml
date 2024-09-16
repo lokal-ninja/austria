@@ -1,11 +1,11 @@
 id: 723948688
-type: way
+type: node
 latitude: 48.32021
 longitude: 14.46971
 postcode: "4223"
 city: Katsdorf
-street: "Linzer Straße"
-housenumber: 8
+street: Linzer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

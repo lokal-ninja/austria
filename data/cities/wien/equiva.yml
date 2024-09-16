@@ -4,8 +4,8 @@ latitude: 48.24967
 longitude: 16.46784
 postcode: "1220"
 city: Wien
-street: "Zwerchäckerweg"
-housenumber: 4
+street: Zwerchäckerweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.equiva.at/maerkte/Wien%20Stadlau/"
+website: http://www.equiva.at/maerkte/Wien%20Stadlau/

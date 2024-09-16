@@ -1,11 +1,11 @@
 id: 783037218
-type: way
+type: node
 latitude: 47.12532
 longitude: 10.58593
 postcode: "6500"
 city: Fließ
-street: "Fließerau"
-housenumber: 393
+street: Fließerau
+housenumber: "393"
 phone: ""
 opening_hours: ""
 website: ""

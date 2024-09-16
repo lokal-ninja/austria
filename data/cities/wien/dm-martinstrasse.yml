@@ -4,8 +4,8 @@ latitude: 48.22373
 longitude: 16.34171
 postcode: "1180"
 city: Wien
-street: "Martinstraße"
-housenumber: 61
-phone: "+43 14057622"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.dm.at"
+street: Martinstraße
+housenumber: "61"
+phone: +43 14057622
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.dm.at

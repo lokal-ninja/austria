@@ -4,8 +4,8 @@ latitude: 47.21392
 longitude: 14.82898
 postcode: "8720"
 city: Knittefeld
-street: "Hauptplatz"
-housenumber: 10
-phone: "+43 3512 82678"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:00"
-website: "https://www.elektro-thum.at/kontakt/"
+street: Hauptplatz
+housenumber: "10"
+phone: +43 3512 82678
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:00
+website: https://www.elektro-thum.at/kontakt/

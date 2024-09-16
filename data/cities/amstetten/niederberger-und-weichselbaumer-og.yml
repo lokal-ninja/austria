@@ -1,11 +1,11 @@
 id: 290568571
-type: way
+type: node
 latitude: 48.11206
 longitude: 14.87007
 postcode: "3300"
 city: Amstetten
-street: "Winklarner Straße"
-housenumber: 10
+street: Winklarner Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00
 website: ""

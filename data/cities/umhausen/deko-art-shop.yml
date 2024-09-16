@@ -4,8 +4,8 @@ latitude: 47.1397
 longitude: 10.92707
 postcode: "6441"
 city: Umhausen
-street: "Dorf"
-housenumber: 20
+street: Dorf
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-16:00"
-website: "https://www.tirol.lebenshilfe.at/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-16:00
+website: https://www.tirol.lebenshilfe.at/

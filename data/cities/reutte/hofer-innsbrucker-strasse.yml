@@ -1,11 +1,11 @@
 id: 25212821
-type: way
+type: node
 latitude: 47.48299
 longitude: 10.72199
 postcode: "6600"
 city: Reutte
-street: "Innsbrucker Straße"
-housenumber: 4
+street: Innsbrucker Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We, Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-We, Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

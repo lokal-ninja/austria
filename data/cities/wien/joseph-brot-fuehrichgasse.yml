@@ -4,8 +4,8 @@ latitude: 48.20494
 longitude: 16.36972
 postcode: "1010"
 city: Wien
-street: "Führichgasse"
-housenumber: 6
-phone: "+43 1 710 28 81"
-opening_hours: "Mo-Fr 07:30-18:30; Sa,Su,PH 07:30-17:00"
-website: "https://www.joseph.co.at/de/"
+street: Führichgasse
+housenumber: "6"
+phone: +43 1 710 28 81
+opening_hours: Mo-Fr 07:30-18:30; Sa,Su,PH 07:30-17:00
+website: https://www.joseph.co.at/de/

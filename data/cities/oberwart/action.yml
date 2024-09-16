@@ -1,11 +1,11 @@
 id: 376284357
-type: way
+type: node
 latitude: 47.28265
 longitude: 16.18816
 postcode: "7400"
 city: Oberwart
-street: "Marktlände"
-housenumber: 1
+street: Marktlände
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

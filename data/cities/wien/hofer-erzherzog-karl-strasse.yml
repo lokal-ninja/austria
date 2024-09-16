@@ -1,11 +1,11 @@
 id: 47031073
-type: way
+type: node
 latitude: 48.22662
 longitude: 16.45911
 postcode: "1220"
 city: Wien
-street: "Erzherzog-Karl-Straße"
-housenumber: 160
+street: Erzherzog-Karl-Straße
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.hofer.at/

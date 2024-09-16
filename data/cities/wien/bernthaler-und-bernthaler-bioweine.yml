@@ -4,8 +4,8 @@ latitude: 48.21511
 longitude: 16.38284
 postcode: "1020"
 city: Wien
-street: "Komödiengasse"
-housenumber: 9
+street: Komödiengasse
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,Th,Fr 16:00-19:00; PH,We,Sa-Mo off"
-website: "https://www.bio-wein-bernthaler.at/"
+opening_hours: Tu,Th,Fr 16:00-19:00; PH,We,Sa-Mo off
+website: https://www.bio-wein-bernthaler.at/

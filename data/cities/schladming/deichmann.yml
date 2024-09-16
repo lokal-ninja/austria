@@ -1,11 +1,11 @@
 id: 495444055
-type: way
+type: node
 latitude: 47.39437
 longitude: 13.68361
 postcode: "8970"
 city: Schladming
-street: "Ramsauerstraße"
-housenumber: 767
+street: Ramsauerstraße
+housenumber: "767"
 phone: ""
 opening_hours: ""
 website: ""

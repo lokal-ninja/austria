@@ -1,11 +1,11 @@
 id: 1076602666
-type: way
+type: node
 latitude: 48.52513
 longitude: 15.46356
 postcode: "3542"
 city: Jaidhof
-street: "Eisengraben"
-housenumber: 103
-phone: "+43 680 1739297"
+street: Eisengraben
+housenumber: "103"
+phone: +43 680 1739297
 opening_hours: ""
 website: ""

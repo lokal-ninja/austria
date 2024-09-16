@@ -1,11 +1,11 @@
 id: 27231799
-type: way
+type: node
 latitude: 47.5515
 longitude: 11.68869
 postcode: "6215"
 city: Achenkirch
-street: "Achenseestraße"
-housenumber: 588
-phone: "+43 800 202055"
-opening_hours: "24/7"
+street: Achenseestraße
+housenumber: "588"
+phone: +43 800 202055
+opening_hours: 24/7
 website: ""

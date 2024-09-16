@@ -1,11 +1,11 @@
 id: 464524219
-type: way
+type: node
 latitude: 46.74424
 longitude: 14.38796
 postcode: "9300"
 city: Sankt Veit an der Glan
-street: "Wirtschaftspark"
-housenumber: 3
-phone: "+43-4212-2618"
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "https://spindelböck.com/"
+street: Wirtschaftspark
+housenumber: "3"
+phone: +43-4212-2618
+opening_hours: Mo-Fr 08:00-12:00
+website: https://spindelböck.com/

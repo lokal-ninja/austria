@@ -1,11 +1,11 @@
 id: 978474278
-type: way
+type: node
 latitude: 48.58804
 longitude: 14.54471
 postcode: "4263"
 city: Windhaag bei Freistadt
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.biberhof.com/"
+website: https://www.biberhof.com/

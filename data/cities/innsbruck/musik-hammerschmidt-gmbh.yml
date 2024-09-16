@@ -4,8 +4,8 @@ latitude: 47.26125
 longitude: 11.42746
 postcode: "6020"
 city: Innsbruck
-street: "Dr.-Ferdinand-Kogler-Straße"
-housenumber: 30
+street: Dr.-Ferdinand-Kogler-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00"
-website: "https://www.musikhaus-hammerschmidt.at"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00, Sa 09:00-12:00
+website: https://www.musikhaus-hammerschmidt.at

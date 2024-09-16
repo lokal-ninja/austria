@@ -1,11 +1,11 @@
 id: 119872936
-type: way
+type: node
 latitude: 47.97128
 longitude: 14.26368
 postcode: "4594"
 city: Grünburg
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

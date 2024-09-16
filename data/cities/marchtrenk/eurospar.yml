@@ -1,11 +1,11 @@
 id: 113612604
-type: way
+type: node
 latitude: 48.19106
 longitude: 14.11907
 postcode: "4614"
 city: Marchtrenk
-street: "Eichenstraße"
-housenumber: 2
-phone: "+43-7243-50166"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/de_AT/index/standorte/46/marchtrenk_3088.html"
+street: Eichenstraße
+housenumber: "2"
+phone: +43-7243-50166
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/de_AT/index/standorte/46/marchtrenk_3088.html

@@ -1,11 +1,11 @@
 id: 180206478
-type: way
+type: node
 latitude: 47.38578
 longitude: 15.12884
 postcode: "8700"
 city: Leoben
-street: "Waltenbachstraße"
-housenumber: 5
+street: Waltenbachstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00
 website: ""

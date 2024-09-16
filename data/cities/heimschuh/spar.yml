@@ -1,11 +1,11 @@
 id: 209851812
-type: way
+type: node
 latitude: 46.76494
 longitude: 15.49759
 postcode: "8451"
 city: Heimschuh
-street: "Sulmtalstraße"
-housenumber: 33
+street: Sulmtalstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
+website: https://www.spar.at/

@@ -1,11 +1,11 @@
 id: 142807012
-type: way
+type: node
 latitude: 48.34538
 longitude: 14.1616
 postcode: "4111"
 city: Walding
-street: "Kaufpark"
-housenumber: 5
+street: Kaufpark
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

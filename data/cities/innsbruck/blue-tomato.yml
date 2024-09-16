@@ -4,8 +4,8 @@ latitude: 47.26506
 longitude: 11.39377
 postcode: "6020"
 city: Innsbruck
-street: "Anichstraße"
-housenumber: 3
-phone: "+43 512 567567"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"
-website: "https://www.blue-tomato.com/de-AT/shop/innsbruck/"
+street: Anichstraße
+housenumber: "3"
+phone: +43 512 567567
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off
+website: https://www.blue-tomato.com/de-AT/shop/innsbruck/

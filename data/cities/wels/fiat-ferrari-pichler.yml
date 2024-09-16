@@ -1,11 +1,11 @@
 id: 141871525
-type: way
+type: node
 latitude: 48.15787
 longitude: 14.01337
 postcode: "4600"
 city: Wels
-street: "Kienzlstraße"
-housenumber: 26
+street: Kienzlstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

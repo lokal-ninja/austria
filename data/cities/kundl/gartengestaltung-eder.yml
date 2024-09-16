@@ -1,11 +1,11 @@
 id: 933007832
-type: way
+type: node
 latitude: 47.47505
 longitude: 11.97635
 postcode: "6250"
 city: Kundl
-street: "Schmelzerweg"
-housenumber: 9
+street: Schmelzerweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.garten-eder.at/"
+website: https://www.garten-eder.at/

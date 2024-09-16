@@ -1,11 +1,11 @@
 id: 382016669
-type: way
+type: node
 latitude: 47.97824
 longitude: 14.07809
 postcode: "4552"
 city: Wartberg an der Krems
 street: ""
-housenumber: 7
-phone: "+43 7587 7755"
+housenumber: "7"
+phone: +43 7587 7755
 opening_hours: ""
-website: "https://www.seat-egger.at/"
+website: https://www.seat-egger.at/

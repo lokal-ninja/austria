@@ -4,8 +4,8 @@ latitude: 47.4353
 longitude: 12.40562
 postcode: "6370"
 city: Kitzbühel
-street: "Jochberger Straße"
-housenumber: 114
-phone: "+43-5356-72087-0"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00; Sa 09:00-12:30"
-website: "https://www.lechner-farben.at/"
+street: Jochberger Straße
+housenumber: "114"
+phone: +43-5356-72087-0
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00; Sa 09:00-12:30
+website: https://www.lechner-farben.at/

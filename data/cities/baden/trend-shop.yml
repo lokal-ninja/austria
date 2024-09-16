@@ -4,8 +4,8 @@ latitude: 48.00851
 longitude: 16.23417
 postcode: "2500"
 city: Baden
-street: "Hauptplatz"
-housenumber: 7
+street: Hauptplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-We, Fr 10:00-17:00; Sa 10:00-14:00"
+opening_hours: Mo-We, Fr 10:00-17:00; Sa 10:00-14:00
 website: ""

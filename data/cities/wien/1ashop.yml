@@ -4,8 +4,8 @@ latitude: 48.18215
 longitude: 16.35943
 postcode: "1050"
 city: Wien
-street: "Wiedner Hauptstraße"
-housenumber: 135
-phone: "+43 1 9612215"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "www.1ashop.at; https://www.tonershop.at/"
+street: Wiedner Hauptstraße
+housenumber: "135"
+phone: +43 1 9612215
+opening_hours: Mo-Fr 09:00-18:00
+website: www.1ashop.at; https://www.tonershop.at/

@@ -1,11 +1,11 @@
 id: 285958547
-type: way
+type: node
 latitude: 47.22164
 longitude: 15.62596
 postcode: "8160"
 city: Weiz
-street: "Dr.-Karl-Widdmann-Straße"
-housenumber: 16
+street: Dr.-Karl-Widdmann-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

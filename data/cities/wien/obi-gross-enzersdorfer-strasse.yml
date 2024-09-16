@@ -1,11 +1,11 @@
 id: 38922827
-type: way
+type: node
 latitude: 48.2174
 longitude: 16.49504
 postcode: "1220"
 city: Wien
-street: "Groß-Enzersdorfer Straße"
-housenumber: 39
-phone: "+43128 07181"
-opening_hours: "Mo-Fr 07:00-19:20; Sa 07:40-18:00"
+street: Groß-Enzersdorfer Straße
+housenumber: "39"
+phone: +43128 07181
+opening_hours: Mo-Fr 07:00-19:20; Sa 07:40-18:00
 website: ""

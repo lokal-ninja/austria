@@ -4,8 +4,8 @@ latitude: 48.21423
 longitude: 16.40685
 postcode: "1020"
 city: Wien
-street: "Welthandelsplatz"
-housenumber: 1
-phone: "+43 1 9043702"
-opening_hours: "Mo-Fr 06:30-19:00"
-website: "https://www.ankerbrot.at/"
+street: Welthandelsplatz
+housenumber: "1"
+phone: +43 1 9043702
+opening_hours: Mo-Fr 06:30-19:00
+website: https://www.ankerbrot.at/

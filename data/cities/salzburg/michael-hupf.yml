@@ -1,11 +1,11 @@
 id: 64055658
-type: way
+type: node
 latitude: 47.80076
 longitude: 13.03901
 postcode: "5020"
 city: Salzburg
-street: "Gstättengasse"
-housenumber: 9
+street: Gstättengasse
+housenumber: "9"
 phone: "+43662842136"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-12:00,14:00-17:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-12:00,14:00-17:00
 website: ""

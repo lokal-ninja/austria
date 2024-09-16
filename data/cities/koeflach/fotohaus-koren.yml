@@ -4,8 +4,8 @@ latitude: 47.06454
 longitude: 15.08316
 postcode: "8580"
 city: Köflach
-street: "Rathausplatz"
-housenumber: 3
+street: Rathausplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00"
-website: "https://www.foto-koren.at/"
+opening_hours: Mo-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00
+website: https://www.foto-koren.at/

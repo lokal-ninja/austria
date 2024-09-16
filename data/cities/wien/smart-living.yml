@@ -4,8 +4,9 @@ latitude: 48.20423
 longitude: 16.35587
 postcode: "1070"
 city: Wien
-street: "Burggasse"
+street: Burggasse
 housenumber: 7-9
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr 10:00-19:00; Sa 10:00-17:00; Su off"
-website: "https://www.smartliving.co.at/"
+opening_hours: Mo 10:00-19:00; Tu 10:00-19:00; We 10:00-19:00; Th 10:00-19:00; Fr
+    10:00-19:00; Sa 10:00-17:00; Su off
+website: https://www.smartliving.co.at/

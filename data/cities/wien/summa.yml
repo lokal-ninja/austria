@@ -4,8 +4,8 @@ latitude: 48.25062
 longitude: 16.454
 postcode: "1220"
 city: Wien
-street: "Breitenleer Straße"
-housenumber: 17
-phone: "+43 1 2030443"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-17:00"
-website: "https://summa.at/"
+street: Breitenleer Straße
+housenumber: "17"
+phone: +43 1 2030443
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-17:00
+website: https://summa.at/

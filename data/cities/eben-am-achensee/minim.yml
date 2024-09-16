@@ -1,11 +1,11 @@
 id: 127790246
-type: way
+type: node
 latitude: 47.43317
 longitude: 11.73557
 postcode: "6212"
 city: Eben am Achensee
-street: "Achenseestraße"
-housenumber: 70
+street: Achenseestraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165600615
-type: way
+type: node
 latitude: 46.89024
 longitude: 15.25834
 postcode: "8510"
 city: Stainz
-street: "Kärntner Straße"
-housenumber: 22
+street: Kärntner Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

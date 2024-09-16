@@ -4,8 +4,8 @@ latitude: 47.06693
 longitude: 15.44445
 postcode: "8010"
 city: Graz
-street: "Reitschulgasse"
-housenumber: 10
+street: Reitschulgasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://bethrifty.store/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://bethrifty.store/

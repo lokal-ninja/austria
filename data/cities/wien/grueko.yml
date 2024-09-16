@@ -4,8 +4,8 @@ latitude: 48.21602
 longitude: 16.49102
 postcode: "1220"
 city: Wien
-street: "Lobaugasse"
-housenumber: 15
-phone: "+43 1 3328211"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
-website: "http://www.grueko.at/index.html"
+street: Lobaugasse
+housenumber: "15"
+phone: +43 1 3328211
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
+website: http://www.grueko.at/index.html

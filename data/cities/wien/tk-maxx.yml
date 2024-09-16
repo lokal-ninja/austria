@@ -4,8 +4,8 @@ latitude: 48.19789
 longitude: 16.34942
 postcode: "1060"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 77
+street: Mariahilfer Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; PH off"
-website: "https://www.tkmaxx.com/at/de/impressum"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00; PH off
+website: https://www.tkmaxx.com/at/de/impressum

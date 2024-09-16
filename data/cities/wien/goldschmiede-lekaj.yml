@@ -4,8 +4,8 @@ latitude: 48.20108
 longitude: 16.34078
 postcode: "1070"
 city: Wien
-street: "Kaiserstraße"
-housenumber: 42
+street: Kaiserstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:00-15:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 08:00-15:00
 website: ""

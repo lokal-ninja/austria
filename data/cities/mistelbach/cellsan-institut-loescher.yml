@@ -4,8 +4,8 @@ latitude: 48.56677
 longitude: 16.56925
 postcode: "2130"
 city: Mistelbach
-street: "Bahnstraße"
-housenumber: 22
-phone: "+43 2572 2296"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-14:00; Su,PH off"
-website: "www.cellsan.com"
+street: Bahnstraße
+housenumber: "22"
+phone: +43 2572 2296
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-14:00; Su,PH off
+website: www.cellsan.com

@@ -4,8 +4,8 @@ latitude: 48.20781
 longitude: 16.36695
 postcode: "1010"
 city: Wien
-street: "Michaelerplatz"
-housenumber: 6
+street: Michaelerplatz
+housenumber: "6"
 phone: "+4315338032"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.loden-plankl.at/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.loden-plankl.at/

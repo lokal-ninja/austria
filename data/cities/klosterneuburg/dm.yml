@@ -4,8 +4,8 @@ latitude: 48.30914
 longitude: 16.32377
 postcode: "3400"
 city: Klosterneuburg
-street: "Stadtplatz"
-housenumber: 32
+street: Stadtplatz
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

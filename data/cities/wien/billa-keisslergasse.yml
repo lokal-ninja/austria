@@ -1,11 +1,11 @@
 id: 94793314
-type: way
+type: node
 latitude: 48.19678
 longitude: 16.26632
 postcode: "1140"
 city: Wien
-street: "Keißlergasse"
-housenumber: 1
+street: Keißlergasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30;Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30;Sa 07:15-18:00
+website: https://www.billa.at/

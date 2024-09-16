@@ -4,8 +4,8 @@ latitude: 48.22548
 longitude: 16.34481
 postcode: "1180"
 city: Wien
-street: "Gertrudplatz"
-housenumber: 2
+street: Gertrudplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 09:30-14:00; Tu-Fr 09:30-18:00; Sa 09:30-14:00"
+opening_hours: Mo 09:30-14:00; Tu-Fr 09:30-18:00; Sa 09:30-14:00
 website: ""

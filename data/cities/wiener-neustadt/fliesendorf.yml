@@ -1,11 +1,11 @@
 id: 97589999
-type: way
+type: node
 latitude: 47.82709
 longitude: 16.25297
 postcode: "2700"
 city: Wiener Neustadt
-street: "Pottendorfer Straße"
-housenumber: 43
+street: Pottendorfer Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

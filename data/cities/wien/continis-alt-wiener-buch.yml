@@ -4,8 +4,8 @@ latitude: 48.20167
 longitude: 16.35183
 postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 19
-phone: "+43 660 5534700"
-opening_hours: "Mo-Fr 14:00-20:00; Sa 14:00-18:00"
-website: "http://www.continis.at/"
+street: Kirchengasse
+housenumber: "19"
+phone: +43 660 5534700
+opening_hours: Mo-Fr 14:00-20:00; Sa 14:00-18:00
+website: http://www.continis.at/

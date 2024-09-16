@@ -4,8 +4,8 @@ latitude: 47.41582
 longitude: 9.74457
 postcode: "6850"
 city: Dornbirn
-street: "Eisengasse"
-housenumber: 12
+street: Eisengasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://rhomberg-reisen.com"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://rhomberg-reisen.com

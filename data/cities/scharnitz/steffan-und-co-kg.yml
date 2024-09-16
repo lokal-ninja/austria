@@ -1,11 +1,11 @@
 id: 143717949
-type: way
+type: node
 latitude: 47.39478
 longitude: 11.26622
 postcode: "6108"
 city: Scharnitz
-street: "Innsbruckerstraße"
-housenumber: 48
-phone: "+43 5213 5306"
-opening_hours: "7:00-19:00"
-website: "https://steffan-cokg.at/"
+street: Innsbruckerstraße
+housenumber: "48"
+phone: +43 5213 5306
+opening_hours: 7:00-19:00
+website: https://steffan-cokg.at/

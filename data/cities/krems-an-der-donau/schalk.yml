@@ -4,8 +4,8 @@ latitude: 48.40835
 longitude: 15.6147
 postcode: "3500"
 city: Krems an der Donau
-street: "Dr.-Gschmeidler-Straße"
-housenumber: 16
-phone: "+43 2732 852 43"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-17:00"
-website: "https://baeckerei-schalk.at/"
+street: Dr.-Gschmeidler-Straße
+housenumber: "16"
+phone: +43 2732 852 43
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-17:00
+website: https://baeckerei-schalk.at/

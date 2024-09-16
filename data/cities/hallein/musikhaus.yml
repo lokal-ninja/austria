@@ -1,11 +1,11 @@
 id: 258494080
-type: way
+type: node
 latitude: 47.68341
 longitude: 13.091
 postcode: ""
 city: Hallein
-street: "Bürgerspitalplatz"
-housenumber: 7
+street: Bürgerspitalplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.musikum-salzburg.at/index.php"
+website: https://www.musikum-salzburg.at/index.php

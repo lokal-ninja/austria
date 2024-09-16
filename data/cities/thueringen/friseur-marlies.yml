@@ -4,8 +4,8 @@ latitude: 47.1998
 longitude: 9.76702
 postcode: "6712"
 city: Thüringen
-street: "Alte Landstraße"
-housenumber: 12
+street: Alte Landstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-13:00"
-website: "http://www.friseur-marlies.at"
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-13:00
+website: http://www.friseur-marlies.at

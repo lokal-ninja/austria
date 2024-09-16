@@ -4,8 +4,8 @@ latitude: 48.24962
 longitude: 14.63292
 postcode: "4320"
 city: Perg
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 07:30-13:00"
-website: "https://www.haarzone-margit.at/"
+opening_hours: Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 07:30-13:00
+website: https://www.haarzone-margit.at/

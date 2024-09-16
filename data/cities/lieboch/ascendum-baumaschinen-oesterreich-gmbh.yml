@@ -1,11 +1,11 @@
 id: 196123956
-type: way
+type: node
 latitude: 46.96597
 longitude: 15.34431
 postcode: "8501"
 city: Lieboch
-street: "H. Thalhammer-Straße"
-housenumber: 15
-phone: "+43 3136 629010"
+street: H. Thalhammer-Straße
+housenumber: "15"
+phone: +43 3136 629010
 opening_hours: ""
-website: "https://www.ascendum.at/"
+website: https://www.ascendum.at/

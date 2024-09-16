@@ -4,8 +4,8 @@ latitude: 48.1982
 longitude: 16.35595
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 48
+street: Gumpendorfer Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Th,Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://www.kellerwerk.at/index.php?x=impressum"
+opening_hours: Th,Fr 11:00-18:00; Sa 11:00-15:00
+website: https://www.kellerwerk.at/index.php?x=impressum

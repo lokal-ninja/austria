@@ -1,11 +1,11 @@
 id: 159956036
-type: way
+type: node
 latitude: 46.7532
 longitude: 15.3619
 postcode: "8443"
 city: Gleinstätten
 street: ""
-housenumber: 240
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00; PH off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00; PH off
 website: ""

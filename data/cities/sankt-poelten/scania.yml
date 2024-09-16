@@ -1,11 +1,11 @@
 id: 94254738
-type: way
+type: node
 latitude: 48.22953
 longitude: 15.6772
 postcode: "3100"
 city: Sankt Pölten
-street: "Keilweg"
-housenumber: 4
+street: Keilweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

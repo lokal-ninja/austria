@@ -1,11 +1,11 @@
 id: 92225384
-type: way
+type: node
 latitude: 47.56097
 longitude: 14.24623
 postcode: "8940"
 city: Liezen
-street: "Bahnhofstraße"
-housenumber: 17
+street: Bahnhofstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

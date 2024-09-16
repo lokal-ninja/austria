@@ -1,11 +1,11 @@
 id: 169332946
-type: way
+type: node
 latitude: 47.49373
 longitude: 10.58417
 postcode: "6672"
 city: Nesselwängle
-street: "Haller"
-housenumber: 25
+street: Haller
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

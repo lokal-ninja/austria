@@ -1,11 +1,11 @@
 id: 345511917
-type: way
+type: node
 latitude: 46.58855
 longitude: 14.01847
 postcode: "9232"
 city: Rosegg
-street: "Wildparkweg"
-housenumber: 2
+street: Wildparkweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

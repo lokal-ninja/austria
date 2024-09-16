@@ -1,11 +1,11 @@
 id: 157372419
-type: way
+type: node
 latitude: 48.38864
 longitude: 16.18731
 postcode: "2000"
 city: Stockerau
-street: "Ing. Josef Heckl-Straße"
-housenumber: 1
+street: Ing. Josef Heckl-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

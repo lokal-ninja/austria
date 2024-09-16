@@ -4,8 +4,8 @@ latitude: 48.25819
 longitude: 16.39826
 postcode: "1210"
 city: Wien
-street: "Am Spitz"
-housenumber: 2
+street: Am Spitz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30; Sa (Dezember) 08:30-18:00"
-website: "https://www.schmuckhandwerk-gunsam.at/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30; Sa (Dezember) 08:30-18:00
+website: https://www.schmuckhandwerk-gunsam.at/

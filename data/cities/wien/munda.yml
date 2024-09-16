@@ -1,11 +1,11 @@
 id: 1042803339
-type: way
+type: node
 latitude: 48.21212
 longitude: 16.47932
 postcode: "1220"
 city: Wien
-street: "Biberhaufenweg"
+street: Biberhaufenweg
 housenumber: 19A
 phone: ""
 opening_hours: ""
-website: "www.munda.at; autohaus-munda.at"
+website: www.munda.at; autohaus-munda.at

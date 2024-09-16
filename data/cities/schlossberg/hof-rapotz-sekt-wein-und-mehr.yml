@@ -1,11 +1,11 @@
 id: 216975519
-type: way
+type: node
 latitude: 46.65952
 longitude: 15.42882
 postcode: "8463"
 city: Schloßberg
 street: ""
-housenumber: 16
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.rapotz.at/"
+website: https://www.rapotz.at/

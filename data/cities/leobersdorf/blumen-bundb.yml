@@ -1,11 +1,11 @@
 id: 1138283479
-type: way
+type: node
 latitude: 47.93189
 longitude: 16.19948
 postcode: "2544"
 city: Leobersdorf
-street: "Portugieser Straße"
-housenumber: 1
+street: Portugieser Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

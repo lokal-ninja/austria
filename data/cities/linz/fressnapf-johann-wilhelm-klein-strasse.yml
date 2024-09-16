@@ -1,11 +1,11 @@
 id: 24828907
-type: way
+type: node
 latitude: 48.33328
 longitude: 14.31199
 postcode: "4040"
 city: Linz
-street: "Johann-Wilhelm-Klein-Straße"
-housenumber: 41
+street: Johann-Wilhelm-Klein-Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

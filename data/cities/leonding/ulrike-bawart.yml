@@ -4,8 +4,8 @@ latitude: 48.29391
 longitude: 14.24618
 postcode: "4060"
 city: Leonding
-street: "Lugwiesstraße"
-housenumber: 15
-phone: "+43 (0) 650 / 44 50 077"
-opening_hours: "unknown on appointment"
-website: "https://www.ulrike-bawart.at/"
+street: Lugwiesstraße
+housenumber: "15"
+phone: +43 (0) 650 / 44 50 077
+opening_hours: unknown "on appointment"
+website: https://www.ulrike-bawart.at/

@@ -1,11 +1,11 @@
 id: 103215275
-type: way
+type: node
 latitude: 47.24168
 longitude: 10.29386
 postcode: "6655"
 city: Steeg
-street: "Dickenau"
-housenumber: 25
-phone: "+43 676 614 82 89"
-opening_hours: "Mo-Fr 06:30-18:00; We 06:30-12:00; Sa 07:00-12:00"
-website: "https://baeckerei-dengel.at/"
+street: Dickenau
+housenumber: "25"
+phone: +43 676 614 82 89
+opening_hours: Mo-Fr 06:30-18:00; We 06:30-12:00; Sa 07:00-12:00
+website: https://baeckerei-dengel.at/

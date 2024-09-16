@@ -1,11 +1,11 @@
 id: 128726452
-type: way
+type: node
 latitude: 48.30594
 longitude: 14.01668
 postcode: "4070"
 city: Eferding
-street: "Bahnhofstraße"
-housenumber: 12
-phone: "+43-7272-2459"
+street: Bahnhofstraße
+housenumber: "12"
+phone: +43-7272-2459
 opening_hours: ""
 website: ""

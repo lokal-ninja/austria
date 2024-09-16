@@ -4,8 +4,8 @@ latitude: 47.41293
 longitude: 9.76619
 postcode: "6850"
 city: Dornbirn
-street: "Watzenegg"
-housenumber: 20
+street: Watzenegg
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:15,17:00-19:00; Sa 06:30-12:15"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 06:30-12:15,17:00-19:00; Sa 06:30-12:15
+website: https://www.spar.at/

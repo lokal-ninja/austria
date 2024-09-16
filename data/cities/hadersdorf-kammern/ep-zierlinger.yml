@@ -1,11 +1,11 @@
 id: 124996715
-type: way
+type: node
 latitude: 48.45704
 longitude: 15.71851
 postcode: "3493"
 city: Hadersdorf-Kammern
-street: "Kremser Straße"
-housenumber: 10
+street: Kremser Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

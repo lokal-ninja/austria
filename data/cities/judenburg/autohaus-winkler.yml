@@ -1,11 +1,11 @@
 id: 189127694
-type: way
+type: node
 latitude: 47.18425
 longitude: 14.67131
 postcode: "8750"
 city: Judenburg
-street: "Hans List Straße"
-housenumber: 3
-phone: "+43 664 1457028"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.autowinkler.at/kontakt/"
+street: Hans List Straße
+housenumber: "3"
+phone: +43 664 1457028
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.autowinkler.at/kontakt/

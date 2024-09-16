@@ -1,11 +1,11 @@
 id: 191469342
-type: way
+type: node
 latitude: 47.3168
 longitude: 11.09244
 postcode: "6410"
 city: Telfs
-street: "Saglstraße"
-housenumber: 71
+street: Saglstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

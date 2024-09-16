@@ -1,11 +1,11 @@
 id: 259272353
-type: way
+type: node
 latitude: 47.36942
 longitude: 9.92829
 postcode: "6874"
 city: Bizau
 street: ""
-housenumber: 76
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Th 06:30-12:00,14:30-18:30; Fr 06:30-12:00,14:00-18:30; Sa 06:30-12:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Th 06:30-12:00,14:30-18:30; Fr 06:30-12:00,14:00-18:30; Sa 06:30-12:00
+website: https://www.spar.at/

@@ -4,8 +4,8 @@ latitude: 47.26199
 longitude: 11.38696
 postcode: "6020"
 city: Innsbruck
-street: "Maximilianstraße"
-housenumber: 12
-phone: "+43 50322 926216"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 11:00-15:00; Su 11:00-16:00"
-website: "https://www.baguette.at/handel/baguette/innsbruck-maximilianstrasse-12.html"
+street: Maximilianstraße
+housenumber: "12"
+phone: +43 50322 926216
+opening_hours: Mo-Fr 06:30-18:30; Sa 11:00-15:00; Su 11:00-16:00
+website: https://www.baguette.at/handel/baguette/innsbruck-maximilianstrasse-12.html

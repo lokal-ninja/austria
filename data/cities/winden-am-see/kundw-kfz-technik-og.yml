@@ -1,11 +1,11 @@
 id: 563401141
-type: way
+type: node
 latitude: 47.9541
 longitude: 16.75631
 postcode: "7092"
 city: Winden am See
-street: "Neusiedler Straße"
-housenumber: 27
-phone: "+43 216020058"
+street: Neusiedler Straße
+housenumber: "27"
+phone: +43 216020058
 opening_hours: ""
 website: ""

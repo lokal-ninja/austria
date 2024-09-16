@@ -1,11 +1,11 @@
 id: 323805691
-type: way
+type: node
 latitude: 48.23213
 longitude: 14.21939
 postcode: "4063"
 city: Hörsching
-street: "Poststraße"
-housenumber: 2
+street: Poststraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

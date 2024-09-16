@@ -1,11 +1,11 @@
 id: 328224993
-type: way
+type: node
 latitude: 47.059
 longitude: 15.52235
 postcode: "8075"
 city: Hart bei Graz
-street: "Rupertistraße"
-housenumber: 31
-phone: "0664 - 13 25 610"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+street: Rupertistraße
+housenumber: "31"
+phone: 0664 - 13 25 610
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

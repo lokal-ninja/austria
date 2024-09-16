@@ -4,8 +4,8 @@ latitude: 48.2059
 longitude: 16.34908
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 79
+street: Neubaugasse
+housenumber: "79"
 phone: "+4315230336"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://schaumstoffhaus.at/"
+opening_hours: Mo-Fr 14:00-18:00
+website: https://schaumstoffhaus.at/

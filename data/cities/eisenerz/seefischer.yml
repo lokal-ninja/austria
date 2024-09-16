@@ -1,11 +1,11 @@
 id: 95868583
-type: way
+type: node
 latitude: 47.56983
 longitude: 14.85034
 postcode: "8790"
 city: Eisenerz
-street: "Hieflauer Straße"
-housenumber: 114
+street: Hieflauer Straße
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

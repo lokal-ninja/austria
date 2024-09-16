@@ -4,8 +4,8 @@ latitude: 48.24557
 longitude: 16.37565
 postcode: "1200"
 city: Wien
-street: "Leystraße"
-housenumber: 23
-phone: "+43 650 33 48 695"
-opening_hours: "Tu,Th 08:00-17:00; We,Fr 08:00-15:00"
+street: Leystraße
+housenumber: "23"
+phone: +43 650 33 48 695
+opening_hours: Tu,Th 08:00-17:00; We,Fr 08:00-15:00
 website: ""

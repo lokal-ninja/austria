@@ -4,8 +4,8 @@ latitude: 48.19673
 longitude: 16.38753
 postcode: "1030"
 city: Wien
-street: "Juchgasse"
-housenumber: 42
-phone: "+43 664 254 64 53"
-opening_hours: "Mo-We 10:00-18:00; Th 12:00-19:00; Fr 13:00-18:00; Sa 10:00-14:00"
-website: "https://www.westerndreams.at/"
+street: Juchgasse
+housenumber: "42"
+phone: +43 664 254 64 53
+opening_hours: Mo-We 10:00-18:00; Th 12:00-19:00; Fr 13:00-18:00; Sa 10:00-14:00
+website: https://www.westerndreams.at/

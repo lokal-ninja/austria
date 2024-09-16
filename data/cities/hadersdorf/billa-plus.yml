@@ -1,11 +1,11 @@
 id: 527014388
-type: way
+type: node
 latitude: 48.46167
 longitude: 15.72135
 postcode: "3493"
 city: Hadersdorf
-street: "Leuthnersiedlung"
-housenumber: 28
+street: Leuthnersiedlung
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00,07:40-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:40-20:00,07:40-18:00
+website: https://www.billa.at

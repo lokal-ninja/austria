@@ -1,11 +1,11 @@
 id: 190983302
-type: way
+type: node
 latitude: 47.30625
 longitude: 10.97768
 postcode: "6414"
 city: Mieming
-street: "Obermieming"
-housenumber: 179
+street: Obermieming
+housenumber: "179"
 phone: ""
 opening_hours: ""
-website: "https://radsportkrug.com/"
+website: https://radsportkrug.com/

@@ -1,11 +1,11 @@
 id: 474480695
-type: way
+type: node
 latitude: 47.1064
 longitude: 15.66638
 postcode: "8200"
 city: Ludersdorf-Wilfersdorf
 street: ""
-housenumber: 164
+housenumber: "164"
 phone: ""
 opening_hours: ""
-website: "https://www.lorenz-pflegebetten.at/"
+website: https://www.lorenz-pflegebetten.at/

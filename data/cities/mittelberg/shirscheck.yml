@@ -1,11 +1,11 @@
 id: 139448666
-type: way
+type: node
 latitude: 47.34342
 longitude: 10.16672
 postcode: "6992"
 city: Mittelberg
-street: "Walserstraße"
-housenumber: 258
+street: Walserstraße
+housenumber: "258"
 phone: "+43551730578"
-opening_hours: "Mo-Sa 08:30-18:30"
-website: "https://www.hirscheck.net/"
+opening_hours: Mo-Sa 08:30-18:30
+website: https://www.hirscheck.net/

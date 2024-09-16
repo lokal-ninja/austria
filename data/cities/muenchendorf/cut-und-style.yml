@@ -1,11 +1,11 @@
 id: 155436178
-type: way
+type: node
 latitude: 48.03358
 longitude: 16.3852
 postcode: "2482"
 city: Münchendorf
-street: "Johann Wurth Gasse"
+street: Johann Wurth Gasse
 housenumber: 1a
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

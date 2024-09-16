@@ -1,11 +1,11 @@
 id: 1275453391
-type: way
+type: node
 latitude: 48.21731
 longitude: 16.39205
 postcode: "1020"
 city: Wien
-street: "Bahnhof Wien Nord"
+street: Bahnhof Wien Nord
 housenumber: SH02
 phone: "+4313470558"
 opening_hours: ""
-website: "https://www.segway.wien"
+website: https://www.segway.wien

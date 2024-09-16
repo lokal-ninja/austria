@@ -4,8 +4,8 @@ latitude: 47.2686
 longitude: 11.39404
 postcode: "6020"
 city: Innsbruck
-street: "Hofgasse"
-housenumber: 5
-phone: "+43 512 562932"
-opening_hours: "Mo-Sa 12:00-17:00"
-website: "https://www.tirol-geniessen.com/"
+street: Hofgasse
+housenumber: "5"
+phone: +43 512 562932
+opening_hours: Mo-Sa 12:00-17:00
+website: https://www.tirol-geniessen.com/

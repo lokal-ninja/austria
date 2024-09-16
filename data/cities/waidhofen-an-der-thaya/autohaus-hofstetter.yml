@@ -1,11 +1,11 @@
 id: 88003484
-type: way
+type: node
 latitude: 48.82061
 longitude: 15.2827
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Thayastraße"
-housenumber: 12
+street: Thayastraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.kia.com/at/haendler/kfz-hofstetter/ueber-kia/ueber-uns/#/"
+website: https://www.kia.com/at/haendler/kfz-hofstetter/ueber-kia/ueber-uns/#/

@@ -1,11 +1,11 @@
 id: 981908948
-type: way
+type: node
 latitude: 48.31591
 longitude: 14.0239
 postcode: "4070"
 city: Eferding
-street: "Brandstatter Straße"
-housenumber: 28
+street: Brandstatter Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
 website: ""

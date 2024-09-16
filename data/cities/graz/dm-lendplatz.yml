@@ -1,11 +1,11 @@
 id: 84141185
-type: way
+type: node
 latitude: 47.07573
 longitude: 15.43219
 postcode: "8020"
 city: Graz
-street: "Lendplatz"
-housenumber: 40
+street: Lendplatz
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 626489356
-type: way
+type: node
 latitude: 48.72525
 longitude: 16.72038
 postcode: "2172"
 city: Schrattenberg
-street: "Große Zeile"
+street: Große Zeile
 housenumber: 31a
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 06:30-12:00,15:00-18:00; We,Sa 06:30-12:00"
+opening_hours: Mo,Tu,Th,Fr 06:30-12:00,15:00-18:00; We,Sa 06:30-12:00
 website: ""

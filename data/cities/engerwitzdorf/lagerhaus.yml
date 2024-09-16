@@ -1,11 +1,11 @@
 id: 191681444
-type: way
+type: node
 latitude: 48.3436
 longitude: 14.43983
 postcode: "4209"
 city: Engerwitzdorf
-street: "Engerwitzdorfer Straße"
-housenumber: 40
-phone: "+43 7235 62212202"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://lagerhaus.at/standort/1280"
+street: Engerwitzdorfer Straße
+housenumber: "40"
+phone: +43 7235 62212202
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://lagerhaus.at/standort/1280

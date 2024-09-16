@@ -1,11 +1,11 @@
 id: 86151049
-type: way
+type: node
 latitude: 47.28432
 longitude: 16.18512
 postcode: "7400"
 city: Oberwart
-street: "Grazerstraße"
-housenumber: 136
+street: Grazerstraße
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

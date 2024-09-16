@@ -1,11 +1,11 @@
 id: 316493522
-type: way
+type: node
 latitude: 46.6555
 longitude: 13.8733
 postcode: "9521"
 city: Treffen am Ossiacher See
-street: "St. Ruprechterweg"
-housenumber: 3
+street: St. Ruprechterweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.28128
 longitude: 12.48227
 postcode: "5730"
 city: Mittersill
-street: "Stadtplatz"
-housenumber: 16
+street: Stadtplatz
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
+website: https://www.nkd.com/

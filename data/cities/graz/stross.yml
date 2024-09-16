@@ -4,8 +4,8 @@ latitude: 47.06539
 longitude: 15.44126
 postcode: "8010"
 city: Graz
-street: "Schönaugasse"
-housenumber: 14
+street: Schönaugasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:45-18:15; Sa 08:00-12:00"
-website: "https://www.stross-textilreinigung.at/main.html"
+opening_hours: Mo-Fr 07:45-18:15; Sa 08:00-12:00
+website: https://www.stross-textilreinigung.at/main.html

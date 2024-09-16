@@ -1,11 +1,11 @@
 id: 541591788
-type: way
+type: node
 latitude: 48.12599
 longitude: 16.58856
 postcode: "2401"
 city: Fischamend
-street: "Zeppelinstraße"
-housenumber: 2
+street: Zeppelinstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

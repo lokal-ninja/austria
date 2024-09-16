@@ -4,8 +4,8 @@ latitude: 48.20619
 longitude: 16.37616
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 30
+street: Singerstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://martastic.at"
+website: https://martastic.at

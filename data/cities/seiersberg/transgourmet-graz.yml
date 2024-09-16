@@ -1,11 +1,11 @@
 id: 110081397
-type: way
+type: node
 latitude: 47.01478
 longitude: 15.40914
 postcode: "8055"
 city: Seiersberg
-street: "Maria Pfeiffer-Straße"
-housenumber: 10
+street: Maria Pfeiffer-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:30; Sa 07:00-13:00"
-website: "https://www.transgourmet.at/"
+opening_hours: Mo-Fr 06:00-19:30; Sa 07:00-13:00
+website: https://www.transgourmet.at/

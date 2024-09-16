@@ -4,8 +4,8 @@ latitude: 47.10375
 longitude: 15.42143
 postcode: "8045"
 city: Graz
-street: "Andritzer Reichsstraße"
-housenumber: 37
-phone: "+43 660 1500 302"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-14:00; Mo, Su, PH off"
-website: "https://www.diewildemoehre.at/"
+street: Andritzer Reichsstraße
+housenumber: "37"
+phone: +43 660 1500 302
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-14:00; Mo, Su, PH off
+website: https://www.diewildemoehre.at/

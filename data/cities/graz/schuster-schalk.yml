@@ -1,11 +1,11 @@
 id: 137003358
-type: way
+type: node
 latitude: 47.04485
 longitude: 15.46429
 postcode: "8041"
 city: Graz
-street: "Neufeldweg"
-housenumber: 146
-phone: "+43316 84 75 67"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.schusterschalk.at/fhs/template_schusterschalk.php?ID=20&nLID=9&bereich=1"
+street: Neufeldweg
+housenumber: "146"
+phone: +43316 84 75 67
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.schusterschalk.at/fhs/template_schusterschalk.php?ID=20&nLID=9&bereich=1

@@ -1,11 +1,11 @@
 id: 132735491
-type: way
+type: node
 latitude: 47.52545
 longitude: 9.75099
 postcode: "6911"
 city: Lochau
-street: "Landstraße"
-housenumber: 57
-phone: "+43 5574 423620"
-opening_hours: "Mo-Fr 07:45-12:00, 13:15-17:30"
-website: "https://www.reifenforster.com/"
+street: Landstraße
+housenumber: "57"
+phone: +43 5574 423620
+opening_hours: Mo-Fr 07:45-12:00, 13:15-17:30
+website: https://www.reifenforster.com/

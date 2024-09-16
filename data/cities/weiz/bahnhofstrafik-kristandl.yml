@@ -1,11 +1,11 @@
 id: 357139876
-type: way
+type: node
 latitude: 47.21441
 longitude: 15.63044
 postcode: "8160"
 city: Weiz
-street: "Bahnhofstraße"
-housenumber: 23
-phone: "+43 3172 2085"
-opening_hours: "Mo-Fr 05:30-12:00,15:00-18:15; Sa 07:00-12:00"
+street: Bahnhofstraße
+housenumber: "23"
+phone: +43 3172 2085
+opening_hours: Mo-Fr 05:30-12:00,15:00-18:15; Sa 07:00-12:00
 website: ""

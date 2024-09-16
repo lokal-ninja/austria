@@ -4,8 +4,8 @@ latitude: 48.20794
 longitude: 16.37835
 postcode: "1010"
 city: Wien
-street: "Postgasse"
-housenumber: 1
+street: Postgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://josef-kroppel-fleischerei.business.site/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://josef-kroppel-fleischerei.business.site/

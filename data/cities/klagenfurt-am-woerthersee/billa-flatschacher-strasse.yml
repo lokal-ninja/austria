@@ -4,8 +4,8 @@ latitude: 46.61435
 longitude: 14.32002
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Flatschacher Straße"
-housenumber: 64
+street: Flatschacher Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

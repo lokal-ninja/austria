@@ -1,11 +1,11 @@
 id: 172817577
-type: way
+type: node
 latitude: 47.06028
 longitude: 16.32662
 postcode: "7540"
 city: Güssing
-street: "Dammstraße"
-housenumber: 4
+street: Dammstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://weinhofer.eu/"
+website: https://weinhofer.eu/

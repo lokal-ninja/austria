@@ -1,11 +1,11 @@
 id: 99149894
-type: way
+type: node
 latitude: 46.95278
 longitude: 15.341
 postcode: "8502"
 city: Lannach
-street: "Radlpaßstraße"
-housenumber: 8
+street: Radlpaßstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-19:30; Sa 07:00-18:00"
-website: "https://www.spar.at/standorte/spar-lannach-8502-radlpassstrasse-8"
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-19:30; Sa 07:00-18:00
+website: https://www.spar.at/standorte/spar-lannach-8502-radlpassstrasse-8

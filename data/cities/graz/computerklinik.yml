@@ -4,8 +4,8 @@ latitude: 47.07557
 longitude: 15.42821
 postcode: "8020"
 city: Graz
-street: "Keplerstraße"
-housenumber: 35
-phone: "+43316 71 04 47"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-13:00"
-website: "https://www.computerklinik.at/"
+street: Keplerstraße
+housenumber: "35"
+phone: +43316 71 04 47
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-13:00
+website: https://www.computerklinik.at/

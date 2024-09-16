@@ -4,8 +4,8 @@ latitude: 48.20724
 longitude: 16.37186
 postcode: "1010"
 city: Wien
-street: "Kärntner Straße"
-housenumber: 9
-phone: "+43 800 216251"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.nespresso.com/"
+street: Kärntner Straße
+housenumber: "9"
+phone: +43 800 216251
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.nespresso.com/

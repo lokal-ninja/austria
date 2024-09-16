@@ -4,8 +4,8 @@ latitude: 48.22653
 longitude: 16.38614
 postcode: "1020"
 city: Wien
-street: "Taborstraße"
-housenumber: 98
+street: Taborstraße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://ballons-ballons.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://ballons-ballons.com/

@@ -1,11 +1,11 @@
 id: 162280499
-type: way
+type: node
 latitude: 47.93605
 longitude: 13.48606
 postcode: "4880"
 city: St. Georgen im Attergau
-street: "Attergaustraße"
-housenumber: 54
+street: Attergaustraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

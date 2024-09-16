@@ -1,11 +1,11 @@
 id: 372691407
-type: way
+type: node
 latitude: 47.27032
 longitude: 9.6263
 postcode: "6830"
 city: Rankweil
-street: "Rüggelen"
-housenumber: 3
+street: Rüggelen
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 128987386
-type: way
+type: node
 latitude: 47.31055
 longitude: 9.63828
 postcode: "6833"
 city: Klaus
-street: "Sattelberg"
-housenumber: 77
+street: Sattelberg
+housenumber: "77"
 phone: ""
-opening_hours: "Fr 13:00-19:00"
+opening_hours: Fr 13:00-19:00
 website: ""

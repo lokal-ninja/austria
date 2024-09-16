@@ -1,11 +1,11 @@
 id: 127050885
-type: way
+type: node
 latitude: 48.14288
 longitude: 13.48655
 postcode: "4925"
 city: Pramet
 street: ""
-housenumber: 58
-phone: "+43 7754 36305"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su,PH off"
+housenumber: "58"
+phone: +43 7754 36305
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su,PH off
 website: ""

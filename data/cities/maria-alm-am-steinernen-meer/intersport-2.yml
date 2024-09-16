@@ -5,7 +5,7 @@ longitude: 12.90579
 postcode: "5761"
 city: Maria Alm am Steinernen Meer
 street: ""
-housenumber: 3
-phone: "+43 6584 2119"
-opening_hours: "Mo-So von 08:30-12:00 und 14:00-18:00 Uhr"
-website: "https://www.intersport-mariaalm.at/"
+housenumber: "3"
+phone: +43 6584 2119
+opening_hours: Mo-So von 08:30-12:00 und 14:00-18:00 Uhr
+website: https://www.intersport-mariaalm.at/

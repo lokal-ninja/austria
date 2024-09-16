@@ -4,8 +4,8 @@ latitude: 48.22247
 longitude: 16.37472
 postcode: "1020"
 city: Wien
-street: "Untere Augartenstraße"
-housenumber: 37
-phone: "+43 1 3323323"
-opening_hours: "Mo-Fr 12:00-22:00; Sa,Su,PH 12:00-20:00"
+street: Untere Augartenstraße
+housenumber: "37"
+phone: +43 1 3323323
+opening_hours: Mo-Fr 12:00-22:00; Sa,Su,PH 12:00-20:00
 website: ""

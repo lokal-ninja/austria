@@ -1,11 +1,11 @@
 id: 251375230
-type: way
+type: node
 latitude: 48.1109
 longitude: 16.16435
 postcode: "2391"
 city: Kaltenleutgeben
-street: "Gewerbegasse"
-housenumber: 1
+street: Gewerbegasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

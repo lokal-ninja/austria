@@ -4,8 +4,8 @@ latitude: 48.20723
 longitude: 16.34449
 postcode: "1070"
 city: Wien
-street: "Lerchenfelder Straße"
-housenumber: 83
-phone: "+43 (1) 526 35 54"
-opening_hours: "Tu-Fr 09:00-20:00; Sa 09:00-17:00"
-website: "https://www.kopfart3.at/"
+street: Lerchenfelder Straße
+housenumber: "83"
+phone: +43 (1) 526 35 54
+opening_hours: Tu-Fr 09:00-20:00; Sa 09:00-17:00
+website: https://www.kopfart3.at/

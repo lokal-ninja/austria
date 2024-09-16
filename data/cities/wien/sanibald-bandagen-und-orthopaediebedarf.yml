@@ -4,8 +4,8 @@ latitude: 48.23649
 longitude: 16.38424
 postcode: "1200"
 city: Wien
-street: "Donaueschingenstraße"
-housenumber: 20
+street: Donaueschingenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

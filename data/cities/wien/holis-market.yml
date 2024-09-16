@@ -4,8 +4,8 @@ latitude: 48.2063
 longitude: 16.3495
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 88
-phone: "+43 676 4448824"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off"
-website: "https://holis-market.at/"
+street: Neubaugasse
+housenumber: "88"
+phone: +43 676 4448824
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH off
+website: https://holis-market.at/

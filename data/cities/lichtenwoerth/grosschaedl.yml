@@ -1,11 +1,11 @@
 id: 302706637
-type: way
+type: node
 latitude: 47.84366
 longitude: 16.29441
 postcode: "2493"
 city: Lichtenwörth
-street: "Michael Hainisch-Straße"
-housenumber: 53
-phone: "+43 2622 761660"
+street: Michael Hainisch-Straße
+housenumber: "53"
+phone: +43 2622 761660
 opening_hours: ""
-website: "https://www.grosschaedl.at/"
+website: https://www.grosschaedl.at/

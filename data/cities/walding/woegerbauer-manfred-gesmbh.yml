@@ -1,11 +1,11 @@
 id: 143974975
-type: way
+type: node
 latitude: 48.36056
 longitude: 14.13811
 postcode: "4112"
 city: Walding
-street: "Rohrbacherstraße"
-housenumber: 9
+street: Rohrbacherstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301673084
-type: way
+type: node
 latitude: 48.16133
 longitude: 16.31134
 postcode: "1120"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 141
+street: Breitenfurter Straße
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

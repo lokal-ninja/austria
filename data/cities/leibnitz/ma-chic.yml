@@ -4,8 +4,8 @@ latitude: 46.78115
 longitude: 15.53684
 postcode: "8430"
 city: Leibnitz
-street: "Augasse"
-housenumber: 1
+street: Augasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://ma-chic.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://ma-chic.at

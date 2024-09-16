@@ -1,11 +1,11 @@
 id: 238707443
-type: way
+type: node
 latitude: 46.76426
 longitude: 15.96634
 postcode: "8493"
 city: Klöch
 street: ""
-housenumber: 23
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.2162
 longitude: 16.32208
 postcode: "1170"
 city: Wien
-street: "Wilhelminenstraße"
-housenumber: 6
-phone: "+43 1 488 22 3770"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-13:00"
-website: "https://www.manner.com/"
+street: Wilhelminenstraße
+housenumber: "6"
+phone: +43 1 488 22 3770
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-13:00
+website: https://www.manner.com/

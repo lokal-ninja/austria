@@ -1,11 +1,11 @@
 id: 101374049
-type: way
+type: node
 latitude: 47.54444
 longitude: 12.45071
 postcode: "6382"
 city: Kirchdorf in Tirol
-street: "Innsbrucker Straße"
-housenumber: 49
+street: Innsbrucker Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.56704
 longitude: 16.57052
 postcode: "2130"
 city: Mistelbach
-street: "Bahnstraße"
-housenumber: 10
-phone: "+43 2572 2405"
-opening_hours: "Mo-Fr 08:30-12:00,13:00-17:30; Sa 08:30-12:00; Su,PH off"
-website: "https://www.keitel-gloss.at/"
+street: Bahnstraße
+housenumber: "10"
+phone: +43 2572 2405
+opening_hours: Mo-Fr 08:30-12:00,13:00-17:30; Sa 08:30-12:00; Su,PH off
+website: https://www.keitel-gloss.at/

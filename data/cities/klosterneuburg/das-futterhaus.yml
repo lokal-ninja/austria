@@ -1,11 +1,11 @@
 id: 17359872
-type: way
+type: node
 latitude: 48.28615
 longitude: 16.3446
 postcode: "3400"
 city: Klosterneuburg
-street: "Wiener Straße"
-housenumber: 53
+street: Wiener Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

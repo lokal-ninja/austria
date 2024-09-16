@@ -1,11 +1,11 @@
 id: 142722916
-type: way
+type: node
 latitude: 47.80307
 longitude: 16.24072
 postcode: "2700"
 city: Wiener Neustadt
-street: "Rebengasse"
-housenumber: 17
+street: Rebengasse
+housenumber: "17"
 phone: "+43262261109"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 303431163
-type: way
+type: node
 latitude: 47.48955
 longitude: 14.48547
 postcode: "8784"
 city: Trieben
-street: "Europastraße"
-housenumber: 2
+street: Europastraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:45-19:00; Sa 07:15-18:00"
+opening_hours: Mo-Fr 06:45-19:00; Sa 07:15-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 51537389
-type: way
+type: node
 latitude: 48.24406
 longitude: 14.25621
 postcode: "4060"
 city: Leonding
-street: "Wiener Bundesstraße"
-housenumber: 28
-phone: "+43 5 77877"
+street: Wiener Bundesstraße
+housenumber: "28"
+phone: +43 5 77877
 opening_hours: ""
-website: "https://www.weitmann.at"
+website: https://www.weitmann.at

@@ -1,11 +1,11 @@
 id: 580733807
-type: way
+type: node
 latitude: 48.21513
 longitude: 14.49374
 postcode: "4482"
 city: Ennsdorf
-street: "Strauchgasse"
-housenumber: 2
-phone: "+43 7223 83456"
+street: Strauchgasse
+housenumber: "2"
+phone: +43 7223 83456
 opening_hours: ""
-website: "http://www.bienenaltmann.at"
+website: http://www.bienenaltmann.at

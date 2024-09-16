@@ -5,7 +5,7 @@ longitude: 10.18751
 postcode: "6563"
 city: Galtür
 street: ""
-housenumber: 44
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; PH off"
-website: "https://www.baeckerei-kurz.at/"
+opening_hours: Mo-Sa 07:00-18:00; PH off
+website: https://www.baeckerei-kurz.at/

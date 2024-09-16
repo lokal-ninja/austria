@@ -1,11 +1,11 @@
 id: 931353860
-type: way
+type: node
 latitude: 47.26908
 longitude: 11.234
 postcode: "6170"
 city: Zirl
-street: "Flößerweg"
-housenumber: 6
+street: Flößerweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

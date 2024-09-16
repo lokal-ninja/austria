@@ -4,8 +4,8 @@ latitude: 48.21041
 longitude: 16.37222
 postcode: "1010"
 city: Wien
-street: "Landskrongasse"
-housenumber: 3
+street: Landskrongasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

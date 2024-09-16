@@ -1,11 +1,11 @@
 id: 505813325
-type: way
+type: node
 latitude: 47.63321
 longitude: 16.35476
 postcode: "2803"
 city: Schwarzenbach
 street: ""
-housenumber: 94
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.nahundfrisch.at/de/kaufmann/groiss"
+website: https://www.nahundfrisch.at/de/kaufmann/groiss

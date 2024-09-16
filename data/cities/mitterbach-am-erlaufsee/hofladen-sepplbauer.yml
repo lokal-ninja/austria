@@ -1,11 +1,11 @@
 id: 74771702
-type: way
+type: node
 latitude: 47.81387
 longitude: 15.29524
 postcode: "3224"
 city: Mitterbach am Erlaufsee
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su,PH 08:00-19:00"
+opening_hours: Mo-Sa 07:00-19:00; Su,PH 08:00-19:00
 website: ""

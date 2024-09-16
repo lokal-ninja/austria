@@ -1,11 +1,11 @@
 id: 94997340
-type: way
+type: node
 latitude: 47.46551
 longitude: 11.98347
 postcode: "6250"
 city: Kundl
-street: "Biochemiestraße"
-housenumber: 70
+street: Biochemiestraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:15; Fr 07:00-19:30; Sa 07:00-18:00"
+opening_hours: Mo-Th 07:00-19:15; Fr 07:00-19:30; Sa 07:00-18:00
 website: ""

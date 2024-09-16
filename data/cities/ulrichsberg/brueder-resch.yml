@@ -1,11 +1,11 @@
 id: 461325675
-type: way
+type: node
 latitude: 48.67423
 longitude: 13.89813
 postcode: "4161"
 city: Ulrichsberg
-street: "Steinmühle"
-housenumber: 3
+street: Steinmühle
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

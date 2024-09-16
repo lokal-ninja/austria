@@ -1,11 +1,11 @@
 id: 36706417
-type: way
+type: node
 latitude: 48.14813
 longitude: 13.97382
 postcode: "4600"
 city: Wels
-street: "Gunskirchener Straße"
-housenumber: 6
+street: Gunskirchener Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

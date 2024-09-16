@@ -1,11 +1,11 @@
 id: 991563005
-type: way
+type: node
 latitude: 48.03044
 longitude: 16.28843
 postcode: "2514"
 city: Traiskirchen
-street: "Badener Straße"
-housenumber: 33
+street: Badener Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://lackundleder.at/"
+website: https://lackundleder.at/

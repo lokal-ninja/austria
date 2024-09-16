@@ -1,11 +1,11 @@
 id: 1047740311
-type: way
+type: node
 latitude: 47.97845
 longitude: 15.18274
 postcode: "3283"
 city: St. Anton an der Jeßnitz
-street: "Gnadenberg"
-housenumber: 29
+street: Gnadenberg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:00; Sa,Su 07:00-21:00"
+opening_hours: Mo-Fr 05:00-21:00; Sa,Su 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 130705951
-type: way
+type: node
 latitude: 48.21837
 longitude: 14.42182
 postcode: "4481"
 city: Asten
-street: "Geranienstraße"
-housenumber: 4
+street: Geranienstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

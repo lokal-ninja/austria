@@ -4,8 +4,8 @@ latitude: 48.24046
 longitude: 14.27583
 postcode: "4050"
 city: Linz
-street: "Bäckermühlweg"
-housenumber: 80
-phone: "+43 732 245555 0"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://acl-metall.at/"
+street: Bäckermühlweg
+housenumber: "80"
+phone: +43 732 245555 0
+opening_hours: Mo-Fr 08:00-17:00
+website: http://acl-metall.at/

@@ -1,11 +1,11 @@
 id: 171452143
-type: way
+type: node
 latitude: 47.30156
 longitude: 11.59154
 postcode: "6122"
 city: Fritzens
-street: "Innstraße"
-housenumber: 11
+street: Innstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

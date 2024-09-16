@@ -4,8 +4,8 @@ latitude: 47.26397
 longitude: 11.42774
 postcode: "6020"
 city: Innsbruck
-street: "Grabenweg"
-housenumber: 2
-phone: "+43 512 391190"
-opening_hours: "Mo-Su 10:00-19:00; Sa 10:00-17:00; PH off"
-website: "https://www.orion.at"
+street: Grabenweg
+housenumber: "2"
+phone: +43 512 391190
+opening_hours: Mo-Su 10:00-19:00; Sa 10:00-17:00; PH off
+website: https://www.orion.at

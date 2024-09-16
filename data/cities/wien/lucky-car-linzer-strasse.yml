@@ -1,11 +1,11 @@
 id: 187816934
-type: way
+type: node
 latitude: 48.19417
 longitude: 16.2965
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 167
+street: Linzer Straße
+housenumber: "167"
 phone: ""
 opening_hours: ""
-website: "https://www.lucky-car.at/lucky-car-standorte/1140-wien-linzer-strasse-167.html"
+website: https://www.lucky-car.at/lucky-car-standorte/1140-wien-linzer-strasse-167.html

@@ -4,8 +4,8 @@ latitude: 48.19302
 longitude: 16.34897
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 84
+street: Gumpendorfer Straße
+housenumber: "84"
 phone: "+43159742570"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-12:30"
-website: "http://www.buecher-ernst.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-12:30
+website: http://www.buecher-ernst.com/

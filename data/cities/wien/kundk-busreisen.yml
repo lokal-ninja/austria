@@ -4,8 +4,8 @@ latitude: 48.22612
 longitude: 16.34841
 postcode: "1180"
 city: Wien
-street: "Semperstraße"
-housenumber: 24
+street: Semperstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 09:00-14:00; Fr 09:00-12:00"
+opening_hours: Mo-Th 09:00-14:00; Fr 09:00-12:00
 website: ""

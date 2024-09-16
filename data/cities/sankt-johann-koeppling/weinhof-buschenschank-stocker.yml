@@ -1,11 +1,11 @@
 id: 186666981
-type: way
+type: node
 latitude: 47.02096
 longitude: 15.25977
 postcode: "8561"
 city: Sankt Johann-Köppling
-street: "Neudorf"
-housenumber: 6
+street: Neudorf
+housenumber: "6"
 phone: ""
-opening_hours: "Th-Fr 15:00-22:00; Sa 13:00-22:00; Su 13:00-21:00"
-website: "https://www.buschenschank-stocker.at/"
+opening_hours: Th-Fr 15:00-22:00; Sa 13:00-22:00; Su 13:00-21:00
+website: https://www.buschenschank-stocker.at/

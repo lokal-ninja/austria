@@ -1,11 +1,11 @@
 id: 163992568
-type: way
+type: node
 latitude: 47.24426
 longitude: 11.24973
 postcode: "6173"
 city: Oberperfuß
-street: "Riedl"
-housenumber: 33
+street: Riedl
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.schluifer.at/"
+website: https://www.schluifer.at/

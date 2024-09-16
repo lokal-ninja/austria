@@ -1,11 +1,11 @@
 id: 174503547
-type: way
+type: node
 latitude: 47.34825
 longitude: 15.69108
 postcode: "8190"
 city: Birkfeld
-street: "Gasener-Straße"
-housenumber: 3
+street: Gasener-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

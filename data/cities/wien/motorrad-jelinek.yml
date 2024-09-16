@@ -1,11 +1,11 @@
 id: 389656005
-type: way
+type: node
 latitude: 48.16791
 longitude: 16.31575
 postcode: "1120"
 city: Wien
-street: "Altmannsdorfer Straße"
-housenumber: 52
+street: Altmannsdorfer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
 website: ""

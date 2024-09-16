@@ -1,11 +1,11 @@
 id: 960759992
-type: way
+type: node
 latitude: 47.26274
 longitude: 11.26783
 postcode: "6175"
 city: Kematen in Tirol
-street: "Industriezone"
-housenumber: 10
+street: Industriezone
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

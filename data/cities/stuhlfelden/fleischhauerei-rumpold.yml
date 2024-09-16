@@ -1,11 +1,11 @@
 id: 96051755
-type: way
+type: node
 latitude: 47.28657
 longitude: 12.5084
 postcode: "5724"
 city: Stuhlfelden
-street: "Mittersiller Bundesstraße"
-housenumber: 44
+street: Mittersiller Bundesstraße
+housenumber: "44"
 phone: "+43656240633"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-12:30"
-website: "https://fleischhauerei-rumpold.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-12:30
+website: https://fleischhauerei-rumpold.at/

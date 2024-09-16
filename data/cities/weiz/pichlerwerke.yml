@@ -1,11 +1,11 @@
 id: 184458061
-type: way
+type: node
 latitude: 47.22094
 longitude: 15.6255
 postcode: "8160"
 city: Weiz
-street: "Goethegasse"
-housenumber: 2
+street: Goethegasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 06:30-12:00, Mo-Th 13:00-17:00; Fr 06:30-12:00"
+opening_hours: Mo-Th 06:30-12:00, Mo-Th 13:00-17:00; Fr 06:30-12:00
 website: ""

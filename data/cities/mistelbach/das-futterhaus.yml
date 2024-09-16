@@ -4,8 +4,8 @@ latitude: 48.55947
 longitude: 16.56124
 postcode: "2130"
 city: Mistelbach
-street: "Ernstbrunnerstraße"
-housenumber: 8
+street: Ernstbrunnerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su,PH off"
-website: "https://www.dasfutterhaus.at/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su,PH off
+website: https://www.dasfutterhaus.at/

@@ -1,11 +1,11 @@
 id: 218898072
-type: way
+type: node
 latitude: 47.5773
 longitude: 12.69822
 postcode: "5092"
 city: Sankt Martin bei Lofer
-street: "Wildmoos"
-housenumber: 84
-phone: "+43 6588 7238"
+street: Wildmoos
+housenumber: "84"
+phone: +43 6588 7238
 opening_hours: ""
 website: ""

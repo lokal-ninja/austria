@@ -1,5 +1,5 @@
 id: 179167453
-type: way
+type: node
 latitude: 46.75492
 longitude: 15.36708
 postcode: "8443"
@@ -7,5 +7,5 @@ city: Gleinstätten
 street: ""
 housenumber: 28-28a
 phone: ""
-opening_hours: "Mo-Fr 06:45-12:15,14:30-18:00; Sa 07:00-12:15; Su,PH off"
+opening_hours: Mo-Fr 06:45-12:15,14:30-18:00; Sa 07:00-12:15; Su,PH off
 website: ""

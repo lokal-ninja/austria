@@ -4,8 +4,8 @@ latitude: 47.56769
 longitude: 14.24348
 postcode: "8900"
 city: Liezen
-street: "Hauptstraße"
-housenumber: 11
-phone: "+43-3633-3100-11"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.aster-wohnen.at/"
+street: Hauptstraße
+housenumber: "11"
+phone: +43-3633-3100-11
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.aster-wohnen.at/

@@ -1,11 +1,11 @@
 id: 204920917
-type: way
+type: node
 latitude: 47.11187
 longitude: 15.70411
 postcode: "8200"
 city: Gleisdorf
-street: "Weizer Straße"
-housenumber: 50
+street: Weizer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

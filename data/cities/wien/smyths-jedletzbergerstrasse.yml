@@ -4,8 +4,8 @@ latitude: 48.17107
 longitude: 16.45835
 postcode: "1110"
 city: Wien
-street: "Jedletzbergerstraße"
-housenumber: 7
-phone: "+43 1 7693787"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.smythstoys.com/at/de-at/"
+street: Jedletzbergerstraße
+housenumber: "7"
+phone: +43 1 7693787
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.smythstoys.com/at/de-at/

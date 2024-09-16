@@ -1,11 +1,11 @@
 id: 442039669
-type: way
+type: node
 latitude: 48.3854
 longitude: 16.73966
 postcode: "2242"
 city: Prottes
-street: "Hauptstraße"
-housenumber: 7
-phone: "+43 2282 3510"
-opening_hours: "Mo-Fr 05:30-12:00; Sa 06:30-12:00; Su,PH off"
-website: "https://www.baeckerei-stanzl.at/"
+street: Hauptstraße
+housenumber: "7"
+phone: +43 2282 3510
+opening_hours: Mo-Fr 05:30-12:00; Sa 06:30-12:00; Su,PH off
+website: https://www.baeckerei-stanzl.at/

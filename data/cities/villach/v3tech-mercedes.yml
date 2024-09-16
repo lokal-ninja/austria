@@ -4,8 +4,8 @@ latitude: 46.60896
 longitude: 13.84594
 postcode: "9500"
 city: Villach
-street: "10. Oktober-Straße"
-housenumber: 25
-phone: "+43 4242 24141"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://v3tech.at"
+street: 10. Oktober-Straße
+housenumber: "25"
+phone: +43 4242 24141
+opening_hours: Mo-Fr 07:00-17:00
+website: https://v3tech.at

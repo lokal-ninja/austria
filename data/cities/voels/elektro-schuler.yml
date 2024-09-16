@@ -4,8 +4,8 @@ latitude: 47.25855
 longitude: 11.32188
 postcode: "6176"
 city: Völs
-street: "Gießenweg"
-housenumber: 1
-phone: "+43 512 22550"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; PH off"
-website: "https://www.schuler.co.at/standorte/schuler-voels/"
+street: Gießenweg
+housenumber: "1"
+phone: +43 512 22550
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; PH off
+website: https://www.schuler.co.at/standorte/schuler-voels/

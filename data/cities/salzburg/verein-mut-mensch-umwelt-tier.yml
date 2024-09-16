@@ -4,8 +4,8 @@ latitude: 47.80635
 longitude: 13.04992
 postcode: "5020"
 city: Salzburg
-street: "Paris-Lodron-Straße"
-housenumber: 32
+street: Paris-Lodron-Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo,We,Th 09:00-13:00; Tu 14:00-18:00; Fr 12:00-16:00"
+opening_hours: Mo,We,Th 09:00-13:00; Tu 14:00-18:00; Fr 12:00-16:00
 website: ""

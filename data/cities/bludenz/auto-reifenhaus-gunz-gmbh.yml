@@ -1,11 +1,11 @@
 id: 295752555
-type: way
+type: node
 latitude: 47.14309
 longitude: 9.83249
 postcode: "6700"
 city: Bludenz
-street: "Tränkeweg"
-housenumber: 2
+street: Tränkeweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

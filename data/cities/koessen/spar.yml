@@ -1,11 +1,11 @@
 id: 127096318
-type: way
+type: node
 latitude: 47.66731
 longitude: 12.40502
 postcode: "6345"
 city: Kössen
-street: "Postweg"
-housenumber: 12
+street: Postweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Jul-Sep: Su 08:00-14:00; PH off"
+opening_hours: 'Mo-Fr 07:15-19:30; Sa 07:15-18:00; Jul-Sep: Su 08:00-14:00; PH off'
 website: ""

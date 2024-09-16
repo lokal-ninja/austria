@@ -1,11 +1,11 @@
 id: 197215000
-type: way
+type: node
 latitude: 47.29499
 longitude: 12.79745
 postcode: "5700"
 city: Zell am See
-street: "Brucker Bundesstraße"
-housenumber: 69
+street: Brucker Bundesstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

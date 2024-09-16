@@ -1,11 +1,11 @@
 id: 134800589
-type: way
+type: node
 latitude: 48.25918
 longitude: 14.32286
 postcode: "4030"
 city: Linz
-street: "Wiener Straße"
-housenumber: 379
-phone: "+43 732 3106510"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.cbfliese.at"
+street: Wiener Straße
+housenumber: "379"
+phone: +43 732 3106510
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.cbfliese.at

@@ -4,8 +4,8 @@ latitude: 47.07048
 longitude: 15.43795
 postcode: "8010"
 city: Graz
-street: "Hauptplatz"
-housenumber: 3
+street: Hauptplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:15; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:15; Sa 07:15-18:00
 website: ""

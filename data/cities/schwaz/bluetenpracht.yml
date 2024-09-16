@@ -4,8 +4,8 @@ latitude: 47.3449
 longitude: 11.70913
 postcode: "6130"
 city: Schwaz
-street: "Fuggergasse"
-housenumber: 3
-phone: "+43 5242 61179"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30; PH off"
-website: "https://bluetenpracht.tirol"
+street: Fuggergasse
+housenumber: "3"
+phone: +43 5242 61179
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30; PH off
+website: https://bluetenpracht.tirol

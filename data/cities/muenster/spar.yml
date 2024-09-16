@@ -1,11 +1,11 @@
 id: 451787993
-type: way
+type: node
 latitude: 47.42044
 longitude: 11.83311
 postcode: "6232"
 city: Münster
 street: ""
-housenumber: 499
+housenumber: "499"
 phone: ""
 opening_hours: ""
-website: "https://www.sparmair.at/"
+website: https://www.sparmair.at/

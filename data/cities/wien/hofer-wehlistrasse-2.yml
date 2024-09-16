@@ -1,11 +1,11 @@
 id: 157688015
-type: way
+type: node
 latitude: 48.24754
 longitude: 16.37896
 postcode: "1200"
 city: Wien
-street: "Wehlistraße"
-housenumber: 27
-phone: "+43 57 03034013"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Wehlistraße
+housenumber: "27"
+phone: +43 57 03034013
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

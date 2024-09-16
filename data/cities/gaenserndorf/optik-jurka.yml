@@ -4,8 +4,8 @@ latitude: 48.34
 longitude: 16.72714
 postcode: "2230"
 city: Gänserndorf
-street: "Bahnstraße"
-housenumber: 63
+street: Bahnstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-12:00; PH,Su off"
-website: "https://www.optik-jurka.at/"
+opening_hours: Mo-Fr 09:00-13:00; Sa 09:00-12:00; PH,Su off
+website: https://www.optik-jurka.at/

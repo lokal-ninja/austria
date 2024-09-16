@@ -1,11 +1,11 @@
 id: 217122765
-type: way
+type: node
 latitude: 46.72338
 longitude: 15.33922
 postcode: "8544"
 city: Oberhaag
 street: ""
-housenumber: 63
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: 16.37197
 postcode: "1010"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 11:00-17:00; Tu-Th 09:00-20:00; Fr 08:00-20:00; Sa 09:00-15:00"
-website: "https://www.hairclub.wien/"
+opening_hours: Mo 11:00-17:00; Tu-Th 09:00-20:00; Fr 08:00-20:00; Sa 09:00-15:00
+website: https://www.hairclub.wien/

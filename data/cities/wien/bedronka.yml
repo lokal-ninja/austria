@@ -4,8 +4,8 @@ latitude: 48.17438
 longitude: 16.35853
 postcode: "1100"
 city: Wien
-street: "Davidgasse"
-housenumber: 85
+street: Davidgasse
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 133532706
-type: way
+type: node
 latitude: 48.04659
 longitude: 14.41259
 postcode: "4400"
 city: Steyr
-street: "Seifentruhe"
-housenumber: 2
+street: Seifentruhe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.ford4you.at/steyr.htm"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.ford4you.at/steyr.htm

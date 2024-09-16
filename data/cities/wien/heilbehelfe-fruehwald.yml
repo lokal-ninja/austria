@@ -4,8 +4,8 @@ latitude: 48.21389
 longitude: 16.36726
 postcode: "1010"
 city: Wien
-street: "Börseplatz"
-housenumber: 7
+street: Börseplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

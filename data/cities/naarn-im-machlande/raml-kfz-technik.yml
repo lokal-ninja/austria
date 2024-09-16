@@ -1,11 +1,11 @@
 id: 809749132
-type: way
+type: node
 latitude: 48.25137
 longitude: 14.59152
 postcode: "4331"
 city: Naarn im Machlande
-street: "Untere Gewerbestraße"
-housenumber: 9
+street: Untere Gewerbestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

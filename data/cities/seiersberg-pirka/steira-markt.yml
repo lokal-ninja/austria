@@ -4,8 +4,8 @@ latitude: 47.01339
 longitude: 15.41975
 postcode: "8055"
 city: Seiersberg-Pirka
-street: "Finkengasse"
-housenumber: 1
+street: Finkengasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.steiramarkt.at/shop/"
+website: https://www.steiramarkt.at/shop/

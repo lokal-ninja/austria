@@ -1,11 +1,11 @@
 id: 191263499
-type: way
+type: node
 latitude: 47.82222
 longitude: 16.22697
 postcode: "2700"
 city: Wr. Neustadt
-street: "Fischauer Gasse"
-housenumber: 80
+street: Fischauer Gasse
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

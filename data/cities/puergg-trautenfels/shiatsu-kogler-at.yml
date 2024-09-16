@@ -4,8 +4,8 @@ latitude: 47.52805
 longitude: 14.07061
 postcode: "8951"
 city: Pürgg-Trautenfels
-street: "Unterburgweg"
-housenumber: 71
-phone: "+43 664 538 56 20"
+street: Unterburgweg
+housenumber: "71"
+phone: +43 664 538 56 20
 opening_hours: ""
-website: "http://wikipost.de/index.php?id=98&tx_ttnews[tt_news]=6395"
+website: http://wikipost.de/index.php?id=98&tx_ttnews[tt_news]=6395

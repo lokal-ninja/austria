@@ -4,8 +4,8 @@ latitude: 48.20322
 longitude: 16.35712
 postcode: "1070"
 city: Wien
-street: "Breite Gasse"
-housenumber: 4
+street: Breite Gasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 09:30-16:00, Th 09:30-20:00"
+opening_hours: Mo,Tu,We,Fr 09:30-16:00, Th 09:30-20:00
 website: ""

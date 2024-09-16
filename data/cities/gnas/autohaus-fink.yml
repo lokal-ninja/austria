@@ -5,7 +5,7 @@ longitude: 15.81822
 postcode: "8342"
 city: Gnas
 street: ""
-housenumber: 175
-phone: "+43 3151 8320"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:00; Sa 07:30-12:00"
-website: "https://www.autofink.at/"
+housenumber: "175"
+phone: +43 3151 8320
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:00; Sa 07:30-12:00
+website: https://www.autofink.at/

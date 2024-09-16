@@ -1,11 +1,11 @@
 id: 88718645
-type: way
+type: node
 latitude: 48.18558
 longitude: 14.02581
 postcode: "4600"
 city: Wels
-street: "Mitterfeldstraße"
-housenumber: 2
+street: Mitterfeldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.billa.at

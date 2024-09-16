@@ -4,8 +4,8 @@ latitude: 47.26123
 longitude: 11.39583
 postcode: "6020"
 city: Innsbruck
-street: "Heiliggeiststraße"
-housenumber: 2
-phone: "+43 512 574675"
-opening_hours: "Tu,We,Fr 08:00-18:00; Th 08:00-20:00; Sa 08:00-15:00; PH off"
-website: "https://www.haarlekin.at/"
+street: Heiliggeiststraße
+housenumber: "2"
+phone: +43 512 574675
+opening_hours: Tu,We,Fr 08:00-18:00; Th 08:00-20:00; Sa 08:00-15:00; PH off
+website: https://www.haarlekin.at/

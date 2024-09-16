@@ -1,11 +1,11 @@
 id: 84530165
-type: way
+type: node
 latitude: 48.04729
 longitude: 12.82955
 postcode: "5121"
 city: Ostermiething
-street: "Weilhartstraße"
-housenumber: 33
+street: Weilhartstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

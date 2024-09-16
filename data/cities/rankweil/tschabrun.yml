@@ -1,11 +1,11 @@
 id: 156816795
-type: way
+type: node
 latitude: 47.28964
 longitude: 9.62096
 postcode: "6830"
 city: Rankweil
-street: "Bundesstraße"
-housenumber: 102
+street: Bundesstraße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

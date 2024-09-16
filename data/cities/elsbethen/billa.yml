@@ -1,11 +1,11 @@
 id: 28162269
-type: way
+type: node
 latitude: 47.74826
 longitude: 13.08424
 postcode: "5061"
 city: Elsbethen
-street: "Markstraße"
-housenumber: 12
+street: Markstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

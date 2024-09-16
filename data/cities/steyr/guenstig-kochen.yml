@@ -4,8 +4,8 @@ latitude: 48.05276
 longitude: 14.43883
 postcode: "4400"
 city: Steyr
-street: "Franz-Sebek-Straße"
-housenumber: 10
+street: Franz-Sebek-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 09:00-13:00"
-website: "https://shop.guenstig-kochen.at/"
+opening_hours: Mo-Fr 10:00-16:00; Sa 09:00-13:00
+website: https://shop.guenstig-kochen.at/

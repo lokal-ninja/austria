@@ -1,11 +1,11 @@
 id: 134534093
-type: way
+type: node
 latitude: 46.59076
 longitude: 13.83525
 postcode: "9500"
 city: Villach
-street: "Triglavstraße"
-housenumber: 28
+street: Triglavstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

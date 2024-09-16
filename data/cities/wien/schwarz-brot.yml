@@ -4,8 +4,8 @@ latitude: 48.20595
 longitude: 16.35321
 postcode: "1070"
 city: Wien
-street: "Lerchenfelder Straße"
-housenumber: 13
-phone: "+43 677 62013064"
-opening_hours: "Tu-Sa 07:30-17:00"
-website: "https://www.schwarzbrot-baeckerei.at/"
+street: Lerchenfelder Straße
+housenumber: "13"
+phone: +43 677 62013064
+opening_hours: Tu-Sa 07:30-17:00
+website: https://www.schwarzbrot-baeckerei.at/

@@ -4,8 +4,8 @@ latitude: 48.21673
 longitude: 16.38776
 postcode: "1020"
 city: Wien
-street: "Praterstraße"
-housenumber: 51
-phone: "+43 1 216 16 58"
-opening_hours: "Tu-Fr 9:30-18:30"
-website: "http://www.epply.at/"
+street: Praterstraße
+housenumber: "51"
+phone: +43 1 216 16 58
+opening_hours: Tu-Fr 9:30-18:30
+website: http://www.epply.at/

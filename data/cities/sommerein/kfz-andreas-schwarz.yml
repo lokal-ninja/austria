@@ -1,11 +1,11 @@
 id: 600319555
-type: way
+type: node
 latitude: 47.99615
 longitude: 16.66183
 postcode: "2453"
 city: Sommerein
-street: "Johannesgasse"
-housenumber: 13
+street: Johannesgasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

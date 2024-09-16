@@ -1,11 +1,11 @@
 id: 84986910
-type: way
+type: node
 latitude: 48.25352
 longitude: 16.46166
 postcode: "1220"
 city: Wien
-street: "Rennbahnweg"
-housenumber: 57
+street: Rennbahnweg
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

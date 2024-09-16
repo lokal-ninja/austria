@@ -4,8 +4,8 @@ latitude: 47.15111
 longitude: 9.81154
 postcode: "6706"
 city: Bürs
-street: "Almteilweg"
-housenumber: 1
+street: Almteilweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:30-19:30;Fr 08:30-21:00; Sa 08:00-18:00"
-website: "https://www.dm-drogeriemarkt.at/"
+opening_hours: Mo-Th 08:30-19:30;Fr 08:30-21:00; Sa 08:00-18:00
+website: https://www.dm-drogeriemarkt.at/

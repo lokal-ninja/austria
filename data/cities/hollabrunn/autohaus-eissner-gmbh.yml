@@ -1,11 +1,11 @@
 id: 742629744
-type: way
+type: node
 latitude: 48.57967
 longitude: 16.07549
 postcode: "2020"
 city: Hollabrunn
-street: "Fachleutnerstraße"
-housenumber: 5
-phone: "+43 2952 2584"
-opening_hours: "Mo-Fr 7:30-12:00, 13:00-16:30"
-website: "https://www.eissner.at/"
+street: Fachleutnerstraße
+housenumber: "5"
+phone: +43 2952 2584
+opening_hours: Mo-Fr 7:30-12:00, 13:00-16:30
+website: https://www.eissner.at/

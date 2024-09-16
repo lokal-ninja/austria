@@ -5,7 +5,7 @@ longitude: 15.08182
 postcode: "8580"
 city: Köflach
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:30-18:00; Sa 08:30-12:00"
-website: "https://gottliebtunner.at/"
+opening_hours: Mo-Fr 08:30-12:00, 14:30-18:00; Sa 08:30-12:00
+website: https://gottliebtunner.at/

@@ -4,8 +4,8 @@ latitude: 48.092
 longitude: 17.06565
 postcode: "2421"
 city: Kittsee
-street: "Hauptplatz"
-housenumber: 9
-phone: "+43 2167 3600"
-opening_hours: "Mo-Su 05:30-18:00"
-website: "https://www.naglreiter.com"
+street: Hauptplatz
+housenumber: "9"
+phone: +43 2167 3600
+opening_hours: Mo-Su 05:30-18:00
+website: https://www.naglreiter.com

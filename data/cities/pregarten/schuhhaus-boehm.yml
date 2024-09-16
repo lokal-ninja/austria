@@ -1,11 +1,11 @@
 id: 193459049
-type: way
+type: node
 latitude: 48.35455
 longitude: 14.53249
 postcode: "4230"
 city: Pregarten
-street: "Tragweiner Straße"
-housenumber: 24
+street: Tragweiner Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:00, 14:30-18:00; Sa 8:00-12:00"
+opening_hours: Mo-Fr 8:00-12:00, 14:30-18:00; Sa 8:00-12:00
 website: ""

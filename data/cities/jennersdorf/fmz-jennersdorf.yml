@@ -1,11 +1,11 @@
 id: 247556020
-type: way
+type: node
 latitude: 46.93942
 longitude: 16.15171
 postcode: "8380"
 city: Jennersdorf
-street: "Technologiepark"
-housenumber: 58
+street: Technologiepark
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

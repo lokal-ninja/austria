@@ -1,11 +1,11 @@
 id: 149230865
-type: way
+type: node
 latitude: 48.16498
 longitude: 14.04712
 postcode: "4600"
 city: Wels
-street: "Herderstraße"
-housenumber: 6
+street: Herderstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.fhg.at/"
+website: https://www.fhg.at/

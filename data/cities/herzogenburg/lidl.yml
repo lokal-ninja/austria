@@ -1,11 +1,11 @@
 id: 435379848
-type: way
+type: node
 latitude: 48.2835
 longitude: 15.6996
 postcode: "3130"
 city: Herzogenburg
-street: "Wiener Straße"
+street: Wiener Straße
 housenumber: 25-27
-phone: "0800 500810"
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00"
+phone: 0800 500810
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00
 website: ""

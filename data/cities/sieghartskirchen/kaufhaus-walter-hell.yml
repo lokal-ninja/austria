@@ -1,11 +1,11 @@
 id: 162617340
-type: way
+type: node
 latitude: 48.25589
 longitude: 16.01511
 postcode: "3443"
 city: Sieghartskirchen
-street: "Wiener Straße"
-housenumber: 19
+street: Wiener Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

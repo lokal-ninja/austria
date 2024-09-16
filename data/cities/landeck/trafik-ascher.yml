@@ -1,11 +1,11 @@
 id: 653279818
-type: way
+type: node
 latitude: 47.1401
 longitude: 10.57019
 postcode: "6500"
 city: Landeck
-street: "Urichstraße"
-housenumber: 16
+street: Urichstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

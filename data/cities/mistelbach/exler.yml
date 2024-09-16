@@ -1,11 +1,11 @@
 id: 242366293
-type: way
+type: node
 latitude: 48.56274
 longitude: 16.58523
 postcode: "2130"
 city: Mistelbach
-street: "Industrieparkstraße"
-housenumber: 15
-phone: "+43 2572 20846"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00; Sa,Su,PH off"
-website: "https://www.exler-karosserie.at/"
+street: Industrieparkstraße
+housenumber: "15"
+phone: +43 2572 20846
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-15:00; Sa,Su,PH off
+website: https://www.exler-karosserie.at/

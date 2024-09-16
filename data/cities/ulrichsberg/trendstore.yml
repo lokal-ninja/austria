@@ -1,11 +1,11 @@
 id: 206491482
-type: way
+type: node
 latitude: 48.67488
 longitude: 13.9116
 postcode: "4161"
 city: Ulrichsberg
-street: "Markt"
-housenumber: 24
-phone: "00437288 27410"
+street: Markt
+housenumber: "24"
+phone: 00437288 27410
 opening_hours: ""
 website: ""

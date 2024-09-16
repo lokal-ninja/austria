@@ -4,8 +4,8 @@ latitude: 48.21678
 longitude: 16.34119
 postcode: "1170"
 city: Wien
-street: "Hernalser Gürtel"
-housenumber: 43
+street: Hernalser Gürtel
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:30-11:30,14:00-18:00"
-website: "https://nachbarschaftszentren.at/zweit-hand"
+opening_hours: Mo-Fr 09:30-11:30,14:00-18:00
+website: https://nachbarschaftszentren.at/zweit-hand

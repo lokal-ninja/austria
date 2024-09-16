@@ -1,11 +1,11 @@
 id: 335200070
-type: way
+type: node
 latitude: 47.9758
 longitude: 16.27797
 postcode: "2500"
 city: Baden
-street: "Gewerbestraße"
-housenumber: 37
+street: Gewerbestraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.elferwerk.at/"
+website: https://www.elferwerk.at/

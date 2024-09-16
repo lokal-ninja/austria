@@ -1,11 +1,11 @@
 id: 253362932
-type: way
+type: node
 latitude: 46.67748
 longitude: 13.00635
 postcode: ""
-city: 9640
+city: "9640"
 street: ""
-housenumber: 496
+housenumber: "496"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00 - 12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00 - 12:00
 website: ""

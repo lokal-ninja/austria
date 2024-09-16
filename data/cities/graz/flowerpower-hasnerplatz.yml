@@ -1,11 +1,11 @@
 id: 105507792
-type: way
+type: node
 latitude: 47.08283
 longitude: 15.43298
 postcode: "8010"
 city: Graz
-street: "Hasnerplatz"
-housenumber: 
-phone: "+43 316 675769"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.flowerpower.cc/"
+street: Hasnerplatz
+housenumber: ""
+phone: +43 316 675769
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.flowerpower.cc/

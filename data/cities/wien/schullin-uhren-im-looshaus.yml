@@ -4,8 +4,8 @@ latitude: 48.20834
 longitude: 16.36685
 postcode: "1010"
 city: Wien
-street: "Kohlmarkt"
-housenumber: 18
-phone: "+43 1 535 48 28"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: Kohlmarkt
+housenumber: "18"
+phone: +43 1 535 48 28
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

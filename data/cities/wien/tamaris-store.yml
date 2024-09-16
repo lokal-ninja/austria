@@ -4,8 +4,8 @@ latitude: 48.19783
 longitude: 16.34819
 postcode: "1070"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 82
-phone: "+43 1 5234234"
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 09:30-18:00"
+street: Mariahilfer Straße
+housenumber: "82"
+phone: +43 1 5234234
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 09:30-18:00
 website: ""

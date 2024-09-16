@@ -1,11 +1,11 @@
 id: 373895528
-type: way
+type: node
 latitude: 48.51162
 longitude: 15.63186
 postcode: "3553"
 city: Schiltern
-street: "Laabergstraße"
-housenumber: 13
+street: Laabergstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

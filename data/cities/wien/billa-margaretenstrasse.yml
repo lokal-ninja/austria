@@ -4,8 +4,8 @@ latitude: 48.19221
 longitude: 16.36012
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 67
-phone: "+43 1 9610513"
-opening_hours: "PH off; Mo-Fr 07:00-19:20; Sa 07:40-18:00"
-website: "https://www.billa.at/"
+street: Margaretenstraße
+housenumber: "67"
+phone: +43 1 9610513
+opening_hours: PH off; Mo-Fr 07:00-19:20; Sa 07:40-18:00
+website: https://www.billa.at/

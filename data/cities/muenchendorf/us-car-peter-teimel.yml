@@ -1,11 +1,11 @@
 id: 87192525
-type: way
+type: node
 latitude: 48.04215
 longitude: 16.37754
 postcode: "2482"
 city: Münchendorf
-street: "Betriebsstraße II"
-housenumber: 15
+street: Betriebsstraße II
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

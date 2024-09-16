@@ -1,11 +1,11 @@
 id: 47132682
-type: way
+type: node
 latitude: 47.27238
 longitude: 11.45089
 postcode: "6063"
 city: Rum
-street: "Florianistraße"
-housenumber: 2
-phone: "+43 57030 32003"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
-website: "https://www.hofer.at"
+street: Florianistraße
+housenumber: "2"
+phone: +43 57030 32003
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
+website: https://www.hofer.at

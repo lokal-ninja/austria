@@ -4,8 +4,8 @@ latitude: 48.20115
 longitude: 16.3449
 postcode: "1070"
 city: Wien
-street: "Zieglergasse"
-housenumber: 33
+street: Zieglergasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-17:00"
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-17:00
 website: ""

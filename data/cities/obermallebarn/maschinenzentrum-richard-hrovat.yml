@@ -1,11 +1,11 @@
 id: 208550836
-type: way
+type: node
 latitude: 48.46042
 longitude: 16.15639
 postcode: "2011"
 city: Obermallebarn
 street: ""
-housenumber: 99
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-We,Fr 07:00-12:00, 15:00-18:30; Th,Sa 07:30-12:00"
+opening_hours: Mo-We,Fr 07:00-12:00, 15:00-18:30; Th,Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 578193682
-type: way
+type: node
 latitude: 46.96992
 longitude: 15.40888
 postcode: "8141"
 city: Premstätten
-street: "Thalerhofstraße"
-housenumber: 9
-phone: "+43 3136 52978"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00; Su,PH off"
-website: "https://www.spar.at/standorte/spar-premstaetten-8141-thalerhofstrasse-9"
+street: Thalerhofstraße
+housenumber: "9"
+phone: +43 3136 52978
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00; Su,PH off
+website: https://www.spar.at/standorte/spar-premstaetten-8141-thalerhofstrasse-9

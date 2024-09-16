@@ -4,8 +4,8 @@ latitude: 48.29905
 longitude: 16.56203
 postcode: "2232"
 city: Deutsch-Wagram
-street: "Hamerlingstraße"
-housenumber: 5
+street: Hamerlingstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 15:00-18:00"
-website: "https://ostextilreinigung.at/filialen"
+opening_hours: Mo-Fr 08:00-12:00, 15:00-18:00
+website: https://ostextilreinigung.at/filialen

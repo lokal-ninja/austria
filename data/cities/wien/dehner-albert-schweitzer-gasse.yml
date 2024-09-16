@@ -1,11 +1,11 @@
 id: 1155203948
-type: way
+type: node
 latitude: 48.20732
 longitude: 16.21709
 postcode: "1140"
 city: Wien
-street: "Albert-Schweitzer-Gasse"
-housenumber: 9
-phone: "+43 1 9535924"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.dehner.at"
+street: Albert-Schweitzer-Gasse
+housenumber: "9"
+phone: +43 1 9535924
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.dehner.at

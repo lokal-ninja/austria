@@ -1,11 +1,11 @@
 id: 150831340
-type: way
+type: node
 latitude: 47.43106
 longitude: 9.66077
 postcode: "6890"
 city: Lustenau
-street: "Kapellenstraße"
-housenumber: 1
+street: Kapellenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

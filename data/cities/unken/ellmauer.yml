@@ -4,8 +4,8 @@ latitude: 47.65173
 longitude: 12.73172
 postcode: "5091"
 city: Unken
-street: "Niederland"
-housenumber: 
+street: Niederland
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00,14:30-17:30; Sa 06:00-12:00; PH,Su off"
-website: "https://www.baeckerei-ellmauer.at/"
+opening_hours: Mo-Fr 06:00-12:00,14:30-17:30; Sa 06:00-12:00; PH,Su off
+website: https://www.baeckerei-ellmauer.at/

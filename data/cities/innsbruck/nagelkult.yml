@@ -4,8 +4,8 @@ latitude: 47.26486
 longitude: 11.39168
 postcode: "6020"
 city: Innsbruck
-street: "Fallmerayerstraße"
-housenumber: 6
-phone: "+43 664 2121019"
-opening_hours: "Nach Vereinbarung"
+street: Fallmerayerstraße
+housenumber: "6"
+phone: +43 664 2121019
+opening_hours: '"Nach Vereinbarung"'
 website: ""

@@ -1,11 +1,11 @@
 id: 135457018
-type: way
+type: node
 latitude: 48.21615
 longitude: 16.16794
 postcode: ""
 city: Purkersdorf
-street: "Linzer Straße"
-housenumber: 53
+street: Linzer Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30"
-website: "https://www.figl.at/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30
+website: https://www.figl.at/

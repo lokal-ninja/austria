@@ -1,11 +1,11 @@
 id: 249673265
-type: way
+type: node
 latitude: 48.13199
 longitude: 15.02111
 postcode: "3372"
 city: Blindenmarkt
-street: "Schloßallee"
-housenumber: 2
-phone: "+43 664 97 97 137"
+street: Schloßallee
+housenumber: "2"
+phone: +43 664 97 97 137
 opening_hours: ""
-website: "http://massage-gamp.blindenmarkt.at"
+website: http://massage-gamp.blindenmarkt.at

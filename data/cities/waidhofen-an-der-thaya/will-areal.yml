@@ -1,11 +1,11 @@
 id: 87772648
-type: way
+type: node
 latitude: 48.81101
 longitude: 15.26689
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Brunnerstraße"
-housenumber: 43
+street: Brunnerstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

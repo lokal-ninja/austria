@@ -4,8 +4,8 @@ latitude: 48.1957
 longitude: 16.34884
 postcode: "1060"
 city: Wien
-street: "Otto-Bauer-Gasse"
-housenumber: 11
+street: Otto-Bauer-Gasse
+housenumber: "11"
 phone: ""
-opening_hours: "We-Fr 11:00-18:00; Sa 11:00-17:00"
+opening_hours: We-Fr 11:00-18:00; Sa 11:00-17:00
 website: ""

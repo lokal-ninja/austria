@@ -1,11 +1,11 @@
 id: 353000217
-type: way
+type: node
 latitude: 47.61018
 longitude: 16.49677
 postcode: "7323"
 city: Ritzing
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

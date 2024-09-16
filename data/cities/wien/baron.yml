@@ -4,8 +4,8 @@ latitude: 48.22794
 longitude: 16.4552
 postcode: "1220"
 city: Wien
-street: "Genochplatz"
-housenumber: 7
-phone: "+43 1 280059811"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Genochplatz
+housenumber: "7"
+phone: +43 1 280059811
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

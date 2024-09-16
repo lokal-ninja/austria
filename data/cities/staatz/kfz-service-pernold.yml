@@ -1,11 +1,11 @@
 id: 241940936
-type: way
+type: node
 latitude: 48.6727
 longitude: 16.48051
 postcode: "2134"
 city: Staatz
-street: "Gewerbepark"
-housenumber: 1
+street: Gewerbepark
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

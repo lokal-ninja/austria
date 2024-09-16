@@ -1,11 +1,11 @@
 id: 85653416
-type: way
+type: node
 latitude: 47.49775
 longitude: 10.71914
 postcode: "6600"
 city: Reutte
-street: "Allgäuer Straße"
-housenumber: 45
+street: Allgäuer Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

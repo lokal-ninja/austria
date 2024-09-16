@@ -1,11 +1,11 @@
 id: 657419612
-type: way
+type: node
 latitude: 48.0672
 longitude: 15.05108
 postcode: "3261"
 city: Steinakirchen am Forst
-street: "Am Burgersteg"
-housenumber: 5
+street: Am Burgersteg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

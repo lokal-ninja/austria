@@ -1,11 +1,11 @@
 id: 106336244
-type: way
+type: node
 latitude: 48.51567
 longitude: 15.50081
 postcode: "3542"
 city: Gföhl
-street: "Langenloiser Straße"
+street: Langenloiser Straße
 housenumber: 49a
-phone: "+43 2716 60562"
-opening_hours: "Mo-Fr 08:00 - 19:00; Sa 08:00 - 18:00"
-website: "https://www.bipa.at"
+phone: +43 2716 60562
+opening_hours: Mo-Fr 08:00 - 19:00; Sa 08:00 - 18:00
+website: https://www.bipa.at

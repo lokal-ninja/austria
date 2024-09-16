@@ -4,8 +4,8 @@ latitude: 48.22256
 longitude: 16.45716
 postcode: "1220"
 city: Wien
-street: "Langobardenstraße"
-housenumber: 44
-phone: "+43 1 2807576"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00"
+street: Langobardenstraße
+housenumber: "44"
+phone: +43 1 2807576
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-13:00
 website: ""

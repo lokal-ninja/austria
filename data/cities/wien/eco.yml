@@ -4,8 +4,8 @@ latitude: 48.17573
 longitude: 16.33044
 postcode: "1120"
 city: Wien
-street: "Meidlinger Hauptstraße"
-housenumber: 67
+street: Meidlinger Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,12:30-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00,12:30-19:00; Sa 09:00-18:00
 website: ""

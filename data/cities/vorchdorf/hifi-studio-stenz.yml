@@ -4,8 +4,9 @@ latitude: 48.00388
 longitude: 13.92358
 postcode: "4655"
 city: Vorchdorf
-street: "Kapellenweg"
-housenumber: 2
-phone: "+43 7614 6395"
-opening_hours: "Mo 09:00-12:00,14:30-18:00; Th 13:00-18:00; Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.hifi-studio.at/"
+street: Kapellenweg
+housenumber: "2"
+phone: +43 7614 6395
+opening_hours: Mo 09:00-12:00,14:30-18:00; Th 13:00-18:00; Fr 09:00-12:00,14:30-18:00;
+    Sa 09:00-12:00
+website: https://www.hifi-studio.at/

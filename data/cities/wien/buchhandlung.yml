@@ -4,8 +4,8 @@ latitude: 48.17483
 longitude: 16.37818
 postcode: "1100"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 115
-phone: "+43 1 602 02 91"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off"
-website: "https://www.facultas.at/standorte/dombuchhandlungen/dom_1100"
+street: Favoritenstraße
+housenumber: "115"
+phone: +43 1 602 02 91
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off
+website: https://www.facultas.at/standorte/dombuchhandlungen/dom_1100

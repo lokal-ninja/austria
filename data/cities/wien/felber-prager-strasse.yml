@@ -4,8 +4,8 @@ latitude: 48.29735
 longitude: 16.37837
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 286
+street: Prager Straße
+housenumber: "286"
 phone: "+4312922907"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 06:30-17:00; Su 07:00-12:00"
-website: "https://www.felberbrot.at/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 06:30-17:00; Su 07:00-12:00
+website: https://www.felberbrot.at/

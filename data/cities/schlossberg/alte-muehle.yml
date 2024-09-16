@@ -1,11 +1,11 @@
 id: 216975383
-type: way
+type: node
 latitude: 46.65921
 longitude: 15.46847
 postcode: "8463"
 city: Schloßberg
 street: ""
-housenumber: 60
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

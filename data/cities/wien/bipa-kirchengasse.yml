@@ -4,8 +4,8 @@ latitude: 48.20142
 longitude: 16.35193
 postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 15
+street: Kirchengasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00
 website: ""

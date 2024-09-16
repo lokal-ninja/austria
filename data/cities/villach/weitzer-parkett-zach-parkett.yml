@@ -1,11 +1,11 @@
 id: 60039577
-type: way
+type: node
 latitude: 46.59682
 longitude: 13.84942
 postcode: "9500"
 city: Villach
-street: "Handwerkstraße"
-housenumber: 22
-phone: "+43 4242 35481"
+street: Handwerkstraße
+housenumber: "22"
+phone: +43 4242 35481
 opening_hours: ""
-website: "https://www.zachparkett.eu/"
+website: https://www.zachparkett.eu/

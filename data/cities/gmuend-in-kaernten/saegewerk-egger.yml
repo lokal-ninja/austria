@@ -1,11 +1,11 @@
 id: 247113888
-type: way
+type: node
 latitude: 46.92462
 longitude: 13.52923
 postcode: "9853"
 city: Gmünd in Kärnten
-street: "Karnerau"
-housenumber: 19
+street: Karnerau
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "http://www.saegewerk-egger.at/"
+website: http://www.saegewerk-egger.at/

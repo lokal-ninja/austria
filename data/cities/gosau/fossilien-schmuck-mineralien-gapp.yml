@@ -4,8 +4,8 @@ latitude: 47.53306
 longitude: 13.49701
 postcode: "4825"
 city: Gosau
-street: "Gosauseestraße"
-housenumber: 150
-phone: "+43 6136 8753"
-opening_hours: "May-Oct Mo-Su 09:00-17:00"
-website: "https://fossilien-gapp.at/"
+street: Gosauseestraße
+housenumber: "150"
+phone: +43 6136 8753
+opening_hours: May-Oct Mo-Su 09:00-17:00
+website: https://fossilien-gapp.at/

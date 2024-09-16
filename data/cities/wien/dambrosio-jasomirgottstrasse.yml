@@ -4,8 +4,8 @@ latitude: 48.20913
 longitude: 16.37199
 postcode: "1010"
 city: Wien
-street: "Jasomirgottstraße"
-housenumber: 4
+street: Jasomirgottstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
 website: ""

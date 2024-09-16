@@ -1,11 +1,11 @@
 id: 225683346
-type: way
+type: node
 latitude: 47.15055
 longitude: 15.67162
 postcode: "8181"
 city: Sankt Ruprecht an der Raab
-street: "Dietmannsdorferstraße"
-housenumber: 346
+street: Dietmannsdorferstraße
+housenumber: "346"
 phone: ""
 opening_hours: ""
 website: ""

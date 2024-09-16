@@ -1,11 +1,11 @@
 id: 231681251
-type: way
+type: node
 latitude: 47.40655
 longitude: 9.7353
 postcode: "6850"
 city: Dornbirn
-street: "Lustenauerstraße"
-housenumber: 25
+street: Lustenauerstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

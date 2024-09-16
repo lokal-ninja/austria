@@ -1,11 +1,11 @@
 id: 317966358
-type: way
+type: node
 latitude: 48.64563
 longitude: 13.97045
 postcode: "4160"
 city: Aigen-Schlägl
-street: "Kirchengasse"
-housenumber: 2
+street: Kirchengasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:00; We 08:00-12:00,14:00-17:00"
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:00; We 08:00-12:00,14:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 318401804
-type: way
+type: node
 latitude: 47.44495
 longitude: 13.90592
 postcode: "8962"
 city: Gröbming
-street: "Mitterberger Straße"
-housenumber: 711
+street: Mitterberger Straße
+housenumber: "711"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,14:00-18:00; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:30-12:00,14:00-18:00; Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 385089589
-type: way
+type: node
 latitude: 48.24584
 longitude: 14.5357
 postcode: "4310"
 city: Mauthausen
-street: "Kindergartenstraße"
-housenumber: 1
+street: Kindergartenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

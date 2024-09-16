@@ -4,8 +4,9 @@ latitude: 48.50377
 longitude: 14.36031
 postcode: "4192"
 city: Schenkenfelden
-street: "Harruckerstraße"
-housenumber: 11
+street: Harruckerstraße
+housenumber: "11"
 phone: "+4372144425"
-opening_hours: "Mo-Tu 07:00-12:00,14:30-18:00; We 07:00-12:00; Th-Fr 07:00-12:00,14:30-18:00; Sa 07:00-12:00"
-website: "https://www.spar.at/standorte/spar-schenkenfelden-4192-harruckerstrasse-11"
+opening_hours: Mo-Tu 07:00-12:00,14:30-18:00; We 07:00-12:00; Th-Fr 07:00-12:00,14:30-18:00;
+    Sa 07:00-12:00
+website: https://www.spar.at/standorte/spar-schenkenfelden-4192-harruckerstrasse-11

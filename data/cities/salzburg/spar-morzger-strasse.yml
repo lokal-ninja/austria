@@ -1,11 +1,11 @@
 id: 202589578
-type: way
+type: node
 latitude: 47.78194
 longitude: 13.05339
 postcode: "5020"
 city: Salzburg
-street: "Morzger Straße"
-housenumber: 13
+street: Morzger Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

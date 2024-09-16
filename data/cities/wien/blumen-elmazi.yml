@@ -1,11 +1,11 @@
 id: 205087719
-type: way
+type: node
 latitude: 48.17493
 longitude: 16.29781
 postcode: "1130"
 city: Wien
-street: "Elisabethallee"
-housenumber: 67
-phone: "+43-1-804 3633"
+street: Elisabethallee
+housenumber: "67"
+phone: +43-1-804 3633
 opening_hours: ""
-website: "https://www.blumen-elmazi.at/"
+website: https://www.blumen-elmazi.at/

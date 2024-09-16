@@ -4,8 +4,8 @@ latitude: 47.07016
 longitude: 15.44026
 postcode: "8010"
 city: Graz
-street: "Herrengasse"
-housenumber: 13
+street: Herrengasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.fachl.at/"
+website: https://www.fachl.at/

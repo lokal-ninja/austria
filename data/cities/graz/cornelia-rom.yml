@@ -1,11 +1,11 @@
 id: 164051710
-type: way
+type: node
 latitude: 47.05967
 longitude: 15.39145
 postcode: "8052"
 city: Graz
-street: "Wetzelsdorfer Straße"
-housenumber: 156
+street: Wetzelsdorfer Straße
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 230076142
-type: way
+type: node
 latitude: 47.46473
 longitude: 15.32812
 postcode: "8605"
 city: Kapfenberg
-street: "Hugo-Wolf-Straße"
-housenumber: 3
-phone: "+43 59915 06628"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Hugo-Wolf-Straße
+housenumber: "3"
+phone: +43 59915 06628
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

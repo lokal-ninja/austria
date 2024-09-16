@@ -1,11 +1,11 @@
 id: 245125485
-type: way
+type: node
 latitude: 47.07712
 longitude: 10.45042
 postcode: "6553"
 city: See
-street: "Wald"
-housenumber: 374
+street: Wald
+housenumber: "374"
 phone: ""
 opening_hours: ""
 website: ""

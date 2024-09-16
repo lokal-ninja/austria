@@ -1,11 +1,11 @@
 id: 185744221
-type: way
+type: node
 latitude: 48.08601
 longitude: 14.80646
 postcode: "3363"
 city: Amstetten
-street: "Holzstraße"
-housenumber: 4
+street: Holzstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30
 website: ""

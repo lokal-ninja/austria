@@ -4,8 +4,8 @@ latitude: 47.26583
 longitude: 11.38233
 postcode: "6020"
 city: Innsbruck
-street: "Fürstenweg"
-housenumber: 8
+street: Fürstenweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; PH Sa,Su 07:00-21:00"
-website: "https://www.bubblepoint.com/fuerstenweg.php"
+opening_hours: Mo-Fr 07:00-22:00; PH Sa,Su 07:00-21:00
+website: https://www.bubblepoint.com/fuerstenweg.php

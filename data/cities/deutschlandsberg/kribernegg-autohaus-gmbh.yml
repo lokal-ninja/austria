@@ -1,11 +1,11 @@
 id: 484393145
-type: way
+type: node
 latitude: 46.82821
 longitude: 15.23671
 postcode: "8530"
 city: Deutschlandsberg
-street: "Mostbauerstraße"
-housenumber: 6
-phone: "+43 3462 7270"
-opening_hours: "Mo-Fr 08:00-12:30, 13:30-17:00; Sa 09:00-12:00; Su,PH off"
-website: "https://kribernegg.com"
+street: Mostbauerstraße
+housenumber: "6"
+phone: +43 3462 7270
+opening_hours: Mo-Fr 08:00-12:30, 13:30-17:00; Sa 09:00-12:00; Su,PH off
+website: https://kribernegg.com

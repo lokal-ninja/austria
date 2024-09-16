@@ -1,11 +1,11 @@
 id: 96572684
-type: way
+type: node
 latitude: 47.0156
 longitude: 15.41025
 postcode: "8055"
 city: Seiersberg-Pirka
-street: "Georg Hausmann-Straße"
-housenumber: 1
+street: Georg Hausmann-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Th-Sa 09:00-18:00"
+opening_hours: Th-Sa 09:00-18:00
 website: ""

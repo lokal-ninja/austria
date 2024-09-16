@@ -1,11 +1,11 @@
 id: 40921658
-type: way
+type: node
 latitude: 48.24282
 longitude: 14.2538
 postcode: "4061"
 city: Pasching
-street: "Wiener Bundesstraße"
-housenumber: 46
+street: Wiener Bundesstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

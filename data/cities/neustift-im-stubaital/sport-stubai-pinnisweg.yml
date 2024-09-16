@@ -1,11 +1,11 @@
 id: 251225890
-type: way
+type: node
 latitude: 47.12142
 longitude: 11.32578
 postcode: "6167"
 city: Neustift im Stubaital
-street: "Pinnisweg"
-housenumber: 
+street: Pinnisweg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 16:00-18:00; May 02-Sep 30 off"
+opening_hours: Mo-We 16:00-18:00; May 02-Sep 30 off
 website: ""

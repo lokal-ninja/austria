@@ -4,8 +4,8 @@ latitude: 48.22204
 longitude: 16.35298
 postcode: "1090"
 city: Wien
-street: "Spitalgasse"
-housenumber: 33
+street: Spitalgasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 07:00-11:00"
-website: "http://www.baeckereiritz.at"
+opening_hours: Mo-Fr 06:00-18:30, Sa 06:00-13:00, Su 07:00-11:00
+website: http://www.baeckereiritz.at

@@ -1,11 +1,11 @@
 id: 129993366
-type: way
+type: node
 latitude: 46.8756
 longitude: 15.89202
 postcode: "8343"
 city: Bad Gleichenberg
 street: ""
-housenumber: 104
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

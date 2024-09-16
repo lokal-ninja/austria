@@ -4,8 +4,8 @@ latitude: 48.20453
 longitude: 15.6249
 postcode: "3100"
 city: St. Pölten
-street: "Wiener Straße"
-housenumber: 6
+street: Wiener Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00;Sa 08:30-12:30"
-website: "https://www.buchhandlung-schubert.at/"
+opening_hours: Mo-Fr 08:30-18:00;Sa 08:30-12:30
+website: https://www.buchhandlung-schubert.at/

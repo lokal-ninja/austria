@@ -4,8 +4,8 @@ latitude: 48.18603
 longitude: 16.41391
 postcode: "1030"
 city: Wien
-street: "Franzosengraben"
-housenumber: 17
-phone: "+43 1 7980847"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Franzosengraben
+housenumber: "17"
+phone: +43 1 7980847
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off
+website: https://www.billa.at/

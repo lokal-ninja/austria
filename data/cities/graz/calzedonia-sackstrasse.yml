@@ -4,8 +4,8 @@ latitude: 47.07166
 longitude: 15.43737
 postcode: "8010"
 city: Graz
-street: "Sackstraße"
-housenumber: 3
+street: Sackstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

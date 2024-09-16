@@ -4,8 +4,8 @@ latitude: 47.26055
 longitude: 11.39161
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 18
-phone: "+43 512 58307"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; PH off"
-website: "https://www.zeit-gold-huber.at"
+street: Andreas-Hofer-Straße
+housenumber: "18"
+phone: +43 512 58307
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; PH off
+website: https://www.zeit-gold-huber.at

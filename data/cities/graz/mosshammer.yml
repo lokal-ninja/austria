@@ -4,8 +4,8 @@ latitude: 47.0753
 longitude: 15.44758
 postcode: "8010"
 city: Graz
-street: "Zinzendorfgasse"
-housenumber: 12
+street: Zinzendorfgasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-12:00; Su off"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-12:00; Su off
 website: ""

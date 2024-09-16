@@ -4,8 +4,8 @@ latitude: 48.20045
 longitude: 16.34224
 postcode: "1070"
 city: Wien
-street: "Seidengasse"
-housenumber: 26
-phone: "+43 1 522 60 91"
-opening_hours: "Mo 14:00-19:00; Tu 13:00-19:00; We-Fr 10:00-19:00"
-website: "https://www.wohlergehen.at"
+street: Seidengasse
+housenumber: "26"
+phone: +43 1 522 60 91
+opening_hours: Mo 14:00-19:00; Tu 13:00-19:00; We-Fr 10:00-19:00
+website: https://www.wohlergehen.at

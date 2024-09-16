@@ -1,11 +1,11 @@
 id: 160601254
-type: way
+type: node
 latitude: 46.93153
 longitude: 15.24861
 postcode: "8511"
 city: St. Stefan ob Stainz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-17:00; Sa 07:00-11:00"
-website: "http://hecher.toyota.at"
+opening_hours: Mo-Fr 07:00-12:00, 13:00-17:00; Sa 07:00-11:00
+website: http://hecher.toyota.at

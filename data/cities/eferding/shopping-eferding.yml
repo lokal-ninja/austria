@@ -1,11 +1,11 @@
 id: 136339338
-type: way
+type: node
 latitude: 48.30235
 longitude: 14.02897
 postcode: "4070"
 city: Eferding
-street: "Linzer Straße"
-housenumber: 16
+street: Linzer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.shoppingeferding.at/"
+website: http://www.shoppingeferding.at/

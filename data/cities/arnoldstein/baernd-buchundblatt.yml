@@ -1,11 +1,11 @@
 id: 286461058
-type: way
+type: node
 latitude: 46.54914
 longitude: 13.7107
 postcode: "9601"
 city: Arnoldstein
-street: "Kärntner Straße"
-housenumber: 35
-phone: "+43 4255 2407"
-opening_hours: "Mo-Fr 09:00-12:00, Mo-Fr 15:00-18:00, Sa 09:00-12:00"
-website: "https://www.baernd.at/"
+street: Kärntner Straße
+housenumber: "35"
+phone: +43 4255 2407
+opening_hours: Mo-Fr 09:00-12:00, Mo-Fr 15:00-18:00, Sa 09:00-12:00
+website: https://www.baernd.at/

@@ -1,11 +1,11 @@
 id: 140517047
-type: way
+type: node
 latitude: 47.14903
 longitude: 10.37665
 postcode: "6574"
 city: Pettneu am Arlberg
 street: ""
-housenumber: 152
-phone: "+43 5447 / 20027 - 14"
-opening_hours: "Mo-Su 06:00-19:00"
-website: "https://www.ruetz.at/baeckereien/backhaus_arlberg"
+housenumber: "152"
+phone: +43 5447 / 20027 - 14
+opening_hours: Mo-Su 06:00-19:00
+website: https://www.ruetz.at/baeckereien/backhaus_arlberg

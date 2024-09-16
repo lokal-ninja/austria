@@ -1,11 +1,11 @@
 id: 230108915
-type: way
+type: node
 latitude: 47.48283
 longitude: 12.06069
 postcode: "6300"
 city: Wörgl
-street: "Innsbrucker Straße"
+street: Innsbrucker Straße
 housenumber: 32b
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-17:00"
-website: "https://www.fressnapf.at/"
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-17:00
+website: https://www.fressnapf.at/

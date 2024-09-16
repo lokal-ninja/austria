@@ -4,8 +4,8 @@ latitude: 48.17201
 longitude: 16.32788
 postcode: "1120"
 city: Wien
-street: "Oswaldgasse"
-housenumber: 1
-phone: "+43 1 810 24 78"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.eymen.at"
+street: Oswaldgasse
+housenumber: "1"
+phone: +43 1 810 24 78
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.eymen.at

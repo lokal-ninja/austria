@@ -1,11 +1,11 @@
 id: 90136007
-type: way
+type: node
 latitude: 48.00321
 longitude: 13.64092
 postcode: "4840"
 city: Vöcklabruck
-street: "Dr. Wilhelm Bock-Straße"
-housenumber: 2
+street: Dr. Wilhelm Bock-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
 website: ""

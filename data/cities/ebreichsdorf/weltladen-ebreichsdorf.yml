@@ -4,8 +4,8 @@ latitude: 47.96326
 longitude: 16.40122
 postcode: "2483"
 city: Ebreichsdorf
-street: "Hauptplatz"
-housenumber: 10
+street: Hauptplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.ranftler.eu/weltladen/index.htm"
+opening_hours: Mo-Th 09:00-12:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.ranftler.eu/weltladen/index.htm

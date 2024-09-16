@@ -1,11 +1,11 @@
 id: 186033645
-type: way
+type: node
 latitude: 48.46464
 longitude: 14.22417
 postcode: "4181"
 city: Oberneukirchen
-street: "Waxenberger Straße"
-housenumber: 6
+street: Waxenberger Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

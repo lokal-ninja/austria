@@ -4,8 +4,8 @@ latitude: 48.17615
 longitude: 16.31703
 postcode: "1120"
 city: Wien
-street: "Hohenbergstraße"
-housenumber: 13
+street: Hohenbergstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "http://www.hairdesign-meidling.at/index.html"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:00
+website: http://www.hairdesign-meidling.at/index.html

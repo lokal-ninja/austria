@@ -1,11 +1,11 @@
 id: 361482848
-type: way
+type: node
 latitude: 47.8507
 longitude: 13.10813
 postcode: "5301"
 city: Eugendorf
-street: "Föhrenweg"
-housenumber: 2
+street: Föhrenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

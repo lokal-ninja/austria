@@ -1,11 +1,11 @@
 id: 235828917
-type: way
+type: node
 latitude: 46.84676
 longitude: 15.53785
 postcode: "8403"
 city: Lebring
-street: "Leibnitzer Straße"
-housenumber: 76
+street: Leibnitzer Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.gady.at/"
+website: https://www.gady.at/

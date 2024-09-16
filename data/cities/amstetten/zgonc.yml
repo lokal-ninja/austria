@@ -1,11 +1,11 @@
 id: 218993801
-type: way
+type: node
 latitude: 48.10778
 longitude: 14.83427
 postcode: "3300"
 city: Amstetten
-street: "Carl-Benz-Straße"
-housenumber: 10
+street: Carl-Benz-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

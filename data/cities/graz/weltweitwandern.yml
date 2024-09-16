@@ -1,11 +1,11 @@
 id: 171715249
-type: way
+type: node
 latitude: 47.06099
 longitude: 15.40342
 postcode: "8020"
 city: Graz
-street: "Gaswerkstraße"
+street: Gaswerkstraße
 housenumber: 95a
-phone: "+43583504-0"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.weltweitwandern.at/"
+phone: +43583504-0
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.weltweitwandern.at/

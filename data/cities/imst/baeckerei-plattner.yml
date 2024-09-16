@@ -1,11 +1,11 @@
 id: 211466428
-type: way
+type: node
 latitude: 47.24031
 longitude: 10.73984
 postcode: "6460"
 city: Imst
-street: "Floriangasse"
-housenumber: 3
+street: Floriangasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.plattner-brot.at"
+website: https://www.plattner-brot.at

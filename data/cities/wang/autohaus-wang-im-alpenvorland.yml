@@ -1,11 +1,11 @@
 id: 990608994
-type: way
+type: node
 latitude: 48.04101
 longitude: 15.02253
 postcode: "3262"
 city: Wang
-street: "Oberer Markt"
-housenumber: 25
+street: Oberer Markt
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

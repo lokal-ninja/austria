@@ -4,8 +4,8 @@ latitude: 47.26066
 longitude: 11.39189
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 15
-phone: "+43 59913 08516"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00; PH off"
-website: "https://www.bipa.at"
+street: Andreas-Hofer-Straße
+housenumber: "15"
+phone: +43 59913 08516
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00; PH off
+website: https://www.bipa.at

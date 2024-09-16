@@ -4,8 +4,8 @@ latitude: 47.26581
 longitude: 11.39576
 postcode: "6020"
 city: Innsbruck
-street: "Erlerstraße"
-housenumber: 10
-phone: "+43 512 583020"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "http://www.friseurhofer.at"
+street: Erlerstraße
+housenumber: "10"
+phone: +43 512 583020
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: http://www.friseurhofer.at

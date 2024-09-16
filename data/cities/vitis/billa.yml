@@ -1,11 +1,11 @@
 id: 159090187
-type: way
+type: node
 latitude: 48.75587
 longitude: 15.18436
 postcode: "3902"
 city: Vitis
-street: "Zwettler Straße"
-housenumber: 10
+street: Zwettler Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.18727
 longitude: 16.3028
 postcode: "1130"
 city: Wien
-street: "Hietzinger Hauptstraße"
-housenumber: 6
+street: Hietzinger Hauptstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 13:00-18:00, Tu-Fr 09:00-18:00"
-website: "https://alterschmuck.at/"
+opening_hours: Mo 13:00-18:00, Tu-Fr 09:00-18:00
+website: https://alterschmuck.at/

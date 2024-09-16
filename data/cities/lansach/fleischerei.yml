@@ -1,11 +1,11 @@
 id: 304484729
-type: way
+type: node
 latitude: 46.68583
 longitude: 13.70701
 postcode: "9721"
 city: Lansach
-street: "Ferndorfer Straße"
-housenumber: 7
+street: Ferndorfer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

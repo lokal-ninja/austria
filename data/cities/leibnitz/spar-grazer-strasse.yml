@@ -1,11 +1,11 @@
 id: 446785905
-type: way
+type: node
 latitude: 46.79838
 longitude: 15.53777
 postcode: "8430"
 city: Leibnitz
-street: "Grazer Straße"
-housenumber: 184
+street: Grazer Straße
+housenumber: "184"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
-website: "https://www.spar.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
+website: https://www.spar.at

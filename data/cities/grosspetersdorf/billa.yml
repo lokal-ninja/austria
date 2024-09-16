@@ -1,11 +1,11 @@
 id: 1081708211
-type: way
+type: node
 latitude: 47.24312
 longitude: 16.3107
 postcode: "7503"
 city: Großpetersdorf
-street: "Hauptstraße"
-housenumber: 106
+street: Hauptstraße
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

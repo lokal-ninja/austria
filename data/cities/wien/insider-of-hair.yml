@@ -4,8 +4,8 @@ latitude: 48.2251
 longitude: 16.39968
 postcode: "1020"
 city: Wien
-street: "Walcherstraße"
-housenumber: 15
+street: Walcherstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu,We 09:30-18:00; Th,Fr 09:30-20:00; Sa 08:00-13:00"
+opening_hours: Tu,We 09:30-18:00; Th,Fr 09:30-20:00; Sa 08:00-13:00
 website: ""

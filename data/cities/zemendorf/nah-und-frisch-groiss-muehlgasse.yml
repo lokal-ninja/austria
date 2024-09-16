@@ -1,11 +1,11 @@
 id: 467448046
-type: way
+type: node
 latitude: 47.76129
 longitude: 16.45305
 postcode: "7023"
 city: Zemendorf
-street: "Mühlgasse"
-housenumber: 2
+street: Mühlgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

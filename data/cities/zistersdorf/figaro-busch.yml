@@ -1,11 +1,11 @@
 id: 299404603
-type: way
+type: node
 latitude: 48.54489
 longitude: 16.76225
 postcode: "2225"
 city: Zistersdorf
-street: "Kirchenplatz"
-housenumber: 12
-phone: "+43 2532 2409"
-opening_hours: "Tu-Th 08:30-17:30; Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.figaro-busch.at"
+street: Kirchenplatz
+housenumber: "12"
+phone: +43 2532 2409
+opening_hours: Tu-Th 08:30-17:30; Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.figaro-busch.at

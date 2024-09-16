@@ -1,11 +1,11 @@
 id: 191710556
-type: way
+type: node
 latitude: 47.99395
 longitude: 13.68208
 postcode: "4844"
 city: Regau
-street: "Betriebsstraße"
-housenumber: 1
+street: Betriebsstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.25938
 longitude: 10.3431
 postcode: "6654"
 city: Holzgau
-street: "Holzgau"
-housenumber: 50
+street: Holzgau
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.mpreis.at/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.mpreis.at/

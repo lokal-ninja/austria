@@ -4,8 +4,8 @@ latitude: 47.0683
 longitude: 15.40121
 postcode: "8020"
 city: Graz
-street: "Karl-Morre-Straße"
-housenumber: 46
+street: Karl-Morre-Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.blackrabbitgraz.com/"
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.blackrabbitgraz.com/

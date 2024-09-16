@@ -4,8 +4,8 @@ latitude: 47.31982
 longitude: 13.13435
 postcode: "5620"
 city: Schwarzach im Pongau
-street: "Schönberg"
-housenumber: 26
+street: Schönberg
+housenumber: "26"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

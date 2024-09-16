@@ -1,11 +1,11 @@
 id: 214829636
-type: way
+type: node
 latitude: 48.45904
 longitude: 14.34734
 postcode: "4204"
 city: Reichenau im Mühlkreis
-street: "Glashüttenstraße"
-housenumber: 8
+street: Glashüttenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

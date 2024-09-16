@@ -1,11 +1,11 @@
 id: 28537134
-type: way
+type: node
 latitude: 48.25382
 longitude: 16.44687
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 196
-phone: "+43 1 2598179"
+street: Wagramer Straße
+housenumber: "196"
+phone: +43 1 2598179
 opening_hours: ""
-website: "https://www.bauhaus.at/"
+website: https://www.bauhaus.at/

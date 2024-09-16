@@ -1,11 +1,11 @@
 id: 471500439
-type: way
+type: node
 latitude: 47.30613
 longitude: 9.61757
 postcode: "6832"
 city: Röthis
-street: "Interpark Focus"
-housenumber: 30
+street: Interpark Focus
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-16:00"
+opening_hours: Mo-Fr 07:30-12:00,13:00-16:00
 website: ""

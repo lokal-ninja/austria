@@ -4,8 +4,8 @@ latitude: 48.22486
 longitude: 16.34817
 postcode: "1180"
 city: Wien
-street: "Semperstraße"
-housenumber: 14
+street: Semperstraße
+housenumber: "14"
 phone: "+436764913468"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://nedal-walo.business.site/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://nedal-walo.business.site/

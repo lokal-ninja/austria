@@ -1,11 +1,11 @@
 id: 672229308
-type: way
+type: node
 latitude: 47.943
 longitude: 14.35769
 postcode: "4452"
 city: Ternberg
-street: "Eisenstraße"
-housenumber: 50
-phone: "+43-7256-8836"
+street: Eisenstraße
+housenumber: "50"
+phone: +43-7256-8836
 opening_hours: ""
-website: "http://sieghartsleitner.toyota.at/"
+website: http://sieghartsleitner.toyota.at/

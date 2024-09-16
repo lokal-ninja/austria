@@ -4,8 +4,8 @@ latitude: 48.20587
 longitude: 16.34097
 postcode: "1070"
 city: Wien
-street: "Neustiftgasse"
-housenumber: 127
+street: Neustiftgasse
+housenumber: "127"
 phone: ""
 opening_hours: ""
-website: "https://www.zeithammer.at/"
+website: https://www.zeithammer.at/

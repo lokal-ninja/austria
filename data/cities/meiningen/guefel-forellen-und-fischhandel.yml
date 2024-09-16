@@ -1,11 +1,11 @@
 id: 105623727
-type: way
+type: node
 latitude: 47.30371
 longitude: 9.57519
 postcode: "6812"
 city: Meiningen
-street: "Teichweg"
-housenumber: 21
+street: Teichweg
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

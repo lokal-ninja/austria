@@ -4,8 +4,8 @@ latitude: 47.83776
 longitude: 16.92309
 postcode: "7132"
 city: Frauenkirchen
-street: "Neustiftstraße"
-housenumber: 2
+street: Neustiftstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-frauenkirchen-7132-neustiftgasse-2"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-frauenkirchen-7132-neustiftgasse-2

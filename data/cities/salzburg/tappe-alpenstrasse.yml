@@ -4,8 +4,8 @@ latitude: 47.77809
 longitude: 13.0679
 postcode: "5020"
 city: Salzburg
-street: "Alpenstraße"
-housenumber: 92
-phone: "+43 (0)5 7071 - 5021"
-opening_hours: "Mo-Fr 08:00-18:00,Sa 09:00-12:00"
-website: "https://www.tappe.at"
+street: Alpenstraße
+housenumber: "92"
+phone: +43 (0)5 7071 - 5021
+opening_hours: Mo-Fr 08:00-18:00,Sa 09:00-12:00
+website: https://www.tappe.at

@@ -4,8 +4,8 @@ latitude: 47.25723
 longitude: 11.39071
 postcode: "6020"
 city: Innsbruck
-street: "Stafflerstraße"
-housenumber: 25
-phone: "+43 650 7957214"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00; Sa 09:00-12:30,16:00-18:00; PH off"
-website: "https://www.crazybikez.com"
+street: Stafflerstraße
+housenumber: "25"
+phone: +43 650 7957214
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00; Sa 09:00-12:30,16:00-18:00; PH off
+website: https://www.crazybikez.com

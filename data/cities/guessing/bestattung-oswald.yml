@@ -1,11 +1,11 @@
 id: 558032457
-type: way
+type: node
 latitude: 47.04832
 longitude: 16.31835
 postcode: "7540"
 city: Güssing
-street: "Rotkreuzberg-Straße"
-housenumber: 4
+street: Rotkreuzberg-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

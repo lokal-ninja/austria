@@ -1,11 +1,11 @@
 id: 92373135
-type: way
+type: node
 latitude: 47.56245
 longitude: 14.2482
 postcode: "8940"
 city: Liezen
-street: "Gesäusestraße"
-housenumber: 3
+street: Gesäusestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:300-18:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:300-18:00
 website: ""

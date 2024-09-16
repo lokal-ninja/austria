@@ -1,11 +1,11 @@
 id: 357845387
-type: way
+type: node
 latitude: 47.48414
 longitude: 14.48633
 postcode: "8784"
 city: Trieben
-street: "Wolfsgrabenstraße"
-housenumber: 1
+street: Wolfsgrabenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

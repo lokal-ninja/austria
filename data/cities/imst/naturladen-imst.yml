@@ -4,8 +4,8 @@ latitude: 47.23994
 longitude: 10.7398
 postcode: "6460"
 city: Imst
-street: "Dr. Carl-Pfeiffenbergerstraße"
-housenumber: 1
-phone: "+43 677 62 488 524"
-opening_hours: "Di-Fr 9:00-12:00 14:00-18:00; Sa 9:30-12:30"
-website: "https://www.naturladen-imst.at/"
+street: Dr. Carl-Pfeiffenbergerstraße
+housenumber: "1"
+phone: +43 677 62 488 524
+opening_hours: Di-Fr 9:00-12:00 14:00-18:00; Sa 9:30-12:30
+website: https://www.naturladen-imst.at/

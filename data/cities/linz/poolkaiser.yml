@@ -1,11 +1,11 @@
 id: 115391989
-type: way
+type: node
 latitude: 48.28582
 longitude: 14.30631
 postcode: "4020"
 city: Linz
-street: "Poschacherstraße"
-housenumber: 23
+street: Poschacherstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 464762564
-type: way
+type: node
 latitude: 48.66741
 longitude: 15.0681
 postcode: "3931"
 city: Schweiggers
-street: "Sportplatzstraße"
-housenumber: 2
+street: Sportplatzstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

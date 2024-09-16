@@ -1,11 +1,11 @@
 id: 259017211
-type: way
+type: node
 latitude: 48.14082
 longitude: 16.92097
 postcode: "2410"
 city: Hainburg an der Donau
-street: "Landstraße"
-housenumber: 118
+street: Landstraße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su,PH off"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su,PH off
+website: https://www.hofer.at/

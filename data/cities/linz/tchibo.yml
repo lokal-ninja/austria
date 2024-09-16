@@ -5,7 +5,7 @@ longitude: 14.29059
 postcode: "4020"
 city: Linz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-17:00"
-website: "https://www.eduscho.at/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-17:00
+website: https://www.eduscho.at/

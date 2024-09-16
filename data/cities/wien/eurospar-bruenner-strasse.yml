@@ -1,11 +1,11 @@
 id: 225660290
-type: way
+type: node
 latitude: 48.28299
 longitude: 16.41331
 postcode: "1210"
 city: Wien
-street: "Brünner Straße"
-housenumber: 184
+street: Brünner Straße
+housenumber: "184"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

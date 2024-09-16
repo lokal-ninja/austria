@@ -4,8 +4,8 @@ latitude: 47.06966
 longitude: 15.44263
 postcode: "8010"
 city: Graz
-street: "Hans-Sachs-Gasse"
-housenumber: 4
+street: Hans-Sachs-Gasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-18:00; PH,Su 09:00-17:00"
-website: "https://www.martinauer.at/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-18:00; PH,Su 09:00-17:00
+website: https://www.martinauer.at/

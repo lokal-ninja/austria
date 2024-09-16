@@ -1,11 +1,11 @@
 id: 225790464
-type: way
+type: node
 latitude: 47.4444
 longitude: 12.3933
 postcode: "6370"
 city: Kitzbühel
-street: "Bichlstraße"
-housenumber: 26
+street: Bichlstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

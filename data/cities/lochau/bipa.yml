@@ -1,11 +1,11 @@
 id: 86351834
-type: way
+type: node
 latitude: 47.53623
 longitude: 9.75257
 postcode: "6911"
 city: Lochau
-street: "Hofriedenstraße"
-housenumber: 36
-phone: "+43 5574 58548"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.bipa.at"
+street: Hofriedenstraße
+housenumber: "36"
+phone: +43 5574 58548
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
+website: https://www.bipa.at

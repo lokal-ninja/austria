@@ -4,8 +4,8 @@ latitude: 47.77164
 longitude: 13.04081
 postcode: "5020"
 city: Salzburg
-street: "Berchtesgadner Straße"
-housenumber: 72
-phone: "+43 662 833624"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"
-website: "https://www.weltladen.at/salzburg-gneis"
+street: Berchtesgadner Straße
+housenumber: "72"
+phone: +43 662 833624
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-13:00
+website: https://www.weltladen.at/salzburg-gneis

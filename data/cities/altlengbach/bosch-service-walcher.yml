@@ -1,11 +1,11 @@
 id: 333491512
-type: way
+type: node
 latitude: 48.15874
 longitude: 15.8956
 postcode: "3033"
 city: Altlengbach
-street: "Tullner Straße"
-housenumber: 33
-phone: "+43 2774 290 90-0"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00"
-website: "http://www.autohaus-walcher.at"
+street: Tullner Straße
+housenumber: "33"
+phone: +43 2774 290 90-0
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00
+website: http://www.autohaus-walcher.at

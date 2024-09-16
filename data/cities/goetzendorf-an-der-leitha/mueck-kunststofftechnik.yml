@@ -1,11 +1,11 @@
 id: 27769011
-type: way
+type: node
 latitude: 48.00439
 longitude: 16.56361
 postcode: "2434"
 city: Götzendorf an der Leitha
-street: "Hauptstraße"
-housenumber: 112
-phone: "+43 2169 7002"
+street: Hauptstraße
+housenumber: "112"
+phone: +43 2169 7002
 opening_hours: ""
-website: "https://www.mueck.at/"
+website: https://www.mueck.at/

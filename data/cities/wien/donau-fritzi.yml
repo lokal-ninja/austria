@@ -4,8 +4,9 @@ latitude: 48.26365
 longitude: 16.36691
 postcode: "1190"
 city: Wien
-street: "Donaupromenade am Radweg"
-housenumber: 
+street: Donaupromenade am Radweg
+housenumber: ""
 phone: ""
-opening_hours: "Mar-Nov Tu,Fr 08:00-18:00; Mar-Nov We 10:00-20:00; Dec-Feb Tu,We,Fr off"
+opening_hours: Mar-Nov Tu,Fr 08:00-18:00; Mar-Nov We 10:00-20:00; Dec-Feb Tu,We,Fr
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 240720355
-type: way
+type: node
 latitude: 46.58306
 longitude: 14.79682
 postcode: "9150"
 city: Bleiburg
-street: "Loibacher Straße"
-housenumber: 26
+street: Loibacher Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

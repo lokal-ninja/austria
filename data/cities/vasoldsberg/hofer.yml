@@ -1,11 +1,11 @@
 id: 1285013546
-type: way
+type: node
 latitude: 47.05711
 longitude: 15.59996
 postcode: "8076"
 city: Vasoldsberg
 street: ""
-housenumber: 60
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://hofer.at/"
+website: https://hofer.at/

@@ -1,11 +1,11 @@
 id: 126711311
-type: way
+type: node
 latitude: 47.1371
 longitude: 9.83605
 postcode: "6700"
 city: Bludenz
-street: "Alfenzstraße"
-housenumber: 1
+street: Alfenzstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

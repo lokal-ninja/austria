@@ -4,8 +4,8 @@ latitude: 48.18594
 longitude: 16.33206
 postcode: "1150"
 city: Wien
-street: "Storchengasse"
-housenumber: 17
+street: Storchengasse
+housenumber: "17"
 phone: "+436642402505"
-opening_hours: "Termine nach tel. Vereinbarung"
+opening_hours: '"Termine nach tel. Vereinbarung"'
 website: ""

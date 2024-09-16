@@ -4,8 +4,8 @@ latitude: 48.39578
 longitude: 15.47112
 postcode: "3610"
 city: Weißenkirchen in der Wachau
-street: "Untere Bachgasse"
-housenumber: 58
-phone: "+43 2715 220 98"
-opening_hours: "Mar-Oct: We-Su 10:00-13:00,14:00-18:00"
+street: Untere Bachgasse
+housenumber: "58"
+phone: +43 2715 220 98
+opening_hours: 'Mar-Oct: We-Su 10:00-13:00,14:00-18:00'
 website: ""

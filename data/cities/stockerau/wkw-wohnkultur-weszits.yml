@@ -1,11 +1,11 @@
 id: 231176787
-type: way
+type: node
 latitude: 48.38525
 longitude: 16.20276
 postcode: "2000"
 city: Stockerau
-street: "Josef Wolfik-Straße"
-housenumber: 32
+street: Josef Wolfik-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

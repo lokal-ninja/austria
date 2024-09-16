@@ -4,8 +4,8 @@ latitude: 48.11323
 longitude: 16.30164
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Wiener Straße"
+street: Wiener Straße
 housenumber: 131-133
-phone: "+43 2236 312199"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://www.ammersin.at/"
+phone: +43 2236 312199
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://www.ammersin.at/

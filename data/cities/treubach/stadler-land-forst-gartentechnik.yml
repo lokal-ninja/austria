@@ -1,11 +1,12 @@
 id: 437499384
-type: way
+type: node
 latitude: 48.17163
 longitude: 13.19369
 postcode: "5272"
 city: Treubach
 street: ""
-housenumber: 8
-phone: "+43 7724 8096"
-opening_hours: "Mo-Th 07:45-12:00,13:00-16:30; Fr 07:45-12:00, 13:00-15:00; Sa,Su,PH off"
-website: "https://www.fritz-stadler.com/"
+housenumber: "8"
+phone: +43 7724 8096
+opening_hours: Mo-Th 07:45-12:00,13:00-16:30; Fr 07:45-12:00, 13:00-15:00; Sa,Su,PH
+    off
+website: https://www.fritz-stadler.com/

@@ -4,8 +4,8 @@ latitude: 48.29658
 longitude: 16.45811
 postcode: "2201"
 city: Gerasdorf bei Wien
-street: "Schulgasse"
-housenumber: 12
+street: Schulgasse
+housenumber: "12"
 phone: ""
-opening_hours: "24/7"
-website: "https://mosomarkt.at/regional-einkaufen-in-gerasdorf/"
+opening_hours: 24/7
+website: https://mosomarkt.at/regional-einkaufen-in-gerasdorf/

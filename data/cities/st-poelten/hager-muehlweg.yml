@@ -1,11 +1,11 @@
 id: 428201317
-type: way
+type: node
 latitude: 48.21761
 longitude: 15.63273
 postcode: "3100"
 city: St. Pölten
-street: "Mühlweg"
-housenumber: 68
+street: Mühlweg
+housenumber: "68"
 phone: ""
 opening_hours: ""
-website: "https://hager.co.at/"
+website: https://hager.co.at/

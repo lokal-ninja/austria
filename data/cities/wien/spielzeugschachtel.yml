@@ -4,8 +4,8 @@ latitude: 48.20623
 longitude: 16.37272
 postcode: "1010"
 city: Wien
-street: "Rauhensteingasse"
-housenumber: 5
+street: Rauhensteingasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.spielzeugschachtel.com/"
+website: http://www.spielzeugschachtel.com/

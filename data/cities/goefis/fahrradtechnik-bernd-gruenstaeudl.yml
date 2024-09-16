@@ -1,11 +1,11 @@
 id: 78447777
-type: way
+type: node
 latitude: 47.242
 longitude: 9.6258
 postcode: "6811"
 city: Göfis
-street: "Hofnerstraße"
-housenumber: 42
+street: Hofnerstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

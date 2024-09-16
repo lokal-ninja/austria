@@ -1,11 +1,11 @@
 id: 620537696
-type: way
+type: node
 latitude: 48.24337
 longitude: 14.23222
 postcode: "4061"
 city: Pasching
-street: "Randlstraße"
-housenumber: 7
+street: Randlstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

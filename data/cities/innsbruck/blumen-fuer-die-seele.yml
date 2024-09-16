@@ -4,8 +4,8 @@ latitude: 47.25917
 longitude: 11.42035
 postcode: "6020"
 city: Innsbruck
-street: "Kaufmannstraße"
-housenumber: 2
-phone: "+43 512 342176"
-opening_hours: "APR-OCT: Mo-Fr 08:30-18:00; NOV-MAR: Mo-Fr 08:30-17:00; ; Sa 08:30-12:00"
-website: "https://www.pradler-friedhofsgaertnerei.at"
+street: Kaufmannstraße
+housenumber: "2"
+phone: +43 512 342176
+opening_hours: 'APR-OCT: Mo-Fr 08:30-18:00; NOV-MAR: Mo-Fr 08:30-17:00; ; Sa 08:30-12:00'
+website: https://www.pradler-friedhofsgaertnerei.at

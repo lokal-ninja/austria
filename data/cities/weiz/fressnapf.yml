@@ -1,11 +1,11 @@
 id: 190040101
-type: way
+type: node
 latitude: 47.20538
 longitude: 15.63957
 postcode: "8160"
 city: Weiz
-street: "Bundesstraße"
-housenumber: 5
+street: Bundesstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

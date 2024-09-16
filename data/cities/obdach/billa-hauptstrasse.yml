@@ -1,11 +1,11 @@
 id: 1192061187
-type: way
+type: node
 latitude: 47.07152
 longitude: 14.6945
 postcode: "8742"
 city: Obdach
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.billa.at/"
+website: https://www.billa.at/

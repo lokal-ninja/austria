@@ -1,11 +1,11 @@
 id: 204770949
-type: way
+type: node
 latitude: 46.80745
 longitude: 14.84909
 postcode: "9431"
 city: Sankt Stefan
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

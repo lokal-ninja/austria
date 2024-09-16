@@ -4,8 +4,8 @@ latitude: 48.56557
 longitude: 16.07971
 postcode: "2020"
 city: Hollabrunn
-street: "Sparkassegasse"
-housenumber: 27
-phone: "+43 2952 30003"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.optiker-lang.at/"
+street: Sparkassegasse
+housenumber: "27"
+phone: +43 2952 30003
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.optiker-lang.at/

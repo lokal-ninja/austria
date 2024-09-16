@@ -5,7 +5,8 @@ longitude: 15.44319
 postcode: "8452"
 city: Großklein
 street: ""
-housenumber: 31
-phone: "+43664 86 88 705"
-opening_hours: "Tu,Th 08:00-18:00; We 14:00-18:00; Fr 08:00-19:00; Sa 07:00-13:00; PH off"
+housenumber: "31"
+phone: +43664 86 88 705
+opening_hours: Tu,Th 08:00-18:00; We 14:00-18:00; Fr 08:00-19:00; Sa 07:00-13:00;
+    PH off
 website: ""

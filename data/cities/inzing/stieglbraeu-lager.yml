@@ -1,11 +1,11 @@
 id: 186833341
-type: way
+type: node
 latitude: 47.27009
 longitude: 11.21674
 postcode: "6401"
 city: Inzing
-street: "Schießstand"
-housenumber: 11
+street: Schießstand
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

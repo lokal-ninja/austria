@@ -4,8 +4,8 @@ latitude: 48.19064
 longitude: 16.33025
 postcode: "1150"
 city: Wien
-street: "Reindorfgasse"
-housenumber: 38
+street: Reindorfgasse
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://nadlerei.at/"
+website: https://nadlerei.at/

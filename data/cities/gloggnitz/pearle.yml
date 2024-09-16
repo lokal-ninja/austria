@@ -4,8 +4,8 @@ latitude: 47.67598
 longitude: 15.93575
 postcode: "2640"
 city: Gloggnitz
-street: "Hauptstraße"
-housenumber: 26
-phone: "+43 2662 40887"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00;Sa 08:30-12:00"
-website: "https://www.pearle.at/"
+street: Hauptstraße
+housenumber: "26"
+phone: +43 2662 40887
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00;Sa 08:30-12:00
+website: https://www.pearle.at/

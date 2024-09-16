@@ -4,8 +4,8 @@ latitude: 48.17711
 longitude: 16.32913
 postcode: "1120"
 city: Wien
-street: "Ratschkygasse"
-housenumber: 6
+street: Ratschkygasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-17:00
 website: ""

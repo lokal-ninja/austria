@@ -4,8 +4,8 @@ latitude: 48.21964
 longitude: 16.40307
 postcode: "1020"
 city: Wien
-street: "Obermüllnerstraße"
-housenumber: 11
+street: Obermüllnerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mar-Oct Mo-Su 09:00-19:00; Nov Mo-Sa 09:00-18:00"
-website: "https://velopoldvienna.com/"
+opening_hours: Mar-Oct Mo-Su 09:00-19:00; Nov Mo-Sa 09:00-18:00
+website: https://velopoldvienna.com/

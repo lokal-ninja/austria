@@ -4,8 +4,8 @@ latitude: 48.22662
 longitude: 16.34148
 postcode: "1180"
 city: Wien
-street: "Währinger Straße"
-housenumber: 113
+street: Währinger Straße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.epn.at"
+opening_hours: Mo-We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.epn.at

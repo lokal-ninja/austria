@@ -1,11 +1,11 @@
 id: 226307582
-type: way
+type: node
 latitude: 48.2593
 longitude: 16.38966
 postcode: "1210"
 city: Wien
-street: "Jedleseer Straße"
-housenumber: 56
+street: Jedleseer Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:30
 website: ""

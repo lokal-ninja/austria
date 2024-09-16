@@ -1,11 +1,11 @@
 id: 25762297
-type: way
+type: node
 latitude: 48.20728
 longitude: 16.54566
 postcode: "2301"
 city: Groß-Enzersdorf
-street: "Eurostraße"
-housenumber: 6
+street: Eurostraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 173678841
-type: way
+type: node
 latitude: 48.10849
 longitude: 16.31441
 postcode: "2345"
 city: Brunn am Gebirge
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:10-19:24; Sa 07:10-18:00"
-website: "https://www.hornbach.at/mein-markt/drive-in/"
+opening_hours: Mo-Fr 07:10-19:24; Sa 07:10-18:00
+website: https://www.hornbach.at/mein-markt/drive-in/

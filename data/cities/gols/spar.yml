@@ -1,11 +1,11 @@
 id: 827559425
-type: way
+type: node
 latitude: 47.90524
 longitude: 16.8976
 postcode: "7122"
 city: Gols
-street: "Obere Hauptstraße"
-housenumber: 93
+street: Obere Hauptstraße
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Th 06:30-18:30; Fr 06:30-19:00; Sa 06:30-18:00"
+opening_hours: Mo-Th 06:30-18:30; Fr 06:30-19:00; Sa 06:30-18:00
 website: ""

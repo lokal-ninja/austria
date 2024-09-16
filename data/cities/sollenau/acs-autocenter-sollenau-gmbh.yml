@@ -1,11 +1,11 @@
 id: 631748161
-type: way
+type: node
 latitude: 47.90972
 longitude: 16.25503
 postcode: "2601"
 city: Sollenau
-street: "Industriestraße-Nord"
-housenumber: 7
-phone: "+43 2628 42415"
+street: Industriestraße-Nord
+housenumber: "7"
+phone: +43 2628 42415
 opening_hours: ""
-website: "https://www.autocentersollenau.at/"
+website: https://www.autocentersollenau.at/

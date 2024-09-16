@@ -4,8 +4,8 @@ latitude: 47.27127
 longitude: 11.25323
 postcode: "6170"
 city: Zirl
-street: "Meilstraße"
-housenumber: 51
-phone: "+43 50321 928171"
-opening_hours: "Mo-Th 07:40-19:00; Fr 07:40-19:30; Sa 07:40-18:00; PH off"
-website: "https://www.mpreis.at"
+street: Meilstraße
+housenumber: "51"
+phone: +43 50321 928171
+opening_hours: Mo-Th 07:40-19:00; Fr 07:40-19:30; Sa 07:40-18:00; PH off
+website: https://www.mpreis.at

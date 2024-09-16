@@ -1,11 +1,11 @@
 id: 143173851
-type: way
+type: node
 latitude: 48.3048
 longitude: 14.28399
 postcode: "4020"
 city: Linz
-street: "Tummelplatz"
-housenumber: 4
+street: Tummelplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 15:00-18:30"
-website: "https://www.tummelplatzgalerie.com/"
+opening_hours: Tu-Fr 15:00-18:30
+website: https://www.tummelplatzgalerie.com/

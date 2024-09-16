@@ -4,8 +4,9 @@ latitude: 48.5447
 longitude: 14.14363
 postcode: "4184"
 city: Helfenberg
-street: "Leonfelder Straße"
-housenumber: 15
-phone: "+43 7216 20 507"
-opening_hours: "Tu 08:00-18:00, We 08:00-14:00, Th 08:00-18:00, Fr 08:00-18:00, Sa 08:00-13:00"
-website: "http://www.kumhair.at"
+street: Leonfelder Straße
+housenumber: "15"
+phone: +43 7216 20 507
+opening_hours: Tu 08:00-18:00, We 08:00-14:00, Th 08:00-18:00, Fr 08:00-18:00, Sa
+    08:00-13:00
+website: http://www.kumhair.at

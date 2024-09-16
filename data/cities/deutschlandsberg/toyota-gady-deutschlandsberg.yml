@@ -1,11 +1,11 @@
 id: 214261178
-type: way
+type: node
 latitude: 46.81555
 longitude: 15.23363
 postcode: "8530"
 city: Deutschlandsberg
-street: "Grazer Straße"
-housenumber: 82
-phone: "+43 3462 28 16"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa,Su,PH off"
-website: "https://www.gady.st"
+street: Grazer Straße
+housenumber: "82"
+phone: +43 3462 28 16
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa,Su,PH off
+website: https://www.gady.st

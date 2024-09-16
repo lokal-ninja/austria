@@ -1,11 +1,11 @@
 id: 160902567
-type: way
+type: node
 latitude: 48.31673
 longitude: 16.31291
 postcode: "3400"
 city: Klosterneuburg
-street: "Martinstraße"
+street: Martinstraße
 housenumber: 115-117
 phone: ""
 opening_hours: ""
-website: "https://www.infuehr.at/"
+website: https://www.infuehr.at/

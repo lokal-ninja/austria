@@ -1,11 +1,11 @@
 id: 126462897
-type: way
+type: node
 latitude: 47.96588
 longitude: 16.83812
 postcode: "7100"
 city: Neusiedl am See
-street: "Wienerstraße"
-housenumber: 106
+street: Wienerstraße
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://www.weintritt.at"
+website: https://www.weintritt.at

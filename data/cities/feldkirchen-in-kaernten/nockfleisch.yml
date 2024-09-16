@@ -1,11 +1,11 @@
 id: 429100685
-type: way
+type: node
 latitude: 46.72819
 longitude: 14.09079
 postcode: "9560"
 city: Feldkirchen in Kärnten
-street: "Milesistraße"
-housenumber: 2
+street: Milesistraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

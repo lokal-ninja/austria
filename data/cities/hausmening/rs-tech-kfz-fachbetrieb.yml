@@ -1,11 +1,11 @@
 id: 188889869
-type: way
+type: node
 latitude: 48.07082
 longitude: 14.81295
 postcode: "3363"
 city: Hausmening
-street: "Gartenstraße"
-housenumber: 4
+street: Gartenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.25697
 longitude: 11.39776
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
-housenumber: 45
-phone: "+43 512 5752880"
-opening_hours: "Mo-Fr 08:30-12:00,13:00-17:00; PH off"
-website: "https://www.pcprivat.at"
+street: Leopoldstraße
+housenumber: "45"
+phone: +43 512 5752880
+opening_hours: Mo-Fr 08:30-12:00,13:00-17:00; PH off
+website: https://www.pcprivat.at

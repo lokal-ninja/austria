@@ -4,8 +4,8 @@ latitude: 48.15317
 longitude: 16.45087
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 397
+street: Simmeringer Hauptstraße
+housenumber: "397"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://spar.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://spar.at

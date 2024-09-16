@@ -1,11 +1,11 @@
 id: 345681276
-type: way
+type: node
 latitude: 48.49232
 longitude: 14.95223
 postcode: "3925"
 city: Arbesbach
 street: ""
-housenumber: 99
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

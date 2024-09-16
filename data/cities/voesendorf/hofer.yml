@@ -1,11 +1,11 @@
 id: 89266808
-type: way
+type: node
 latitude: 48.12043
 longitude: 16.31513
 postcode: "2334"
 city: Vösendorf
-street: "Fachmarktstraße"
-housenumber: 6
-phone: "+43-57030-33028"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+street: Fachmarktstraße
+housenumber: "6"
+phone: +43-57030-33028
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
 website: ""

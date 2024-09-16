@@ -1,11 +1,11 @@
 id: 419589854
-type: way
+type: node
 latitude: 47.41608
 longitude: 15.27444
 postcode: "8600"
 city: Bruck an der Mur
-street: "Wiener Straße"
-housenumber: 16
-phone: "+43 3862 51 7 26"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-12:00"
-website: "http://www.ibh.co.at/"
+street: Wiener Straße
+housenumber: "16"
+phone: +43 3862 51 7 26
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-12:00
+website: http://www.ibh.co.at/

@@ -1,11 +1,11 @@
 id: 84573786
-type: way
+type: node
 latitude: 47.07884
 longitude: 15.46856
 postcode: "8010"
 city: Graz
-street: "Riesstraße"
-housenumber: 26
+street: Riesstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

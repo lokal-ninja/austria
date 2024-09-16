@@ -5,7 +5,7 @@ longitude: 11.8719
 postcode: "6284"
 city: Ramsau im Zillertal
 street: ""
-housenumber: 458
+housenumber: "458"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.fristo.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.fristo.de/

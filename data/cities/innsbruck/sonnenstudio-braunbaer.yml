@@ -4,8 +4,8 @@ latitude: 47.26599
 longitude: 11.40085
 postcode: "6020"
 city: Innsbruck
-street: "Brunecker Straße"
-housenumber: 2
-phone: "+43 512 564444"
-opening_hours: "Tu-Fr 10:00-17:00"
-website: "http://www.braunbaer.at"
+street: Brunecker Straße
+housenumber: "2"
+phone: +43 512 564444
+opening_hours: Tu-Fr 10:00-17:00
+website: http://www.braunbaer.at

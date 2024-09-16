@@ -1,11 +1,11 @@
 id: 348390970
-type: way
+type: node
 latitude: 46.93972
 longitude: 16.01166
 postcode: "8350"
 city: Fehring
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

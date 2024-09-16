@@ -5,7 +5,7 @@ longitude: 16.80637
 postcode: "2460"
 city: Bruck an der Leitha
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5123"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5123

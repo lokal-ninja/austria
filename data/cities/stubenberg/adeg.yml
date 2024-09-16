@@ -1,11 +1,11 @@
 id: 153219848
-type: way
+type: node
 latitude: 47.23854
 longitude: 15.79808
 postcode: "8223"
 city: Stubenberg
 street: ""
-housenumber: 211
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-17:00"
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-17:00
 website: ""

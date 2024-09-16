@@ -4,8 +4,8 @@ latitude: 47.26448
 longitude: 11.39033
 postcode: "6020"
 city: Innsbruck
-street: "Anichstraße"
-housenumber: 24
-phone: "+43 512 584048"
-opening_hours: "PH off; Mo-Fr 09:00-12:30,13:00-16:00"
-website: "https://standorte.hansaton.at/innsbruck/anichstrasse-24.html"
+street: Anichstraße
+housenumber: "24"
+phone: +43 512 584048
+opening_hours: PH off; Mo-Fr 09:00-12:30,13:00-16:00
+website: https://standorte.hansaton.at/innsbruck/anichstrasse-24.html

@@ -1,11 +1,11 @@
 id: 323622201
-type: way
+type: node
 latitude: 47.88201
 longitude: 13.01168
 postcode: "5102"
 city: Anthering
-street: "Schmiedingerstraße"
-housenumber: 6
-phone: "+43 664 2027603"
+street: Schmiedingerstraße
+housenumber: "6"
+phone: +43 664 2027603
 opening_hours: ""
-website: "https://www.macherhammer.co.at"
+website: https://www.macherhammer.co.at

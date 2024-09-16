@@ -4,8 +4,8 @@ latitude: 47.28124
 longitude: 15.99105
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 2
-phone: "+43 7242 65755"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-14:00"
-website: "https://klipp.at"
+street: Im Hatric
+housenumber: "2"
+phone: +43 7242 65755
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-14:00
+website: https://klipp.at

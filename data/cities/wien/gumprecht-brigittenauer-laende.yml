@@ -1,11 +1,11 @@
 id: 173933420
-type: way
+type: node
 latitude: 48.22738
 longitude: 16.36622
 postcode: "1200"
 city: Wien
-street: "Brigittenauer Lände"
+street: Brigittenauer Lände
 housenumber: 2-3
-phone: "+43 1 3304767"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-14:00"
-website: "https://www.pferdefleischer.at/"
+phone: +43 1 3304767
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-14:00
+website: https://www.pferdefleischer.at/

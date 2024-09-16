@@ -4,8 +4,8 @@ latitude: 47.26491
 longitude: 11.40925
 postcode: "6020"
 city: Innsbruck
-street: "Defreggerstraße"
-housenumber: 24
-phone: "+43 664 921 922 1"
-opening_hours: "Mo-Tu 15:00-18:30; We-Fr 10:00-12:00,15:00-18:30; Sa 11:00-15:00"
-website: "https://www.dafinest.at/"
+street: Defreggerstraße
+housenumber: "24"
+phone: +43 664 921 922 1
+opening_hours: Mo-Tu 15:00-18:30; We-Fr 10:00-12:00,15:00-18:30; Sa 11:00-15:00
+website: https://www.dafinest.at/

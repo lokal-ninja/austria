@@ -1,11 +1,11 @@
 id: 54286402
-type: way
+type: node
 latitude: 48.05283
 longitude: 14.13118
 postcode: "4550"
 city: Kremsmünster
-street: "Marktplatz"
-housenumber: 29
+street: Marktplatz
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

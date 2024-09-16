@@ -1,11 +1,11 @@
 id: 406957115
-type: way
+type: node
 latitude: 46.67846
 longitude: 15.99174
 postcode: "9250"
 city: Gornja Radgona
-street: "Panonska cesta"
-housenumber: 1
+street: Panonska cesta
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

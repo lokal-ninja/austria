@@ -1,11 +1,11 @@
 id: 244459097
-type: way
+type: node
 latitude: 47.23233
 longitude: 10.74339
 postcode: "6460"
 city: Imst
-street: "Langgasse"
-housenumber: 27
+street: Langgasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.tundg.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.tundg.at

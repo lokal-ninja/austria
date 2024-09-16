@@ -4,8 +4,8 @@ latitude: 48.19761
 longitude: 16.30481
 postcode: "1140"
 city: Wien
-street: "Dreyhausenstraße"
-housenumber: 6
+street: Dreyhausenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,12:30-17:00; Fr 07:00-13:00"
+opening_hours: Mo-Th 07:00-12:00,12:30-17:00; Fr 07:00-13:00
 website: ""

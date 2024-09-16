@@ -4,8 +4,9 @@ latitude: 46.9811
 longitude: 14.21595
 postcode: "9363"
 city: Metnitz
-street: "Metnitz Marktplatz"
-housenumber: 3
-phone: "+43 4267 225"
-opening_hours: "Mo-Tu 06:15-12:15,15:00-18:15; We 06:15-12:15; Th-Fr 06:15-12:15,15:00-18:15; Sa 08:00-12:00"
-website: "https://www.nahundfrisch.at/de/kaufmann/strasser-stefan"
+street: Metnitz Marktplatz
+housenumber: "3"
+phone: +43 4267 225
+opening_hours: Mo-Tu 06:15-12:15,15:00-18:15; We 06:15-12:15; Th-Fr 06:15-12:15,15:00-18:15;
+    Sa 08:00-12:00
+website: https://www.nahundfrisch.at/de/kaufmann/strasser-stefan

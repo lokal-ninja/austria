@@ -4,8 +4,8 @@ latitude: 48.13856
 longitude: 16.27437
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 378
-phone: "+43 1 867 29 46"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su,Mo off"
+street: Breitenfurter Straße
+housenumber: "378"
+phone: +43 1 867 29 46
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su,Mo off
 website: ""

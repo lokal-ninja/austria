@@ -1,11 +1,11 @@
 id: 164335515
-type: way
+type: node
 latitude: 47.43875
 longitude: 9.75791
 postcode: "6858"
 city: Schwarzach
-street: "Gutenbergstraße"
-housenumber: 4
+street: Gutenbergstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

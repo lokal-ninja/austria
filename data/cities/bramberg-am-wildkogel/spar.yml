@@ -1,11 +1,11 @@
 id: 228146323
-type: way
+type: node
 latitude: 47.27228
 longitude: 12.34907
 postcode: "5733"
 city: Bramberg am Wildkogel
-street: "Wennserstraße"
-housenumber: 57
+street: Wennserstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

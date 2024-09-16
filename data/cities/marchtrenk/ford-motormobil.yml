@@ -1,11 +1,11 @@
 id: 104998108
-type: way
+type: node
 latitude: 48.19358
 longitude: 14.1285
 postcode: "4614"
 city: Marchtrenk
-street: "Paul-Hahn-Straße"
-housenumber: 2
+street: Paul-Hahn-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

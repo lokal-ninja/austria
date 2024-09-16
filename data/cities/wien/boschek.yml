@@ -4,8 +4,8 @@ latitude: 48.20958
 longitude: 16.37485
 postcode: "1010"
 city: Wien
-street: "Lugeck"
-housenumber: 5
+street: Lugeck
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:00
 website: ""

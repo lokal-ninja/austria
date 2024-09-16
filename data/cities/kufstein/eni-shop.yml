@@ -1,11 +1,11 @@
 id: 123176821
-type: way
+type: node
 latitude: 47.5766
 longitude: 12.16045
 postcode: "6330"
 city: Kufstein
-street: "Salurner Straße"
-housenumber: 28
+street: Salurner Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:30; Su,PH 06:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:30; Su,PH 06:00-22:00
 website: ""

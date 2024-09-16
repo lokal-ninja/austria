@@ -4,8 +4,8 @@ latitude: 48.19882
 longitude: 16.35838
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 33
-phone: "+43 676 5861366"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 10:00-17:00; Su,PH off"
-website: "https://saint-charles.eu/wien/cosmothecary/"
+street: Gumpendorfer Straße
+housenumber: "33"
+phone: +43 676 5861366
+opening_hours: Mo-Fr 11:00-18:30; Sa 10:00-17:00; Su,PH off
+website: https://saint-charles.eu/wien/cosmothecary/

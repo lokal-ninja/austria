@@ -4,8 +4,8 @@ latitude: 48.22323
 longitude: 16.40518
 postcode: "1020"
 city: Wien
-street: "Engerthstraße"
-housenumber: 187
-phone: "+43 57030 34055"
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00, Su off, PH off"
+street: Engerthstraße
+housenumber: "187"
+phone: +43 57030 34055
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00, Su off, PH off
 website: ""

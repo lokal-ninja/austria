@@ -1,11 +1,11 @@
 id: 484908910
-type: way
+type: node
 latitude: 47.44885
 longitude: 9.90476
 postcode: "6951"
 city: Lingenau
-street: "Zeihenbühl"
-housenumber: 423
+street: Zeihenbühl
+housenumber: "423"
 phone: ""
 opening_hours: ""
 website: ""

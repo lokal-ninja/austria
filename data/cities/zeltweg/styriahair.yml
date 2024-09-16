@@ -4,8 +4,9 @@ latitude: 47.18903
 longitude: 14.75095
 postcode: "8740"
 city: Zeltweg
-street: "Schulgasse"
-housenumber: 8
-phone: "+43 3577 26620"
-opening_hours: "Tu 08:00-12:00,14:00-18:45; We 08:00-15:00; Th 08:00-12:00,14:00-18:30; Fr 08:00-18:30; Sa 07:30-11:30"
-website: "http://www.styriahair.at/"
+street: Schulgasse
+housenumber: "8"
+phone: +43 3577 26620
+opening_hours: Tu 08:00-12:00,14:00-18:45; We 08:00-15:00; Th 08:00-12:00,14:00-18:30;
+    Fr 08:00-18:30; Sa 07:30-11:30
+website: http://www.styriahair.at/

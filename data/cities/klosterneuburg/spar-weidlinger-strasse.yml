@@ -1,11 +1,11 @@
 id: 162721425
-type: way
+type: node
 latitude: 48.29645
 longitude: 16.33282
 postcode: "3400"
 city: Klosterneuburg
-street: "Weidlinger Straße"
-housenumber: 7
+street: Weidlinger Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

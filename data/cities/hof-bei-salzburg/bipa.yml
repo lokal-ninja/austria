@@ -1,11 +1,11 @@
 id: 160070405
-type: way
+type: node
 latitude: 47.81553
 longitude: 13.2304
 postcode: "5322"
 city: Hof bei Salzburg
-street: "Thannstraße"
-housenumber: 2
+street: Thannstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

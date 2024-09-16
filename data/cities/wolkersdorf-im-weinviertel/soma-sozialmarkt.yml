@@ -4,8 +4,8 @@ latitude: 48.38667
 longitude: 16.51604
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Klostergasse"
-housenumber: 3
+street: Klostergasse
+housenumber: "3"
 phone: ""
-opening_hours: "We 15:00-17:00; Sa 10:00-12:00"
-website: "https://www.wolkersdorf.at/Unsere_Gemeinde/Gesundheit_Soziales/SOMA_Sozialmarkt"
+opening_hours: We 15:00-17:00; Sa 10:00-12:00
+website: https://www.wolkersdorf.at/Unsere_Gemeinde/Gesundheit_Soziales/SOMA_Sozialmarkt

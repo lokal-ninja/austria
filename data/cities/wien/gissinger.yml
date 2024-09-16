@@ -4,8 +4,8 @@ latitude: 48.21362
 longitude: 16.32026
 postcode: "1160"
 city: Wien
-street: "Ottakringer Straße"
-housenumber: 140
-phone: "+43 1 4862473"
-opening_hours: "We, Fr 07:00-12:00; PH off"
-website: "https://www.gissinger.at/"
+street: Ottakringer Straße
+housenumber: "140"
+phone: +43 1 4862473
+opening_hours: We, Fr 07:00-12:00; PH off
+website: https://www.gissinger.at/

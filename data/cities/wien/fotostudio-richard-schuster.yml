@@ -4,8 +4,8 @@ latitude: 48.24974
 longitude: 16.44209
 postcode: "1220"
 city: Wien
-street: "St.-Wendelin-Platz"
-housenumber: 5
+street: St.-Wendelin-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.fotoschuster.com/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.fotoschuster.com/

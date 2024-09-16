@@ -1,11 +1,11 @@
 id: 130193817
-type: way
+type: node
 latitude: 48.22246
 longitude: 14.40859
 postcode: "4481"
 city: Asten
-street: "Wiener Straße"
-housenumber: 1
+street: Wiener Straße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

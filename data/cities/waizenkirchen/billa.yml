@@ -1,11 +1,11 @@
 id: 320051472
-type: way
+type: node
 latitude: 48.32579
 longitude: 13.85104
 postcode: "4730"
 city: Waizenkirchen
-street: "Wegbachstraße"
-housenumber: 2
+street: Wegbachstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.25291
 longitude: 16.41421
 postcode: "1210"
 city: Wien
-street: "Fultonstraße"
-housenumber: 26
+street: Fultonstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00
 website: ""

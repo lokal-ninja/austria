@@ -4,8 +4,8 @@ latitude: 48.14645
 longitude: 16.46127
 postcode: "1110"
 city: Wien
-street: "Baudißgasse"
-housenumber: 4
+street: Baudißgasse
+housenumber: "4"
 phone: "+4317682136"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.dm.at

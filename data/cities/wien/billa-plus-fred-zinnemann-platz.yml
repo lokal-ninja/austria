@@ -4,8 +4,8 @@ latitude: 48.18864
 longitude: 16.3988
 postcode: "1030"
 city: Wien
-street: "Fred-Zinnemann-Platz"
-housenumber: 4
+street: Fred-Zinnemann-Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.billa.at

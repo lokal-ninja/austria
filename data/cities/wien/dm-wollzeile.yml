@@ -4,8 +4,8 @@ latitude: 48.20774
 longitude: 16.37895
 postcode: "1010"
 city: Wien
-street: "Wollzeile"
-housenumber: 39
+street: Wollzeile
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.dm.at

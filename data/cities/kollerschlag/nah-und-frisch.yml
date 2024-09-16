@@ -1,11 +1,11 @@
 id: 83854310
-type: way
+type: node
 latitude: 48.60531
 longitude: 13.84063
 postcode: "4154"
 city: Kollerschlag
-street: "Markt"
-housenumber: 13
+street: Markt
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

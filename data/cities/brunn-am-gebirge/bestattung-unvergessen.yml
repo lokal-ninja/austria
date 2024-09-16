@@ -1,11 +1,11 @@
 id: 310439409
-type: way
+type: node
 latitude: 48.11259
 longitude: 16.27358
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Leopold-Gattringer-Straße"
-housenumber: 109
+street: Leopold-Gattringer-Straße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

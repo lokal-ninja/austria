@@ -4,8 +4,8 @@ latitude: 48.19492
 longitude: 16.3631
 postcode: "1040"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 37
-phone: "+43 720 203036 206520"
-opening_hours: "Mo-Fr 09:30-17:30"
-website: "https://www.brillen.at/store/26096-brillen-at-flagship-store-wien-margaretenstrasse-wien-margaretenstrasse-1040"
+street: Margaretenstraße
+housenumber: "37"
+phone: +43 720 203036 206520
+opening_hours: Mo-Fr 09:30-17:30
+website: https://www.brillen.at/store/26096-brillen-at-flagship-store-wien-margaretenstrasse-wien-margaretenstrasse-1040

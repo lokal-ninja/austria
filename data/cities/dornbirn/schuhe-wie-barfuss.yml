@@ -4,8 +4,8 @@ latitude: 47.41128
 longitude: 9.74272
 postcode: "6850"
 city: Dornbirn
-street: "Marktstraße"
-housenumber: 37
+street: Marktstraße
+housenumber: "37"
 phone: "+435572205234"
-opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.schuhewiebarfuss.at/"
+opening_hours: Mo-Fr 14:00-18:00; Sa 10:00-13:00
+website: https://www.schuhewiebarfuss.at/

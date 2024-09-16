@@ -4,8 +4,8 @@ latitude: 47.25811
 longitude: 11.3971
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
-housenumber: 37
-phone: "+43 50322 926202"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:00"
-website: "https://www.baguette.at/handel/baguette/innsbruck-leopoldstrasse-37.htmlhttps://www.baguette.at"
+street: Leopoldstraße
+housenumber: "37"
+phone: +43 50322 926202
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-12:00
+website: https://www.baguette.at/handel/baguette/innsbruck-leopoldstrasse-37.htmlhttps://www.baguette.at

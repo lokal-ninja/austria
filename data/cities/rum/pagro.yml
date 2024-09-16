@@ -4,8 +4,8 @@ latitude: 47.27499
 longitude: 11.45384
 postcode: "6063"
 city: Rum
-street: "Flurstraße"
-housenumber: 1
-phone: "+43 512 204710"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su,PH off"
-website: "https://www.pagro.at"
+street: Flurstraße
+housenumber: "1"
+phone: +43 512 204710
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su,PH off
+website: https://www.pagro.at

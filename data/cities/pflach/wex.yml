@@ -1,11 +1,11 @@
 id: 32251499
-type: way
+type: node
 latitude: 47.5146
 longitude: 10.71621
 postcode: "6600"
 city: Pflach
-street: "Füssener Straße"
-housenumber: 9
+street: Füssener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

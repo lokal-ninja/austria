@@ -4,8 +4,8 @@ latitude: 47.8004
 longitude: 13.04008
 postcode: "5020"
 city: Salzburg
-street: "Münzgasse"
-housenumber: 2
+street: Münzgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-18:00; PH 08:30-12:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-18:00; PH 08:30-12:00
 website: ""

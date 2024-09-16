@@ -4,8 +4,8 @@ latitude: 48.22274
 longitude: 16.36145
 postcode: "1090"
 city: Wien
-street: "Porzellangasse"
-housenumber: 40
-phone: "+43 1 3100412"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"
-website: "https://schalie-electronic.eu/"
+street: Porzellangasse
+housenumber: "40"
+phone: +43 1 3100412
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-15:00
+website: https://schalie-electronic.eu/

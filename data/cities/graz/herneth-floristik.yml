@@ -1,11 +1,11 @@
 id: 1301624395
-type: way
+type: node
 latitude: 47.03841
 longitude: 15.43574
 postcode: "8055"
 city: Graz
-street: "Markusgasse"
-housenumber: 32
-phone: "+43 316 29 12 56"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.herneth-floristik.at/"
+street: Markusgasse
+housenumber: "32"
+phone: +43 316 29 12 56
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.herneth-floristik.at/

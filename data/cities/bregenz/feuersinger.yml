@@ -1,11 +1,11 @@
 id: 119496500
-type: way
+type: node
 latitude: 47.48755
 longitude: 9.73344
 postcode: "6900"
 city: Bregenz
-street: "Arlbergstraße"
-housenumber: 137
+street: Arlbergstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

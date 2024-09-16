@@ -1,11 +1,11 @@
 id: 296199494
-type: way
+type: node
 latitude: 48.15191
 longitude: 16.29044
 postcode: "1230"
 city: Wien
-street: "Gatterederstraße"
-housenumber: 9
-phone: "+43 1 866 99 9103"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; PH,Su 07:00-17:00"
-website: "https://www.dermann.at/"
+street: Gatterederstraße
+housenumber: "9"
+phone: +43 1 866 99 9103
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-18:00; PH,Su 07:00-17:00
+website: https://www.dermann.at/

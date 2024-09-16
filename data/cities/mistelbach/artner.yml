@@ -1,11 +1,11 @@
 id: 122633331
-type: way
+type: node
 latitude: 48.57017
 longitude: 16.57259
 postcode: "2130"
 city: Mistelbach
-street: "Hauptplatz"
-housenumber: 9
-phone: "+43 2572 2596"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00"
+street: Hauptplatz
+housenumber: "9"
+phone: +43 2572 2596
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-13:00
 website: ""

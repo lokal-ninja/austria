@@ -1,11 +1,11 @@
 id: 128815311
-type: way
+type: node
 latitude: 47.18345
 longitude: 11.39788
 postcode: "6141"
 city: Schönberg im Stubaital
-street: "Dorfstraße"
-housenumber: 26
+street: Dorfstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
+website: https://www.hofer.at/

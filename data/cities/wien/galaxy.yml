@@ -4,8 +4,8 @@ latitude: 48.2101
 longitude: 16.3871
 postcode: "1030"
 city: Wien
-street: "Hintere Zollamtsstraße"
-housenumber: 11
+street: Hintere Zollamtsstraße
+housenumber: "11"
 phone: "+4369911398484"
-opening_hours: "Mo-Fr 14:00-17:50"
-website: "http://galaxy-fahrraeder.at/"
+opening_hours: Mo-Fr 14:00-17:50
+website: http://galaxy-fahrraeder.at/

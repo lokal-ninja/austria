@@ -1,11 +1,11 @@
 id: 203185261
-type: way
+type: node
 latitude: 47.39506
 longitude: 13.69231
 postcode: "8970"
 city: Schladming
-street: "Erzherzog-Johann-Straße"
-housenumber: 213
-phone: "+43 3687 22557"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+street: Erzherzog-Johann-Straße
+housenumber: "213"
+phone: +43 3687 22557
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

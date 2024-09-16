@@ -1,11 +1,11 @@
 id: 59189338
-type: way
+type: node
 latitude: 48.32918
 longitude: 14.31674
 postcode: "4040"
 city: Linz
-street: "Freistädter Straße"
+street: Freistädter Straße
 housenumber: 328a
-phone: "+43 732 239 240"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00"
-website: "https://www.watzinger-motorrad.at/"
+phone: +43 732 239 240
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:00
+website: https://www.watzinger-motorrad.at/

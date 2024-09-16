@@ -1,11 +1,11 @@
 id: 368413708
-type: way
+type: node
 latitude: 46.63455
 longitude: 14.33859
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Steingasse"
-housenumber: 102
+street: Steingasse
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

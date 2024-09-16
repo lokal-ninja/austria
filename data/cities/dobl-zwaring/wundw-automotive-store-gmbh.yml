@@ -1,11 +1,11 @@
 id: 591875331
-type: way
+type: node
 latitude: 46.95882
 longitude: 15.35725
 postcode: "8143"
 city: Dobl-Zwaring
-street: "Liebochstraße"
-housenumber: 45
-phone: "+43 664 4150423"
+street: Liebochstraße
+housenumber: "45"
+phone: +43 664 4150423
 opening_hours: ""
 website: ""

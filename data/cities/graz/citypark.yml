@@ -1,11 +1,11 @@
 id: 5118560
-type: way
+type: node
 latitude: 47.06019
 longitude: 15.42714
 postcode: "8020"
 city: Graz
-street: "Lazarettgürtel"
-housenumber: 55
+street: Lazarettgürtel
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.citypark.at/"
+website: https://www.citypark.at/

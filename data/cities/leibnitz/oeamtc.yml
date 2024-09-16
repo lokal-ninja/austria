@@ -1,11 +1,11 @@
 id: 160304549
-type: way
+type: node
 latitude: 46.79852
 longitude: 15.53963
 postcode: "8430"
 city: Leibnitz
-street: "Adolf-Hofer-Straße"
-housenumber: 1
+street: Adolf-Hofer-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

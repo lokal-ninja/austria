@@ -4,8 +4,8 @@ latitude: 48.15474
 longitude: 14.28904
 postcode: "4502"
 city: St. Marien
-street: "Stein"
-housenumber: 10
+street: Stein
+housenumber: "10"
 phone: "+4372278205"
-opening_hours: "Tu-Fr 06:00-17:00; Sa 06:00-12:00; Su 07:30-11:00"
-website: "http://www.zitterl.at"
+opening_hours: Tu-Fr 06:00-17:00; Sa 06:00-12:00; Su 07:30-11:00
+website: http://www.zitterl.at

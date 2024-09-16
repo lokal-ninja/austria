@@ -1,11 +1,11 @@
 id: 29555300
-type: way
+type: node
 latitude: 48.21109
 longitude: 14.27355
 postcode: "4052"
 city: Ansfelden
-street: "Traunuferstraße"
-housenumber: 129
+street: Traunuferstraße
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Fr 07:10-19:24; Sa 07:10-18:00"
-website: "https://www.hornbach.at/mein-markt/ansfelden/"
+opening_hours: Mo-Fr 07:10-19:24; Sa 07:10-18:00
+website: https://www.hornbach.at/mein-markt/ansfelden/

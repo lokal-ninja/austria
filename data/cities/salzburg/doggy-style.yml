@@ -4,8 +4,8 @@ latitude: 47.8187
 longitude: 13.04431
 postcode: "5020"
 city: Salzburg
-street: "Elisabethstraße"
-housenumber: 65
+street: Elisabethstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.leeder.at/"
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.leeder.at/

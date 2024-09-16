@@ -1,11 +1,11 @@
 id: 332659873
-type: way
+type: node
 latitude: 47.21718
 longitude: 10.73493
 postcode: "6460"
 city: Imst
-street: "Industriezone"
-housenumber: 39
+street: Industriezone
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

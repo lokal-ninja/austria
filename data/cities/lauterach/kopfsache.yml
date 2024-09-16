@@ -4,8 +4,8 @@ latitude: 47.46983
 longitude: 9.72892
 postcode: "6923"
 city: Lauterach
-street: "Bundesstraße"
-housenumber: 101
+street: Bundesstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo,Tu,Th 08:30-12:30; Fr 08:30-19:00; Sa 08:30-12:30"
-website: "https://www.kopf-sache.at/"
+opening_hours: Mo,Tu,Th 08:30-12:30; Fr 08:30-19:00; Sa 08:30-12:30
+website: https://www.kopf-sache.at/

@@ -4,8 +4,8 @@ latitude: 48.224
 longitude: 16.39752
 postcode: "1020"
 city: Wien
-street: "Walcherstraße"
-housenumber: 11
-phone: "+43 1 2120587"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Walcherstraße
+housenumber: "11"
+phone: +43 1 2120587
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su off; PH off
+website: https://www.billa.at/

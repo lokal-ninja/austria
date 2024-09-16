@@ -4,8 +4,8 @@ latitude: 46.64015
 longitude: 14.3143
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "St. Veiter Straße"
-housenumber: 138
-phone: "0463/41256"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00"
-website: "https://www.schaefer-service.at/"
+street: St. Veiter Straße
+housenumber: "138"
+phone: 0463/41256
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00
+website: https://www.schaefer-service.at/

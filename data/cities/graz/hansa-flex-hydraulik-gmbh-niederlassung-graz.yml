@@ -1,11 +1,11 @@
 id: 1105473171
-type: way
+type: node
 latitude: 47.01965
 longitude: 15.4102
 postcode: "8055"
 city: Graz
-street: "Robert-Viertl-Straße"
-housenumber: 5
-phone: "+43 664 1207179"
+street: Robert-Viertl-Straße
+housenumber: "5"
+phone: +43 664 1207179
 opening_hours: ""
-website: "https://www.hansa-flex.at/niederlassungen/inland/land/at/ort/graz/betrieb/agr.html"
+website: https://www.hansa-flex.at/niederlassungen/inland/land/at/ort/graz/betrieb/agr.html

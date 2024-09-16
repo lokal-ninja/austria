@@ -4,8 +4,9 @@ latitude: 48.10598
 longitude: 16.28484
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Leopold-Gattringer-Straße"
-housenumber: 10
-phone: "+43 2236 312 350"
-opening_hours: "Mo off; Tu 08:30-18:00; We 08:30-18:00; Th 08:30-19:00; Fr 08:30-19:00; Sa 08:00-13:00"
-website: "www.haarpr8.at"
+street: Leopold-Gattringer-Straße
+housenumber: "10"
+phone: +43 2236 312 350
+opening_hours: Mo off; Tu 08:30-18:00; We 08:30-18:00; Th 08:30-19:00; Fr 08:30-19:00;
+    Sa 08:00-13:00
+website: www.haarpr8.at

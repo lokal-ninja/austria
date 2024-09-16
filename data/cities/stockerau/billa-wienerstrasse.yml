@@ -1,11 +1,11 @@
 id: 23221787
-type: way
+type: node
 latitude: 48.38453
 longitude: 16.23698
 postcode: "2000"
 city: Stockerau
-street: "Wienerstraße"
-housenumber: 38
+street: Wienerstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.billa.at

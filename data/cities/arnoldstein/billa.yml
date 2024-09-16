@@ -1,11 +1,11 @@
 id: 286633207
-type: way
+type: node
 latitude: 46.54988
 longitude: 13.69794
 postcode: "9601"
 city: Arnoldstein
-street: "Kärntner Straße"
-housenumber: 71
+street: Kärntner Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

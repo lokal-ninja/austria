@@ -4,8 +4,8 @@ latitude: 48.22369
 longitude: 16.38313
 postcode: "1020"
 city: Wien
-street: "Taborstraße"
-housenumber: 70
-phone: "+43 01/216 89 93"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
+street: Taborstraße
+housenumber: "70"
+phone: +43 01/216 89 93
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.19862
 longitude: 16.39995
 postcode: "1030"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 80
+street: Erdbergstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.ibostyle.at"
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.ibostyle.at

@@ -4,8 +4,8 @@ latitude: 47.06262
 longitude: 15.09363
 postcode: "8580"
 city: Köflach
-street: "Mühlgasse"
-housenumber: 20
-phone: "+43 3144 72295"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+street: Mühlgasse
+housenumber: "20"
+phone: +43 3144 72295
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bipa.at/

@@ -1,11 +1,11 @@
 id: 183872646
-type: way
+type: node
 latitude: 46.64071
 longitude: 14.29246
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Mantschehofgasse"
-housenumber: 1
+street: Mantschehofgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

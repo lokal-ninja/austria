@@ -4,8 +4,8 @@ latitude: 47.07071
 longitude: 15.40296
 postcode: "8020"
 city: Graz
-street: "Eggenberger Allee"
-housenumber: 36
-phone: "+43 316 58 61 25 30"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-13:00; Su 07:00-12:00"
-website: "https://sorgerbrot.at/"
+street: Eggenberger Allee
+housenumber: "36"
+phone: +43 316 58 61 25 30
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-13:00; Su 07:00-12:00
+website: https://sorgerbrot.at/

@@ -4,8 +4,8 @@ latitude: 48.21144
 longitude: 16.39043
 postcode: "1030"
 city: Wien
-street: "Radetzkystraße"
-housenumber: 21
-phone: "+43 1 29 30 028"
-opening_hours: "Mo-Fr 09:00-19:00, Fr 09:00-18:00"
-website: "https://www.prestigehaarstudio.at/"
+street: Radetzkystraße
+housenumber: "21"
+phone: +43 1 29 30 028
+opening_hours: Mo-Fr 09:00-19:00, Fr 09:00-18:00
+website: https://www.prestigehaarstudio.at/

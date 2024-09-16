@@ -1,11 +1,11 @@
 id: 89573760
-type: way
+type: node
 latitude: 47.06271
 longitude: 15.451
 postcode: "8010"
 city: Graz
-street: "Münzgrabenstraße"
-housenumber: 52
+street: Münzgrabenstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Tu-Th 08:30-17:30; Fr 08:30-18:00; Sa 08:00-12:00"
+opening_hours: Tu-Th 08:30-17:30; Fr 08:30-18:00; Sa 08:00-12:00
 website: ""

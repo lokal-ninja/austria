@@ -1,11 +1,11 @@
 id: 1300180137
-type: way
+type: node
 latitude: 47.88645
 longitude: 14.55307
 postcode: "4463"
 city: Großraming
-street: "Fuchsbergstraße"
+street: Fuchsbergstraße
 housenumber: 2a
-phone: "+43 7254 8221"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-13:00"
-website: "https://www.nahundfrisch.at/de/kaufmann/mandl_fleischhauerei_gmbh"
+phone: +43 7254 8221
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-13:00
+website: https://www.nahundfrisch.at/de/kaufmann/mandl_fleischhauerei_gmbh

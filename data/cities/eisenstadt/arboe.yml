@@ -1,11 +1,11 @@
 id: 324619246
-type: way
+type: node
 latitude: 47.82831
 longitude: 16.525
 postcode: "7000"
 city: Eisenstadt
-street: "Siegfried Markus Gasse"
-housenumber: 4
+street: Siegfried Markus Gasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.arboe.at/home"
+website: https://www.arboe.at/home

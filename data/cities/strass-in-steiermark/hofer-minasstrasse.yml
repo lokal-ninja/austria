@@ -1,11 +1,11 @@
 id: 798815722
-type: way
+type: node
 latitude: 46.73873
 longitude: 15.60424
 postcode: "8472"
 city: Straß in Steiermark
-street: "Minasstraße"
-housenumber: 1
+street: Minasstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:40-19:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-19:00; Sa 07:40-18:00
 website: ""

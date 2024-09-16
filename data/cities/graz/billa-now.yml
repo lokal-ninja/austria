@@ -1,11 +1,11 @@
 id: 87936628
-type: way
+type: node
 latitude: 47.05596
 longitude: 15.44849
 postcode: "8010"
 city: Graz
-street: "Fröhlichgasse"
-housenumber: 45
+street: Fröhlichgasse
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

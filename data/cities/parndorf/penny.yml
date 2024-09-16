@@ -1,11 +1,11 @@
 id: 238024720
-type: way
+type: node
 latitude: 47.99402
 longitude: 16.85774
 postcode: "7111"
 city: Parndorf
-street: "Bruckerstraße"
-housenumber: 2
+street: Bruckerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

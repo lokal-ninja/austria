@@ -4,8 +4,8 @@ latitude: 47.2683
 longitude: 11.39209
 postcode: "6020"
 city: Innsbruck
-street: "Innrain"
-housenumber: 1
-phone: "+43 512 575545"
-opening_hours: "Mo-Sa 11:00-22:00; PH,Su 16:00-22:00"
-website: "https://www.invinum.com/"
+street: Innrain
+housenumber: "1"
+phone: +43 512 575545
+opening_hours: Mo-Sa 11:00-22:00; PH,Su 16:00-22:00
+website: https://www.invinum.com/

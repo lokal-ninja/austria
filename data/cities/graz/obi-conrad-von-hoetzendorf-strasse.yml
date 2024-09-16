@@ -1,11 +1,11 @@
 id: 87936622
-type: way
+type: node
 latitude: 47.0541
 longitude: 15.44967
 postcode: "8010"
 city: Graz
-street: "Conrad-von-Hötzendorf-Straße"
+street: Conrad-von-Hötzendorf-Straße
 housenumber: 103a
-phone: "+43316 461562"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
-website: "https://www.obi.at/"
+phone: +43316 461562
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00
+website: https://www.obi.at/

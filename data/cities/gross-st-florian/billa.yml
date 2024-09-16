@@ -1,11 +1,11 @@
 id: 356527466
-type: way
+type: node
 latitude: 46.82388
 longitude: 15.31191
 postcode: "8522"
 city: Groß St. Florian
-street: "Florianiring"
-housenumber: 1
-phone: "+43 3464 8727"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+street: Florianiring
+housenumber: "1"
+phone: +43 3464 8727
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

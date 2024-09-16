@@ -1,11 +1,11 @@
 id: 187066866
-type: way
+type: node
 latitude: 47.0709
 longitude: 15.42949
 postcode: "8020"
 city: Graz
-street: "Annenstraße"
-housenumber: 17
+street: Annenstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

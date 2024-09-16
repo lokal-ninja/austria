@@ -1,11 +1,11 @@
 id: 121925105
-type: way
+type: node
 latitude: 48.12428
 longitude: 16.29184
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Mühlgasse"
-housenumber: 93
+street: Mühlgasse
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

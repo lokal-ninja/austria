@@ -4,8 +4,8 @@ latitude: 48.20173
 longitude: 16.34355
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 23
+street: Westbahnstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00"
-website: "https://www.unitedcamera.at/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-17:00
+website: https://www.unitedcamera.at/

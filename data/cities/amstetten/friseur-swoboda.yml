@@ -5,7 +5,8 @@ longitude: 14.87784
 postcode: "3300"
 city: Amstetten
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Sa 07:30-12:00; PH,Su,Mo off; Tu,We 08:00-17:00; Th 08:00-12:00; Fr 08:00-18:00"
+opening_hours: Sa 07:30-12:00; PH,Su,Mo off; Tu,We 08:00-17:00; Th 08:00-12:00; Fr
+    08:00-18:00
 website: ""

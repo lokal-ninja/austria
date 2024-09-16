@@ -1,11 +1,11 @@
 id: 199531041
-type: way
+type: node
 latitude: 48.5675
 longitude: 16.57343
 postcode: "2130"
 city: Mistelbach
-street: "Oserstraße"
-housenumber: 4
+street: Oserstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

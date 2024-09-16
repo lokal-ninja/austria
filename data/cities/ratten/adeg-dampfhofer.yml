@@ -1,11 +1,11 @@
 id: 91233053
-type: way
+type: node
 latitude: 47.48307
 longitude: 15.71998
 postcode: "8673"
 city: Ratten
 street: ""
-housenumber: 84
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

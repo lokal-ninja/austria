@@ -1,11 +1,11 @@
 id: 618984097
-type: way
+type: node
 latitude: 47.13187
 longitude: 13.80386
 postcode: "5580"
 city: Tamsweg
-street: "Florianistraße"
-housenumber: 7
+street: Florianistraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
 website: ""

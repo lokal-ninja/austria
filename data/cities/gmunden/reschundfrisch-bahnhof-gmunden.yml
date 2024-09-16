@@ -4,8 +4,8 @@ latitude: 47.9257
 longitude: 13.78378
 postcode: "4810"
 city: Gmunden
-street: "Bahnhofstraße"
-housenumber: 64
-phone: "+43 7612 63082"
-opening_hours: "Mo-Fr 06:00-13:00"
-website: "https://www.resch-frisch.com"
+street: Bahnhofstraße
+housenumber: "64"
+phone: +43 7612 63082
+opening_hours: Mo-Fr 06:00-13:00
+website: https://www.resch-frisch.com

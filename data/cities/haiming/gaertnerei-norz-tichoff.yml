@@ -1,11 +1,11 @@
 id: 149025971
-type: way
+type: node
 latitude: 47.24264
 longitude: 10.87668
 postcode: "6430"
 city: Haiming
-street: "Wiesrainstraße"
-housenumber: 19
+street: Wiesrainstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

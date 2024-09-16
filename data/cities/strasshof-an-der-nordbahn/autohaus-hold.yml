@@ -1,11 +1,11 @@
 id: 501387133
-type: way
+type: node
 latitude: 48.31631
 longitude: 16.63817
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Hauptstraße"
-housenumber: 168
+street: Hauptstraße
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

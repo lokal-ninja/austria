@@ -5,7 +5,7 @@ longitude: 14.96082
 postcode: "3304"
 city: St. Georgen am Ybbsfelde
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://www.pr-performance.at/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://www.pr-performance.at/

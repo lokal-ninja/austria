@@ -7,5 +7,5 @@ city: Innsbruck
 street: ""
 housenumber: 58;59;60
 phone: ""
-opening_hours: "Mo-Th 08:00-12:30,13:30-18:00; Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://vespa-kroneder.at/"
+opening_hours: Mo-Th 08:00-12:30,13:30-18:00; Fr 09:00-17:00; Sa 09:00-12:00
+website: https://vespa-kroneder.at/

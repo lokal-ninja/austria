@@ -1,11 +1,11 @@
 id: 146898642
-type: way
+type: node
 latitude: 46.7169
 longitude: 14.08739
 postcode: "9560"
 city: Unterrain
-street: "Unterrain"
-housenumber: 20
+street: Unterrain
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

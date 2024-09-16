@@ -4,8 +4,8 @@ latitude: 47.41083
 longitude: 9.75019
 postcode: "6850"
 city: Dornbirn
-street: "Bergstraße"
-housenumber: 4
+street: Bergstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-15:00"
-website: "https://www.haarstudio.at/"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-15:00
+website: https://www.haarstudio.at/

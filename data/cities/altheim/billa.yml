@@ -1,11 +1,11 @@
 id: 163935637
-type: way
+type: node
 latitude: 48.25066
 longitude: 13.23514
 postcode: "4950"
 city: Altheim
-street: "Linzer Straße"
-housenumber: 8
+street: Linzer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
+website: https://www.billa.at/

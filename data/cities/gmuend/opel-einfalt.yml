@@ -1,11 +1,11 @@
 id: 534078029
-type: way
+type: node
 latitude: 48.76935
 longitude: 14.99924
 postcode: "3950"
 city: Gmünd
-street: "Schremser Straße"
+street: Schremser Straße
 housenumber: 52a
-phone: "+43 2852 52804"
-opening_hours: "Mo-Th 07:30-12:15,13:00-16:45; Fr 07:30-12:00,13:00-15:00"
+phone: +43 2852 52804
+opening_hours: Mo-Th 07:30-12:15,13:00-16:45; Fr 07:30-12:00,13:00-15:00
 website: ""

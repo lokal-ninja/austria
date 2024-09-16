@@ -4,8 +4,8 @@ latitude: 47.30665
 longitude: 11.07171
 postcode: "6410"
 city: Telfs
-street: "Untermarktstraße"
-housenumber: 1
+street: Untermarktstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-14:00; Su,PH 07:00-17:00"
-website: "https://www.ruetz.at/baeckereien/standorte/telfs_tirol"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-14:00; Su,PH 07:00-17:00
+website: https://www.ruetz.at/baeckereien/standorte/telfs_tirol

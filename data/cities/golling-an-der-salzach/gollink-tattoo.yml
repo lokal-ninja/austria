@@ -5,7 +5,7 @@ longitude: 13.18771
 postcode: "5440"
 city: Golling an der Salzach
 street: ""
-housenumber: 195
-phone: "+43 664 3893345"
-opening_hours: "Mo-Fr 16:00-19:00"
-website: "http://www.gollink.at"
+housenumber: "195"
+phone: +43 664 3893345
+opening_hours: Mo-Fr 16:00-19:00
+website: http://www.gollink.at

@@ -1,11 +1,11 @@
 id: 122700812
-type: way
+type: node
 latitude: 47.89019
 longitude: 14.12751
 postcode: "4563"
 city: Micheldorf in Oberösterreich
-street: "Kollingerfeld"
-housenumber: 5
-phone: "+43 57030 / 30030"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.hofer.at/"
+street: Kollingerfeld
+housenumber: "5"
+phone: +43 57030 / 30030
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.hofer.at/

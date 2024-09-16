@@ -1,11 +1,11 @@
 id: 180306018
-type: way
+type: node
 latitude: 46.81754
 longitude: 14.83609
 postcode: "9400"
 city: Wolfsberg
-street: "Walter-Grohs-Straße"
-housenumber: 2
-phone: "+43 4352 2316"
+street: Walter-Grohs-Straße
+housenumber: "2"
+phone: +43 4352 2316
 opening_hours: ""
-website: "https://www.auto-grohs.at/"
+website: https://www.auto-grohs.at/

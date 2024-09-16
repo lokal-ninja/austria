@@ -4,8 +4,8 @@ latitude: 47.79623
 longitude: 13.03011
 postcode: "5020"
 city: Salzburg
-street: "Moosstraße"
-housenumber: 10
+street: Moosstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
 website: ""

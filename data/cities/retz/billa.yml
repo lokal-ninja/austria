@@ -1,11 +1,11 @@
 id: 164616363
-type: way
+type: node
 latitude: 48.75617
 longitude: 15.95649
 postcode: "2070"
 city: Retz
-street: "Karl König-Platz"
-housenumber: 3
+street: Karl König-Platz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

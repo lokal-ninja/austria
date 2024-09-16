@@ -1,11 +1,11 @@
 id: 180482462
-type: way
+type: node
 latitude: 48.00077
 longitude: 16.86234
 postcode: "7111"
 city: Parndorf
-street: "Hauptstraße"
-housenumber: 134
+street: Hauptstraße
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

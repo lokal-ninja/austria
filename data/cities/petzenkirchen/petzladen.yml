@@ -1,11 +1,11 @@
 id: 557024728
-type: way
+type: node
 latitude: 48.14349
 longitude: 15.15282
 postcode: "3252"
 city: Petzenkirchen
-street: "Bergmann-Platz"
-housenumber: 1
+street: Bergmann-Platz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

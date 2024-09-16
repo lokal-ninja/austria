@@ -1,11 +1,11 @@
 id: 168290154
-type: way
+type: node
 latitude: 48.21687
 longitude: 16.48271
 postcode: "1220"
 city: Wien
-street: "Biberhaufenweg"
-housenumber: 2
+street: Biberhaufenweg
+housenumber: "2"
 phone: "+436609937015"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-15:00
 website: ""

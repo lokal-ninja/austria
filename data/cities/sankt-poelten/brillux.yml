@@ -1,11 +1,11 @@
 id: 1046612994
-type: way
+type: node
 latitude: 48.22601
 longitude: 15.67881
 postcode: "3100"
 city: Sankt Pölten
-street: "Mostviertelstraße"
-housenumber: 12
+street: Mostviertelstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

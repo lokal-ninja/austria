@@ -1,11 +1,11 @@
 id: 185569563
-type: way
+type: node
 latitude: 47.30846
 longitude: 11.06764
 postcode: "6410"
 city: Telfs
-street: "Obermarktstraße"
-housenumber: 44
+street: Obermarktstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.haas-baustoffe.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.haas-baustoffe.at/

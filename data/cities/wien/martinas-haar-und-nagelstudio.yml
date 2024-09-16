@@ -4,8 +4,8 @@ latitude: 48.13638
 longitude: 16.27838
 postcode: "1230"
 city: Wien
-street: "Lehmanngasse"
-housenumber: 23
-phone: "+43 1 865 89 10"
-opening_hours: "Tu-Fr 07:00-16:30; Sa 07:00-11:30"
-website: "https://www.martinas-studio.at"
+street: Lehmanngasse
+housenumber: "23"
+phone: +43 1 865 89 10
+opening_hours: Tu-Fr 07:00-16:30; Sa 07:00-11:30
+website: https://www.martinas-studio.at

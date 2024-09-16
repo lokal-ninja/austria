@@ -1,11 +1,11 @@
 id: 235778717
-type: way
+type: node
 latitude: 47.80542
 longitude: 16.17052
 postcode: "2722"
 city: Weikersdorf am Steinfelde
-street: "Technologiestraße"
-housenumber: 3
-phone: "+43 2622 20809"
-opening_hours: "Mo-Th 07:00-12:00, 13:00-17:00, Fr 07:00-13:00; PH off"
-website: "https://www.kfz-spiess.at/"
+street: Technologiestraße
+housenumber: "3"
+phone: +43 2622 20809
+opening_hours: Mo-Th 07:00-12:00, 13:00-17:00, Fr 07:00-13:00; PH off
+website: https://www.kfz-spiess.at/

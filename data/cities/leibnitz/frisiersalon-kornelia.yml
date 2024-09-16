@@ -1,11 +1,11 @@
 id: 151505932
-type: way
+type: node
 latitude: 46.7813
 longitude: 15.5373
 postcode: "8430"
 city: Leibnitz
-street: "Hauptplatz"
-housenumber: 32
+street: Hauptplatz
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 49183342
-type: way
+type: node
 latitude: 48.25741
 longitude: 16.06971
 postcode: "3004"
 city: Ried am Riederberg
-street: "Linzer Straße"
-housenumber: 12
+street: Linzer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://brandsteidl.com"
+website: https://brandsteidl.com

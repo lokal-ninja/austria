@@ -1,11 +1,11 @@
 id: 91750456
-type: way
+type: node
 latitude: 48.22353
 longitude: 14.23401
 postcode: "4050"
 city: Traun
-street: "Georg Grinninger-Straße"
-housenumber: 31
+street: Georg Grinninger-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

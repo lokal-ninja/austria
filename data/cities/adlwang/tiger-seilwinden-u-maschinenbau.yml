@@ -1,11 +1,11 @@
 id: 119082357
-type: way
+type: node
 latitude: 47.98895
 longitude: 14.22045
 postcode: "4541"
 city: Adlwang
-street: "Nußbacher Straße"
-housenumber: 23
-phone: "+43 7258 3901"
+street: Nußbacher Straße
+housenumber: "23"
+phone: +43 7258 3901
 opening_hours: ""
-website: "http://www.tiger-seilwinden.at"
+website: http://www.tiger-seilwinden.at

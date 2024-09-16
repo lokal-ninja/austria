@@ -1,11 +1,11 @@
 id: 1269090522
-type: way
+type: node
 latitude: 48.10652
 longitude: 14.8332
 postcode: "3300"
 city: Amstetten
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:00; Sa 06:00-!8:00; Su 08:00-20:00"
-website: "https://www.inthebox21.at/karte/"
+opening_hours: Mo-Fr 05:00-21:00; Sa 06:00-!8:00; Su 08:00-20:00
+website: https://www.inthebox21.at/karte/

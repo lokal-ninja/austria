@@ -1,11 +1,11 @@
 id: 120648190
-type: way
+type: node
 latitude: 47.45911
 longitude: 16.20107
 postcode: "2852"
 city: Hochneukirchen-Gschaidt
-street: "Hauptstraße"
-housenumber: 19
+street: Hauptstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

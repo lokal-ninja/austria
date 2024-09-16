@@ -1,11 +1,11 @@
 id: 405062313
-type: way
+type: node
 latitude: 48.14818
 longitude: 16.33766
 postcode: "1230"
 city: Wien
-street: "Klingerstraße"
-housenumber: 6
+street: Klingerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.waschek-gartentechnik.at/"
+website: https://www.waschek-gartentechnik.at/

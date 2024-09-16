@@ -1,11 +1,11 @@
 id: 481409398
-type: way
+type: node
 latitude: 48.01465
 longitude: 16.25824
 postcode: "2511"
 city: Pfaffstätten
-street: "Grenzgasse"
-housenumber: 4
+street: Grenzgasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

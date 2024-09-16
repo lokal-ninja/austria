@@ -1,11 +1,11 @@
 id: 211233520
-type: way
+type: node
 latitude: 46.73808
 longitude: 14.28613
 postcode: "9556"
 city: Liebenfels
-street: "Feldkirchner Straße"
-housenumber: 4
+street: Feldkirchner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

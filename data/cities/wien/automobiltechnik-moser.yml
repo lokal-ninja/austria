@@ -4,8 +4,8 @@ latitude: 48.21781
 longitude: 16.33838
 postcode: "1170"
 city: Wien
-street: "Jörgerstraße"
-housenumber: 22
+street: Jörgerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Th 07:45-12:00,12:45-17:00; Fr 07:45-12:15"
-website: "http://www.moser-tuning.at/"
+opening_hours: Mo-Th 07:45-12:00,12:45-17:00; Fr 07:45-12:15
+website: http://www.moser-tuning.at/

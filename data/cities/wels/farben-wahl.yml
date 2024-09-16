@@ -4,8 +4,8 @@ latitude: 48.18136
 longitude: 14.01061
 postcode: "4600"
 city: Wels
-street: "Oberfeldstraße"
-housenumber: 81
-phone: "+43-7242-224224"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-17:00"
-website: "https://farbenwahl.at/firmenzentrale/filiale-wels/"
+street: Oberfeldstraße
+housenumber: "81"
+phone: +43-7242-224224
+opening_hours: Mo-Fr 07:00-12:00, 13:00-17:00
+website: https://farbenwahl.at/firmenzentrale/filiale-wels/

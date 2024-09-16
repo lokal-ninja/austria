@@ -1,11 +1,11 @@
 id: 129092275
-type: way
+type: node
 latitude: 47.06903
 longitude: 15.40474
 postcode: "8020"
 city: Graz
-street: "Eckertstraße"
-housenumber: 54
+street: Eckertstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.hofer.at

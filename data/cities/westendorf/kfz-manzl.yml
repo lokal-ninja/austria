@@ -1,11 +1,11 @@
 id: 304350824
-type: way
+type: node
 latitude: 47.43504
 longitude: 12.21197
 postcode: "6363"
 city: Westendorf
-street: "Mühltal"
-housenumber: 31
+street: Mühltal
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

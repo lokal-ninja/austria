@@ -4,8 +4,8 @@ latitude: 48.22345
 longitude: 16.40029
 postcode: "1020"
 city: Wien
-street: "Lassallestraße"
-housenumber: 11
+street: Lassallestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 14:00-20:00"
+opening_hours: Mo-Fr 08:00-22:00; Sa 14:00-20:00
 website: ""

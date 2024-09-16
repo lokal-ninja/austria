@@ -4,8 +4,8 @@ latitude: 47.0719
 longitude: 15.40239
 postcode: "8020"
 city: Graz
-street: "Karl-Morre-Straße"
-housenumber: 9
-phone: "+43 316 58 580"
-opening_hours: "Mo,Tu,We,Fr 09:00-13:00; Th 14:00-18:00; Sa 09:00-12:00"
-website: "https://vinzi.at/de/vinzimarkt-graz/"
+street: Karl-Morre-Straße
+housenumber: "9"
+phone: +43 316 58 580
+opening_hours: Mo,Tu,We,Fr 09:00-13:00; Th 14:00-18:00; Sa 09:00-12:00
+website: https://vinzi.at/de/vinzimarkt-graz/

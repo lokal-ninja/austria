@@ -1,11 +1,11 @@
 id: 32005430
-type: way
+type: node
 latitude: 48.30194
 longitude: 16.42487
 postcode: "1210"
 city: Wien
-street: "Ebereschengasse"
-housenumber: 3
+street: Ebereschengasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 449746924
-type: way
+type: node
 latitude: 46.89404
 longitude: 16.03654
 postcode: "8385"
 city: Mühlgraben
-street: "Grenzweg"
-housenumber: 1
+street: Grenzweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

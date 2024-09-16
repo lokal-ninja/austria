@@ -1,11 +1,11 @@
 id: 215434175
-type: way
+type: node
 latitude: 46.72606
 longitude: 15.62812
 postcode: "8472"
 city: Straß in Steiermark
-street: "Hauptstraße"
-housenumber: 62
+street: Hauptstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

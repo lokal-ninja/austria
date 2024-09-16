@@ -1,11 +1,11 @@
 id: 188924428
-type: way
+type: node
 latitude: 47.18302
 longitude: 14.67974
 postcode: "8753"
 city: Hetzendorf
-street: "Bundesstraße"
-housenumber: 7
+street: Bundesstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://huber-auto.at/"
+website: https://huber-auto.at/

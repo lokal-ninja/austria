@@ -4,8 +4,8 @@ latitude: 48.19974
 longitude: 16.3507
 postcode: "1070"
 city: Wien
-street: "Zollergasse"
-housenumber: 15
+street: Zollergasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://useabrand.com/"
+website: http://useabrand.com/

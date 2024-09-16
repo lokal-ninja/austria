@@ -4,8 +4,8 @@ latitude: 48.14415
 longitude: 16.29289
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 276
-phone: "+43 1 8692659"
-opening_hours: "Mo-Fr 15:00-18:00; We off"
-website: "http://www.farbglas.at"
+street: Breitenfurter Straße
+housenumber: "276"
+phone: +43 1 8692659
+opening_hours: Mo-Fr 15:00-18:00; We off
+website: http://www.farbglas.at

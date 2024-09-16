@@ -1,11 +1,11 @@
 id: 224554654
-type: way
+type: node
 latitude: 47.37753
 longitude: 14.96845
 postcode: "8772"
 city: Traboch
-street: "Hauptstraße"
-housenumber: 39
-phone: "+43 3833 8244-4"
-opening_hours: "Mo-Fr 06:30-12:00,15:00-18:00; Sa 06:30-12:00; PH off"
-website: "https://www.adeg.at/services/maerkte-oeffnungszeiten/adeg-sattler"
+street: Hauptstraße
+housenumber: "39"
+phone: +43 3833 8244-4
+opening_hours: Mo-Fr 06:30-12:00,15:00-18:00; Sa 06:30-12:00; PH off
+website: https://www.adeg.at/services/maerkte-oeffnungszeiten/adeg-sattler

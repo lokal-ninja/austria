@@ -1,11 +1,11 @@
 id: 92231663
-type: way
+type: node
 latitude: 47.56691
 longitude: 14.24364
 postcode: "8940"
 city: Liezen
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 17a
-phone: "+43-3612-24760"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://gea-waldviertler.de/laeden/gea-liezen/"
+phone: +43-3612-24760
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://gea-waldviertler.de/laeden/gea-liezen/

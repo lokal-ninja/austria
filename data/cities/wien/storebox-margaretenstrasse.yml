@@ -4,8 +4,8 @@ latitude: 48.19098
 longitude: 16.35807
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 81
+street: Margaretenstraße
+housenumber: "81"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

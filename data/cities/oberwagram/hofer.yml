@@ -1,11 +1,11 @@
 id: 221320732
-type: way
+type: node
 latitude: 48.19734
 longitude: 15.64044
 postcode: "3100"
 city: Oberwagram
-street: "Stattersdorfer Hauptstraße"
-housenumber: 42
+street: Stattersdorfer Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

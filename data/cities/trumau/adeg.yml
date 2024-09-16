@@ -1,11 +1,11 @@
 id: 102948371
-type: way
+type: node
 latitude: 47.99455
 longitude: 16.34057
 postcode: "2521"
 city: Trumau
-street: "Schloßgasse"
-housenumber: 2
+street: Schloßgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; PH off"
-website: "https://www.adeg.at/services/maerkte-oeffnungszeiten/adeg-szabo"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; PH off
+website: https://www.adeg.at/services/maerkte-oeffnungszeiten/adeg-szabo

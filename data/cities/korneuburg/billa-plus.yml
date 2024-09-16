@@ -4,8 +4,8 @@ latitude: 48.34007
 longitude: 16.3366
 postcode: "2100"
 city: Korneuburg
-street: "Jahnstraße"
-housenumber: 2
+street: Jahnstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
 website: ""

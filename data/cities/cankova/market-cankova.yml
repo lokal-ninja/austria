@@ -1,11 +1,11 @@
 id: 256186901
-type: way
+type: node
 latitude: 46.71827
 longitude: 16.02009
 postcode: "9261"
 city: Cankova
-street: "Cankova"
+street: Cankova
 housenumber: 23A
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00; Su 07:30-11:30"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-13:00; Su 07:30-11:30
 website: ""

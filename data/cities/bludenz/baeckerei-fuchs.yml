@@ -4,8 +4,8 @@ latitude: 47.15613
 longitude: 9.81924
 postcode: "6700"
 city: Bludenz
-street: "Sturnengasse"
-housenumber: 2
+street: Sturnengasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-13:00
 website: ""

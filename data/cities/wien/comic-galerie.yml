@@ -4,8 +4,8 @@ latitude: 48.20993
 longitude: 16.34408
 postcode: "1080"
 city: Wien
-street: "Albertgasse"
-housenumber: 24
-phone: "+43 676 509 55 11"
-opening_hours: "Tu, Th, Fr 11:00-19:00"
-website: "https://comic-galerie.at/"
+street: Albertgasse
+housenumber: "24"
+phone: +43 676 509 55 11
+opening_hours: Tu, Th, Fr 11:00-19:00
+website: https://comic-galerie.at/

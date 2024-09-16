@@ -4,8 +4,8 @@ latitude: 48.21354
 longitude: 16.35271
 postcode: "1080"
 city: Wien
-street: "Laudongasse"
-housenumber: 4
-phone: "+43 1 407 03 93"
-opening_hours: "Tu 15:00-18:00, Th 10:00-12:30, Fr 13:00-16:00; PH off, Mo-Fr 09:00-14:00"
-website: "https://www.kosmetikmacherei.at/"
+street: Laudongasse
+housenumber: "4"
+phone: +43 1 407 03 93
+opening_hours: Tu 15:00-18:00, Th 10:00-12:30, Fr 13:00-16:00; PH off, Mo-Fr 09:00-14:00
+website: https://www.kosmetikmacherei.at/

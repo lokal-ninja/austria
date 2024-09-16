@@ -4,8 +4,8 @@ latitude: 48.18335
 longitude: 16.34174
 postcode: "1120"
 city: Wien
-street: "Wolfganggasse"
-housenumber: 18
+street: Wolfganggasse
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.optik-erba.at/kontakt.html"
+website: https://www.optik-erba.at/kontakt.html

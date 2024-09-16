@@ -1,11 +1,11 @@
 id: 1088389392
-type: way
+type: node
 latitude: 46.83003
 longitude: 15.24227
 postcode: "8523"
 city: Frauental an der Laßnitz
-street: "Gewerbestraße"
-housenumber: 1
-phone: "+43 5 01232602"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa-Su,PH off"
-website: "https://www.arboe.at"
+street: Gewerbestraße
+housenumber: "1"
+phone: +43 5 01232602
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa-Su,PH off
+website: https://www.arboe.at

@@ -1,11 +1,11 @@
 id: 250290586
-type: way
+type: node
 latitude: 48.40478
 longitude: 14.83594
 postcode: "4280"
 city: Königswiesen
-street: "Sportplatzstraße"
-housenumber: 3
+street: Sportplatzstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.42446
 longitude: 9.76203
 postcode: "6850"
 city: Dornbirn
-street: "Stüben"
-housenumber: 6
+street: Stüben
+housenumber: "6"
 phone: "+4369910200992"
-opening_hours: "Mo-Th 07:30-10:00, 10:15-12:00, 13:00-15:00, 15:15-16:30"
-website: "https://www.hinterauer.info/"
+opening_hours: Mo-Th 07:30-10:00, 10:15-12:00, 13:00-15:00, 15:15-16:30
+website: https://www.hinterauer.info/

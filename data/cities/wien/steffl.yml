@@ -4,8 +4,8 @@ latitude: 48.20632
 longitude: 16.37254
 postcode: "1010"
 city: Wien
-street: "Rauhensteingasse"
-housenumber: 8
+street: Rauhensteingasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
 website: ""

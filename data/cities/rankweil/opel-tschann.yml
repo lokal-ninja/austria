@@ -1,11 +1,11 @@
 id: 359839841
-type: way
+type: node
 latitude: 47.2722
 longitude: 9.64807
 postcode: "6830"
 city: Rankweil
-street: "Alemannenstraße"
-housenumber: 4
+street: Alemannenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

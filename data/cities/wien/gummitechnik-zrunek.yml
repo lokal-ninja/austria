@@ -4,8 +4,8 @@ latitude: 48.24059
 longitude: 16.34068
 postcode: "1190"
 city: Wien
-street: "Obkirchergasse"
-housenumber: 3
-phone: "+43 1 3691639-0"
-opening_hours: "Mo-Th 08:00-12:00,13:00-16:00; Fr 08:00-12:00"
+street: Obkirchergasse
+housenumber: "3"
+phone: +43 1 3691639-0
+opening_hours: Mo-Th 08:00-12:00,13:00-16:00; Fr 08:00-12:00
 website: ""

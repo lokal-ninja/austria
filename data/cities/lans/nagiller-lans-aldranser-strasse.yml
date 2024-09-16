@@ -4,8 +4,8 @@ latitude: 47.23901
 longitude: 11.4347
 postcode: "6072"
 city: Lans
-street: "Aldranser Straße"
-housenumber: 2
+street: Aldranser Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:15-17:30; Sa 10:00-12:00"
-website: "https://www.skoda-nagiller.at"
+opening_hours: Mo-Fr 08:00-12:00,13:15-17:30; Sa 10:00-12:00
+website: https://www.skoda-nagiller.at

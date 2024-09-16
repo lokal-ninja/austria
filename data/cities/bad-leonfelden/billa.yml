@@ -1,11 +1,11 @@
 id: 126225590
-type: way
+type: node
 latitude: 48.51794
 longitude: 14.29559
 postcode: "4190"
 city: Bad Leonfelden
-street: "Linzer Straße"
-housenumber: 33
+street: Linzer Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

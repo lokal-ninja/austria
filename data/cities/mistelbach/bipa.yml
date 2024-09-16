@@ -4,8 +4,8 @@ latitude: 48.56101
 longitude: 16.57874
 postcode: "2130"
 city: Mistelbach
-street: "Mitschastraße"
-housenumber: 41
-phone: "+43 02572 20358"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off"
-website: "https://www.bipa.at/"
+street: Mitschastraße
+housenumber: "41"
+phone: +43 02572 20358
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off
+website: https://www.bipa.at/

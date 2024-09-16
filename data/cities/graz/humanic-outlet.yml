@@ -4,8 +4,8 @@ latitude: 47.08267
 longitude: 15.41275
 postcode: "8020"
 city: Graz
-street: "Lastenstraße"
-housenumber: 15
+street: Lastenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.25847
 longitude: 11.3957
 postcode: "6020"
 city: Innsbruck
-street: "Franz-Fischer-Straße"
-housenumber: 8
-phone: "+43 50322 926124"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
-website: "https://www.baguette.at/handel/baguette/innsbruck-franz-fischer-strasse-8.html"
+street: Franz-Fischer-Straße
+housenumber: "8"
+phone: +43 50322 926124
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off
+website: https://www.baguette.at/handel/baguette/innsbruck-franz-fischer-strasse-8.html

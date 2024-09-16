@@ -1,11 +1,11 @@
 id: 153918429
-type: way
+type: node
 latitude: 48.19128
 longitude: 16.2833
 postcode: "1130"
 city: Wien
-street: "Hietzinger Kai"
-housenumber: 125
+street: Hietzinger Kai
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.porschehietzing.at"
+website: https://www.porschehietzing.at

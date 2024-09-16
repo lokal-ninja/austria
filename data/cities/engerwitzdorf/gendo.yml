@@ -4,8 +4,8 @@ latitude: 48.34076
 longitude: 14.42488
 postcode: "4209"
 city: Engerwitzdorf
-street: "Gusenbachstraße"
-housenumber: 8
+street: Gusenbachstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00; 13:00-16:30; Fr 08:00-12:00"
-website: "https://www.gendo.at/"
+opening_hours: Mo-Th 08:00-12:00; 13:00-16:30; Fr 08:00-12:00
+website: https://www.gendo.at/

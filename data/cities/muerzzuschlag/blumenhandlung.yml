@@ -1,11 +1,11 @@
 id: 417311454
-type: way
+type: node
 latitude: 47.57969
 longitude: 15.6438
 postcode: "8682"
 city: Mürzzuschlag
-street: "Grazer Straße"
-housenumber: 95
+street: Grazer Straße
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

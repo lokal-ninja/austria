@@ -1,11 +1,11 @@
 id: 172339599
-type: way
+type: node
 latitude: 47.95797
 longitude: 16.30814
 postcode: "2523"
 city: Tattendorf
-street: "Oberwaltersdorfer Straße"
-housenumber: 2
-phone: "+43 2253 81297"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-16:00"
-website: "https://lagerhaus.at/standort/1414"
+street: Oberwaltersdorfer Straße
+housenumber: "2"
+phone: +43 2253 81297
+opening_hours: Mo-Fr 07:00-12:00, 13:00-16:00
+website: https://lagerhaus.at/standort/1414

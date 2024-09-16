@@ -4,8 +4,8 @@ latitude: 47.26698
 longitude: 11.39248
 postcode: "6020"
 city: Innsbruck
-street: "Marktgraben"
-housenumber: 21
-phone: "+43 512 890219"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"
-website: "http://www.wearhouse.at"
+street: Marktgraben
+housenumber: "21"
+phone: +43 512 890219
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off
+website: http://www.wearhouse.at

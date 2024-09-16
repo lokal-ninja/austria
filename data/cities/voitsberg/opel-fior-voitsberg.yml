@@ -4,8 +4,8 @@ latitude: 47.03765
 longitude: 15.16846
 postcode: "8570"
 city: Voitsberg
-street: "Grazer Vorstadt"
-housenumber: 130
+street: Grazer Vorstadt
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:30"
-website: "https://www.opelfior-voitsberg.at/werkstatt-und-zubehoer/opel-werkstatt/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:30
+website: https://www.opelfior-voitsberg.at/werkstatt-und-zubehoer/opel-werkstatt/

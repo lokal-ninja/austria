@@ -4,8 +4,8 @@ latitude: 47.07202
 longitude: 15.44831
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 6
+street: Leonhardstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-We 08:00-12:30,15:00-17:00"
-website: "https://muehlbauer-uhren.at/"
+opening_hours: Tu-We 08:00-12:30,15:00-17:00
+website: https://muehlbauer-uhren.at/

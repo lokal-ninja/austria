@@ -1,11 +1,11 @@
 id: 306234513
-type: way
+type: node
 latitude: 47.36014
 longitude: 9.68133
 postcode: "6845"
 city: Hohenems
-street: "Kaiserin-Elisabeth-Straße"
-housenumber: 29
-phone: "+43 5576 73512"
-opening_hours: "Mo-Fr 6:30-12:00; Sa6:00-12:00"
+street: Kaiserin-Elisabeth-Straße
+housenumber: "29"
+phone: +43 5576 73512
+opening_hours: Mo-Fr 6:30-12:00; Sa6:00-12:00
 website: ""

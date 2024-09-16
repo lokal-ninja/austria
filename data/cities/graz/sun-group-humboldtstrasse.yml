@@ -1,11 +1,11 @@
 id: 217511459
-type: way
+type: node
 latitude: 47.08057
 longitude: 15.44522
 postcode: "8010"
 city: Graz
-street: "Humboldtstraße"
-housenumber: 45
+street: Humboldtstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

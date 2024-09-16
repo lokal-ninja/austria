@@ -1,11 +1,11 @@
 id: 447292335
-type: way
+type: node
 latitude: 47.48164
 longitude: 12.38092
 postcode: "6372"
 city: Oberndorf in Tirol
-street: "Pass-Thurn-Straße"
-housenumber: 20
-phone: "+43 5356 62085"
+street: Pass-Thurn-Straße
+housenumber: "20"
+phone: +43 5356 62085
 opening_hours: ""
-website: "https://www.holz-studio.at/"
+website: https://www.holz-studio.at/

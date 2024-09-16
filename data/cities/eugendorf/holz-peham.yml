@@ -1,11 +1,11 @@
 id: 294950964
-type: way
+type: node
 latitude: 47.85635
 longitude: 13.12133
 postcode: "5301"
 city: Eugendorf
-street: "Strass"
-housenumber: 11
+street: Strass
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

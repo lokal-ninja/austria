@@ -4,8 +4,8 @@ latitude: 47.26124
 longitude: 11.39202
 postcode: "6020"
 city: Innsbruck
-street: "Müllerstraße"
-housenumber: 19
+street: Müllerstraße
+housenumber: "19"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

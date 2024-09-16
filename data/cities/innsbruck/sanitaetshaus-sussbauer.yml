@@ -4,8 +4,8 @@ latitude: 47.26192
 longitude: 11.38435
 postcode: "6020"
 city: Innsbruck
-street: "Innrain"
-housenumber: 55
-phone: "+43 512 575760"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-17:00; Sa 09:00-12:00; PH off"
-website: "https://www.sussbauer.com/betriebssitz-innsbruck-innrain/"
+street: Innrain
+housenumber: "55"
+phone: +43 512 575760
+opening_hours: Mo-Fr 09:00-12:30, 14:00-17:00; Sa 09:00-12:00; PH off
+website: https://www.sussbauer.com/betriebssitz-innsbruck-innrain/

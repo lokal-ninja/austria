@@ -1,11 +1,11 @@
 id: 205404170
-type: way
+type: node
 latitude: 48.26995
 longitude: 14.45262
 postcode: "4222"
 city: St. Georgen an der Gusen
-street: "Mauthausener Straße"
-housenumber: 30
+street: Mauthausener Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

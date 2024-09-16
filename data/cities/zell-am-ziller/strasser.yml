@@ -1,11 +1,11 @@
 id: 106561410
-type: way
+type: node
 latitude: 47.23322
 longitude: 11.88165
 postcode: "6280"
 city: Zell am Ziller
-street: "Gerlosstraße"
-housenumber: 2
+street: Gerlosstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:45-18:30; Sa 06:45-12:30"
+opening_hours: Mo-Fr 06:45-18:30; Sa 06:45-12:30
 website: ""

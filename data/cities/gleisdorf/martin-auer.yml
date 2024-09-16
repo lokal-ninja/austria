@@ -4,8 +4,8 @@ latitude: 47.10587
 longitude: 15.71097
 postcode: "8200"
 city: Gleisdorf
-street: "Hauptplatz"
-housenumber: 9
-phone: "+43 316 8040109"
-opening_hours: "Mo-Fr 06:30-18:30; Sa, Su 07:00-13:00; PH varying"
+street: Hauptplatz
+housenumber: "9"
+phone: +43 316 8040109
+opening_hours: Mo-Fr 06:30-18:30; Sa, Su 07:00-13:00; PH "varying"
 website: ""

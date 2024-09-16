@@ -4,8 +4,8 @@ latitude: 47.07267
 longitude: 15.42042
 postcode: "8020"
 city: Graz
-street: "Baumkircherstraße"
-housenumber: 2
+street: Baumkircherstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
 website: ""

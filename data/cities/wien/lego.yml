@@ -4,8 +4,8 @@ latitude: 48.24156
 longitude: 16.43734
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 81
-phone: "+43 01 8909061"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Wagramer Straße
+housenumber: "81"
+phone: +43 01 8909061
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

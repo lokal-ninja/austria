@@ -1,11 +1,11 @@
 id: 143406390
-type: way
+type: node
 latitude: 47.07081
 longitude: 15.40337
 postcode: "8020"
 city: Graz
-street: "Eggenberger Allee"
-housenumber: 34
+street: Eggenberger Allee
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Su 09:00-24:00"
+opening_hours: Mo-Su 09:00-24:00
 website: ""

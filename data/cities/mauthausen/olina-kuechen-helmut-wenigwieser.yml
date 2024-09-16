@@ -4,8 +4,8 @@ latitude: 48.24385
 longitude: 14.54978
 postcode: "4310"
 city: Mauthausen
-street: "Kaplanstraße"
-housenumber: 1
-phone: "07238 30813"
-opening_hours: "Mo-Fr 9:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr Samstag mit Terminvereinbarung"
-website: "https://www.olina.com/standorte/oberoesterreich/mauthausen"
+street: Kaplanstraße
+housenumber: "1"
+phone: 07238 30813
+opening_hours: Mo-Fr 9:00 bis 12:00 Uhr und 14:00 bis 18:00 Uhr Samstag mit Terminvereinbarung
+website: https://www.olina.com/standorte/oberoesterreich/mauthausen

@@ -4,8 +4,8 @@ latitude: 48.02527
 longitude: 16.77734
 postcode: "2460"
 city: Bruck an der Leitha
-street: "Wiener Gasse"
-housenumber: 6
-phone: "+43 2162 64164"
-opening_hours: "Mo-Sa 07:00-12:00"
+street: Wiener Gasse
+housenumber: "6"
+phone: +43 2162 64164
+opening_hours: Mo-Sa 07:00-12:00
 website: ""

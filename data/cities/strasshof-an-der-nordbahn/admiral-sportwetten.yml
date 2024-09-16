@@ -4,8 +4,8 @@ latitude: 48.3167
 longitude: 16.63445
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Raimundgasse"
-housenumber: 9
-phone: "+43 2287 210 35 11"
-opening_hours: "Mo-Su,PH 07:00-02:00"
-website: "https://admiral.at/"
+street: Raimundgasse
+housenumber: "9"
+phone: +43 2287 210 35 11
+opening_hours: Mo-Su,PH 07:00-02:00
+website: https://admiral.at/

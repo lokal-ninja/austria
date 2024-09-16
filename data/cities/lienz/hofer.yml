@@ -1,11 +1,11 @@
 id: 152355640
-type: way
+type: node
 latitude: 46.83232
 longitude: 12.77782
 postcode: "9900"
 city: Lienz
-street: "Kärntner Straße"
-housenumber: 57
+street: Kärntner Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

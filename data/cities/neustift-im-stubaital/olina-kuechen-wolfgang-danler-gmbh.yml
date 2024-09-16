@@ -4,8 +4,8 @@ latitude: 47.11112
 longitude: 11.30893
 postcode: "6167"
 city: Neustift im Stubaital
-street: "Stubaitalstraße"
-housenumber: 85
-phone: "+43 5226 2260"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:00"
-website: "https://www.olina.com/standorte/tirol/neustift"
+street: Stubaitalstraße
+housenumber: "85"
+phone: +43 5226 2260
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:00
+website: https://www.olina.com/standorte/tirol/neustift

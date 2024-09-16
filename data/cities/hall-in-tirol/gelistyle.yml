@@ -4,8 +4,8 @@ latitude: 47.28139
 longitude: 11.50469
 postcode: "6060"
 city: Hall in Tirol
-street: "Salvatorgasse"
-housenumber: 23
-phone: "+43 676 4471551"
-opening_hours: "nach Vereinbarung"
-website: "https://www.gelistyle.at"
+street: Salvatorgasse
+housenumber: "23"
+phone: +43 676 4471551
+opening_hours: '"nach Vereinbarung"'
+website: https://www.gelistyle.at

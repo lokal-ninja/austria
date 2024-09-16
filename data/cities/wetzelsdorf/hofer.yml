@@ -1,11 +1,11 @@
 id: 80855347
-type: way
+type: node
 latitude: 48.65591
 longitude: 16.63099
 postcode: "2170"
 city: Wetzelsdorf
-street: "Baumfeldstraße"
-housenumber: 2
+street: Baumfeldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.26593
 longitude: 11.39525
 postcode: "6020"
 city: Innsbruck
-street: "Sparkassenplatz"
-housenumber: 2
-phone: "+43 512 587314"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://lamprechter.com/standorte/"
+street: Sparkassenplatz
+housenumber: "2"
+phone: +43 512 587314
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00; PH off
+website: https://lamprechter.com/standorte/

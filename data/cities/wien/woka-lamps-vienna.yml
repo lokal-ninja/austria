@@ -4,8 +4,8 @@ latitude: 48.20714
 longitude: 16.37393
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 16
-phone: "+43 1 5132912"
-opening_hours: "Mo-Fr 10:00-17:30"
-website: "https://www.woka.com"
+street: Singerstraße
+housenumber: "16"
+phone: +43 1 5132912
+opening_hours: Mo-Fr 10:00-17:30
+website: https://www.woka.com

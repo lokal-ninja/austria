@@ -1,11 +1,11 @@
 id: 369585540
-type: way
+type: node
 latitude: 48.11928
 longitude: 16.61384
 postcode: "2401"
 city: Fischamend
-street: "Hainburger Straße"
-housenumber: 14
+street: Hainburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

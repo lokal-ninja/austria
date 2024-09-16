@@ -1,11 +1,11 @@
 id: 290549169
-type: way
+type: node
 latitude: 48.71839
 longitude: 16.30234
 postcode: "2064"
 city: Laa an der Thaya
 street: ""
-housenumber: 96
-phone: "+43 2527 41003"
-opening_hours: "Mo-Fr 05:30-12:00,15:00-18:00; Sa 05:30-12:00; PH off"
-website: "https://www.nahundfrisch.at/de/kaufmann/gass"
+housenumber: "96"
+phone: +43 2527 41003
+opening_hours: Mo-Fr 05:30-12:00,15:00-18:00; Sa 05:30-12:00; PH off
+website: https://www.nahundfrisch.at/de/kaufmann/gass

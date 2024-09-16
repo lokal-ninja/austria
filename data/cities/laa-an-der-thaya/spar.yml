@@ -1,11 +1,11 @@
 id: 1076860951
-type: way
+type: node
 latitude: 48.72594
 longitude: 16.40008
 postcode: "2136"
 city: Laa an der Thaya
-street: "Thermenallee"
-housenumber: 3
+street: Thermenallee
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

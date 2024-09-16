@@ -1,11 +1,11 @@
 id: 192499306
-type: way
+type: node
 latitude: 48.00202
 longitude: 13.62476
 postcode: "4850"
 city: Timelkam
-street: "Straß"
-housenumber: 22
+street: Straß
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

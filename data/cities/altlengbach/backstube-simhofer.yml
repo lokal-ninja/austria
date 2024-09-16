@@ -1,11 +1,11 @@
 id: 233220979
-type: way
+type: node
 latitude: 48.15275
 longitude: 15.93154
 postcode: "3033"
 city: Altlengbach
-street: "Hauptstraße"
-housenumber: 55
+street: Hauptstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

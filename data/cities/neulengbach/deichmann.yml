@@ -1,11 +1,11 @@
 id: 259326431
-type: way
+type: node
 latitude: 48.1991
 longitude: 15.90044
 postcode: "3040"
 city: Neulengbach
-street: "Tullner Straße"
-housenumber: 65
+street: Tullner Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

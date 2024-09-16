@@ -1,11 +1,11 @@
 id: 341896562
-type: way
+type: node
 latitude: 46.56816
 longitude: 14.01411
 postcode: "9232"
 city: Rosegg
-street: "Mittagskogelstraße"
-housenumber: 6
+street: Mittagskogelstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

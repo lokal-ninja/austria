@@ -1,11 +1,11 @@
 id: 351401127
-type: way
+type: node
 latitude: 48.11844
 longitude: 14.87068
 postcode: "3300"
 city: Amstetten
-street: "Ybbsstraße"
-housenumber: 28
+street: Ybbsstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

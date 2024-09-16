@@ -1,11 +1,11 @@
 id: 145345896
-type: way
+type: node
 latitude: 48.81312
 longitude: 15.27644
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Raiffeisenstraße"
-housenumber: 10
-phone: "+43 2842 52535160"
+street: Raiffeisenstraße
+housenumber: "10"
+phone: +43 2842 52535160
 opening_hours: ""
 website: ""

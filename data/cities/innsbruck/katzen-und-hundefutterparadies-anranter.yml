@@ -1,11 +1,11 @@
 id: 107677898
-type: way
+type: node
 latitude: 47.27744
 longitude: 11.43412
 postcode: "6020"
 city: Innsbruck
-street: "Josef-Wilberger-Straße"
-housenumber: 11
-phone: "+43 512 204098"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://hunde-katzen-anranter.at/"
+street: Josef-Wilberger-Straße
+housenumber: "11"
+phone: +43 512 204098
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://hunde-katzen-anranter.at/

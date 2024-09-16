@@ -1,11 +1,11 @@
 id: 91643984
-type: way
+type: node
 latitude: 48.3757
 longitude: 16.50713
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Wiener Straße"
-housenumber: 52
-phone: "+43 59915 03146"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Wiener Straße
+housenumber: "52"
+phone: +43 59915 03146
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

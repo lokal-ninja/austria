@@ -4,8 +4,8 @@ latitude: 48.23177
 longitude: 16.36606
 postcode: "1200"
 city: Wien
-street: "Klosterneuburger Straße"
-housenumber: 59
-phone: "+431 9949217"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Klosterneuburger Straße
+housenumber: "59"
+phone: +431 9949217
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

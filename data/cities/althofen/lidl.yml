@@ -1,11 +1,11 @@
 id: 604673960
-type: way
+type: node
 latitude: 46.86314
 longitude: 14.47029
 postcode: "9330"
 city: Althofen
-street: "Eisenstraße"
-housenumber: 46
+street: Eisenstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

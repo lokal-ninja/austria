@@ -4,8 +4,8 @@ latitude: 48.20789
 longitude: 16.3751
 postcode: "1010"
 city: Wien
-street: "Domgasse"
-housenumber: 6
+street: Domgasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.chobot.at/"
+website: http://www.chobot.at/

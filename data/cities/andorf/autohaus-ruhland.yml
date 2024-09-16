@@ -1,11 +1,11 @@
 id: 272523574
-type: way
+type: node
 latitude: 48.36458
 longitude: 13.56706
 postcode: "4770"
 city: Andorf
 street: ""
-housenumber: 50
-phone: "+43 7766 41257"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00"
-website: "https://www.autohaus-ruhland.at/"
+housenumber: "50"
+phone: +43 7766 41257
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00
+website: https://www.autohaus-ruhland.at/

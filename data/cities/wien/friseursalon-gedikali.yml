@@ -4,8 +4,8 @@ latitude: 48.22732
 longitude: 16.35645
 postcode: "1090"
 city: Wien
-street: "Liechtensteinstraße"
-housenumber: 78
+street: Liechtensteinstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo 13:00-18:00; Tu,Fr 09:00-18:00; We,Th 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.gedikali.at/"
+opening_hours: Mo 13:00-18:00; Tu,Fr 09:00-18:00; We,Th 09:00-19:00; Sa 09:00-14:00
+website: https://www.gedikali.at/

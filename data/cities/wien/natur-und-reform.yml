@@ -4,8 +4,8 @@ latitude: 48.21846
 longitude: 16.32947
 postcode: "1170"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 86
+street: Hernalser Hauptstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:15; Sa 09:00-13:30,14:00-17:00"
-website: "http://www.natur-reform.org/"
+opening_hours: Mo-Fr 09:00-18:15; Sa 09:00-13:30,14:00-17:00
+website: http://www.natur-reform.org/

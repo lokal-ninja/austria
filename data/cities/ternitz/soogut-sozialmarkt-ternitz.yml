@@ -1,11 +1,11 @@
 id: 467770104
-type: way
+type: node
 latitude: 47.71281
 longitude: 16.02972
 postcode: "2630"
 city: Ternitz
-street: "Gfiederstraße"
-housenumber: 3
+street: Gfiederstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 510011459
-type: way
+type: node
 latitude: 47.93762
 longitude: 16.14708
 postcode: "2560"
 city: Sankt Veit an der Triesting
-street: "Leobersdorfer Straße"
-housenumber: 86
+street: Leobersdorfer Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

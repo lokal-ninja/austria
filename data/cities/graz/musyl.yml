@@ -4,8 +4,8 @@ latitude: 47.07694
 longitude: 15.4968
 postcode: "8047"
 city: Graz
-street: "Ragnitzstraße"
-housenumber: 177
+street: Ragnitzstraße
+housenumber: "177"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa,Su,Mo,PH off"
-website: "https://musyl.at/d-r-musyl/"
+opening_hours: Tu-Fr 08:00-18:00; Sa,Su,Mo,PH off
+website: https://musyl.at/d-r-musyl/

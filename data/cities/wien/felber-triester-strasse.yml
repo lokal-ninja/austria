@@ -4,8 +4,8 @@ latitude: 48.17851
 longitude: 16.35638
 postcode: "1100"
 city: Wien
-street: "Triester Straße"
-housenumber: 10
+street: Triester Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.felberbrot.at/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.felberbrot.at/

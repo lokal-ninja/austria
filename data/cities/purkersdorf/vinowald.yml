@@ -4,8 +4,8 @@ latitude: 48.20706
 longitude: 16.1785
 postcode: "3002"
 city: Purkersdorf
-street: "Wiener Straße"
-housenumber: 10
+street: Wiener Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Th 14:00-19:00; Fr-Sa 09:00-12:00"
-website: "http://www.vinowald.at/"
+opening_hours: Th 14:00-19:00; Fr-Sa 09:00-12:00
+website: http://www.vinowald.at/

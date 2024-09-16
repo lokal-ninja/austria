@@ -1,11 +1,11 @@
 id: 103570372
-type: way
+type: node
 latitude: 47.07052
 longitude: 15.4726
 postcode: "8010"
 city: Graz
-street: "Kaiserwaldweg"
-housenumber: 15
+street: Kaiserwaldweg
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00
 website: ""

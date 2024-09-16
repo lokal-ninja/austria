@@ -1,11 +1,11 @@
 id: 148506785
-type: way
+type: node
 latitude: 46.60652
 longitude: 13.85742
 postcode: "9500"
 city: Villach
-street: "Ludwig-Walter-Straße"
-housenumber: 52
+street: Ludwig-Walter-Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 169549346
-type: way
+type: node
 latitude: 48.35256
 longitude: 14.4169
 postcode: "4210"
 city: Gallneukirchen
-street: "Marktplatz"
-housenumber: 7
+street: Marktplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 133739127
-type: way
+type: node
 latitude: 46.52852
 longitude: 14.29226
 postcode: "9170"
 city: Ferlach
-street: "Klagenfurter Straße"
-housenumber: 38
+street: Klagenfurter Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

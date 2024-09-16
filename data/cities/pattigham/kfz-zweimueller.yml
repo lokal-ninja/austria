@@ -1,11 +1,11 @@
 id: 1002638139
-type: way
+type: node
 latitude: 48.1584
 longitude: 13.48366
 postcode: "4910"
 city: Pattigham
-street: "Hauptstraße"
-housenumber: 189
+street: Hauptstraße
+housenumber: "189"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 142701332
-type: way
+type: node
 latitude: 47.48991
 longitude: 12.10751
 postcode: "6322"
 city: Kirchbichl
-street: "Bodenstraße"
-housenumber: 2
+street: Bodenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

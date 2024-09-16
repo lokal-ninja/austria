@@ -1,11 +1,11 @@
 id: 29389234
-type: way
+type: node
 latitude: 48.1278
 longitude: 16.32636
 postcode: "2331"
 city: Vösendorf
-street: "Doktor-Robert-Firneis-Straße"
-housenumber: 10
+street: Doktor-Robert-Firneis-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.3487
 longitude: 11.85186
 postcode: "6263"
 city: Fügen
-street: "Zillerweg"
-housenumber: 6
-phone: "+43 5288 63870"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+street: Zillerweg
+housenumber: "6"
+phone: +43 5288 63870
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

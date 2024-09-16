@@ -1,11 +1,11 @@
 id: 28785640
-type: way
+type: node
 latitude: 48.21061
 longitude: 16.42261
 postcode: "1020"
 city: Wien
-street: "Olympiaplatz"
-housenumber: 2
+street: Olympiaplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.stadioncenter.at/"
+website: https://www.stadioncenter.at/

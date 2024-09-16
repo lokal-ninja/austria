@@ -1,11 +1,11 @@
 id: 86165133
-type: way
+type: node
 latitude: 47.49209
 longitude: 9.69058
 postcode: "6971"
 city: Hard
-street: "Ankergasse"
-housenumber: 5
-phone: "+43 5574 72524"
+street: Ankergasse
+housenumber: "5"
+phone: +43 5574 72524
 opening_hours: ""
 website: ""

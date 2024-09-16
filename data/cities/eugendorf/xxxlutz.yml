@@ -1,11 +1,11 @@
 id: 64211700
-type: way
+type: node
 latitude: 47.85684
 longitude: 13.12246
 postcode: "5301"
 city: Eugendorf
-street: "Möbelstraße"
-housenumber: 9
+street: Möbelstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

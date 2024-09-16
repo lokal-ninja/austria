@@ -1,11 +1,11 @@
 id: 155211252
-type: way
+type: node
 latitude: 47.28449
 longitude: 12.64713
 postcode: "5722"
 city: Niedernsill
-street: "Gewerbestraße-Ost"
-housenumber: 1
+street: Gewerbestraße-Ost
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

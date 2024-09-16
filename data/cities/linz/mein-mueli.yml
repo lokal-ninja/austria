@@ -4,8 +4,8 @@ latitude: 48.30599
 longitude: 14.28825
 postcode: "4020"
 city: Linz
-street: "Pfarrplatz"
-housenumber: 16
-phone: "+43  732  77 56 88"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
-website: "https://meinmueli.wordpress.com/"
+street: Pfarrplatz
+housenumber: "16"
+phone: +43  732  77 56 88
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30
+website: https://meinmueli.wordpress.com/

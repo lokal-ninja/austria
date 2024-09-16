@@ -4,8 +4,8 @@ latitude: 48.15909
 longitude: 15.8954
 postcode: "3033"
 city: Altlengbach
-street: "Tullner Straße"
-housenumber: 35
-phone: "+43-2774-20225"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-12:30"
-website: "https://www.hi-systems.at/"
+street: Tullner Straße
+housenumber: "35"
+phone: +43-2774-20225
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-12:30
+website: https://www.hi-systems.at/

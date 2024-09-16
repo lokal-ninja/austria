@@ -4,8 +4,8 @@ latitude: 47.79475
 longitude: 13.05232
 postcode: "5020"
 city: Salzburg
-street: "Petersbrunnstraße"
-housenumber: 8
+street: Petersbrunnstraße
+housenumber: "8"
 phone: "+436628422500"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30"
-website: "https://fototechnik-mayrhofer.at/"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-15:30
+website: https://fototechnik-mayrhofer.at/

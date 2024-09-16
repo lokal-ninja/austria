@@ -1,11 +1,11 @@
 id: 190707000
-type: way
+type: node
 latitude: 47.30835
 longitude: 11.085
 postcode: "6410"
 city: Telfs
-street: "Untermarktstraße"
+street: Untermarktstraße
 housenumber: 72b
 phone: ""
 opening_hours: ""
-website: "https://www.pflanzenvielfalt.tirol/"
+website: https://www.pflanzenvielfalt.tirol/

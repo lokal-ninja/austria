@@ -1,11 +1,11 @@
 id: 330471636
-type: way
+type: node
 latitude: 48.71684
 longitude: 16.30696
 postcode: "2064"
 city: Laa an der Thaya
 street: ""
-housenumber: 159
+housenumber: "159"
 phone: ""
 opening_hours: ""
-website: "https://kraft-fahrzeuge.at"
+website: https://kraft-fahrzeuge.at

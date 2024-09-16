@@ -4,8 +4,8 @@ latitude: 48.06082
 longitude: 16.55619
 postcode: "2435"
 city: Wienerherberg
-street: "Kleinfeldgasse"
-housenumber: 29
-phone: "+43 676 68 68 113"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.carnanny.at"
+street: Kleinfeldgasse
+housenumber: "29"
+phone: +43 676 68 68 113
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.carnanny.at

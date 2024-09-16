@@ -1,11 +1,11 @@
 id: 130404773
-type: way
+type: node
 latitude: 47.5661
 longitude: 12.15103
 postcode: "6330"
 city: Kufstein
-street: "Endach"
-housenumber: 34
+street: Endach
+housenumber: "34"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.33043
 longitude: 14.31813
 postcode: "4040"
 city: Linz
-street: "Altenberger Straße"
-housenumber: 4
-phone: "+43 732 252608"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://myflowers.at/kontakt/standorte"
+street: Altenberger Straße
+housenumber: "4"
+phone: +43 732 252608
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://myflowers.at/kontakt/standorte

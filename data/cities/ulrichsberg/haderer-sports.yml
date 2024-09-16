@@ -1,11 +1,11 @@
 id: 351888162
-type: way
+type: node
 latitude: 48.7053
 longitude: 13.94619
 postcode: "4161"
 city: Ulrichsberg
-street: "Schöneben"
-housenumber: 9
+street: Schöneben
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 929287377
-type: way
+type: node
 latitude: 48.26964
 longitude: 15.97037
 postcode: "3441"
 city: Einsiedl
-street: "Dorfstraße"
-housenumber: 1
+street: Dorfstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

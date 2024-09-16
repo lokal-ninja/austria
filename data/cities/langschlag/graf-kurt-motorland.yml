@@ -1,11 +1,11 @@
 id: 199379393
-type: way
+type: node
 latitude: 48.57739
 longitude: 14.88256
 postcode: "3921"
 city: Langschlag
-street: "Bahnhofstraße"
-housenumber: 195
+street: Bahnhofstraße
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

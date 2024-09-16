@@ -1,11 +1,11 @@
 id: 549563672
-type: way
+type: node
 latitude: 47.87509
 longitude: 16.232
 postcode: "2603"
 city: Felixdorf
-street: "Hauptstraße"
-housenumber: 103
+street: Hauptstraße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

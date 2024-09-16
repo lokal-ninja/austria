@@ -1,11 +1,11 @@
 id: 342971930
-type: way
+type: node
 latitude: 47.88159
 longitude: 16.94169
 postcode: "7123"
 city: Mönchhof
-street: "Kirchenplatz"
-housenumber: 18
+street: Kirchenplatz
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

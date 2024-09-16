@@ -4,8 +4,8 @@ latitude: 48.18081
 longitude: 16.37861
 postcode: "1100"
 city: Wien
-street: "Raaber-Bahn-Gasse"
-housenumber: 4
+street: Raaber-Bahn-Gasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
 website: ""

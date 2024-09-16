@@ -1,11 +1,11 @@
 id: 275051063
-type: way
+type: node
 latitude: 48.712
 longitude: 16.36966
 postcode: "2136"
 city: Laa an der Thaya
-street: "Thayapark"
-housenumber: 19
+street: Thayapark
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.33728
 longitude: 14.31095
 postcode: "4040"
 city: Linz
-street: "Wolfauerstraße"
-housenumber: 56
-phone: "+43 732 775259"
-opening_hours: "Termin auf Anfrage"
-website: "http://www.foto-strobl.at"
+street: Wolfauerstraße
+housenumber: "56"
+phone: +43 732 775259
+opening_hours: '"Termin auf Anfrage"'
+website: http://www.foto-strobl.at

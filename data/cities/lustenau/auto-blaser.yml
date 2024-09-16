@@ -1,11 +1,11 @@
 id: 93509007
-type: way
+type: node
 latitude: 47.4175
 longitude: 9.67051
 postcode: "6890"
 city: Lustenau
-street: "Dornbirner Straße"
-housenumber: 
+street: Dornbirner Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autoblaser.at/"
+website: https://www.autoblaser.at/

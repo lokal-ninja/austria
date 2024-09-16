@@ -4,8 +4,9 @@ latitude: 48.30065
 longitude: 14.3003
 postcode: "4020"
 city: Linz
-street: "Marktplatz"
-housenumber: 12
-phone: "+43 732 606 562"
-opening_hours: "Monday: 08:00-16:00 Tuesday: 08:00-16:00 Wednesday: 08:00-16:00 Thursday: 08:00-16:00 Friday: 08:00-16:00 Saturday: 08:00-13:00 Sunday: 08:00-16:00"
+street: Marktplatz
+housenumber: "12"
+phone: +43 732 606 562
+opening_hours: 'Monday: 08:00-16:00 Tuesday: 08:00-16:00 Wednesday: 08:00-16:00 Thursday:
+    08:00-16:00 Friday: 08:00-16:00 Saturday: 08:00-13:00 Sunday: 08:00-16:00'
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.07247
 longitude: 15.43955
 postcode: "8010"
 city: Graz
-street: "Hofgasse"
-housenumber: 4
+street: Hofgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
 website: ""

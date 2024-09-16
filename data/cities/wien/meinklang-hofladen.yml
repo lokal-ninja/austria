@@ -4,8 +4,8 @@ latitude: 48.19377
 longitude: 16.36143
 postcode: "1050"
 city: Wien
-street: "Franzensgasse"
-housenumber: 2
+street: Franzensgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:00-22:00; Sa 09:00-18:00; Su 09:00-15:00"
-website: "https://meinklang.at/"
+opening_hours: Tu-Fr 08:00-22:00; Sa 09:00-18:00; Su 09:00-15:00
+website: https://meinklang.at/

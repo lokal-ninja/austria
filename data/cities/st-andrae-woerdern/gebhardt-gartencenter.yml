@@ -1,11 +1,11 @@
 id: 224798768
-type: way
+type: node
 latitude: 48.32518
 longitude: 16.2135
 postcode: "3423"
 city: St. Andrä-Wördern
-street: "Greifensteiner Straße"
-housenumber: 47
+street: Greifensteiner Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.gebhardt-blumen.at"
+website: https://www.gebhardt-blumen.at

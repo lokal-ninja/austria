@@ -4,8 +4,8 @@ latitude: 47.07107
 longitude: 15.44097
 postcode: "8010"
 city: Graz
-street: "Glockenspielplatz"
-housenumber: 7
-phone: "+43 316 71 9696"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.vomfass.at/graz/"
+street: Glockenspielplatz
+housenumber: "7"
+phone: +43 316 71 9696
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.vomfass.at/graz/

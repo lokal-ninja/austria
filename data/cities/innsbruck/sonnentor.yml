@@ -4,8 +4,8 @@ latitude: 47.26714
 longitude: 11.39563
 postcode: "6020"
 city: Innsbruck
-street: "Museumstraße"
-housenumber: 8
-phone: "+43 512 259090"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-17:00; PH off"
-website: "https://www.sonnentor.com/de-at/geschaefte/sonnentor-geschaefte/sonnentor-innsbruck"
+street: Museumstraße
+housenumber: "8"
+phone: +43 512 259090
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-17:00; PH off
+website: https://www.sonnentor.com/de-at/geschaefte/sonnentor-geschaefte/sonnentor-innsbruck

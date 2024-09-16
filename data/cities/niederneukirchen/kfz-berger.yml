@@ -1,11 +1,11 @@
 id: 122923065
-type: way
+type: node
 latitude: 48.16434
 longitude: 14.33945
 postcode: "4491"
 city: Niederneukirchen
-street: "Ipftal"
-housenumber: 2
+street: Ipftal
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

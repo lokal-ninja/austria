@@ -1,11 +1,11 @@
 id: 39354729
-type: way
+type: node
 latitude: 47.97356
 longitude: 16.83964
 postcode: "7100"
 city: Neusiedl am See
-street: "Wiener Straße"
-housenumber: 120
-phone: "+43 599 1507123"
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+street: Wiener Straße
+housenumber: "120"
+phone: +43 599 1507123
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

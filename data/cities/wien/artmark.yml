@@ -4,8 +4,8 @@ latitude: 48.20689
 longitude: 16.37484
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 17
+street: Singerstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Th-Sa 11:00-18:00"
-website: "http://www.artmark-galerie.at/"
+opening_hours: Th-Sa 11:00-18:00
+website: http://www.artmark-galerie.at/

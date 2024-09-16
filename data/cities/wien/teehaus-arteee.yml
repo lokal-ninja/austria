@@ -4,8 +4,8 @@ latitude: 48.20287
 longitude: 16.35659
 postcode: "1070"
 city: Wien
-street: "Siebensterngasse"
-housenumber: 4
+street: Siebensterngasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa,Su off"
-website: "https://www.artee.at/index.php?id=start_teehaus"
+opening_hours: Tu-Fr 11:00-19:00; Sa,Su off
+website: https://www.artee.at/index.php?id=start_teehaus

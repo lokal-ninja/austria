@@ -1,11 +1,11 @@
 id: 81039082
-type: way
+type: node
 latitude: 47.88483
 longitude: 14.25834
 postcode: "4591"
 city: Molln
-street: "Parkstraße"
-housenumber: 2
+street: Parkstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

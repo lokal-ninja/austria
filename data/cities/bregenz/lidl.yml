@@ -4,8 +4,8 @@ latitude: 47.50086
 longitude: 9.73735
 postcode: "6900"
 city: Bregenz
-street: "Bahnhofstraße"
-housenumber: 53
+street: Bahnhofstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.lidl.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.lidl.at/

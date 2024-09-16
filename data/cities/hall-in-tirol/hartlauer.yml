@@ -1,11 +1,11 @@
 id: 106821161
-type: way
+type: node
 latitude: 47.28283
 longitude: 11.50791
 postcode: "6060"
 city: Hall in Tirol
-street: "Wallpachgasse"
-housenumber: 13
+street: Wallpachgasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.hartlauer.at/"
+website: https://www.hartlauer.at/

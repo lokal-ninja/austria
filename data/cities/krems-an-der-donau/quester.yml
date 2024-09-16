@@ -4,8 +4,8 @@ latitude: 48.4193
 longitude: 15.63016
 postcode: "3500"
 city: Krems an der Donau
-street: "Wiener Straße"
-housenumber: 125
-phone: "+43 50 1616 716"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-12:00"
-website: "https://www.quester.at"
+street: Wiener Straße
+housenumber: "125"
+phone: +43 50 1616 716
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-12:00
+website: https://www.quester.at

@@ -1,11 +1,11 @@
 id: 216967013
-type: way
+type: node
 latitude: 46.71373
 longitude: 15.53927
 postcode: "8462"
 city: Gamlitz
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://sattlerhof.at/"
+website: https://sattlerhof.at/

@@ -1,11 +1,11 @@
 id: 360945863
-type: way
+type: node
 latitude: 47.83332
 longitude: 16.41979
 postcode: "7035"
 city: Steinbrunn
-street: "Fölliggasse"
-housenumber: 1
-phone: "+43 59915 07004"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Fölliggasse
+housenumber: "1"
+phone: +43 59915 07004
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

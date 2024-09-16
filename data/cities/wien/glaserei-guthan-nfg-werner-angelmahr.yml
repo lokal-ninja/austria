@@ -4,8 +4,8 @@ latitude: 48.2473
 longitude: 16.45204
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 5
-phone: "+43 1 280 70 10"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-12:30"
-website: "https://www.glas-wien.at/"
+street: Hirschstettner Straße
+housenumber: "5"
+phone: +43 1 280 70 10
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-12:30
+website: https://www.glas-wien.at/

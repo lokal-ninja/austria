@@ -1,11 +1,11 @@
 id: 81125606
-type: way
+type: node
 latitude: 48.35868
 longitude: 14.47881
 postcode: "4213"
 city: Unterweitersdorf
-street: "Betriebsstraße"
-housenumber: 14
+street: Betriebsstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

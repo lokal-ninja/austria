@@ -4,8 +4,9 @@ latitude: 46.61143
 longitude: 14.03984
 postcode: "9220"
 city: Velden am Wörther See
-street: "Bäckerteichstraße"
-housenumber: 4
+street: Bäckerteichstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu 08:00-18:00; We 08:00-14:00; Th 08:00-18:00; Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Tu 08:00-18:00; We 08:00-14:00; Th 08:00-18:00; Fr 08:00-18:00; Sa
+    08:00-12:00
 website: ""

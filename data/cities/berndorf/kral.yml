@@ -4,8 +4,9 @@ latitude: 47.94447
 longitude: 16.10806
 postcode: "2560"
 city: Berndorf
-street: "Hernsteiner Straße"
+street: Hernsteiner Straße
 housenumber: 3 / 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,15:00-18:00;Sa 08:00-12:00;Geänderte Öffnungszeiten in Ferien- und Adventzeit"
+opening_hours: Mo-Fr 08:00-12:00,15:00-18:00;Sa 08:00-12:00;"Geänderte Öffnungszeiten
+    in Ferien- und Adventzeit"
 website: ""

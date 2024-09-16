@@ -4,8 +4,8 @@ latitude: 47.80636
 longitude: 13.05391
 postcode: "5020"
 city: Salzburg
-street: "Schallmooser Hauptstraße"
-housenumber: 29
-phone: "+43 662 941140"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-17:00"
-website: "https://cosmic5.at/"
+street: Schallmooser Hauptstraße
+housenumber: "29"
+phone: +43 662 941140
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-17:00
+website: https://cosmic5.at/

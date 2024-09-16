@@ -1,11 +1,11 @@
 id: 163246737
-type: way
+type: node
 latitude: 47.20886
 longitude: 14.82968
 postcode: "8720"
 city: Knittelfeld
-street: "Esperantostraße"
-housenumber: 34
+street: Esperantostraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

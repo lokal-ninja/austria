@@ -4,8 +4,8 @@ latitude: 48.20281
 longitude: 16.34922
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 56
-phone: "+43 1 9291720"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Neubaugasse
+housenumber: "56"
+phone: +43 1 9291720
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

@@ -4,8 +4,8 @@ latitude: 47.07127
 longitude: 15.4284
 postcode: "8020"
 city: Graz
-street: "Annenstraße"
-housenumber: 22
+street: Annenstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00; Su,PH off"
-website: "https://klipp.at"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00; Su,PH off
+website: https://klipp.at

@@ -4,8 +4,8 @@ latitude: 48.00859
 longitude: 16.23443
 postcode: "2500"
 city: Baden
-street: "Pfarrgasse"
-housenumber: 2
-phone: "+43 676 4080305"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.brandsfashion.at/"
+street: Pfarrgasse
+housenumber: "2"
+phone: +43 676 4080305
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.brandsfashion.at/

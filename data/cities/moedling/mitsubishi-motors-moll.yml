@@ -1,11 +1,11 @@
 id: 211142206
-type: way
+type: node
 latitude: 48.08148
 longitude: 16.28456
 postcode: "2340"
 city: Mödling
-street: "Neusiedler Straße"
-housenumber: 17
+street: Neusiedler Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.40045
 longitude: 15.57776
 postcode: "3500"
 city: Krems an der Donau
-street: "Steiner Landstraße"
-housenumber: 103
-phone: "+43 2732 71071"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.rundumsrad.at/"
+street: Steiner Landstraße
+housenumber: "103"
+phone: +43 2732 71071
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.rundumsrad.at/

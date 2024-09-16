@@ -4,8 +4,8 @@ latitude: 47.2658
 longitude: 11.39923
 postcode: "6020"
 city: Innsbruck
-street: "Meinhardstraße"
-housenumber: 5
-phone: "+43 512 588805"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off"
-website: "https://www.stummer-haare.at"
+street: Meinhardstraße
+housenumber: "5"
+phone: +43 512 588805
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off
+website: https://www.stummer-haare.at

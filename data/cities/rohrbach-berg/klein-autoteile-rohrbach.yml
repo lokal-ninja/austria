@@ -1,11 +1,11 @@
 id: 222138415
-type: way
+type: node
 latitude: 48.56827
 longitude: 13.99535
 postcode: "4150"
 city: Rohrbach-Berg
-street: "Linzer Straße"
-housenumber: 19
+street: Linzer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

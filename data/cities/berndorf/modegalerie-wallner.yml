@@ -1,11 +1,11 @@
 id: 233817724
-type: way
+type: node
 latitude: 47.94528
 longitude: 16.10727
 postcode: "2560"
 city: Berndorf
-street: "Alexanderstraße"
-housenumber: 12
+street: Alexanderstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 15:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:30-12:00, 15:00-18:00; Sa 09:00-12:00
 website: ""

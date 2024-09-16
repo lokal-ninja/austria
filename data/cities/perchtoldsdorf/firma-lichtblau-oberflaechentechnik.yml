@@ -1,11 +1,11 @@
 id: 166235999
-type: way
+type: node
 latitude: 48.12026
 longitude: 16.29105
 postcode: "2345"
 city: Perchtoldsdorf
-street: "Feldstraße"
-housenumber: 38
+street: Feldstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-12:30"
-website: "https://www.lichtblau-auto.at"
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-12:30
+website: https://www.lichtblau-auto.at

@@ -1,11 +1,11 @@
 id: 448326700
-type: way
+type: node
 latitude: 47.20219
 longitude: 15.34461
 postcode: "8120"
 city: Peggau
-street: "Grazer Straße"
-housenumber: 32
+street: Grazer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

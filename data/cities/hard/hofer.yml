@@ -1,11 +1,11 @@
 id: 66298684
-type: way
+type: node
 latitude: 47.4878
 longitude: 9.70204
 postcode: "6971"
 city: Hard
-street: "Rauhholzstraße"
-housenumber: 29
+street: Rauhholzstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off
+website: https://www.hofer.at/

@@ -1,11 +1,11 @@
 id: 122055049
-type: way
+type: node
 latitude: 47.71526
 longitude: 16.1862
 postcode: "2823"
 city: Pitten
-street: "Schulgasse"
-housenumber: 165
-phone: "+43 664 43 53 253; +43 2627 82189"
+street: Schulgasse
+housenumber: "165"
+phone: +43 664 43 53 253; +43 2627 82189
 opening_hours: ""
-website: "https://www.optikoase.at/"
+website: https://www.optikoase.at/

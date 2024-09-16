@@ -1,11 +1,11 @@
 id: 957887636
-type: way
+type: node
 latitude: 47.23855
 longitude: 10.87118
 postcode: "6430"
 city: Haiming
-street: "Olympstraße"
-housenumber: 22
+street: Olympstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

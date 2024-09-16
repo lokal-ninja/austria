@@ -5,7 +5,7 @@ longitude: 15.53424
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 3
-phone: "+43 2732 843 98"
+housenumber: "3"
+phone: +43 2732 843 98
 opening_hours: ""
-website: "https://www.winzerhof-leonhartsberger.at"
+website: https://www.winzerhof-leonhartsberger.at

@@ -4,8 +4,8 @@ latitude: 48.40975
 longitude: 15.59543
 postcode: "3500"
 city: Krems an der Donau
-street: "Südtirolerplatz"
-housenumber: 4
-phone: "+43 59 978 932"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.bstaendig.at"
+street: Südtirolerplatz
+housenumber: "4"
+phone: +43 59 978 932
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.bstaendig.at

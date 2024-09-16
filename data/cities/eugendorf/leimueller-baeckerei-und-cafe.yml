@@ -1,11 +1,11 @@
 id: 201841480
-type: way
+type: node
 latitude: 47.86633
 longitude: 13.12228
 postcode: "5301"
 city: Eugendorf
-street: "Dorf"
-housenumber: 2
+street: Dorf
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH 06:30-22:00"
-website: "https://www.leimueller.com/"
+opening_hours: Mo-Sa 06:00-22:00; Su,PH 06:30-22:00
+website: https://www.leimueller.com/

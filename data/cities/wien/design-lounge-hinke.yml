@@ -4,8 +4,8 @@ latitude: 48.19068
 longitude: 16.34131
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 128
-phone: "+43 1 5953355"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00"
-website: "https://www.design-lounge.at"
+street: Gumpendorfer Straße
+housenumber: "128"
+phone: +43 1 5953355
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00
+website: https://www.design-lounge.at

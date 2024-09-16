@@ -1,11 +1,11 @@
 id: 146079285
-type: way
+type: node
 latitude: 46.95818
 longitude: 15.88142
 postcode: "8330"
 city: Feldbach
-street: "Lugitschstraße"
-housenumber: 11
+street: Lugitschstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://lagerhaus.at/standort/1727"
+website: https://lagerhaus.at/standort/1727

@@ -1,11 +1,11 @@
 id: 172075373
-type: way
+type: node
 latitude: 48.00494
 longitude: 13.67335
 postcode: "4840"
 city: Vöcklabruck
-street: "Kopernikus-Straße"
-housenumber: 6
+street: Kopernikus-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

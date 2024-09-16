@@ -1,11 +1,11 @@
 id: 159246823
-type: way
+type: node
 latitude: 46.81836
 longitude: 14.84394
 postcode: "9400"
 city: Wolfsberg
-street: "Auenfischerstraße"
-housenumber: 53
+street: Auenfischerstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

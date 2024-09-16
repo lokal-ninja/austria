@@ -1,11 +1,11 @@
 id: 149788840
-type: way
+type: node
 latitude: 48.00728
 longitude: 13.65302
 postcode: "4840"
 city: Vöcklabruck
-street: "Salzburger Straße"
-housenumber: 2
+street: Salzburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

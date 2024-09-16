@@ -4,8 +4,8 @@ latitude: 47.36528
 longitude: 9.68946
 postcode: "6845"
 city: Hohenems
-street: "Marktstraße"
-housenumber: 38
-phone: "+43 5576 72429"
-opening_hours: "Mo 08:00-12:00; Tu-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00"
+street: Marktstraße
+housenumber: "38"
+phone: +43 5576 72429
+opening_hours: Mo 08:00-12:00; Tu-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00
 website: ""

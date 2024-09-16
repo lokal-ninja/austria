@@ -1,11 +1,11 @@
 id: 64088936
-type: way
+type: node
 latitude: 48.31484
 longitude: 14.30091
 postcode: "4020"
 city: Linz
-street: "Hafenstraße"
-housenumber: 6
+street: Hafenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

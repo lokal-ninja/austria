@@ -1,11 +1,11 @@
 id: 158702635
-type: way
+type: node
 latitude: 48.02623
 longitude: 15.42655
 postcode: "3204"
 city: Kirchberg an der Pielach
-street: "Mariazeller-Straße"
-housenumber: 2
+street: Mariazeller-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

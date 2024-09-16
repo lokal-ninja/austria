@@ -1,11 +1,11 @@
 id: 1238132212
-type: way
+type: node
 latitude: 48.22994
 longitude: 14.84524
 postcode: "4360"
 city: Grein
-street: "Breitenangerstraße"
-housenumber: 8
-phone: "07268/7001"
-opening_hours: "Mo-Fr 07:15-19:30, Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/eurospar-grein-4360-breitenangerstrasse-80"
+street: Breitenangerstraße
+housenumber: "8"
+phone: 07268/7001
+opening_hours: Mo-Fr 07:15-19:30, Sa 07:15-18:00
+website: https://www.spar.at/standorte/eurospar-grein-4360-breitenangerstrasse-80

@@ -1,11 +1,11 @@
 id: 108876046
-type: way
+type: node
 latitude: 47.30735
 longitude: 9.61855
 postcode: "6832"
 city: Röthis
-street: "Interpark Focus"
-housenumber: 14
-phone: "+43 5523 692010"
-opening_hours: "Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-15:00"
-website: "https://www.sto.at"
+street: Interpark Focus
+housenumber: "14"
+phone: +43 5523 692010
+opening_hours: Mo-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-15:00
+website: https://www.sto.at

@@ -5,7 +5,7 @@ longitude: 12.54573
 postcode: "5724"
 city: Stuhlfelden
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa 08:00-12:00"
-website: "http://www.nationalpark-gaertnerei.at/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00; Sa 08:00-12:00
+website: http://www.nationalpark-gaertnerei.at/

@@ -1,11 +1,11 @@
 id: 218624875
-type: way
+type: node
 latitude: 48.18995
 longitude: 16.29197
 postcode: "1130"
 city: Wien
-street: "Hietzinger Kai"
-housenumber: 79
-phone: "+43 1 8761603"
+street: Hietzinger Kai
+housenumber: "79"
+phone: +43 1 8761603
 opening_hours: ""
-website: "https://www.myplace.at/standorte/wien/hietzing.html"
+website: https://www.myplace.at/standorte/wien/hietzing.html

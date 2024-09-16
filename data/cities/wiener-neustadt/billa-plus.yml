@@ -4,8 +4,8 @@ latitude: 47.84474
 longitude: 16.24522
 postcode: "2700"
 city: Wiener Neustadt
-street: "Wiener Straße"
-housenumber: 127
-phone: "+43 59915 03890"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Wiener Straße
+housenumber: "127"
+phone: +43 59915 03890
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

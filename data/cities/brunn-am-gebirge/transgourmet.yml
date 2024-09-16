@@ -1,11 +1,11 @@
 id: 26237989
-type: way
+type: node
 latitude: 48.10677
 longitude: 16.31086
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Johann-Steinböck-Straße"
-housenumber: 13
+street: Johann-Steinböck-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-13:00"
-website: "https://transgourmet.at/"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-13:00
+website: https://transgourmet.at/

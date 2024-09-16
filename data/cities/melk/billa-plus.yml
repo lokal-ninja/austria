@@ -4,8 +4,8 @@ latitude: 48.22603
 longitude: 15.34793
 postcode: "3390"
 city: Melk
-street: "Wiener Straße"
-housenumber: 85
-phone: "+43 2752 52 074"
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+street: Wiener Straße
+housenumber: "85"
+phone: +43 2752 52 074
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

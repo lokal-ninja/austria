@@ -4,8 +4,8 @@ latitude: 47.82449
 longitude: 16.2537
 postcode: "2700"
 city: Wiener Neustadt
-street: "Stadionstraße"
-housenumber: 5
+street: Stadionstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.etsan.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.etsan.at/

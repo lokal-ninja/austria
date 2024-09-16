@@ -1,11 +1,11 @@
 id: 504191805
-type: way
+type: node
 latitude: 47.31477
 longitude: 11.67856
 postcode: "6133"
 city: Weerberg
-street: "Waldeben"
-housenumber: 4
+street: Waldeben
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.hochi-knapp.at/"
+website: http://www.hochi-knapp.at/

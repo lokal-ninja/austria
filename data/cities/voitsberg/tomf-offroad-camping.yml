@@ -1,11 +1,11 @@
 id: 283559958
-type: way
+type: node
 latitude: 47.03539
 longitude: 15.17364
 postcode: "8570"
 city: Voitsberg
-street: "Ruhmannstraße"
-housenumber: 14
-phone: "+433144 71630"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://offroad-camping.at/"
+street: Ruhmannstraße
+housenumber: "14"
+phone: +433144 71630
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://offroad-camping.at/

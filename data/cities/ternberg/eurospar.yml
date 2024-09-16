@@ -1,11 +1,11 @@
 id: 245003827
-type: way
+type: node
 latitude: 47.94682
 longitude: 14.35935
 postcode: "4452"
 city: Ternberg
-street: "Alois-Derfler-Straße"
-housenumber: 7
+street: Alois-Derfler-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

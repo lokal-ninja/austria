@@ -1,11 +1,11 @@
 id: 234253000
-type: way
+type: node
 latitude: 47.39053
 longitude: 15.43102
 postcode: "8614"
 city: Breitenau am Hochlantsch
-street: "Bahngasse"
-housenumber: 11
+street: Bahngasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

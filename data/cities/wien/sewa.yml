@@ -4,8 +4,8 @@ latitude: 48.21119
 longitude: 16.33982
 postcode: "1080"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 82
+street: Josefstädter Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-15:00"
-website: "https://www.madalbal.at/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-15:00
+website: https://www.madalbal.at/

@@ -4,8 +4,8 @@ latitude: 48.20459
 longitude: 16.34888
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 71
+street: Neubaugasse
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-14:00"
-website: "https://leitenbauer.wien/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-14:00
+website: https://leitenbauer.wien/

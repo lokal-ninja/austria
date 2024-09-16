@@ -4,8 +4,8 @@ latitude: 48.20498
 longitude: 16.38784
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 17
+street: Landstraßer Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.vomfass.at/wien-landstrasse"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.vomfass.at/wien-landstrasse

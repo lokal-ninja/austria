@@ -1,11 +1,11 @@
 id: 299912904
-type: way
+type: node
 latitude: 48.08409
 longitude: 16.28421
 postcode: "2340"
 city: Mödling
-street: "Babenbergergasse"
+street: Babenbergergasse
 housenumber: 5a
 phone: ""
-opening_hours: "PH,Mo-Su 08:00-20:00"
+opening_hours: PH,Mo-Su 08:00-20:00
 website: ""

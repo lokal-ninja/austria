@@ -1,11 +1,11 @@
 id: 443804439
-type: way
+type: node
 latitude: 47.87065
 longitude: 16.94451
 postcode: "7123"
 city: Mönchhof
-street: "Neustiftgasse"
-housenumber: 72
+street: Neustiftgasse
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206880812
-type: way
+type: node
 latitude: 47.42034
 longitude: 13.65796
 postcode: "8972"
 city: Ramsau am Dachstein
 street: ""
-housenumber: 380
-phone: "+43 3687 81644"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00"
+housenumber: "380"
+phone: +43 3687 81644
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00
 website: ""

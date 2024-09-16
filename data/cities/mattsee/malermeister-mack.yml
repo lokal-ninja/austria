@@ -1,11 +1,11 @@
 id: 343860291
-type: way
+type: node
 latitude: 47.99506
 longitude: 13.11797
 postcode: "5163"
 city: Mattsee
 street: ""
-housenumber: 15
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

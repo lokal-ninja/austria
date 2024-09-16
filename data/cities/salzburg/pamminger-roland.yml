@@ -1,11 +1,11 @@
 id: 116713996
-type: way
+type: node
 latitude: 47.82211
 longitude: 13.0238
 postcode: "5020"
 city: Salzburg
-street: "Waginger Straße"
-housenumber: 10
+street: Waginger Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,14:30-18:00; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:00-12:00,14:30-18:00; Sa 07:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 51109382
-type: way
+type: node
 latitude: 48.27486
 longitude: 14.22181
 postcode: "4060"
 city: Leonding
-street: "Lokalbahnweg"
-housenumber: 12
+street: Lokalbahnweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

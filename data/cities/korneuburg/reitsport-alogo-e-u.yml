@@ -4,8 +4,8 @@ latitude: 48.33859
 longitude: 16.33898
 postcode: "2100"
 city: Korneuburg
-street: "Wiener Straße"
-housenumber: 25
+street: Wiener Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Mo 12:00-18:00; Sa 09:00-14:00"
-website: "https://alogo.at/"
+opening_hours: Tu-Fr 11:00-18:00; Mo 12:00-18:00; Sa 09:00-14:00
+website: https://alogo.at/

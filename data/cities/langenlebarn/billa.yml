@@ -1,11 +1,11 @@
 id: 45746280
-type: way
+type: node
 latitude: 48.33145
 longitude: 16.12129
 postcode: "3425"
 city: Langenlebarn
-street: "Wiener Straße"
-housenumber: 48
+street: Wiener Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

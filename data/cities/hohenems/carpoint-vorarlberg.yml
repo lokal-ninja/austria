@@ -1,11 +1,11 @@
 id: 120299921
-type: way
+type: node
 latitude: 47.37043
 longitude: 9.67359
 postcode: "6845"
 city: Hohenems
-street: "Lustenauer Straße"
-housenumber: 95
-phone: "+43 664 8944400"
-opening_hours: "Mo-Fr 09:00-12:00, 13:30-17:30; Sa 09:00-12:30"
-website: "https://www.carpoint.co.at/"
+street: Lustenauer Straße
+housenumber: "95"
+phone: +43 664 8944400
+opening_hours: Mo-Fr 09:00-12:00, 13:30-17:30; Sa 09:00-12:30
+website: https://www.carpoint.co.at/

@@ -1,11 +1,11 @@
 id: 297486872
-type: way
+type: node
 latitude: 46.95812
 longitude: 15.58574
 postcode: "8081"
 city: Heiligenkreuz am Waasen
-street: "Grazer Straße"
-housenumber: 14
+street: Grazer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

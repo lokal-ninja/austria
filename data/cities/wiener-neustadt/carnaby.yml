@@ -1,11 +1,11 @@
 id: 518425305
-type: way
+type: node
 latitude: 47.81658
 longitude: 16.21752
 postcode: "2700"
 city: Wiener Neustadt
-street: "Luchspergergasse"
+street: Luchspergergasse
 housenumber: 2-4
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
 website: ""

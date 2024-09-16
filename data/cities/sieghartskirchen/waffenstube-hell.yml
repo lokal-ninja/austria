@@ -1,11 +1,11 @@
 id: 1228413481
-type: way
+type: node
 latitude: 48.25594
 longitude: 16.01529
 postcode: "3443"
 city: Sieghartskirchen
-street: "Wiener Straße"
-housenumber: 19
-phone: "+43 2274 2253"
+street: Wiener Straße
+housenumber: "19"
+phone: +43 2274 2253
 opening_hours: ""
-website: "https://www.waffenstube-hell.at/"
+website: https://www.waffenstube-hell.at/

@@ -4,8 +4,8 @@ latitude: 47.28114
 longitude: 12.48226
 postcode: "5730"
 city: Mittersill
-street: "Stadtplatz"
-housenumber: 14
-phone: "+43 6562 6238"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at/"
+street: Stadtplatz
+housenumber: "14"
+phone: +43 6562 6238
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at/

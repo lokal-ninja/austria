@@ -5,7 +5,7 @@ longitude: 9.87952
 postcode: "6881"
 city: Mellau
 street: ""
-housenumber: 567
+housenumber: "567"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.sportbroger.com/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.sportbroger.com/

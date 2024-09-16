@@ -4,8 +4,8 @@ latitude: 47.04828
 longitude: 15.41573
 postcode: "8053"
 city: Graz
-street: "Kärntner Straße"
-housenumber: 141
+street: Kärntner Straße
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:30"
-website: "https://www.auner.at/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:30
+website: https://www.auner.at/

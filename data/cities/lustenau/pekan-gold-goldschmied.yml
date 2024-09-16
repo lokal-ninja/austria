@@ -1,11 +1,11 @@
 id: 236138431
-type: way
+type: node
 latitude: 47.42171
 longitude: 9.65983
 postcode: "6890"
 city: Lustenau
-street: "Kaiser-Franz-Josef-Straße"
-housenumber: 25
+street: Kaiser-Franz-Josef-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

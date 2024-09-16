@@ -1,11 +1,11 @@
 id: 25303236
-type: way
+type: node
 latitude: 47.26747
 longitude: 9.61426
 postcode: "6800"
 city: Feldkirch
-street: "Churwaldenstraße"
-housenumber: 6
+street: Churwaldenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

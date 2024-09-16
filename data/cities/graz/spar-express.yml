@@ -4,8 +4,8 @@ latitude: 47.07789
 longitude: 15.49115
 postcode: "8047"
 city: Graz
-street: "Ragnitzstraße"
-housenumber: 127
-phone: "+43 316 301922"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Ragnitzstraße
+housenumber: "127"
+phone: +43 316 301922
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 106449835
-type: way
+type: node
 latitude: 47.06071
 longitude: 15.46829
 postcode: "8010"
 city: Graz
-street: "Plüddemanngasse"
-housenumber: 98
+street: Plüddemanngasse
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

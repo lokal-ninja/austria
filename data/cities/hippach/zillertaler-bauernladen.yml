@@ -1,11 +1,11 @@
 id: 126980317
-type: way
+type: node
 latitude: 47.20434
 longitude: 11.8673
 postcode: "6283"
 city: Hippach
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

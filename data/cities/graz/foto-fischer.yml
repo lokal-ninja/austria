@@ -4,8 +4,8 @@ latitude: 47.07075
 longitude: 15.43976
 postcode: "8010"
 city: Graz
-street: "Herrengasse"
-housenumber: 7
+street: Herrengasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30
 website: ""

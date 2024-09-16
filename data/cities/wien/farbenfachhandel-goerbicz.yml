@@ -4,8 +4,8 @@ latitude: 48.19519
 longitude: 16.34324
 postcode: "1060"
 city: Wien
-street: "Stumpergasse"
-housenumber: 54
-phone: "+43 1 5977354"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00"
+street: Stumpergasse
+housenumber: "54"
+phone: +43 1 5977354
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00
 website: ""

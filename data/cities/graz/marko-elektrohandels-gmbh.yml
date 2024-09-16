@@ -1,11 +1,11 @@
 id: 225127694
-type: way
+type: node
 latitude: 47.04308
 longitude: 15.43535
 postcode: "8020"
 city: Graz
-street: "Paula-Wallisch-Straße"
-housenumber: 7
-phone: "+43 316 71 74 14 0"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.eh-marko.at/"
+street: Paula-Wallisch-Straße
+housenumber: "7"
+phone: +43 316 71 74 14 0
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.eh-marko.at/

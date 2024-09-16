@@ -1,5 +1,5 @@
 id: 126093243
-type: way
+type: node
 latitude: 47.01667
 longitude: 12.3825
 postcode: "9974"
@@ -7,5 +7,5 @@ city: Prägraten am Großvenediger
 street: ""
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.mpreis.at"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.mpreis.at

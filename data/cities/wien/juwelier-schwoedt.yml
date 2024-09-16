@@ -4,8 +4,8 @@ latitude: 48.2256
 longitude: 16.36239
 postcode: "1090"
 city: Wien
-street: "Julius-Tandler-Platz"
-housenumber: 6
+street: Julius-Tandler-Platz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.schwoedt.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.schwoedt.com/

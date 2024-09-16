@@ -1,11 +1,11 @@
 id: 101045726
-type: way
+type: node
 latitude: 47.45566
 longitude: 12.3871
 postcode: "6370"
 city: Kitzbühel
-street: "St. Johanner Straße"
-housenumber: 10
-phone: "+43 5356 62800 416"
+street: St. Johanner Straße
+housenumber: "10"
+phone: +43 5356 62800 416
 opening_hours: ""
-website: "https://www.schmidtauto.at/de/magazin/neuer-standort-in-kitzbuehel/"
+website: https://www.schmidtauto.at/de/magazin/neuer-standort-in-kitzbuehel/

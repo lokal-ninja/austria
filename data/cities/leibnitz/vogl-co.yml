@@ -1,11 +1,11 @@
 id: 746248338
-type: way
+type: node
 latitude: 46.80085
 longitude: 15.5639
 postcode: "8430"
 city: Leibnitz
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.vogl-auto.at/"
+website: https://www.vogl-auto.at/

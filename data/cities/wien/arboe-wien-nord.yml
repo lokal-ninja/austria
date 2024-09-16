@@ -1,11 +1,11 @@
 id: 31538574
-type: way
+type: node
 latitude: 48.28095
 longitude: 16.41184
 postcode: "1210"
 city: Wien
-street: "Brünner Straße"
-housenumber: 170
-phone: "+43-50-123-2906"
+street: Brünner Straße
+housenumber: "170"
+phone: +43-50-123-2906
 opening_hours: ""
 website: ""

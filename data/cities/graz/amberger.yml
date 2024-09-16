@@ -4,8 +4,8 @@ latitude: 47.06854
 longitude: 15.44032
 postcode: "8010"
 city: Graz
-street: "Stubenberggasse"
-housenumber: 6
+street: Stubenberggasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:00"
-website: "https://www.uhren-amberger.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:00
+website: https://www.uhren-amberger.at/

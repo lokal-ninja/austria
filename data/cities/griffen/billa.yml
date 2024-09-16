@@ -1,11 +1,11 @@
 id: 282300143
-type: way
+type: node
 latitude: 46.70154
 longitude: 14.73006
 postcode: "9112"
 city: Griffen
-street: "Rudner Straße"
-housenumber: 17
+street: Rudner Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:15-18:00; Su,PH off"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:15-18:00; Su,PH off
+website: https://www.billa.at

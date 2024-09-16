@@ -1,11 +1,11 @@
 id: 139448714
-type: way
+type: node
 latitude: 47.34231
 longitude: 10.16756
 postcode: "6992"
 city: Mittelberg
-street: "Walserstraße"
-housenumber: 270
+street: Walserstraße
+housenumber: "270"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:30, 14:00-18:00"
-website: "https://sport-pauli.at/"
+opening_hours: Mo-Sa 08:30-12:30, 14:00-18:00
+website: https://sport-pauli.at/

@@ -4,8 +4,8 @@ latitude: 47.94521
 longitude: 16.10754
 postcode: "2560"
 city: Berndorf
-street: "Alexanderstraße"
-housenumber: 6
+street: Alexanderstraße
+housenumber: "6"
 phone: "06642610301"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.autoschluessel.co.at/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.autoschluessel.co.at/

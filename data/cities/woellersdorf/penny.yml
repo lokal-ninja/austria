@@ -1,11 +1,11 @@
 id: 94559121
-type: way
+type: node
 latitude: 47.85017
 longitude: 16.19231
 postcode: "2752"
 city: Wöllersdorf
-street: "Feuerwerksanstalt"
-housenumber: 895
+street: Feuerwerksanstalt
+housenumber: "895"
 phone: ""
 opening_hours: ""
 website: ""

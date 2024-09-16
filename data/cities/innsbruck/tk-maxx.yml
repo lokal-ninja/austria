@@ -4,8 +4,8 @@ latitude: 47.26283
 longitude: 11.42878
 postcode: "6020"
 city: Innsbruck
-street: "Amraser-See-Straße"
-housenumber: 56
-phone: "+43 512 345400"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.tkmaxx.com/at/de/store/innsbruck/menardi-center-innsbruck/778"
+street: Amraser-See-Straße
+housenumber: "56"
+phone: +43 512 345400
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.tkmaxx.com/at/de/store/innsbruck/menardi-center-innsbruck/778

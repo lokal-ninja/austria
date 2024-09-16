@@ -4,8 +4,8 @@ latitude: 48.21364
 longitude: 16.3132
 postcode: "1160"
 city: Wien
-street: "Ottakringer Straße"
-housenumber: 186
+street: Ottakringer Straße
+housenumber: "186"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.denns-biomarkt.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.denns-biomarkt.at/

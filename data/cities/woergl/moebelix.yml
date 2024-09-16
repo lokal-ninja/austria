@@ -1,11 +1,11 @@
 id: 92676141
-type: way
+type: node
 latitude: 47.48093
 longitude: 12.05015
 postcode: "6300"
 city: Wörgl
-street: "Innsbrucker Straße"
-housenumber: 83
-phone: "+43 50111 929 0"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 08:30-17:00"
+street: Innsbrucker Straße
+housenumber: "83"
+phone: +43 50111 929 0
+opening_hours: Mo-Fr 09:00-18:00, Sa 08:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.39908
 longitude: 15.46799
 postcode: "3610"
 city: Weißenkirchen in der Wachau
-street: "Obere Bachgasse"
-housenumber: 92
-phone: "+43 2734 4608"
-opening_hours: "siehe Heurigen Kalender"
-website: "https://www.amon-wein.at/"
+street: Obere Bachgasse
+housenumber: "92"
+phone: +43 2734 4608
+opening_hours: '"siehe Heurigen Kalender"'
+website: https://www.amon-wein.at/

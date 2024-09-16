@@ -1,11 +1,11 @@
 id: 85738136
-type: way
+type: node
 latitude: 47.89769
 longitude: 13.76047
 postcode: "4813"
 city: Altmünster
-street: "Maria-Theresia-Straße"
-housenumber: 8
+street: Maria-Theresia-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:00
 website: ""

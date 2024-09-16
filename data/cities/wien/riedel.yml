@@ -4,8 +4,8 @@ latitude: 48.22192
 longitude: 16.4014
 postcode: "1020"
 city: Wien
-street: "Ennsgasse"
+street: Ennsgasse
 housenumber: 7-11
-phone: "+43 1 7280558"
-opening_hours: "Mo,We,Fr 07:30-12:30; Tu,Th 07:30-12:30,14:00-17:00"
-website: "https://www.kleinbad.at/"
+phone: +43 1 7280558
+opening_hours: Mo,We,Fr 07:30-12:30; Tu,Th 07:30-12:30,14:00-17:00
+website: https://www.kleinbad.at/

@@ -1,11 +1,11 @@
 id: 1012880505
-type: way
+type: node
 latitude: 48.09087
 longitude: 12.99286
 postcode: "5142"
 city: Eggelsberg
-street: "Gundertshausen"
-housenumber: 114
-phone: "+43 57 0303 0061"
-opening_hours: "Mo-Sa 07:15-19:30"
-website: "https://www.hofer.at/de"
+street: Gundertshausen
+housenumber: "114"
+phone: +43 57 0303 0061
+opening_hours: Mo-Sa 07:15-19:30
+website: https://www.hofer.at/de

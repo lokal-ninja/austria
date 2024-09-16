@@ -1,11 +1,11 @@
 id: 890640986
-type: way
+type: node
 latitude: 48.02209
 longitude: 14.40274
 postcode: "4451"
 city: Garsten
-street: "Klosterstraße"
-housenumber: 11
+street: Klosterstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

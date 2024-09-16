@@ -1,11 +1,11 @@
 id: 144623942
-type: way
+type: node
 latitude: 47.2111
 longitude: 14.8244
 postcode: "8720"
 city: Knittelfeld
-street: "Schubertstraße"
-housenumber: 5
-phone: "+43 3512 60503"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Schubertstraße
+housenumber: "5"
+phone: +43 3512 60503
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

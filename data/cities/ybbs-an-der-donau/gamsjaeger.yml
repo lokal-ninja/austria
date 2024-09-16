@@ -4,8 +4,8 @@ latitude: 48.16849
 longitude: 15.08196
 postcode: "3370"
 city: Ybbs an der Donau
-street: "Unterauer Straße"
-housenumber: 7
+street: Unterauer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:30-18:00; Sa 08:00-12:00"
-website: "https://www.elektrogamsjaeger.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:30-18:00; Sa 08:00-12:00
+website: https://www.elektrogamsjaeger.at/

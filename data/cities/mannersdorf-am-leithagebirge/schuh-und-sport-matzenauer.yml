@@ -4,8 +4,8 @@ latitude: 47.97336
 longitude: 16.60147
 postcode: "2452"
 city: Mannersdorf am Leithagebirge
-street: "Hauptstraße"
-housenumber: 31
-phone: "+43 2168 62134"
-opening_hours: "Mo,Tu,We,Fr 08:30-12:00,15:00-18:00; Th,Sa 08:30-12:00"
-website: "https://www.schuhhaus-matzenauer.at/"
+street: Hauptstraße
+housenumber: "31"
+phone: +43 2168 62134
+opening_hours: Mo,Tu,We,Fr 08:30-12:00,15:00-18:00; Th,Sa 08:30-12:00
+website: https://www.schuhhaus-matzenauer.at/

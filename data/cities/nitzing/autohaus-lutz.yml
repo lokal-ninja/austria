@@ -1,11 +1,11 @@
 id: 45271799
-type: way
+type: node
 latitude: 48.31467
 longitude: 16.08517
 postcode: "3430"
 city: Nitzing
-street: "Landstraße"
-housenumber: 57
+street: Landstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://autohaus.lutztulln.com/"
+website: https://autohaus.lutztulln.com/

@@ -4,8 +4,8 @@ latitude: 48.23286
 longitude: 16.35375
 postcode: "1190"
 city: Wien
-street: "Döblinger Hauptstraße"
-housenumber: 4
+street: Döblinger Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-14:30; Su,PH off"
-website: "https://welner.at/"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-14:30; Su,PH off
+website: https://welner.at/

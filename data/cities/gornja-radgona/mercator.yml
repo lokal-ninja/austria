@@ -1,11 +1,11 @@
 id: 340474668
-type: way
+type: node
 latitude: 46.67748
 longitude: 15.99099
 postcode: "9250"
 city: Gornja Radgona
-street: "Trg svobode"
-housenumber: 5
+street: Trg svobode
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

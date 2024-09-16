@@ -4,8 +4,8 @@ latitude: 47.26686
 longitude: 11.39334
 postcode: "6020"
 city: Innsbruck
-street: "Marktgraben"
-housenumber: 16
-phone: "+43 512  585024"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://www.vomfass.at/innsbruck"
+street: Marktgraben
+housenumber: "16"
+phone: +43 512  585024
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
+website: https://www.vomfass.at/innsbruck

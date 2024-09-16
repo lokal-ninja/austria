@@ -4,8 +4,8 @@ latitude: 48.05598
 longitude: 14.45159
 postcode: "4400"
 city: Steyr
-street: "Zirerstraße"
-housenumber: 7
+street: Zirerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.kammerhofer.at/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.kammerhofer.at/

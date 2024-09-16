@@ -1,11 +1,11 @@
 id: 51330843
-type: way
+type: node
 latitude: 48.11561
 longitude: 16.27104
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Brunner Gasse"
-housenumber: 46
-phone: "+43-57030-33039"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+street: Brunner Gasse
+housenumber: "46"
+phone: +43-57030-33039
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
 website: ""

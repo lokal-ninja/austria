@@ -1,11 +1,11 @@
 id: 245425075
-type: way
+type: node
 latitude: 47.42219
 longitude: 9.74221
 postcode: "6850"
 city: Dornbirn
-street: "Schwefel"
-housenumber: 19
+street: Schwefel
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-blum.at/"
+website: https://www.autohaus-blum.at/

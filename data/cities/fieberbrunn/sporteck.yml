@@ -4,8 +4,8 @@ latitude: 47.47719
 longitude: 12.54329
 postcode: "6391"
 city: Fieberbrunn
-street: "Dorfstraße"
-housenumber: 11
-phone: "+43 5354 52521"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-13:00"
-website: "https://www.sporteck.at/"
+street: Dorfstraße
+housenumber: "11"
+phone: +43 5354 52521
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-13:00
+website: https://www.sporteck.at/

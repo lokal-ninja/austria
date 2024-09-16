@@ -4,8 +4,8 @@ latitude: 47.26724
 longitude: 11.39317
 postcode: "6020"
 city: Innsbruck
-street: "Schlossergasse"
-housenumber: 4
-phone: "+43 512 58385311"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:30; PH off"
-website: "https://www.gatt-moden.at/"
+street: Schlossergasse
+housenumber: "4"
+phone: +43 512 58385311
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:30; PH off
+website: https://www.gatt-moden.at/

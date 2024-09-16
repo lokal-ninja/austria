@@ -1,11 +1,11 @@
 id: 370076267
-type: way
+type: node
 latitude: 48.1217
 longitude: 14.74295
 postcode: "3312"
 city: Oed-Oehling
-street: "Marktstraße"
-housenumber: 16
+street: Marktstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.nahundfrisch.at/de/standortsuche"
+website: https://www.nahundfrisch.at/de/standortsuche

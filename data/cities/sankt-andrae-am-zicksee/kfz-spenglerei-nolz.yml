@@ -1,11 +1,11 @@
 id: 164570460
-type: way
+type: node
 latitude: 47.78933
 longitude: 16.93967
 postcode: "7161"
 city: Sankt Andrä am Zicksee
-street: "Wiener Straße"
-housenumber: 33
+street: Wiener Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

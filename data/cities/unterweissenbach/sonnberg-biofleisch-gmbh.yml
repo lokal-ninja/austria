@@ -1,11 +1,11 @@
 id: 207717718
-type: way
+type: node
 latitude: 48.43799
 longitude: 14.78258
 postcode: "4273"
 city: Unterweißenbach
-street: "Almstraße"
-housenumber: 15
+street: Almstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 88380014
-type: way
+type: node
 latitude: 47.02774
 longitude: 15.39989
 postcode: "8054"
 city: Graz
-street: "Weiberfelderweg"
-housenumber: 1
+street: Weiberfelderweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

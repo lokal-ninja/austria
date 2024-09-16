@@ -1,11 +1,11 @@
 id: 512104889
-type: way
+type: node
 latitude: 48.35712
 longitude: 16.5743
 postcode: "2212"
 city: Großengersdorf
-street: "Hauptstraße"
-housenumber: 139
+street: Hauptstraße
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.bio-schramm.at/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.bio-schramm.at/

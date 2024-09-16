@@ -1,11 +1,11 @@
 id: 90136321
-type: way
+type: node
 latitude: 47.39249
 longitude: 13.68878
 postcode: "8970"
 city: Schladming
-street: "Siedergasse"
-housenumber: 268
+street: Siedergasse
+housenumber: "268"
 phone: ""
 opening_hours: ""
 website: ""

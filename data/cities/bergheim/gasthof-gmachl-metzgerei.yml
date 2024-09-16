@@ -4,8 +4,8 @@ latitude: 47.84003
 longitude: 13.02292
 postcode: "5101"
 city: Bergheim
-street: "Dorfstraße"
-housenumber: 35
+street: Dorfstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Th 07:00-15:00; Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.franz-bergheim.at/"
+opening_hours: Mo-Th 07:00-15:00; Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.franz-bergheim.at/

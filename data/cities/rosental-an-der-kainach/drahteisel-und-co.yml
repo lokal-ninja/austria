@@ -1,11 +1,11 @@
 id: 176332674
-type: way
+type: node
 latitude: 47.05248
 longitude: 15.12546
 postcode: "8582"
 city: Rosental an der Kainach
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.drahteisel.at/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.drahteisel.at/

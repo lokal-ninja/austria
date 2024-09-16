@@ -1,11 +1,11 @@
 id: 318134553
-type: way
+type: node
 latitude: 48.13309
 longitude: 16.28481
 postcode: "1230"
 city: Wien
-street: "Nuschinggasse"
-housenumber: 8
+street: Nuschinggasse
+housenumber: "8"
 phone: ""
-opening_hours: "appointment"
+opening_hours: '"appointment"'
 website: ""

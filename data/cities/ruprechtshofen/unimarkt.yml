@@ -1,11 +1,11 @@
 id: 184479962
-type: way
+type: node
 latitude: 48.13975
 longitude: 15.28101
 postcode: "3244"
 city: Ruprechtshofen
-street: "Hauptstraße"
-housenumber: 29
-phone: "+43 2756 85 50"
-opening_hours: "Mo-Fr 07:30-18:30, Sa 07:30-17:00"
+street: Hauptstraße
+housenumber: "29"
+phone: +43 2756 85 50
+opening_hours: Mo-Fr 07:30-18:30, Sa 07:30-17:00
 website: ""

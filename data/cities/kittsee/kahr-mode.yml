@@ -4,8 +4,8 @@ latitude: 48.09035
 longitude: 17.06597
 postcode: "2421"
 city: Kittsee
-street: "Hauptplatz"
-housenumber: 44
+street: Hauptplatz
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:00-12:00"
-website: "http://www.kahr-mode.at/"
+opening_hours: Mo-Fr 07:30-12:00, 14:30-18:00; Sa 08:00-12:00
+website: http://www.kahr-mode.at/

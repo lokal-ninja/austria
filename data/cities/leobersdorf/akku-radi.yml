@@ -4,8 +4,8 @@ latitude: 47.92977
 longitude: 16.21675
 postcode: "2544"
 city: Leobersdorf
-street: "Hauptstraße"
-housenumber: 5
-phone: "+43 664 8289797"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.radi-akku.at/"
+street: Hauptstraße
+housenumber: "5"
+phone: +43 664 8289797
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.radi-akku.at/

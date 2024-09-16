@@ -4,8 +4,8 @@ latitude: 48.51601
 longitude: 15.4926
 postcode: "3542"
 city: Gföhl
-street: "Kremser Straße"
-housenumber: 1
+street: Kremser Straße
+housenumber: "1"
 phone: "+4327168113"
-opening_hours: "Tu-Th 07:30-12:00,13:30-18:30; Fr 07:30-19:00; Sa 07:30-13:00"
-website: "https://www.salon-stastny.at/"
+opening_hours: Tu-Th 07:30-12:00,13:30-18:30; Fr 07:30-19:00; Sa 07:30-13:00
+website: https://www.salon-stastny.at/

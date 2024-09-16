@@ -1,11 +1,11 @@
 id: 144334706
-type: way
+type: node
 latitude: 46.61773
 longitude: 14.0485
 postcode: "9220"
 city: Velden am Wörther See
-street: "Klagenfurter Straße"
-housenumber: 9
-phone: "+43 (0) 4274 51329"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off"
-website: "https://www.tedi.com/stores/1235/at/Kaernten/Velden/Klagenfurter-Strasse-9"
+street: Klagenfurter Straße
+housenumber: "9"
+phone: +43 (0) 4274 51329
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off
+website: https://www.tedi.com/stores/1235/at/Kaernten/Velden/Klagenfurter-Strasse-9

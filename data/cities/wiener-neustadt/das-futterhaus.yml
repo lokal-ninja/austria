@@ -1,11 +1,11 @@
 id: 191261445
-type: way
+type: node
 latitude: 47.81051
 longitude: 16.21517
 postcode: "2700"
 city: Wiener Neustadt
-street: "Brunner Straße"
-housenumber: 116
+street: Brunner Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

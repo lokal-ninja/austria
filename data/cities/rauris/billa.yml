@@ -1,11 +1,11 @@
 id: 1086232861
-type: way
+type: node
 latitude: 47.22678
 longitude: 12.99435
 postcode: "5661"
 city: Rauris
-street: "Marktstraße"
-housenumber: 53
+street: Marktstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

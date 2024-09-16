@@ -4,8 +4,8 @@ latitude: 47.27369
 longitude: 15.69259
 postcode: "8184"
 city: Anger
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00"
-website: "http://www.fgoeg.at.tt/"
+opening_hours: Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00
+website: http://www.fgoeg.at.tt/

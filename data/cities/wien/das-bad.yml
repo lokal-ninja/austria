@@ -4,8 +4,8 @@ latitude: 48.21727
 longitude: 16.48892
 postcode: "1220"
 city: Wien
-street: "Groß-Enzersdorfer Straße"
-housenumber: 5
-phone: "+43 1 2808885"
+street: Groß-Enzersdorfer Straße
+housenumber: "5"
+phone: +43 1 2808885
 opening_hours: ""
-website: "https://das-bad.at/"
+website: https://das-bad.at/

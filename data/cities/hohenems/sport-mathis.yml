@@ -1,11 +1,11 @@
 id: 88540869
-type: way
+type: node
 latitude: 47.37224
 longitude: 9.68077
 postcode: "6845"
 city: Hohenems
-street: "Schweizer Straße"
-housenumber: 68
-phone: "+43 5576 72419"
-opening_hours: "Mo,Tu,We,Fr 08:30-12:00,14:00-18:00; Th,Sa 08:30-12:00"
-website: "https://www.sport-mathis.com/"
+street: Schweizer Straße
+housenumber: "68"
+phone: +43 5576 72419
+opening_hours: Mo,Tu,We,Fr 08:30-12:00,14:00-18:00; Th,Sa 08:30-12:00
+website: https://www.sport-mathis.com/

@@ -1,11 +1,11 @@
 id: 120609333
-type: way
+type: node
 latitude: 47.15231
 longitude: 9.8143
 postcode: "6706"
 city: Bürs
-street: "Herrenau"
-housenumber: 2
+street: Herrenau
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

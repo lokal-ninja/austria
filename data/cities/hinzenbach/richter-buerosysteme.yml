@@ -1,11 +1,11 @@
 id: 129084707
-type: way
+type: node
 latitude: 48.29942
 longitude: 14.01217
 postcode: "4070"
 city: Hinzenbach
-street: "Bahnhofstraße"
-housenumber: 50
+street: Bahnhofstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

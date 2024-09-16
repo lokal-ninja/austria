@@ -1,11 +1,11 @@
 id: 298837896
-type: way
+type: node
 latitude: 48.11077
 longitude: 14.87361
 postcode: "3300"
 city: Amstetten
-street: "Euratsfelder Straße"
-housenumber: 10
+street: Euratsfelder Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

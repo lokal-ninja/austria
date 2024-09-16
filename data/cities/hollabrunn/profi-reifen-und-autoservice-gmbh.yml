@@ -1,11 +1,11 @@
 id: 240956573
-type: way
+type: node
 latitude: 48.5498
 longitude: 16.07865
 postcode: "2020"
 city: Hollabrunn
-street: "Wienerstraße"
-housenumber: 134
+street: Wienerstraße
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 84714315
-type: way
+type: node
 latitude: 47.42438
 longitude: 15.00262
 postcode: "8793"
 city: Trofaiach
-street: "Kehrgasse"
-housenumber: 10
-phone: "+43 57 03031067"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Kehrgasse
+housenumber: "10"
+phone: +43 57 03031067
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 332368281
-type: way
+type: node
 latitude: 48.41857
 longitude: 14.18798
 postcode: "4175"
 city: Herzogsdorf
 street: ""
-housenumber: 271
+housenumber: "271"
 phone: ""
 opening_hours: ""
-website: "http://www.lehner-electronics.co.at/"
+website: http://www.lehner-electronics.co.at/

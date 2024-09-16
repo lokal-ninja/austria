@@ -1,11 +1,11 @@
 id: 198644204
-type: way
+type: node
 latitude: 47.18689
 longitude: 9.70961
 postcode: "6710"
 city: Nenzing
-street: "Eugen-Getzner-Straße"
-housenumber: 11
+street: Eugen-Getzner-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
 website: ""

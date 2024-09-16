@@ -4,8 +4,8 @@ latitude: 48.1852
 longitude: 16.35472
 postcode: "1050"
 city: Wien
-street: "Reinprechtsdorfer Straße"
-housenumber: 34
+street: Reinprechtsdorfer Straße
+housenumber: "34"
 phone: "+4315450869"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

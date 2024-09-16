@@ -1,11 +1,11 @@
 id: 255086981
-type: way
+type: node
 latitude: 47.24799
 longitude: 11.49687
 postcode: "6074"
 city: Rinn
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 2e
-phone: "+43 5223 78120"
-opening_hours: "Mo-Fr 07:40-19:30; Sa 07:40-18:00; Su 07:30-11:00"
-website: "https://www.spar.at/standorte/spar-rinn-6074-hauptstrasse-2e"
+phone: +43 5223 78120
+opening_hours: Mo-Fr 07:40-19:30; Sa 07:40-18:00; Su 07:30-11:00
+website: https://www.spar.at/standorte/spar-rinn-6074-hauptstrasse-2e

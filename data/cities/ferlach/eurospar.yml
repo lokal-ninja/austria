@@ -1,11 +1,11 @@
 id: 151663794
-type: way
+type: node
 latitude: 46.52278
 longitude: 14.3017
 postcode: "9170"
 city: Ferlach
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

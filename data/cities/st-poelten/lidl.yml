@@ -1,11 +1,11 @@
 id: 47430860
-type: way
+type: node
 latitude: 48.21031
 longitude: 15.62011
 postcode: "3100"
 city: St. Pölten
-street: "Hermann Winger-Gasse"
-housenumber: 14
+street: Hermann Winger-Gasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

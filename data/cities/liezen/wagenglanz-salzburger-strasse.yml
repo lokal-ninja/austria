@@ -1,11 +1,11 @@
 id: 1213998065
-type: way
+type: node
 latitude: 47.56815
 longitude: 14.20901
 postcode: "8940"
 city: Liezen
-street: "Salzburger Straße"
-housenumber: 7
+street: Salzburger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/wgnglz"
+website: https://www.facebook.com/wgnglz

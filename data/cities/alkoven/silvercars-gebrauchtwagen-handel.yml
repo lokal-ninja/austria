@@ -1,11 +1,11 @@
 id: 530733111
-type: way
+type: node
 latitude: 48.28794
 longitude: 14.10657
 postcode: "4072"
 city: Alkoven
-street: "Alte Hauptstraße"
-housenumber: 42
-phone: "+43 699 81 500 500"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 9:30-15:00"
-website: "http://www.silvercars.at/"
+street: Alte Hauptstraße
+housenumber: "42"
+phone: +43 699 81 500 500
+opening_hours: Mo-Fr 08:30-18:00; Sa 9:30-15:00
+website: http://www.silvercars.at/

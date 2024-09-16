@@ -4,8 +4,8 @@ latitude: 46.94643
 longitude: 15.37801
 postcode: "8143"
 city: Dobl-Zwaring
-street: "Unterberg"
-housenumber: 56
-phone: "+43 3136 55760"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00"
-website: "https://www.nahundfrisch.at/de/kaufmann/knappitsch"
+street: Unterberg
+housenumber: "56"
+phone: +43 3136 55760
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:00
+website: https://www.nahundfrisch.at/de/kaufmann/knappitsch

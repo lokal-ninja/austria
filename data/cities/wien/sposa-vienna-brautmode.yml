@@ -4,8 +4,8 @@ latitude: 48.19979
 longitude: 16.39351
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 90
+street: Landstraßer Hauptstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo,Th,Fr 10:00-18:00; Tu 10:00-18:00"
+opening_hours: Mo,Th,Fr 10:00-18:00; Tu 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 123938561
-type: way
+type: node
 latitude: 48.19713
 longitude: 14.52719
 postcode: "4300"
 city: Sankt Valentin
-street: "Rasthausstraße"
-housenumber: 1
+street: Rasthausstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.oeamtc.at/portal/st-valentin+2500+1323067"
+website: https://www.oeamtc.at/portal/st-valentin+2500+1323067

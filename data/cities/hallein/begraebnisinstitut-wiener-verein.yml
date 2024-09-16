@@ -1,11 +1,11 @@
 id: 158925355
-type: way
+type: node
 latitude: 47.68309
 longitude: 13.09871
 postcode: "5400"
 city: Hallein
-street: "Salzachtalstraße"
-housenumber: 6
-phone: "+43 6245 80253"
+street: Salzachtalstraße
+housenumber: "6"
+phone: +43 6245 80253
 opening_hours: ""
-website: "https://www.wv-bestattung.at/"
+website: https://www.wv-bestattung.at/

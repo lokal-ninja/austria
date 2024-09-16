@@ -4,8 +4,8 @@ latitude: 48.23399
 longitude: 13.83092
 postcode: "4710"
 city: Grieskirchen
-street: "Roßmarkt"
-housenumber: 15
-phone: "+43-7248-61095"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Roßmarkt
+housenumber: "15"
+phone: +43-7248-61095
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

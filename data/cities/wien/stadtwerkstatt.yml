@@ -4,8 +4,8 @@ latitude: 48.21159
 longitude: 16.3447
 postcode: "1080"
 city: Wien
-street: "Skodagasse"
-housenumber: 1
+street: Skodagasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://alpenrad.at/"
+website: https://alpenrad.at/

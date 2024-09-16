@@ -4,8 +4,8 @@ latitude: 48.22369
 longitude: 16.4007
 postcode: "1020"
 city: Wien
-street: "Lassallestraße"
-housenumber: 13
-phone: "+43 1 2764147"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-17:00; PH off"
-website: "https://hanf-hanf.at/"
+street: Lassallestraße
+housenumber: "13"
+phone: +43 1 2764147
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-17:00; PH off
+website: https://hanf-hanf.at/

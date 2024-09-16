@@ -4,8 +4,8 @@ latitude: 48.22418
 longitude: 16.36458
 postcode: "1090"
 city: Wien
-street: "Rotenlöwengasse"
-housenumber: 8
+street: Rotenlöwengasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Tu 09:00-20:00, We 09:00-14:00, Th-Fr 09:00-20:00, Sa 10:00-14:00"
+opening_hours: Mo-Tu 09:00-20:00, We 09:00-14:00, Th-Fr 09:00-20:00, Sa 10:00-14:00
 website: ""

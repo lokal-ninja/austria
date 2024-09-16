@@ -1,11 +1,11 @@
 id: 389375675
-type: way
+type: node
 latitude: 46.96086
 longitude: 16.27625
 postcode: "9970"
 city: Szentgotthárd
-street: "Füzesi út"
-housenumber: 10
+street: Füzesi út
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 05:30-19:00; Sa 05:30-16:00; Su 07:00-12:00"
+opening_hours: Mo-Fr 05:30-19:00; Sa 05:30-16:00; Su 07:00-12:00
 website: ""

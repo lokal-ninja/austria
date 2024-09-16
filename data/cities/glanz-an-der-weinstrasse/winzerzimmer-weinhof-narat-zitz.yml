@@ -1,11 +1,11 @@
 id: 216729918
-type: way
+type: node
 latitude: 46.65376
 longitude: 15.50727
 postcode: "8463"
 city: Glanz an der Weinstraße
 street: ""
-housenumber: 67
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.narat-zitz.at/"
+website: https://www.narat-zitz.at/

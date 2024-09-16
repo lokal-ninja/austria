@@ -4,8 +4,8 @@ latitude: 47.11943
 longitude: 15.4334
 postcode: "8045"
 city: Graz
-street: "Weinitzenstraße"
-housenumber: 67
-phone: "+43 316 693 88 111"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.flightstyle.shop/"
+street: Weinitzenstraße
+housenumber: "67"
+phone: +43 316 693 88 111
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.flightstyle.shop/

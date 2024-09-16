@@ -4,8 +4,8 @@ latitude: 47.19662
 longitude: 9.77939
 postcode: "6713"
 city: Ludesch
-street: "Dorfstraße"
-housenumber: 5
+street: Dorfstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:15; Sa 06:00-12:00; Su,PH 07:30-11:00"
-website: "https://www.bäckerei-mangold.at/"
+opening_hours: Mo-Fr 06:00-18:15; Sa 06:00-12:00; Su,PH 07:30-11:00
+website: https://www.bäckerei-mangold.at/

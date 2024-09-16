@@ -1,11 +1,11 @@
 id: 713132355
-type: way
+type: node
 latitude: 47.1229
 longitude: 15.32989
 postcode: "8111"
 city: Gratwein-Straßengel
-street: "Gratweiner Straße"
-housenumber: 75
+street: Gratweiner Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

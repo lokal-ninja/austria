@@ -4,8 +4,8 @@ latitude: 47.26382
 longitude: 10.76402
 postcode: "6464"
 city: Tarrenz
-street: "Trujegasse"
-housenumber: 1
-phone: "+43 5412 66025"
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 09:00-14:00"
-website: "http://www.sarahs-haarschneiderei.at"
+street: Trujegasse
+housenumber: "1"
+phone: +43 5412 66025
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 09:00-14:00
+website: http://www.sarahs-haarschneiderei.at

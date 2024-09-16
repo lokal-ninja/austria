@@ -1,11 +1,11 @@
 id: 155408471
-type: way
+type: node
 latitude: 47.29751
 longitude: 10.92708
 postcode: "6416"
 city: Obsteig
-street: "Unterstrass"
-housenumber: 251
+street: Unterstrass
+housenumber: "251"
 phone: "+430526420417"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

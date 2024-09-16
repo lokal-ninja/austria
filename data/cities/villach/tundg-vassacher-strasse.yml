@@ -1,11 +1,11 @@
 id: 358041149
-type: way
+type: node
 latitude: 46.62739
 longitude: 13.84648
 postcode: "9500"
 city: Villach
-street: "Vassacher Straße"
+street: Vassacher Straße
 housenumber: 32a
-phone: "+43 50321 927819"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.tundg.at"
+phone: +43 50321 927819
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.tundg.at

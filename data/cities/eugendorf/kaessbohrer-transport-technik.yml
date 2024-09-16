@@ -1,11 +1,11 @@
 id: 654510371
-type: way
+type: node
 latitude: 47.85627
 longitude: 13.13649
 postcode: "5301"
 city: Eugendorf
-street: "Gewerbestraße"
-housenumber: 30
-phone: "+43 6225 28100"
+street: Gewerbestraße
+housenumber: "30"
+phone: +43 6225 28100
 opening_hours: ""
-website: "https://www.kaessbohrer.at/"
+website: https://www.kaessbohrer.at/

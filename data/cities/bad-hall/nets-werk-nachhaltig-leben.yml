@@ -4,8 +4,8 @@ latitude: 48.03563
 longitude: 14.20723
 postcode: "4540"
 city: Bad Hall
-street: "Kirchenstraße"
-housenumber: 11
+street: Kirchenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Fr 10:00-13:00,14:00-18:30"
-website: "https://www.netswerk.at/badhall"
+opening_hours: Fr 10:00-13:00,14:00-18:30
+website: https://www.netswerk.at/badhall

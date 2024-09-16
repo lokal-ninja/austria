@@ -1,11 +1,11 @@
 id: 180365419
-type: way
+type: node
 latitude: 47.15153
 longitude: 10.58308
 postcode: "6511"
 city: Zams
-street: "Buntweg"
-housenumber: 8
+street: Buntweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

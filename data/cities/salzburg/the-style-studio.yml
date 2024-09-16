@@ -4,8 +4,8 @@ latitude: 47.81955
 longitude: 13.04426
 postcode: "5020"
 city: Salzburg
-street: "Itzlinger Hauptstraße"
-housenumber: 7
-phone: "+43 660 7831779"
-opening_hours: "on appointment"
-website: "https://thestylestudio.at/"
+street: Itzlinger Hauptstraße
+housenumber: "7"
+phone: +43 660 7831779
+opening_hours: '"on appointment"'
+website: https://thestylestudio.at/

@@ -1,11 +1,11 @@
 id: 775781165
-type: way
+type: node
 latitude: 47.83356
 longitude: 16.52991
 postcode: "7000"
 city: Eisenstadt
-street: "Ruster Straße"
-housenumber: 114
+street: Ruster Straße
+housenumber: "114"
 phone: ""
 opening_hours: ""
-website: "https://www.kamper-eisenstadt.at/"
+website: https://www.kamper-eisenstadt.at/

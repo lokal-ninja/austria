@@ -4,8 +4,8 @@ latitude: 48.20134
 longitude: 16.3968
 postcode: "1030"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 48
+street: Erdbergstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "https://madehood.com/"
+website: https://madehood.com/

@@ -4,8 +4,8 @@ latitude: 47.26266
 longitude: 11.39379
 postcode: "6020"
 city: Innsbruck
-street: "Maximilianstraße"
+street: Maximilianstraße
 housenumber: 2a
-phone: "+43 660 3702000"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sep-Jun: Sa 09:00-13:00; PH off"
-website: "https://www.schlafmanufaktur.at/"
+phone: +43 660 3702000
+opening_hours: 'Mo-Fr 09:00-13:00, 14:00-18:00; Sep-Jun: Sa 09:00-13:00; PH off'
+website: https://www.schlafmanufaktur.at/

@@ -4,8 +4,8 @@ latitude: 48.00657
 longitude: 16.23547
 postcode: "2500"
 city: Baden
-street: "Breyerstraße"
-housenumber: 5
+street: Breyerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 274893510
-type: way
+type: node
 latitude: 47.15593
 longitude: 9.82
 postcode: "6700"
 city: Bludenz
-street: "Werdenbergerstraße"
-housenumber: 34
+street: Werdenbergerstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.kronenhaus-bludenz.at/"
+website: https://www.kronenhaus-bludenz.at/

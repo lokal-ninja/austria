@@ -4,8 +4,8 @@ latitude: 48.20592
 longitude: 16.35306
 postcode: "1070"
 city: Wien
-street: "Lerchenfelder Straße"
-housenumber: 13
-phone: "+43 (1) 5221902"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-17:00"
-website: "https://citybiker.at/"
+street: Lerchenfelder Straße
+housenumber: "13"
+phone: +43 (1) 5221902
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-17:00
+website: https://citybiker.at/

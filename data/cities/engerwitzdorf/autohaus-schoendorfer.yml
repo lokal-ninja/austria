@@ -1,11 +1,11 @@
 id: 148966105
-type: way
+type: node
 latitude: 48.33576
 longitude: 14.38563
 postcode: "4209"
 city: Engerwitzdorf
-street: "Katsdorfer Straße"
-housenumber: 3
+street: Katsdorfer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.schoendorfer.at/"
+website: https://www.schoendorfer.at/

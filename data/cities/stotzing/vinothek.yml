@@ -1,11 +1,11 @@
 id: 334377136
-type: way
+type: node
 latitude: 47.91026
 longitude: 16.54506
 postcode: "2443"
 city: Stotzing
-street: "Sportplatzgasse"
-housenumber: 13
+street: Sportplatzgasse
+housenumber: "13"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

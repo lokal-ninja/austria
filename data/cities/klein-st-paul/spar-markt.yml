@@ -1,11 +1,11 @@
 id: 165491597
-type: way
+type: node
 latitude: 46.83484
 longitude: 14.54055
 postcode: "9373"
 city: Klein St. Paul
-street: "Marktstraße"
-housenumber: 28
+street: Marktstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

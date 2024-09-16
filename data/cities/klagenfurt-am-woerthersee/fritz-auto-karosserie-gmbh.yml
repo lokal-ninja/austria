@@ -1,11 +1,11 @@
 id: 375663465
-type: way
+type: node
 latitude: 46.5978
 longitude: 14.29448
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Rosentaler Straße"
-housenumber: 232
+street: Rosentaler Straße
+housenumber: "232"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-fritz.at/"
+website: http://www.auto-fritz.at/

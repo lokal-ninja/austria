@@ -4,8 +4,8 @@ latitude: 48.22488
 longitude: 16.31118
 postcode: "1170"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 205
+street: Hernalser Hauptstraße
+housenumber: "205"
 phone: ""
-opening_hours: "Mo-Fr 05:45-18:00; Sa 05:45-12:00"
-website: "https://www.baeckerei-linsbichler.com/"
+opening_hours: Mo-Fr 05:45-18:00; Sa 05:45-12:00
+website: https://www.baeckerei-linsbichler.com/

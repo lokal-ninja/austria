@@ -1,11 +1,11 @@
 id: 317252421
-type: way
+type: node
 latitude: 48.69947
 longitude: 15.11727
 postcode: "3932"
 city: Schweiggers
 street: ""
-housenumber: 32
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

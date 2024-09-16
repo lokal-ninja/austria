@@ -4,8 +4,9 @@ latitude: 48.10186
 longitude: 15.60566
 postcode: "3150"
 city: Wilhelmsburg
-street: "Kreisbacher Straße"
-housenumber: 5
-phone: "+43 664 73913050"
-opening_hours: "Jul-Aug: Mo,We,Fr 09:00-18:00; Sep-Jun: Mo,We,Fr 09:00-12:00; Sa 09:00-12:00; Su,PH off"
+street: Kreisbacher Straße
+housenumber: "5"
+phone: +43 664 73913050
+opening_hours: 'Jul-Aug: Mo,We,Fr 09:00-18:00; Sep-Jun: Mo,We,Fr 09:00-12:00; Sa 09:00-12:00;
+    Su,PH off'
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.22749
 longitude: 16.42192
 postcode: "1220"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 51
-phone: "+43 660 100 86 20"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "http://www.volksmarkt.at/"
+street: Schüttaustraße
+housenumber: "51"
+phone: +43 660 100 86 20
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: http://www.volksmarkt.at/

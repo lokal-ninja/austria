@@ -1,11 +1,11 @@
 id: 325102353
-type: way
+type: node
 latitude: 47.83905
 longitude: 16.52706
 postcode: "7000"
 city: Eisenstadt
-street: "Ruster Straße"
-housenumber: 55
+street: Ruster Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

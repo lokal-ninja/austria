@@ -4,8 +4,8 @@ latitude: 47.35447
 longitude: 9.64833
 postcode: "6844"
 city: Altach
-street: "Alteichweg"
-housenumber: 1
-phone: "+43 5576 72546"
-opening_hours: "Mo-Fr 07:30-12:30, 14:00-18:00; Sa 07:30-12:00"
+street: Alteichweg
+housenumber: "1"
+phone: +43 5576 72546
+opening_hours: Mo-Fr 07:30-12:30, 14:00-18:00; Sa 07:30-12:00
 website: ""

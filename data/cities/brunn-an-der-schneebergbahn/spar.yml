@@ -1,11 +1,11 @@
 id: 234161816
-type: way
+type: node
 latitude: 47.82583
 longitude: 16.15957
 postcode: "2721"
 city: Brunn an der Schneebergbahn
-street: "Blätterstraße"
+street: Blätterstraße
 housenumber: 2a
-phone: "+43 2639 2221"
+phone: +43 2639 2221
 opening_hours: ""
-website: "https://www.spar.at/standorte/spar-bad-fischau-2721-blaetterstrasse-2a"
+website: https://www.spar.at/standorte/spar-bad-fischau-2721-blaetterstrasse-2a

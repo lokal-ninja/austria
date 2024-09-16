@@ -1,11 +1,11 @@
 id: 294442240
-type: way
+type: node
 latitude: 47.84807
 longitude: 16.5514
 postcode: "7000"
 city: Eisenstadt
-street: "Sankt-Georgener-Hauptstraße"
-housenumber: 77
-phone: "+43 2682 65142"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00"
-website: "https://www.windpool.at/"
+street: Sankt-Georgener-Hauptstraße
+housenumber: "77"
+phone: +43 2682 65142
+opening_hours: Mo-Fr 09:00-12:00,13:00-16:00
+website: https://www.windpool.at/

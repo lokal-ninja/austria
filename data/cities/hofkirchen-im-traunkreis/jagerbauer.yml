@@ -5,7 +5,7 @@ longitude: 14.33115
 postcode: "4492"
 city: Hofkirchen im Traunkreis
 street: ""
-housenumber: 6
-phone: "+43 7225 7340"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.jagerbauer.at/"
+housenumber: "6"
+phone: +43 7225 7340
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.jagerbauer.at/

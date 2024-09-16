@@ -4,8 +4,8 @@ latitude: 47.06694
 longitude: 15.44426
 postcode: "8010"
 city: Graz
-street: "Reitschulgasse"
-housenumber: 8
+street: Reitschulgasse
+housenumber: "8"
 phone: "031681281611"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.panda-asia.at"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.panda-asia.at

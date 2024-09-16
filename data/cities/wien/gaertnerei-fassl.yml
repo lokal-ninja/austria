@@ -1,11 +1,11 @@
 id: 178719567
-type: way
+type: node
 latitude: 48.24409
 longitude: 16.32999
 postcode: "1190"
 city: Wien
-street: "Weinberggasse"
+street: Weinberggasse
 housenumber: 81-83
-phone: "+43 1 3282816"
+phone: +43 1 3282816
 opening_hours: ""
-website: "http://www.gaertnerei-fassl.at/"
+website: http://www.gaertnerei-fassl.at/

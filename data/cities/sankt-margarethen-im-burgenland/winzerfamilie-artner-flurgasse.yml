@@ -4,8 +4,8 @@ latitude: 47.80111
 longitude: 16.60738
 postcode: "7062"
 city: Sankt Margarethen im Burgenland
-street: "Flurgasse"
-housenumber: 11
-phone: "+43 664 4023 099"
-opening_hours: "nach Vereinbarung"
-website: "https://artner-wein.at/"
+street: Flurgasse
+housenumber: "11"
+phone: +43 664 4023 099
+opening_hours: '"nach Vereinbarung"'
+website: https://artner-wein.at/

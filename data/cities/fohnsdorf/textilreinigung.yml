@@ -4,8 +4,8 @@ latitude: 47.20751
 longitude: 14.67863
 postcode: "8753"
 city: Fohnsdorf
-street: "Grazerstraße"
-housenumber: 2
-phone: "+43 664 5055944"
-opening_hours: "Mo-Fr 08:00-12:00,15:00-17:30; Tu,Th 08:00-12:00"
+street: Grazerstraße
+housenumber: "2"
+phone: +43 664 5055944
+opening_hours: Mo-Fr 08:00-12:00,15:00-17:30; Tu,Th 08:00-12:00
 website: ""

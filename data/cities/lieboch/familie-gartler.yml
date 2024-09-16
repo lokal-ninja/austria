@@ -4,8 +4,8 @@ latitude: 46.98577
 longitude: 15.31301
 postcode: "8501"
 city: Lieboch
-street: "Packer Straße"
-housenumber: 300
-phone: "+43 3136 61068"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-12:00; Su,PH off"
-website: "http://www.gartler-joghurt.at/"
+street: Packer Straße
+housenumber: "300"
+phone: +43 3136 61068
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-12:00; Su,PH off
+website: http://www.gartler-joghurt.at/

@@ -1,11 +1,11 @@
 id: 152536387
-type: way
+type: node
 latitude: 48.00325
 longitude: 13.66115
 postcode: "4840"
 city: Vöcklabruck
-street: "Linzer Straße"
-housenumber: 20
-phone: "+43-7672-72246"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://partner.mercedes-benz.at/rudolf-em-eu/4840/"
+street: Linzer Straße
+housenumber: "20"
+phone: +43-7672-72246
+opening_hours: Mo-Fr 07:30-17:00
+website: http://partner.mercedes-benz.at/rudolf-em-eu/4840/

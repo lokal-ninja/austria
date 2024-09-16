@@ -1,11 +1,11 @@
 id: 129971569
-type: way
+type: node
 latitude: 48.16835
 longitude: 14.04357
 postcode: "4600"
 city: Wels
-street: "Hans-Sachs-Straße"
-housenumber: 96
-phone: "+43 676 7211929"
+street: Hans-Sachs-Straße
+housenumber: "96"
+phone: +43 676 7211929
 opening_hours: ""
-website: "https://www.facebook.com/serinawels/"
+website: https://www.facebook.com/serinawels/

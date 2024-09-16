@@ -1,11 +1,11 @@
 id: 69206108
-type: way
+type: node
 latitude: 47.37963
 longitude: 13.42059
 postcode: "5541"
 city: Altenmarkt im Pongau
-street: "Obere Marktstraße"
-housenumber: 24
+street: Obere Marktstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

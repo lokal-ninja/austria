@@ -4,8 +4,8 @@ latitude: 47.00777
 longitude: 15.41084
 postcode: "8054"
 city: Seiersberg-Pirka
-street: "Werschweg"
-housenumber: 6
+street: Werschweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://www.forstinger.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://www.forstinger.com/

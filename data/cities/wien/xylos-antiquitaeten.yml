@@ -4,8 +4,8 @@ latitude: 48.20799
 longitude: 16.37469
 postcode: "1010"
 city: Wien
-street: "Blutgasse"
-housenumber: 1
+street: Blutgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

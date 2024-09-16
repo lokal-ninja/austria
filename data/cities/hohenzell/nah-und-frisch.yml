@@ -1,11 +1,11 @@
 id: 391342229
-type: way
+type: node
 latitude: 48.19327
 longitude: 13.54587
 postcode: "4921"
 city: Hohenzell
-street: "Hofmark"
-housenumber: 3
+street: Hofmark
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

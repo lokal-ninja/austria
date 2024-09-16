@@ -1,11 +1,11 @@
 id: 148329541
-type: way
+type: node
 latitude: 47.07176
 longitude: 10.66387
 postcode: "6522"
 city: Prutz
-street: "Moosweg"
-housenumber: 22
+street: Moosweg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.hofer.at/

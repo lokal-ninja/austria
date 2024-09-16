@@ -1,11 +1,11 @@
 id: 370557720
-type: way
+type: node
 latitude: 46.87848
 longitude: 15.32156
 postcode: "8510"
 city: Stainz
 street: ""
-housenumber: 11
-phone: "+43 3463 3950"
-opening_hours: "Mo-Fr 08:00-15:00"
-website: "https://www.lukashof.com/"
+housenumber: "11"
+phone: +43 3463 3950
+opening_hours: Mo-Fr 08:00-15:00
+website: https://www.lukashof.com/

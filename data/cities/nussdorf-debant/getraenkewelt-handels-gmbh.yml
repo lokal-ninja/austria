@@ -1,11 +1,11 @@
 id: 152237663
-type: way
+type: node
 latitude: 46.83047
 longitude: 12.80924
 postcode: "9990"
 city: Nussdorf-Debant
-street: "Glocknerstraße"
-housenumber: 10
+street: Glocknerstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

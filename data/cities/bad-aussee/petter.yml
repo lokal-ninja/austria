@@ -1,11 +1,11 @@
 id: 230535338
-type: way
+type: node
 latitude: 47.6065
 longitude: 13.77822
 postcode: "8999"
 city: Bad Aussee
-street: "Umfahrungsstraße"
-housenumber: 261
+street: Umfahrungsstraße
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

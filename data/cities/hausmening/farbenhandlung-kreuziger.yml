@@ -1,11 +1,11 @@
 id: 198636246
-type: way
+type: node
 latitude: 48.07806
 longitude: 14.82246
 postcode: "3363"
 city: Hausmening
-street: "Schloßstraße"
-housenumber: 39
+street: Schloßstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

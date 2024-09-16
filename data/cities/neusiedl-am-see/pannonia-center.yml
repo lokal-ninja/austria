@@ -1,11 +1,11 @@
 id: 39354583
-type: way
+type: node
 latitude: 47.97326
 longitude: 16.84135
 postcode: "7100"
 city: Neusiedl am See
-street: "Altenburger Straße"
-housenumber: 20
+street: Altenburger Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "http://www.pannonia-shopping.at/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: http://www.pannonia-shopping.at/

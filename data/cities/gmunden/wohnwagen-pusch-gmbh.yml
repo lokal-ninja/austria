@@ -4,8 +4,9 @@ latitude: 47.9338
 longitude: 13.80414
 postcode: "4810"
 city: Gmunden
-street: "Linzerstraße"
-housenumber: 138
-phone: "+43  0 76 12 / 67 945"
-opening_hours: "Mar-Oct: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 09:00-12:00; Nov-Feb: Mo-Fr 08:30-12:00, 13:00-16:00"
-website: "https://www.pusch-wohnwagen.at/"
+street: Linzerstraße
+housenumber: "138"
+phone: +43  0 76 12 / 67 945
+opening_hours: 'Mar-Oct: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 09:00-12:00; Nov-Feb:
+    Mo-Fr 08:30-12:00, 13:00-16:00'
+website: https://www.pusch-wohnwagen.at/

@@ -1,11 +1,11 @@
 id: 150624285
-type: way
+type: node
 latitude: 48.56797
 longitude: 14.10827
 postcode: "4170"
 city: St. Stefan-Afiesl
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

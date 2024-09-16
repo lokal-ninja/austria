@@ -1,11 +1,11 @@
 id: 177113375
-type: way
+type: node
 latitude: 48.02592
 longitude: 14.41707
 postcode: "4400"
 city: Steyr
-street: "Eisenstraße"
-housenumber: 44
+street: Eisenstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.lidl.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.lidl.at/

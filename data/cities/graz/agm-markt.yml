@@ -4,8 +4,8 @@ latitude: 47.08022
 longitude: 15.41592
 postcode: "8020"
 city: Graz
-street: "Bahnhofgürtel"
-housenumber: 31
+street: Bahnhofgürtel
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.agm.at/maerkte"
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.agm.at/maerkte

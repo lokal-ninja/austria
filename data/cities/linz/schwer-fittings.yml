@@ -1,11 +1,11 @@
 id: 89117444
-type: way
+type: node
 latitude: 48.29336
 longitude: 14.29876
 postcode: "4020"
 city: Linz
-street: "Lenaustraße"
-housenumber: 12
+street: Lenaustraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

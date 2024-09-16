@@ -1,11 +1,11 @@
 id: 233871073
-type: way
+type: node
 latitude: 48.41784
 longitude: 15.30754
 postcode: "3623"
 city: Kottes-Purk
-street: "Kremstalstraße"
-housenumber: 23
-phone: "+43 2873 7279"
+street: Kremstalstraße
+housenumber: "23"
+phone: +43 2873 7279
 opening_hours: ""
 website: ""

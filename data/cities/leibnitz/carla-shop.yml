@@ -1,11 +1,11 @@
 id: 151537449
-type: way
+type: node
 latitude: 46.78312
 longitude: 15.53909
 postcode: "8430"
 city: Leibnitz
-street: "Grazergasse"
-housenumber: 12
+street: Grazergasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.caritas-steiermark.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.caritas-steiermark.at/

@@ -4,8 +4,8 @@ latitude: 48.27846
 longitude: 16.41034
 postcode: "1210"
 city: Wien
-street: "Brünner Straße"
-housenumber: 138
+street: Brünner Straße
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
-website: "http://www.aycansupermarkt.at/"
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
+website: http://www.aycansupermarkt.at/

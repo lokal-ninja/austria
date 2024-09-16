@@ -1,11 +1,11 @@
 id: 86554992
-type: way
+type: node
 latitude: 48.15343
 longitude: 13.99401
 postcode: "4600"
 city: Wels
-street: "Nelkenstraße"
-housenumber: 33
-phone: "+43-7242-35353"
-opening_hours: "Mo-Th 10:00-13:00, 14:00-18:30; Fr 10:00-18:30; Sa 10:00-13:00"
-website: "https://www.rootsman.at/"
+street: Nelkenstraße
+housenumber: "33"
+phone: +43-7242-35353
+opening_hours: Mo-Th 10:00-13:00, 14:00-18:30; Fr 10:00-18:30; Sa 10:00-13:00
+website: https://www.rootsman.at/

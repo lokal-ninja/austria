@@ -4,8 +4,8 @@ latitude: 48.22425
 longitude: 16.40136
 postcode: "1020"
 city: Wien
-street: "Vorgartenstraße"
-housenumber: 144
+street: Vorgartenstraße
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://vitaminstation2.at/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://vitaminstation2.at/

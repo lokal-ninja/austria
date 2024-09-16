@@ -1,11 +1,11 @@
 id: 90576944
-type: way
+type: node
 latitude: 47.06558
 longitude: 15.41341
 postcode: "8020"
 city: Graz
-street: "Alte Poststraße"
-housenumber: 171
+street: Alte Poststraße
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

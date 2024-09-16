@@ -1,11 +1,11 @@
 id: 140412581
-type: way
+type: node
 latitude: 48.48993
 longitude: 13.96958
 postcode: "4121"
 city: Altenfelden
-street: "Sandberg"
-housenumber: 6
-phone: "+43-7282-20560"
+street: Sandberg
+housenumber: "6"
+phone: +43-7282-20560
 opening_hours: ""
 website: ""

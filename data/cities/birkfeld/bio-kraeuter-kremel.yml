@@ -1,11 +1,11 @@
 id: 71932555
-type: way
+type: node
 latitude: 47.33311
 longitude: 15.68527
 postcode: "8191"
 city: Birkfeld
 street: ""
-housenumber: 12
+housenumber: "12"
 phone: ""
-opening_hours: "Sa 8:00-12:00"
+opening_hours: Sa 8:00-12:00
 website: ""

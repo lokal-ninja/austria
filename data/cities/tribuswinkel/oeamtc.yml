@@ -1,11 +1,11 @@
 id: 88206840
-type: way
+type: node
 latitude: 47.99357
 longitude: 16.26158
 postcode: "2512"
 city: Tribuswinkel
-street: "Zubringerstraße"
-housenumber: 99
-phone: "+43 2252 52375"
+street: Zubringerstraße
+housenumber: "99"
+phone: +43 2252 52375
 opening_hours: ""
 website: ""

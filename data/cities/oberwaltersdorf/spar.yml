@@ -1,11 +1,11 @@
 id: 339276443
-type: way
+type: node
 latitude: 47.98062
 longitude: 16.31897
 postcode: "2522"
 city: Oberwaltersdorf
-street: "Florianistraße"
-housenumber: 4
+street: Florianistraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

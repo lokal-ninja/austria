@@ -1,11 +1,11 @@
 id: 205388353
-type: way
+type: node
 latitude: 47.20813
 longitude: 10.86341
 postcode: "6432"
 city: Sautens
-street: "Dorfstraße"
-housenumber: 60
+street: Dorfstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

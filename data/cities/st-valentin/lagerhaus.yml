@@ -1,11 +1,11 @@
 id: 191556992
-type: way
+type: node
 latitude: 48.16947
 longitude: 14.51914
 postcode: "4300"
 city: St. Valentin
-street: "Rüdigerstraße"
+street: Rüdigerstraße
 housenumber: 7-9
 phone: "+43743552472"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://www.lagerhaus-amstetten.at/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://www.lagerhaus-amstetten.at/

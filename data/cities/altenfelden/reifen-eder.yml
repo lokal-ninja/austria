@@ -1,11 +1,11 @@
 id: 189044813
-type: way
+type: node
 latitude: 48.48572
 longitude: 13.9679
 postcode: "4121"
 city: Altenfelden
-street: "Wildparkstraße"
-housenumber: 2
+street: Wildparkstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

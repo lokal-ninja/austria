@@ -1,11 +1,11 @@
 id: 235553451
-type: way
+type: node
 latitude: 48.24173
 longitude: 16.36383
 postcode: "1190"
 city: Wien
-street: "Heiligenstädter Lände"
-housenumber: 27
+street: Heiligenstädter Lände
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 122897331
-type: way
+type: node
 latitude: 48.10673
 longitude: 16.3176
 postcode: "2334"
 city: Vösendorf
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.ikea.com/at/de/stores/wien-voesendorf/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.ikea.com/at/de/stores/wien-voesendorf/

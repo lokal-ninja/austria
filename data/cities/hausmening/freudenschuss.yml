@@ -1,11 +1,11 @@
 id: 188889385
-type: way
+type: node
 latitude: 48.07687
 longitude: 14.81447
 postcode: "3363"
 city: Hausmening
-street: "Theresienthalstraße"
-housenumber: 2
+street: Theresienthalstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.schussi.at/"
+website: https://www.schussi.at/

@@ -4,8 +4,8 @@ latitude: 48.2169
 longitude: 16.48826
 postcode: "1220"
 city: Wien
-street: "Zachgasse"
-housenumber: 1
-phone: "+43 1 2836555"
-opening_hours: "nach Vereinbarung"
-website: "https://www.kuechenkultur.at/"
+street: Zachgasse
+housenumber: "1"
+phone: +43 1 2836555
+opening_hours: '"nach Vereinbarung"'
+website: https://www.kuechenkultur.at/

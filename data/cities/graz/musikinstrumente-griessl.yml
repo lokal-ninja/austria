@@ -1,11 +1,11 @@
 id: 232870386
-type: way
+type: node
 latitude: 47.09197
 longitude: 15.40713
 postcode: "8051"
 city: Graz
-street: "Wiener Straße"
-housenumber: 235
-phone: "+43 316 681001"
+street: Wiener Straße
+housenumber: "235"
+phone: +43 316 681001
 opening_hours: ""
-website: "https://www.griessl.at/"
+website: https://www.griessl.at/

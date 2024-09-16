@@ -1,11 +1,11 @@
 id: 588183668
-type: way
+type: node
 latitude: 46.67784
 longitude: 15.9889
 postcode: "9250"
 city: Gornja Radgona
-street: "Pokopališka cesta"
-housenumber: 4
-phone: "+386 2 564 87 77"
+street: Pokopališka cesta
+housenumber: "4"
+phone: +386 2 564 87 77
 opening_hours: ""
 website: ""

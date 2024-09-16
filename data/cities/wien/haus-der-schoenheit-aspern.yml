@@ -1,11 +1,11 @@
 id: 48388003
-type: way
+type: node
 latitude: 48.21681
 longitude: 16.4824
 postcode: "1220"
 city: Wien
-street: "Asperner Heldenplatz"
-housenumber: 5
+street: Asperner Heldenplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 162368792
-type: way
+type: node
 latitude: 48.36767
 longitude: 16.64388
 postcode: "2214"
 city: Auersthal
-street: "Bahnstraße"
-housenumber: 28
-phone: "+43 2288 2229"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00"
-website: "https://www.wallnerpool.at/"
+street: Bahnstraße
+housenumber: "28"
+phone: +43 2288 2229
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00
+website: https://www.wallnerpool.at/

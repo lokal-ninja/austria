@@ -4,8 +4,8 @@ latitude: 48.22305
 longitude: 16.36124
 postcode: "1090"
 city: Wien
-street: "Porzellangasse"
-housenumber: 43
+street: Porzellangasse
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

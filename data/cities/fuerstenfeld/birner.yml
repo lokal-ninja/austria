@@ -1,11 +1,11 @@
 id: 195007940
-type: way
+type: node
 latitude: 47.05816
 longitude: 16.06855
 postcode: "8280"
 city: Fürstenfeld
-street: "Grazerstraße"
-housenumber: 15
+street: Grazerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
-website: "https://www.birner.at/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00
+website: https://www.birner.at/

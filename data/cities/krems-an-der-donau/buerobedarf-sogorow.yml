@@ -4,8 +4,8 @@ latitude: 48.41112
 longitude: 15.60242
 postcode: "3500"
 city: Krems an der Donau
-street: "Spänglergasse"
-housenumber: 5
-phone: "+43 2732 82328"
-opening_hours: "Mo-Fr 09:00-12:00, We 15:00-18:00"
-website: "https://www.sogorow.at/"
+street: Spänglergasse
+housenumber: "5"
+phone: +43 2732 82328
+opening_hours: Mo-Fr 09:00-12:00, We 15:00-18:00
+website: https://www.sogorow.at/

@@ -1,11 +1,11 @@
 id: 197399033
-type: way
+type: node
 latitude: 48.0971
 longitude: 14.80072
 postcode: "3362"
 city: Mauer bei Amstetten
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

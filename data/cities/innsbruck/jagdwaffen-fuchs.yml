@@ -4,8 +4,8 @@ latitude: 47.26401
 longitude: 11.43104
 postcode: "6020"
 city: Innsbruck
-street: "Grabenweg"
-housenumber: 12
-phone: "+43 512 587267"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-12:00; PH off"
-website: "https://jagdwaffenfuchs.at/"
+street: Grabenweg
+housenumber: "12"
+phone: +43 512 587267
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-12:00; PH off
+website: https://jagdwaffenfuchs.at/

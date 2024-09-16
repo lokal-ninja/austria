@@ -1,11 +1,11 @@
 id: 235011821
-type: way
+type: node
 latitude: 47.28697
 longitude: 12.50981
 postcode: "5724"
 city: Stuhlfelden
-street: "Mittersiller Bundesstraße"
-housenumber: 40
+street: Mittersiller Bundesstraße
+housenumber: "40"
 phone: "+4350321927828"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
-website: "https://www.tundg.at/"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00
+website: https://www.tundg.at/

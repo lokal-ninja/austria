@@ -4,8 +4,8 @@ latitude: 48.10625
 longitude: 16.28433
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Leopold-Gattringer-Straße"
-housenumber: 17
-phone: "+43 660 7693630"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00"
+street: Leopold-Gattringer-Straße
+housenumber: "17"
+phone: +43 660 7693630
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00
 website: ""

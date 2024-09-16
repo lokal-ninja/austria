@@ -1,11 +1,11 @@
 id: 916945920
-type: way
+type: node
 latitude: 46.81505
 longitude: 15.92871
 postcode: "8354"
 city: Sankt Anna am Aigen
 street: ""
 housenumber: 68a
-phone: "+43 699 19037461"
+phone: +43 699 19037461
 opening_hours: ""
-website: "https://www.maika.at/"
+website: https://www.maika.at/

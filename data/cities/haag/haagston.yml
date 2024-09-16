@@ -1,11 +1,11 @@
 id: 317191175
-type: way
+type: node
 latitude: 48.10335
 longitude: 14.57083
 postcode: "3350"
 city: Haag
-street: "Stummerstraße"
-housenumber: 3
+street: Stummerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 906512737
-type: way
+type: node
 latitude: 46.98728
 longitude: 16.25284
 postcode: "7561"
 city: Heiligenkreuz im Lafnitztal
-street: "Obere Hauptstraße"
-housenumber: 23
-phone: "+43 59915 07189"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Obere Hauptstraße
+housenumber: "23"
+phone: +43 59915 07189
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

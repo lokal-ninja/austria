@@ -1,11 +1,11 @@
 id: 85511134
-type: way
+type: node
 latitude: 47.07819
 longitude: 15.46404
 postcode: "8010"
 city: Graz
-street: "Leonhardplatz"
-housenumber: 1
+street: Leonhardplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.23122
 longitude: 16.37548
 postcode: "1200"
 city: Wien
-street: "Wallensteinstraße"
-housenumber: 55
+street: Wallensteinstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.lidl.at/c/filialen-und-oeffnungszeiten/s10017229"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.lidl.at/c/filialen-und-oeffnungszeiten/s10017229

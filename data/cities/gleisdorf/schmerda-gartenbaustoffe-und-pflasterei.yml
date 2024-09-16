@@ -1,11 +1,11 @@
 id: 1067175753
-type: way
+type: node
 latitude: 47.10732
 longitude: 15.70141
 postcode: "8200"
 city: Gleisdorf
-street: "Schubertgasse"
-housenumber: 11
+street: Schubertgasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

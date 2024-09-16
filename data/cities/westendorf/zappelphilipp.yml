@@ -4,8 +4,8 @@ latitude: 47.43275
 longitude: 12.21376
 postcode: "6363"
 city: Westendorf
-street: "Peter-Neuschmid-Straße"
-housenumber: 6
+street: Peter-Neuschmid-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://www.kindermoden-zappelphilipp.at/"
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00
+website: https://www.kindermoden-zappelphilipp.at/

@@ -1,11 +1,11 @@
 id: 127321860
-type: way
+type: node
 latitude: 47.0923
 longitude: 9.90791
 postcode: "6781"
 city: Bartholomäberg
-street: "Dorf"
-housenumber: 4
+street: Dorf
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,15:00-18:00; Sa 07:00-12:00,16:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-12:00,15:00-18:00; Sa 07:00-12:00,16:00-18:00; Su,PH off
 website: ""

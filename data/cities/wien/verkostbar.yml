@@ -4,8 +4,8 @@ latitude: 48.19097
 longitude: 16.27386
 postcode: "1130"
 city: Wien
-street: "Testarellogasse"
-housenumber: 24
+street: Testarellogasse
+housenumber: "24"
 phone: ""
-opening_hours: "Fr-Sa 12:00-18:00"
-website: "https://verkostbar.wine/"
+opening_hours: Fr-Sa 12:00-18:00
+website: https://verkostbar.wine/

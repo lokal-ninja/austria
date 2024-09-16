@@ -1,11 +1,11 @@
 id: 236303413
-type: way
+type: node
 latitude: 47.207
 longitude: 10.76183
 postcode: "6471"
 city: Arzl im Pitztal
-street: "Dorfstraße"
-housenumber: 43
+street: Dorfstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00, Sa 07:30-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:30-19:00, Sa 07:30-18:00; Su,PH off
 website: ""

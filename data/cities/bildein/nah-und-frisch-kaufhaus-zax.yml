@@ -4,8 +4,8 @@ latitude: 47.12929
 longitude: 16.46799
 postcode: "7521"
 city: Bildein
-street: "Hauptstraße"
-housenumber: 113
-phone: "+43 3323 20528"
-opening_hours: "Mo-Fr 07:00-12:30,15:00-18:00; We 07:00-12:30; Sa 07:00-12:00"
-website: "https://www.nahundfrisch.at/de/kaufmann/zax-helga"
+street: Hauptstraße
+housenumber: "113"
+phone: +43 3323 20528
+opening_hours: Mo-Fr 07:00-12:30,15:00-18:00; We 07:00-12:30; Sa 07:00-12:00
+website: https://www.nahundfrisch.at/de/kaufmann/zax-helga

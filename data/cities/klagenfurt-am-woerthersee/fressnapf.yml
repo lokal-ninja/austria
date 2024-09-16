@@ -1,11 +1,11 @@
 id: 180450483
-type: way
+type: node
 latitude: 46.62987
 longitude: 14.35859
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Alte Stadtgrenze"
-housenumber: 1
+street: Alte Stadtgrenze
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

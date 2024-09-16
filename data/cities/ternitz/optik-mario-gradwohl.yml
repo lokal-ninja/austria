@@ -1,11 +1,11 @@
 id: 508938233
-type: way
+type: node
 latitude: 47.71595
 longitude: 16.03828
 postcode: "2630"
 city: Ternitz
-street: "Hauptstraße"
-housenumber: 20
-phone: "+43 (2630) 35825"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-We,Fr 14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://auge-brille.at/"
+street: Hauptstraße
+housenumber: "20"
+phone: +43 (2630) 35825
+opening_hours: Mo-Fr 08:00-12:00; Mo-We,Fr 14:00-18:00; Sa 09:00-12:00; PH off
+website: https://auge-brille.at/

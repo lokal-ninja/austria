@@ -1,11 +1,11 @@
 id: 49367073
-type: way
+type: node
 latitude: 48.28208
 longitude: 14.26259
 postcode: "4060"
 city: Leonding
-street: "Schieleweg"
-housenumber: 2
+street: Schieleweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

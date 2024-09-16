@@ -1,11 +1,11 @@
 id: 372810024
-type: way
+type: node
 latitude: 48.31759
 longitude: 14.47867
 postcode: "4223"
 city: Katsdorf
-street: "Baderberg"
-housenumber: 15
+street: Baderberg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

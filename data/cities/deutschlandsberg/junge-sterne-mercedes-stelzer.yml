@@ -1,11 +1,11 @@
 id: 238307916
-type: way
+type: node
 latitude: 46.81652
 longitude: 15.23612
 postcode: "8530"
 city: Deutschlandsberg
-street: "Radlpaßstraße"
-housenumber: 17
+street: Radlpaßstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00,Sa 09:00-12:00"
-website: "https://www.mercedes-stelzer.at/"
+opening_hours: Mo-Fr 09:00-18:00,Sa 09:00-12:00
+website: https://www.mercedes-stelzer.at/

@@ -4,8 +4,8 @@ latitude: 47.02693
 longitude: 15.41208
 postcode: "8054"
 city: Graz
-street: "Riedlerweg"
-housenumber: 15
-phone: "+43 316 24 39 49 0"
-opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-12:00"
-website: "https://mapa.at/"
+street: Riedlerweg
+housenumber: "15"
+phone: +43 316 24 39 49 0
+opening_hours: Mo-Th 08:00-15:00; Fr 08:00-12:00
+website: https://mapa.at/

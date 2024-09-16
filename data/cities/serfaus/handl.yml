@@ -1,11 +1,11 @@
 id: 98591012
-type: way
+type: node
 latitude: 47.03845
 longitude: 10.60727
 postcode: "6534"
 city: Serfaus
-street: "Dorfbahnstraße"
-housenumber: 29
+street: Dorfbahnstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.kirchplatz-serfaus.at/"
+website: https://www.kirchplatz-serfaus.at/

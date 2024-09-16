@@ -4,8 +4,8 @@ latitude: 48.20691
 longitude: 16.37269
 postcode: "1010"
 city: Wien
-street: "Weihburggasse"
-housenumber: 4
+street: Weihburggasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://huber-lerner.at/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://huber-lerner.at/

@@ -1,11 +1,11 @@
 id: 498857209
-type: way
+type: node
 latitude: 46.743
 longitude: 14.38793
 postcode: "9300"
 city: Sankt Veit an der Glan
-street: "Wirtschaftspark St. Veit/Glan"
-housenumber: 7
-phone: "04212 49549"
+street: Wirtschaftspark St. Veit/Glan
+housenumber: "7"
+phone: 04212 49549
 opening_hours: ""
 website: ""

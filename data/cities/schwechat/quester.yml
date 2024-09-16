@@ -1,11 +1,11 @@
 id: 166990938
-type: way
+type: node
 latitude: 48.14574
 longitude: 16.46646
 postcode: "2320"
 city: Schwechat
-street: "Klederinger Straße"
-housenumber: 2
+street: Klederinger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-13:00
 website: ""

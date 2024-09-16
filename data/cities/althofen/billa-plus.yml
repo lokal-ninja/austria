@@ -1,11 +1,11 @@
 id: 98386017
-type: way
+type: node
 latitude: 46.86996
 longitude: 14.4675
 postcode: "9330"
 city: Althofen
-street: "Kreuzstraße"
-housenumber: 29
+street: Kreuzstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.billa.at"
+website: https://www.billa.at

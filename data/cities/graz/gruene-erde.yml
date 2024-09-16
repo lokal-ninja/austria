@@ -4,8 +4,8 @@ latitude: 47.0733
 longitude: 15.43959
 postcode: "8010"
 city: Graz
-street: "Sporgasse"
-housenumber: 27
-phone: "+43 7615 20 34 11"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; PH,Su off"
-website: "https://www.grueneerde.com/"
+street: Sporgasse
+housenumber: "27"
+phone: +43 7615 20 34 11
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; PH,Su off
+website: https://www.grueneerde.com/

@@ -4,8 +4,8 @@ latitude: 48.20575
 longitude: 16.33193
 postcode: "1160"
 city: Wien
-street: "Herbststraße"
-housenumber: 24
-phone: "+43 660 681 68 33"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00; Sa 08:00-12:00; PH off"
-website: "https://www.radlfriseur.at/"
+street: Herbststraße
+housenumber: "24"
+phone: +43 660 681 68 33
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:00; Sa 08:00-12:00; PH off
+website: https://www.radlfriseur.at/

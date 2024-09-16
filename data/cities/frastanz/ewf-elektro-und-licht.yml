@@ -4,8 +4,8 @@ latitude: 47.21789
 longitude: 9.64287
 postcode: "6820"
 city: Frastanz
-street: "Sonnenberger Straße"
-housenumber: 17
+street: Sonnenberger Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00"
-website: "https://www.ewerke.at/"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00
+website: https://www.ewerke.at/

@@ -1,11 +1,11 @@
 id: 60792594
-type: way
+type: node
 latitude: 46.70377
 longitude: 13.66373
 postcode: "9710"
 city: Paternion
-street: "Bahnhofstraße (Feistritz/Drau)"
-housenumber: 69
+street: Bahnhofstraße (Feistritz/Drau)
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

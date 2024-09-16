@@ -1,11 +1,11 @@
 id: 126183746
-type: way
+type: node
 latitude: 48.56543
 longitude: 16.07408
 postcode: "2020"
 city: Hollabrunn
-street: "Gschmeidlerstraße"
-housenumber: 16
-phone: "+43 2952 35268"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off"
+street: Gschmeidlerstraße
+housenumber: "16"
+phone: +43 2952 35268
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off
 website: ""

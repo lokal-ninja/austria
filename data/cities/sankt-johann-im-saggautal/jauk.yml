@@ -1,11 +1,11 @@
 id: 159531280
-type: way
+type: node
 latitude: 46.70082
 longitude: 15.40067
 postcode: "8453"
 city: Sankt Johann im Saggautal
 street: ""
-housenumber: 102
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-16:45; PH off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-16:45; PH off
 website: ""

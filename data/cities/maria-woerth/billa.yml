@@ -1,11 +1,11 @@
 id: 45496706
-type: way
+type: node
 latitude: 46.60472
 longitude: 14.17713
 postcode: "9081"
 city: Maria Wörth
-street: "Koschatstraße"
-housenumber: 1
+street: Koschatstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.18851
 longitude: 16.28545
 postcode: "1130"
 city: Wien
-street: "Wittegasse"
-housenumber: 2
+street: Wittegasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su-Mo off"
-website: "http://teenorissimo.at/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su-Mo off
+website: http://teenorissimo.at/

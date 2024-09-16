@@ -4,8 +4,8 @@ latitude: 48.313
 longitude: 14.28171
 postcode: "4040"
 city: Linz
-street: "Hauptstraße"
-housenumber: 51
+street: Hauptstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

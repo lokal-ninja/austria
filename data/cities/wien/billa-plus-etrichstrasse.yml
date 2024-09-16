@@ -4,8 +4,8 @@ latitude: 48.15483
 longitude: 16.46567
 postcode: "1110"
 city: Wien
-street: "Etrichstraße"
-housenumber: 34
+street: Etrichstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.billa.at

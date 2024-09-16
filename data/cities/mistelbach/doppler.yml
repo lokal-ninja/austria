@@ -1,11 +1,11 @@
 id: 200433007
-type: way
+type: node
 latitude: 48.57288
 longitude: 16.5734
 postcode: "2130"
 city: Mistelbach
-street: "Neustiftgasse"
-housenumber: 12
+street: Neustiftgasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 221583538
-type: way
+type: node
 latitude: 48.00121
 longitude: 13.53172
 postcode: "4851"
 city: Gampern
 street: ""
-housenumber: 9
-phone: "+43 7682 8071"
-opening_hours: "Mo-Tu, Th-Fr 06:30-12:30,14:30-18:00, We 6:30-12:00, Sa 6:30-13:00"
+housenumber: "9"
+phone: +43 7682 8071
+opening_hours: Mo-Tu, Th-Fr 06:30-12:30,14:30-18:00, We 6:30-12:00, Sa 6:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 114185924
-type: way
+type: node
 latitude: 48.13035
 longitude: 16.10998
 postcode: "2384"
 city: Breitenfurt bei Wien
-street: "Hochrotherdstraße"
-housenumber: 17
+street: Hochrotherdstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "www.stf.at"
+website: www.stf.at

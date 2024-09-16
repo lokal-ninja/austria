@@ -1,11 +1,11 @@
 id: 89147471
-type: way
+type: node
 latitude: 46.62874
 longitude: 14.35243
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Völkermarkter Straße"
-housenumber: 242
+street: Völkermarkter Straße
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

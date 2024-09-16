@@ -1,11 +1,11 @@
 id: 86913419
-type: way
+type: node
 latitude: 48.21553
 longitude: 14.27802
 postcode: "4052"
 city: Ansfelden
-street: "Traunuferstraße"
-housenumber: 114
+street: Traunuferstraße
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

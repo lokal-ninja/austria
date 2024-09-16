@@ -1,11 +1,11 @@
 id: 159246820
-type: way
+type: node
 latitude: 46.81817
 longitude: 14.84543
 postcode: "9400"
 city: Wolfsberg
-street: "Mühlgangweg"
-housenumber: 3
+street: Mühlgangweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

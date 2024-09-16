@@ -1,11 +1,11 @@
 id: 705423451
-type: way
+type: node
 latitude: 48.54065
 longitude: 14.37254
 postcode: "4193"
 city: Reichenthal
-street: "Gemeindeberg"
-housenumber: 23
+street: Gemeindeberg
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://schwarzspecht.at/"
+website: https://schwarzspecht.at/

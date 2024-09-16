@@ -4,8 +4,8 @@ latitude: 48.20528
 longitude: 15.62449
 postcode: "3100"
 city: St. Pölten
-street: "Kremser Gasse"
-housenumber: 15
+street: Kremser Gasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.soliver.at/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.soliver.at/

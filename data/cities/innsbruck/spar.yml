@@ -4,8 +4,8 @@ latitude: 47.25627
 longitude: 11.39159
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 44
-phone: "+43 512 562834"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
-website: "https://www.spar.at/de_AT/index/standorte/60/spar_supermarkt_innsbruckandreas-hofe_4294.html"
+street: Andreas-Hofer-Straße
+housenumber: "44"
+phone: +43 512 562834
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+website: https://www.spar.at/de_AT/index/standorte/60/spar_supermarkt_innsbruckandreas-hofe_4294.html

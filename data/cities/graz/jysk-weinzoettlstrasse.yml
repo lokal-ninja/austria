@@ -1,11 +1,11 @@
 id: 168618757
-type: way
+type: node
 latitude: 47.10649
 longitude: 15.41498
 postcode: "8045"
 city: Graz
-street: "Weinzöttlstraße"
-housenumber: 42
+street: Weinzöttlstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5116"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5116

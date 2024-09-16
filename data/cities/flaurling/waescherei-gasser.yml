@@ -1,11 +1,11 @@
 id: 165578539
-type: way
+type: node
 latitude: 47.28647
 longitude: 11.14122
 postcode: "6403"
 city: Flaurling
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

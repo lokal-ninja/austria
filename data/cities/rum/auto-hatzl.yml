@@ -1,11 +1,11 @@
 id: 111438710
-type: way
+type: node
 latitude: 47.28671
 longitude: 11.45208
 postcode: "6063"
 city: Rum
-street: "Ahornstraße"
-housenumber: 1
+street: Ahornstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

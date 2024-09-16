@@ -1,11 +1,11 @@
 id: 183002682
-type: way
+type: node
 latitude: 47.44941
 longitude: 12.32778
 postcode: "6365"
 city: Kirchberg in Tirol
-street: "Kitzbüheler Straße"
-housenumber: 118
+street: Kitzbüheler Straße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su 08:15-14:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su 08:15-14:00
 website: ""

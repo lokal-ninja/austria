@@ -4,8 +4,8 @@ latitude: 47.34488
 longitude: 11.70743
 postcode: "6130"
 city: Schwaz
-street: "Andreas-Hofer-Straße"
-housenumber: 3
+street: Andreas-Hofer-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.wams.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.wams.at/

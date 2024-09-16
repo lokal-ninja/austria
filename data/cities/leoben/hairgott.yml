@@ -4,8 +4,8 @@ latitude: 47.38114
 longitude: 15.09297
 postcode: "8700"
 city: Leoben
-street: "Peter Tunner-Straße"
-housenumber: 2
+street: Peter Tunner-Straße
+housenumber: "2"
 phone: "+43384242203"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.hairgott.co.at/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.hairgott.co.at/

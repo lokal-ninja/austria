@@ -1,11 +1,11 @@
 id: 551100449
-type: way
+type: node
 latitude: 48.76956
 longitude: 16.64281
 postcode: "2165"
 city: Drasenhofen
-street: "Betriebsgebiet Nord"
-housenumber: 1
+street: Betriebsgebiet Nord
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

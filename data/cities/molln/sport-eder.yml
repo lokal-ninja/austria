@@ -1,11 +1,11 @@
 id: 85765419
-type: way
+type: node
 latitude: 47.89191
 longitude: 14.25391
 postcode: "4591"
 city: Molln
-street: "Sägewerkstraße"
-housenumber: 3
+street: Sägewerkstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

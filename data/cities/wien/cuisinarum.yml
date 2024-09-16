@@ -4,8 +4,8 @@ latitude: 48.20721
 longitude: 16.37366
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 14
+street: Singerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "https://www.cuisinarum.at/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: https://www.cuisinarum.at/

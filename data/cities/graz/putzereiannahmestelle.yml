@@ -4,8 +4,8 @@ latitude: 47.08487
 longitude: 15.48761
 postcode: "8010"
 city: Graz
-street: "Riesstraße"
-housenumber: 143
+street: Riesstraße
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:30,16:00-19:00; Th 06:00-12:30; Sa 07:00-13:00"
+opening_hours: Mo-Fr 06:00-12:30,16:00-19:00; Th 06:00-12:30; Sa 07:00-13:00
 website: ""

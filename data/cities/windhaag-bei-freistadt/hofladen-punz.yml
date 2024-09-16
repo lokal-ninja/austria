@@ -1,11 +1,11 @@
 id: 978471466
-type: way
+type: node
 latitude: 48.56302
 longitude: 14.55532
 postcode: "4263"
 city: Windhaag bei Freistadt
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

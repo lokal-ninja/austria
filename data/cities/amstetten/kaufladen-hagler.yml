@@ -1,11 +1,11 @@
 id: 290568517
-type: way
+type: node
 latitude: 48.10777
 longitude: 14.86865
 postcode: "3300"
 city: Amstetten
-street: "Bozener Straße"
-housenumber: 2
+street: Bozener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

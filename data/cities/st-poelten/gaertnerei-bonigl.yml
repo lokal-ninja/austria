@@ -4,8 +4,8 @@ latitude: 48.21329
 longitude: 15.61357
 postcode: "3100"
 city: St. Pölten
-street: "Goldegger Straße"
-housenumber: 38
+street: Goldegger Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.bonigl.at/kontakt/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.bonigl.at/kontakt/

@@ -4,8 +4,8 @@ latitude: 48.2036
 longitude: 16.37563
 postcode: "1010"
 city: Wien
-street: "Hegelgasse"
-housenumber: 9
+street: Hegelgasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.paul.wien/"
+website: https://www.paul.wien/

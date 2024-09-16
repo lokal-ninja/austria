@@ -1,11 +1,11 @@
 id: 430652167
-type: way
+type: node
 latitude: 48.14927
 longitude: 16.34408
 postcode: "1230"
 city: Wien
-street: "Sterngasse"
-housenumber: 6
+street: Sterngasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.billa.at

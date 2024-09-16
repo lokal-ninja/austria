@@ -1,11 +1,11 @@
 id: 189323775
-type: way
+type: node
 latitude: 48.19784
 longitude: 13.91972
 postcode: "4632"
 city: Pichl bei Wels
 street: ""
-housenumber: 5
-phone: "+43 7247 20578"
-opening_hours: "Mo-Th 07:00-12:00, 12:30-16:00; Fr 07:00-12:00"
-website: "http://www.hari-lackierer.at/"
+housenumber: "5"
+phone: +43 7247 20578
+opening_hours: Mo-Th 07:00-12:00, 12:30-16:00; Fr 07:00-12:00
+website: http://www.hari-lackierer.at/

@@ -4,8 +4,8 @@ latitude: 48.22522
 longitude: 16.38272
 postcode: "1020"
 city: Wien
-street: "Scherzergasse"
-housenumber: 1
+street: Scherzergasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://nimmerrichter.com/"
+website: https://nimmerrichter.com/

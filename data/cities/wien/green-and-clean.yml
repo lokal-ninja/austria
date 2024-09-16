@@ -4,8 +4,8 @@ latitude: 48.25981
 longitude: 16.41082
 postcode: "1210"
 city: Wien
-street: "Leopoldauer Straße"
-housenumber: 47
+street: Leopoldauer Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-22:00"
-website: "http://www.greenandclean.at/en/stores/austria/floridsdorf.html"
+opening_hours: Mo-Su,PH 06:00-22:00
+website: http://www.greenandclean.at/en/stores/austria/floridsdorf.html

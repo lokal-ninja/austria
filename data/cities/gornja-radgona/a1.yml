@@ -1,11 +1,11 @@
 id: 579793703
-type: way
+type: node
 latitude: 46.67678
 longitude: 15.99145
 postcode: "9250"
 city: Gornja Radgona
-street: "Panonska ulica"
-housenumber: 4
+street: Panonska ulica
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,We 08:00-17:30; Sa 09:00-12:00; Tu,Th-Fr 08:00-14:00"
+opening_hours: Mo,We 08:00-17:30; Sa 09:00-12:00; Tu,Th-Fr 08:00-14:00
 website: ""

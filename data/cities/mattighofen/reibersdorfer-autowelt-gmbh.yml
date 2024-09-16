@@ -1,11 +1,11 @@
 id: 96846642
-type: way
+type: node
 latitude: 48.11132
 longitude: 13.15197
 postcode: "5230"
 city: Mattighofen
-street: "Braunauerstraße"
-housenumber: 12
+street: Braunauerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

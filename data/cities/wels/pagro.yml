@@ -4,8 +4,8 @@ latitude: 48.15963
 longitude: 14.02305
 postcode: "4600"
 city: Wels
-street: "Kaiser-Josef-Platz"
-housenumber: 46
-phone: "+43 7242 50438"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.pagro.at/filialfinder/wels-kaiser-josef-platz-46"
+street: Kaiser-Josef-Platz
+housenumber: "46"
+phone: +43 7242 50438
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.pagro.at/filialfinder/wels-kaiser-josef-platz-46

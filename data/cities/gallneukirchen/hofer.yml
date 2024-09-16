@@ -1,11 +1,11 @@
 id: 663031662
-type: way
+type: node
 latitude: 48.3515
 longitude: 14.41089
 postcode: "4210"
 city: Gallneukirchen
-street: "Alte Straße"
-housenumber: 2
+street: Alte Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 978305731
-type: way
+type: node
 latitude: 46.88764
 longitude: 10.50175
 postcode: "6543"
 city: Nauders
-street: "Nauders"
-housenumber: 561
+street: Nauders
+housenumber: "561"
 phone: "+43547387505"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su 08:00-14:00"
-website: "https://www.spar.at/standorte/spar-nauders-6543-nauders-561"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su 08:00-14:00
+website: https://www.spar.at/standorte/spar-nauders-6543-nauders-561

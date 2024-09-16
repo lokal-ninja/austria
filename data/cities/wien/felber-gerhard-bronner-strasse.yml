@@ -4,8 +4,8 @@ latitude: 48.18402
 longitude: 16.37672
 postcode: "1100"
 city: Wien
-street: "Gerhard-Bronner-Straße"
-housenumber: 15
+street: Gerhard-Bronner-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:00; PH,Su off"
-website: "https://www.felberbrot.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-12:00; PH,Su off
+website: https://www.felberbrot.at/

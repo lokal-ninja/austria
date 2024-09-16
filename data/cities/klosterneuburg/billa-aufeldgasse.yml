@@ -1,11 +1,11 @@
 id: 32947865
-type: way
+type: node
 latitude: 48.29533
 longitude: 16.3393
 postcode: "3400"
 city: Klosterneuburg
-street: "Aufeldgasse"
+street: Aufeldgasse
 housenumber: 45-51
 phone: ""
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

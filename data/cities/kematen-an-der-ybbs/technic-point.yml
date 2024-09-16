@@ -1,11 +1,11 @@
 id: 569134984
-type: way
+type: node
 latitude: 48.0519
 longitude: 14.78288
 postcode: "3331"
 city: Kematen an der Ybbs
-street: "Heide, 28. Straße"
-housenumber: 2
+street: Heide, 28. Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

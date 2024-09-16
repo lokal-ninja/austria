@@ -4,8 +4,8 @@ latitude: 47.00597
 longitude: 12.64066
 postcode: "9981"
 city: Kals am Großglockner
-street: "Großdorf"
-housenumber: 80
+street: Großdorf
+housenumber: "80"
 phone: "+43487622114"
-opening_hours: "PH,Mo-Su 09:00-12:00,13:00-17:00"
-website: "https://www.sport-gratz.com/"
+opening_hours: PH,Mo-Su 09:00-12:00,13:00-17:00
+website: https://www.sport-gratz.com/

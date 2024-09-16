@@ -1,11 +1,11 @@
 id: 236230033
-type: way
+type: node
 latitude: 46.80746
 longitude: 15.53032
 postcode: "8430"
 city: Tillmitsch
-street: "Jösserstraße"
-housenumber: 12
+street: Jösserstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

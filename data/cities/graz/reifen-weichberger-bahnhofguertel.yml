@@ -4,8 +4,8 @@ latitude: 47.08237
 longitude: 15.41589
 postcode: "8020"
 city: Graz
-street: "Bahnhofgürtel"
-housenumber: 7
+street: Bahnhofgürtel
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://www.weichberger.at/cms/graz-bahnhofguertel"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://www.weichberger.at/cms/graz-bahnhofguertel

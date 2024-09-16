@@ -1,11 +1,11 @@
 id: 195187202
-type: way
+type: node
 latitude: 47.05109
 longitude: 16.07834
 postcode: "8280"
 city: Fürstenfeld
-street: "Kommendegasse"
-housenumber: 11
+street: Kommendegasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,15:30-19:00; Sa 09:00-13:00"
-website: "https://www.k-music.at/"
+opening_hours: Mo-Fr 09:30-13:00,15:30-19:00; Sa 09:00-13:00
+website: https://www.k-music.at/

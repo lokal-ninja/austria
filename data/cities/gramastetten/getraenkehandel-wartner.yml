@@ -1,11 +1,11 @@
 id: 124864978
-type: way
+type: node
 latitude: 48.38085
 longitude: 14.19523
 postcode: "4201"
 city: Gramastetten
-street: "Linzerstraße"
-housenumber: 17
+street: Linzerstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

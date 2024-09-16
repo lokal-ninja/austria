@@ -4,8 +4,8 @@ latitude: 47.26375
 longitude: 11.42784
 postcode: "6020"
 city: Innsbruck
-street: "Grabenweg"
-housenumber: 2
-phone: "+43 512 3649060"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://jysk.at/filialen/innsbruck/grabenweg"
+street: Grabenweg
+housenumber: "2"
+phone: +43 512 3649060
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://jysk.at/filialen/innsbruck/grabenweg

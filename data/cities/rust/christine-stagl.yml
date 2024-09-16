@@ -1,11 +1,11 @@
 id: 271075941
-type: way
+type: node
 latitude: 47.80053
 longitude: 16.67404
 postcode: "7071"
 city: Rust
-street: "Conradplatz"
-housenumber: 3
+street: Conradplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

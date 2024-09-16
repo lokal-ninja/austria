@@ -1,11 +1,11 @@
 id: 810210612
-type: way
+type: node
 latitude: 46.94981
 longitude: 15.90962
 postcode: "8330"
 city: Feldbach
-street: "Gleichenberger Straße"
-housenumber: 75
+street: Gleichenberger Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

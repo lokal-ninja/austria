@@ -4,8 +4,8 @@ latitude: 46.76755
 longitude: 14.36217
 postcode: "9300"
 city: St. Veit an der Glan
-street: "Völkermarkter Straße"
-housenumber: 1
+street: Völkermarkter Straße
+housenumber: "1"
 phone: "+43421230535"
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-18:30; Sa 08:30-13:00; Su off"
-website: "https://www.dasfutterhaus.at/stveit/"
+opening_hours: Mo-Fr 08:30-12:30, 13:30-18:30; Sa 08:30-13:00; Su off
+website: https://www.dasfutterhaus.at/stveit/

@@ -1,11 +1,11 @@
 id: 121572351
-type: way
+type: node
 latitude: 47.04182
 longitude: 15.50863
 postcode: "8075"
 city: Hart bei Graz
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 1-3
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-12:00"
-website: "https://www.fahrzeuglackierung.at/"
+opening_hours: Mo-Th 07:00-17:00;Fr 07:00-12:00
+website: https://www.fahrzeuglackierung.at/

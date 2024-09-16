@@ -4,8 +4,9 @@ latitude: 47.67623
 longitude: 15.93735
 postcode: "2640"
 city: Gloggnitz
-street: "Hauptstraße"
-housenumber: 16
-phone: "+43 2662 43440"
-opening_hours: "Mo 08:00-12:00; Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su,PH off"
-website: "http://www.hochhofer.at"
+street: Hauptstraße
+housenumber: "16"
+phone: +43 2662 43440
+opening_hours: Mo 08:00-12:00; Tu-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Su,PH
+    off
+website: http://www.hochhofer.at

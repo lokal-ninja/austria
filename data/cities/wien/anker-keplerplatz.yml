@@ -4,8 +4,8 @@ latitude: 48.1787
 longitude: 16.37658
 postcode: "1100"
 city: Wien
-street: "Keplerplatz"
-housenumber: 13
+street: Keplerplatz
+housenumber: "13"
 phone: "+4319043700"
-opening_hours: "Mo-Fr 05:30-18:00; Sa,Su,PH 07:00-12:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 05:30-18:00; Sa,Su,PH 07:00-12:00
+website: https://www.ankerbrot.at/

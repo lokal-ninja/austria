@@ -5,7 +5,7 @@ longitude: 14.75174
 postcode: "3340"
 city: Waidhofen an der Ybbs
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, 13:00-17:00"
-website: "https://www.mitterholz.at/ss.site/"
+opening_hours: Mo-Sa 08:00-12:00, 13:00-17:00
+website: https://www.mitterholz.at/ss.site/

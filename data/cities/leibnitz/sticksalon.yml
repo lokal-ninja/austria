@@ -4,8 +4,8 @@ latitude: 46.7823
 longitude: 15.54033
 postcode: "8430"
 city: Leibnitz
-street: "Hauptplatz"
-housenumber: 2
+street: Hauptplatz
+housenumber: "2"
 phone: "+436648194181"
-opening_hours: "Sa 9:00-13:00"
-website: "https://www.sticksalon.at/"
+opening_hours: Sa 9:00-13:00
+website: https://www.sticksalon.at/

@@ -4,8 +4,9 @@ latitude: 48.20004
 longitude: 16.36133
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 11
+street: Gumpendorfer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Jan-Dec: Mo-Fr 10:30-18:00, Sep-Jun: We,Sa 10:30-15:30, Sep-Jun: Sa 10:30-17:00"
+opening_hours: 'Jan-Dec: Mo-Fr 10:30-18:00, Sep-Jun: We,Sa 10:30-15:30, Sep-Jun: Sa
+    10:30-17:00'
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.2495
 longitude: 16.46779
 postcode: "1220"
 city: Wien
-street: "Zwerchäckerweg"
-housenumber: 4
+street: Zwerchäckerweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.koelle-zoo.at/erlebnismaerkte/wien/"
+website: https://www.koelle-zoo.at/erlebnismaerkte/wien/

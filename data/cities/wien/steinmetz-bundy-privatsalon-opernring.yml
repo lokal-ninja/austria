@@ -4,8 +4,8 @@ latitude: 48.20259
 longitude: 16.36719
 postcode: "1010"
 city: Wien
-street: "Opernring"
-housenumber: 9
+street: Opernring
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 10:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://steinmetz-bundy.at/"
+opening_hours: Mo 10:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00
+website: http://steinmetz-bundy.at/

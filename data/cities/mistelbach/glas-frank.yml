@@ -4,8 +4,8 @@ latitude: 48.56816
 longitude: 16.57048
 postcode: "2130"
 city: Mistelbach
-street: "Franz Josef-Straße"
-housenumber: 15
-phone: "+43 2572 2317"
-opening_hours: "Mo-Fr 07:15-12:00,13:00-17:30; Sa 09:00-12:00; Su,PH off"
-website: "https://www.glasfrank.at/"
+street: Franz Josef-Straße
+housenumber: "15"
+phone: +43 2572 2317
+opening_hours: Mo-Fr 07:15-12:00,13:00-17:30; Sa 09:00-12:00; Su,PH off
+website: https://www.glasfrank.at/

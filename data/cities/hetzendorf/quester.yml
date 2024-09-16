@@ -1,11 +1,11 @@
 id: 146360283
-type: way
+type: node
 latitude: 47.1834
 longitude: 14.67417
 postcode: "8753"
 city: Hetzendorf
-street: "Bundesstraße"
-housenumber: 26
+street: Bundesstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

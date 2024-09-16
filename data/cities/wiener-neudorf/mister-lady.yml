@@ -4,8 +4,8 @@ latitude: 48.07856
 longitude: 16.32285
 postcode: "2351"
 city: Wiener Neudorf
-street: "Griesfeldstraße"
-housenumber: 6
-phone: "+43 2236 660763"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.mister-lady.at/"
+street: Griesfeldstraße
+housenumber: "6"
+phone: +43 2236 660763
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.mister-lady.at/

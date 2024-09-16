@@ -1,11 +1,11 @@
 id: 47031348
-type: way
+type: node
 latitude: 48.2509
 longitude: 16.4695
 postcode: "1220"
 city: Wien
-street: "Breitenleer Straße"
-housenumber: 104
+street: Breitenleer Straße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.hofer.at/

@@ -4,8 +4,9 @@ latitude: 47.08032
 longitude: 9.9187
 postcode: "6780"
 city: Schruns
-street: "Kirchplatz"
-housenumber: 17
+street: Kirchplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Dec-Apr: Mo-Fr 09:00-18:00; Dec-Apr: Sa 09:00-17:00; Apr-Nov: Mo-Fr 09:00-18:00; Apr-Nov: Sa 09:00-15:00; Su,PH off"
-website: "https://maxundstella.at"
+opening_hours: 'Dec-Apr: Mo-Fr 09:00-18:00; Dec-Apr: Sa 09:00-17:00; Apr-Nov: Mo-Fr
+    09:00-18:00; Apr-Nov: Sa 09:00-15:00; Su,PH off'
+website: https://maxundstella.at

@@ -1,11 +1,11 @@
 id: 141262756
-type: way
+type: node
 latitude: 47.94215
 longitude: 16.22086
 postcode: "2542"
 city: Kottingbrunn
-street: "Wiener Neustädter Straße"
-housenumber: 68
-phone: "+43 2252 75343"
+street: Wiener Neustädter Straße
+housenumber: "68"
+phone: +43 2252 75343
 opening_hours: ""
-website: "https://maierhofer.mazda.at/"
+website: https://maierhofer.mazda.at/

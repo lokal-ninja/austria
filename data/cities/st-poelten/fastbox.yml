@@ -1,11 +1,11 @@
 id: 178464761
-type: way
+type: node
 latitude: 48.18904
 longitude: 15.61705
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 122
+street: Mariazeller Straße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

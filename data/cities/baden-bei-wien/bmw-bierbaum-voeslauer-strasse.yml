@@ -1,11 +1,11 @@
 id: 307024800
-type: way
+type: node
 latitude: 47.99822
 longitude: 16.22939
 postcode: "2500"
 city: Baden bei Wien
-street: "Vöslauer Straße"
+street: Vöslauer Straße
 housenumber: 67-69
 phone: ""
 opening_hours: ""
-website: "https://bmw-bierbaum-baden.at/kontakt/"
+website: https://bmw-bierbaum-baden.at/kontakt/

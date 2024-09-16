@@ -1,11 +1,11 @@
 id: 28005712
-type: way
+type: node
 latitude: 48.3188
 longitude: 16.08191
 postcode: "3430"
 city: Tulln an der Donau
-street: "Königstetter Straße"
-housenumber: 148
+street: Königstetter Straße
+housenumber: "148"
 phone: ""
 opening_hours: ""
-website: "https://www.hofer.at/"
+website: https://www.hofer.at/

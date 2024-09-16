@@ -4,8 +4,8 @@ latitude: 48.1909
 longitude: 16.36269
 postcode: "1050"
 city: Wien
-street: "Straußengasse"
-housenumber: 2
-phone: "+43 1 5878519"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "http://autoteile-wien.at"
+street: Straußengasse
+housenumber: "2"
+phone: +43 1 5878519
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: http://autoteile-wien.at

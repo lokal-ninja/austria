@@ -4,8 +4,8 @@ latitude: 48.19483
 longitude: 16.28422
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 253
+street: Linzer Straße
+housenumber: "253"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00"
-website: "https://www.sichtbar.at/standorte/sichtbar-united-optics-1140/"
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00
+website: https://www.sichtbar.at/standorte/sichtbar-united-optics-1140/

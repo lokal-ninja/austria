@@ -1,11 +1,11 @@
 id: 243683366
-type: way
+type: node
 latitude: 47.40151
 longitude: 9.73536
 postcode: "6850"
 city: Dornbirn
-street: "Hatlerstraße"
-housenumber: 35
-phone: "+43 5572 22134"
-opening_hours: "Mo-Fr 07:00-13:00; Sa 07:30-12:00"
-website: "http://www.hatlermetzg.at/"
+street: Hatlerstraße
+housenumber: "35"
+phone: +43 5572 22134
+opening_hours: Mo-Fr 07:00-13:00; Sa 07:30-12:00
+website: http://www.hatlermetzg.at/

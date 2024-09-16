@@ -1,11 +1,11 @@
 id: 188861906
-type: way
+type: node
 latitude: 47.93136
 longitude: 16.19173
 postcode: "2552"
 city: Hirtenberg
-street: "Leobersdorfer Straße"
-housenumber: 76
+street: Leobersdorfer Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://e-dampfzigarette.at/"
+website: https://e-dampfzigarette.at/

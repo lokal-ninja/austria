@@ -1,11 +1,11 @@
 id: 323203781
-type: way
+type: node
 latitude: 47.21414
 longitude: 14.57355
 postcode: "8761"
 city: Pöls-Oberkurzheim
-street: "Enzersdorfer Straße"
-housenumber: 5
+street: Enzersdorfer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.poier.at/"
+website: https://www.poier.at/

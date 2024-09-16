@@ -4,8 +4,8 @@ latitude: 48.18196
 longitude: 16.40813
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 29
+street: Simmeringer Hauptstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Su 09:00-24:00"
-website: "https://admiral.at/DE/"
+opening_hours: Mo-Su 09:00-24:00
+website: https://admiral.at/DE/

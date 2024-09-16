@@ -1,11 +1,11 @@
 id: 374694690
-type: way
+type: node
 latitude: 48.13073
 longitude: 15.13836
 postcode: "3250"
 city: Wieselburg
-street: "Hauptplatz"
-housenumber: 20
-phone: "+43 664 5323553"
-opening_hours: "Mo,Tu,Th 08:00-15:00; We 08:00-17:00; Fr 08:00-18:00"
-website: "https://emskosmetik.business.site/"
+street: Hauptplatz
+housenumber: "20"
+phone: +43 664 5323553
+opening_hours: Mo,Tu,Th 08:00-15:00; We 08:00-17:00; Fr 08:00-18:00
+website: https://emskosmetik.business.site/

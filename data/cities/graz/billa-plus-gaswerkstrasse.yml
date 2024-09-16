@@ -1,11 +1,11 @@
 id: 88380017
-type: way
+type: node
 latitude: 47.0696
 longitude: 15.40205
 postcode: "8020"
 city: Graz
-street: "Gaswerkstraße"
-housenumber: 2
+street: Gaswerkstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

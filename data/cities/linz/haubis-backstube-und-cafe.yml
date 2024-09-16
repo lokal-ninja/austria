@@ -4,8 +4,8 @@ latitude: 48.29032
 longitude: 14.29766
 postcode: "4020"
 city: Linz
-street: "Wiener Straße"
-housenumber: 35
+street: Wiener Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; PH,Sa,Su off"
-website: "https://www.haubis.com"
+opening_hours: Mo-Fr 05:30-18:00; PH,Sa,Su off
+website: https://www.haubis.com

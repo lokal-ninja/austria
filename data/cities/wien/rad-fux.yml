@@ -4,8 +4,8 @@ latitude: 48.22346
 longitude: 16.3882
 postcode: "1020"
 city: Wien
-street: "Springergasse"
-housenumber: 27
-phone: "+43 6601569903"
-opening_hours: "Mo-Mi 10:00-12:00, 14:00-18:00; Fr 10:00-12:00, 14:00-18:00"
-website: "https://www.radfux.wien"
+street: Springergasse
+housenumber: "27"
+phone: +43 6601569903
+opening_hours: Mo-Mi 10:00-12:00, 14:00-18:00; Fr 10:00-12:00, 14:00-18:00
+website: https://www.radfux.wien

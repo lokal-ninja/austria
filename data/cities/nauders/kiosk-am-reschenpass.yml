@@ -1,11 +1,11 @@
 id: 166856663
-type: way
+type: node
 latitude: 46.85062
 longitude: 10.50445
 postcode: "6543"
 city: Nauders
-street: "Reschenstraße"
-housenumber: 184
+street: Reschenstraße
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

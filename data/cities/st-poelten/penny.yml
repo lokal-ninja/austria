@@ -1,11 +1,11 @@
 id: 119773165
-type: way
+type: node
 latitude: 48.16674
 longitude: 15.61426
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 234
+street: Mariazeller Straße
+housenumber: "234"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

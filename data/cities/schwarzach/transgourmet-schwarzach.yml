@@ -1,11 +1,11 @@
 id: 554645470
-type: way
+type: node
 latitude: 47.43823
 longitude: 9.75446
 postcode: "6858"
 city: Schwarzach
-street: "Gutenbergstraße"
+street: Gutenbergstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.transgourmet.at/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.transgourmet.at/

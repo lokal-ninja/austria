@@ -4,8 +4,8 @@ latitude: 48.22675
 longitude: 14.17865
 postcode: "4063"
 city: Hörsching
-street: "Brucknerplatz"
-housenumber: 8
+street: Brucknerplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,Th-Fr 07:00-12:30,14:30-18:00;Mo,We 07:00-12:30;Sa 07:00-12:00"
-website: "https://www.fleischerei-weiss.at/"
+opening_hours: Tu,Th-Fr 07:00-12:30,14:30-18:00;Mo,We 07:00-12:30;Sa 07:00-12:00
+website: https://www.fleischerei-weiss.at/

@@ -1,11 +1,11 @@
 id: 214473930
-type: way
+type: node
 latitude: 46.68255
 longitude: 15.98982
 postcode: "9250"
 city: Gornja Radgona
-street: "Lackova ulica"
-housenumber: 22
+street: Lackova ulica
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

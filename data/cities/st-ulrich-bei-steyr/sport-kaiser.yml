@@ -1,11 +1,11 @@
 id: 426745827
-type: way
+type: node
 latitude: 48.0148
 longitude: 14.41476
 postcode: "4400"
 city: St. Ulrich bei Steyr
-street: "Betriebspark"
-housenumber: 3
-phone: "+43 7252 436 43"
-opening_hours: "Mo-Fr 07:30-12:00; Sa 08:30-12:00; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00"
-website: "https://www.sport-kaiser.com"
+street: Betriebspark
+housenumber: "3"
+phone: +43 7252 436 43
+opening_hours: Mo-Fr 07:30-12:00; Sa 08:30-12:00; Mo-Tu 14:30-18:00; Th-Fr 14:30-18:00
+website: https://www.sport-kaiser.com

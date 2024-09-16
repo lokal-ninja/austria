@@ -1,11 +1,11 @@
 id: 360390854
-type: way
+type: node
 latitude: 47.90489
 longitude: 16.89909
 postcode: "7122"
 city: Gols
-street: "Obere Hauptstraße"
-housenumber: 106
+street: Obere Hauptstraße
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.19567
 longitude: 16.28119
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 254
+street: Linzer Straße
+housenumber: "254"
 phone: ""
-opening_hours: "Tu,Th 07:30-12:30, 15:30-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa 07:00-12:00"
+opening_hours: Tu,Th 07:30-12:30, 15:30-18:00; We 07:30-12:30; Fr 07:30-18:00; Sa
+    07:00-12:00
 website: ""

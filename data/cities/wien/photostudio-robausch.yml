@@ -4,8 +4,8 @@ latitude: 48.23239
 longitude: 16.37015
 postcode: "1200"
 city: Wien
-street: "Brigittaplatz"
-housenumber: 2
+street: Brigittaplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

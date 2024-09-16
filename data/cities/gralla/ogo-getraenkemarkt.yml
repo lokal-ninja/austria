@@ -1,11 +1,11 @@
 id: 182009406
-type: way
+type: node
 latitude: 46.80532
 longitude: 15.55752
 postcode: "8431"
 city: Gralla
-street: "Gerwerbepark Nord"
-housenumber: 7
+street: Gerwerbepark Nord
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://www.ogo.at/"
+website: http://www.ogo.at/

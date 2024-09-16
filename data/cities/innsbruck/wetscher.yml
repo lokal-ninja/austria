@@ -4,8 +4,8 @@ latitude: 47.26538
 longitude: 11.40365
 postcode: "6020"
 city: Innsbruck
-street: "Amraser Straße"
-housenumber: 1
-phone: "+43 512 586812"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.wetscheroptik.at"
+street: Amraser Straße
+housenumber: "1"
+phone: +43 512 586812
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.wetscheroptik.at

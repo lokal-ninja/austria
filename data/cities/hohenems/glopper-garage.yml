@@ -1,11 +1,11 @@
 id: 134425127
-type: way
+type: node
 latitude: 47.37445
 longitude: 9.69659
 postcode: "6845"
 city: Hohenems
-street: "Hellbrunnenstraße"
-housenumber: 42
-phone: "+43 5576 73330"
-opening_hours: "Mo-Th 07:45-12:00, 13:00-17:15; Fr 07:45-12:15"
-website: "https://www.gloppergarage.at/"
+street: Hellbrunnenstraße
+housenumber: "42"
+phone: +43 5576 73330
+opening_hours: Mo-Th 07:45-12:00, 13:00-17:15; Fr 07:45-12:15
+website: https://www.gloppergarage.at/

@@ -1,11 +1,11 @@
 id: 96936721
-type: way
+type: node
 latitude: 48.11228
 longitude: 13.15205
 postcode: "5231"
 city: Schalchen
 street: ""
-housenumber: 38
-phone: "+43 50 8242-2970"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-13:30"
-website: "https://www.wuerth.at/de/wuerth_at/niederlassungen/kundenzentren_a_z/kundenzentren_neu_detail_211.php"
+housenumber: "38"
+phone: +43 50 8242-2970
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-13:30
+website: https://www.wuerth.at/de/wuerth_at/niederlassungen/kundenzentren_a_z/kundenzentren_neu_detail_211.php

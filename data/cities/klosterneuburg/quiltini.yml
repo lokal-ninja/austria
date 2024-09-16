@@ -4,8 +4,8 @@ latitude: 48.30739
 longitude: 16.32252
 postcode: "3400"
 city: Klosterneuburg
-street: "Hofkirchnergasse"
-housenumber: 11
+street: Hofkirchnergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,We,Th 15:00-18:00"
-website: "https://quiltini.at/"
+opening_hours: Mo,We,Th 15:00-18:00
+website: https://quiltini.at/

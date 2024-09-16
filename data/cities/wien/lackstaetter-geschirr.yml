@@ -4,8 +4,8 @@ latitude: 48.2083
 longitude: 16.37628
 postcode: "1010"
 city: Wien
-street: "Wollzeile"
-housenumber: 18
-phone: "+43 1 512 01 07"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-17:00"
-website: "https://geschirrshop.com"
+street: Wollzeile
+housenumber: "18"
+phone: +43 1 512 01 07
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-17:00
+website: https://geschirrshop.com

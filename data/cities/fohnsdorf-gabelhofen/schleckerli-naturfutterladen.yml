@@ -4,8 +4,8 @@ latitude: 47.18245
 longitude: 14.67265
 postcode: "8753"
 city: Fohnsdorf-Gabelhofen
-street: "Bundesstraße"
-housenumber: 30
-phone: "+43 3572 42745"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
-website: "https://schleckerli.com/"
+street: Bundesstraße
+housenumber: "30"
+phone: +43 3572 42745
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
+website: https://schleckerli.com/

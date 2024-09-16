@@ -4,8 +4,8 @@ latitude: 47.25788
 longitude: 11.32254
 postcode: "6176"
 city: Völs
-street: "Gießenweg"
-housenumber: 3
-phone: "+43 512 304159"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.takko.com"
+street: Gießenweg
+housenumber: "3"
+phone: +43 512 304159
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.takko.com

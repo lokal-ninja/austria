@@ -1,11 +1,11 @@
 id: 489092146
-type: way
+type: node
 latitude: 47.29827
 longitude: 12.7881
 postcode: "5700"
 city: Zell am See
-street: "Flugplatzstraße"
-housenumber: 5
+street: Flugplatzstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

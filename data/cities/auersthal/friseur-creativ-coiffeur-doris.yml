@@ -1,11 +1,11 @@
 id: 220767862
-type: way
+type: node
 latitude: 48.37585
 longitude: 16.63018
 postcode: "2214"
 city: Auersthal
-street: "Schweinbartherstraße"
-housenumber: 2
-phone: "+43 2288 2535"
+street: Schweinbartherstraße
+housenumber: "2"
+phone: +43 2288 2535
 opening_hours: ""
 website: ""

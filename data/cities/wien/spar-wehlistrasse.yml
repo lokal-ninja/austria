@@ -1,11 +1,11 @@
 id: 157459338
-type: way
+type: node
 latitude: 48.24816
 longitude: 16.37836
 postcode: "1200"
 city: Wien
-street: "Wehlistraße"
-housenumber: 25
+street: Wehlistraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-1200-wehlistrasse-25"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-wien-1200-wehlistrasse-25

@@ -1,11 +1,11 @@
 id: 91548729
-type: way
+type: node
 latitude: 48.18383
 longitude: 14.02547
 postcode: "4600"
 city: Wels
-street: "Dalistraße"
-housenumber: 2
-phone: "+43 7242 206777"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+street: Dalistraße
+housenumber: "2"
+phone: +43 7242 206777
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.hofer.at/

@@ -1,11 +1,11 @@
 id: 228857074
-type: way
+type: node
 latitude: 47.68278
 longitude: 15.79347
 postcode: "2651"
 city: Reichenau an der Rax
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.raxbauer.at"
+website: www.raxbauer.at

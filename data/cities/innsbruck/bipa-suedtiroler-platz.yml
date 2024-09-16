@@ -4,8 +4,8 @@ latitude: 47.26407
 longitude: 11.40061
 postcode: "6020"
 city: Innsbruck
-street: "Südtiroler Platz"
-housenumber: 7
-phone: "+43 59913 08295"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"
-website: "https://www.bipa.at"
+street: Südtiroler Platz
+housenumber: "7"
+phone: +43 59913 08295
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+website: https://www.bipa.at

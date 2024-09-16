@@ -4,8 +4,8 @@ latitude: 48.13641
 longitude: 15.1406
 postcode: "3250"
 city: Wieselburg
-street: "Zur Autobahn"
-housenumber: 3
-phone: "+43 7416 52466"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
-website: "https://www.pruckner.co.at/"
+street: Zur Autobahn
+housenumber: "3"
+phone: +43 7416 52466
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
+website: https://www.pruckner.co.at/

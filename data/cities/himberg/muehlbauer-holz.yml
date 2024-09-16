@@ -1,11 +1,11 @@
 id: 454536110
-type: way
+type: node
 latitude: 48.08638
 longitude: 16.44403
 postcode: "2325"
 city: Himberg
-street: "Franz-Lehn-Gasse"
-housenumber: 7
+street: Franz-Lehn-Gasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

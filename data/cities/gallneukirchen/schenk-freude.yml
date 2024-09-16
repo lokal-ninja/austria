@@ -1,11 +1,11 @@
 id: 235953283
-type: way
+type: node
 latitude: 48.35123
 longitude: 14.41374
 postcode: "4210"
 city: Gallneukirchen
-street: "Linzer Straße"
-housenumber: 5
-phone: "+43 7235 66509"
+street: Linzer Straße
+housenumber: "5"
+phone: +43 7235 66509
 opening_hours: ""
 website: ""

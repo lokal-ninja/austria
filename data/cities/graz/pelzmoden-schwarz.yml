@@ -4,8 +4,8 @@ latitude: 47.06883
 longitude: 15.44256
 postcode: "8010"
 city: Graz
-street: "Hamerlinggasse"
-housenumber: 6
-phone: "+43316 82 87 39"
-opening_hours: "Mo-Fr 13:00-18:00"
+street: Hamerlinggasse
+housenumber: "6"
+phone: +43316 82 87 39
+opening_hours: Mo-Fr 13:00-18:00
 website: ""

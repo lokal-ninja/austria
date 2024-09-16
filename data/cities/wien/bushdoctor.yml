@@ -4,8 +4,8 @@ latitude: 48.20178
 longitude: 16.35178
 postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 19
+street: Kirchengasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.bushdoctor.at/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.bushdoctor.at/

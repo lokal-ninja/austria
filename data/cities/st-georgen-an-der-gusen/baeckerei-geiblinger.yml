@@ -1,11 +1,11 @@
 id: 246598221
-type: way
+type: node
 latitude: 48.27136
 longitude: 14.44936
 postcode: "4222"
 city: St. Georgen an der Gusen
-street: "Unterer Markt"
-housenumber: 2
+street: Unterer Markt
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

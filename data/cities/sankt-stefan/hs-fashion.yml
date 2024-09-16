@@ -1,11 +1,11 @@
 id: 204770950
-type: way
+type: node
 latitude: 46.80736
 longitude: 14.84912
 postcode: "9431"
 city: Sankt Stefan
-street: "Hauptstraße"
-housenumber: 
+street: Hauptstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.hsfashion.at/"
+website: http://www.hsfashion.at/

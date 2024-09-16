@@ -4,8 +4,8 @@ latitude: 48.24424
 longitude: 16.46099
 postcode: "1220"
 city: Wien
-street: "Gewerbeparkstraße"
-housenumber: 12
+street: Gewerbeparkstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

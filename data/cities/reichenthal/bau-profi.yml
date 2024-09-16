@@ -1,11 +1,11 @@
 id: 169302742
-type: way
+type: node
 latitude: 48.54344
 longitude: 14.37917
 postcode: "4193"
 city: Reichenthal
-street: "Sportplatzstraße"
-housenumber: 4
+street: Sportplatzstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 244881269
-type: way
+type: node
 latitude: 46.80876
 longitude: 14.46649
 postcode: "9321"
 city: Passering
-street: "Bahnweg"
-housenumber: 2
+street: Bahnweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30,14:30-18:30; Sa 06:30-12:30"
+opening_hours: Mo-Fr 06:30-12:30,14:30-18:30; Sa 06:30-12:30
 website: ""

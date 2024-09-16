@@ -4,8 +4,8 @@ latitude: 48.31375
 longitude: 14.28251
 postcode: "4040"
 city: Linz
-street: "Blütenstraße"
-housenumber: 8
-phone: "+43 680 5060808"
+street: Blütenstraße
+housenumber: "8"
+phone: +43 680 5060808
 opening_hours: ""
-website: "http://tor.at/edv"
+website: http://tor.at/edv

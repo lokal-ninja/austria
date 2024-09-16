@@ -5,7 +5,7 @@ longitude: 13.63994
 postcode: ""
 city: Sankt Michael im Lungau
 street: ""
-housenumber: 305
-phone: "+43 6477 8495"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00"
+housenumber: "305"
+phone: +43 6477 8495
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00
 website: ""

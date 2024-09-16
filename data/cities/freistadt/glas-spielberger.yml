@@ -1,11 +1,11 @@
 id: 336855002
-type: way
+type: node
 latitude: 48.50143
 longitude: 14.50394
 postcode: "4240"
 city: Freistadt
-street: "Brucknerstraße"
-housenumber: 13
+street: Brucknerstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

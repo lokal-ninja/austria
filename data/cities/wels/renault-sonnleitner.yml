@@ -1,11 +1,11 @@
 id: 106566829
-type: way
+type: node
 latitude: 48.17613
 longitude: 14.05571
 postcode: "4600"
 city: Wels
-street: "Werfelstraße"
-housenumber: 4
+street: Werfelstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

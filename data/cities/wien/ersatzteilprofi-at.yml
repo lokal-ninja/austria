@@ -4,8 +4,8 @@ latitude: 48.19576
 longitude: 16.36212
 postcode: "1040"
 city: Wien
-street: "Heumühlgasse"
-housenumber: 8
+street: Heumühlgasse
+housenumber: "8"
 phone: "+4315870787"
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-12:00"
-website: "https://www.ersatzteilprofi.at/"
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-12:00
+website: https://www.ersatzteilprofi.at/

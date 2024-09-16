@@ -4,8 +4,9 @@ latitude: 48.14897
 longitude: 16.31269
 postcode: "1230"
 city: Wien
-street: "Anton-Baumgartner-Straße"
-housenumber: 125
-phone: "+43 699 1134 5805"
-opening_hours: "Th,Sa 10:00-14:00; Fr 14:00-18:00; PH off || Dienstag, Mittwoch gegen Terminvereinbarung"
-website: "https://www.deluxe-kidsandmore.at/"
+street: Anton-Baumgartner-Straße
+housenumber: "125"
+phone: +43 699 1134 5805
+opening_hours: Th,Sa 10:00-14:00; Fr 14:00-18:00; PH off || "Dienstag, Mittwoch gegen
+    Terminvereinbarung"
+website: https://www.deluxe-kidsandmore.at/

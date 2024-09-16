@@ -1,11 +1,11 @@
 id: 199523053
-type: way
+type: node
 latitude: 48.56762
 longitude: 16.57588
 postcode: "2130"
 city: Mistelbach
-street: "Liechtensteinstraße"
+street: Liechtensteinstraße
 housenumber: 6a
-phone: "+43 2572 32472"
+phone: +43 2572 32472
 opening_hours: ""
-website: "https://www.poolhaus.at/"
+website: https://www.poolhaus.at/

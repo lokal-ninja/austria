@@ -1,11 +1,11 @@
 id: 657317173
-type: way
+type: node
 latitude: 48.06846
 longitude: 15.05043
 postcode: "3261"
 city: Steinakirchen am Forst
-street: "Gutledererplatz"
-housenumber: 4
+street: Gutledererplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

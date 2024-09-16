@@ -1,11 +1,11 @@
 id: 31255489
-type: way
+type: node
 latitude: 48.16144
 longitude: 16.4316
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
+street: Simmeringer Hauptstraße
 housenumber: 261b
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

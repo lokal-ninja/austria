@@ -1,11 +1,11 @@
 id: 489042067
-type: way
+type: node
 latitude: 48.15612
 longitude: 15.41281
 postcode: "3383"
 city: Hürm
-street: "Marktstraße"
-housenumber: 4
+street: Marktstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

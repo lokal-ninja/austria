@@ -4,8 +4,8 @@ latitude: 48.18543
 longitude: 16.36224
 postcode: "1050"
 city: Wien
-street: "Wiedner Hauptstraße"
-housenumber: 114
+street: Wiedner Hauptstraße
+housenumber: "114"
 phone: "+4315488244"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-12:30; PH off"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-12:30; PH off
+website: https://www.ankerbrot.at/

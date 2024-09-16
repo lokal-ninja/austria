@@ -1,11 +1,11 @@
 id: 173917921
-type: way
+type: node
 latitude: 48.22369
 longitude: 15.6319
 postcode: "3100"
 city: St. Pölten
-street: "Dr.Wilhelm Steingötter-Straße"
-housenumber: 23
+street: Dr.Wilhelm Steingötter-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Sa 09:00-12:00; Mo-Fr 07:30-17:00"
+opening_hours: Sa 09:00-12:00; Mo-Fr 07:30-17:00
 website: ""

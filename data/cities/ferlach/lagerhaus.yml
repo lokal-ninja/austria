@@ -1,11 +1,11 @@
 id: 60970443
-type: way
+type: node
 latitude: 46.52967
 longitude: 14.301
 postcode: "9170"
 city: Ferlach
-street: "Grießgasse"
-housenumber: 50
+street: Grießgasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

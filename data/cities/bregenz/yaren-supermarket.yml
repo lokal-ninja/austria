@@ -1,11 +1,11 @@
 id: 119211769
-type: way
+type: node
 latitude: 47.49805
 longitude: 9.73364
 postcode: "6900"
 city: Bregenz
-street: "Pulverturmgasse"
-housenumber: 4
+street: Pulverturmgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:00; Su 10:00-12:00"
+opening_hours: Mo-Sa 07:30-19:00; Su 10:00-12:00
 website: ""

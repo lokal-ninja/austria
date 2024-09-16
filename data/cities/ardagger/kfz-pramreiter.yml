@@ -1,11 +1,11 @@
 id: 869870699
-type: way
+type: node
 latitude: 48.148
 longitude: 14.85148
 postcode: "3300"
 city: Ardagger
-street: "Betriebsgebiet Nord"
-housenumber: 2
+street: Betriebsgebiet Nord
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://prami.at/"
+website: https://prami.at/

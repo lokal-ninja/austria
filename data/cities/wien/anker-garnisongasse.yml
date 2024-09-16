@@ -4,8 +4,8 @@ latitude: 48.21584
 longitude: 16.35689
 postcode: "1090"
 city: Wien
-street: "Garnisongasse"
-housenumber: 10
+street: Garnisongasse
+housenumber: "10"
 phone: "+4314077040"
-opening_hours: "Mo-Fr 06:00-13:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:00-13:00
+website: https://www.ankerbrot.at/

@@ -1,11 +1,11 @@
 id: 93487822
-type: way
+type: node
 latitude: 47.70502
 longitude: 14.16735
 postcode: "4573"
 city: Hinterstoder
-street: "Mitterstoder"
-housenumber: 27
+street: Mitterstoder
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

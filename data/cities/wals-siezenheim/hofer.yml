@@ -1,11 +1,11 @@
 id: 67758228
-type: way
+type: node
 latitude: 47.79286
 longitude: 12.98474
 postcode: ""
 city: Wals-Siezenheim
-street: "Franz-Brötzner-Straße"
-housenumber: 3
+street: Franz-Brötzner-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

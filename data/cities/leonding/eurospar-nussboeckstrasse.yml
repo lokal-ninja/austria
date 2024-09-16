@@ -1,11 +1,11 @@
 id: 748809707
-type: way
+type: node
 latitude: 48.28583
 longitude: 14.25476
 postcode: "4060"
 city: Leonding
-street: "Nußböckstraße"
-housenumber: 1
+street: Nußböckstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 500775754
-type: way
+type: node
 latitude: 48.02103
 longitude: 16.26751
 postcode: "2511"
 city: Pfaffstätten
-street: "Dr. Josef Dolp-Straße"
-housenumber: 49
+street: Dr. Josef Dolp-Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

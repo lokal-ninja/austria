@@ -1,11 +1,11 @@
 id: 1071083263
-type: way
+type: node
 latitude: 47.11121
 longitude: 15.70544
 postcode: "8200"
 city: Gleisdorf
-street: "Ziegelgasse"
-housenumber: 6
+street: Ziegelgasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

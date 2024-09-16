@@ -1,11 +1,11 @@
 id: 243075393
-type: way
+type: node
 latitude: 48.10898
 longitude: 14.83744
 postcode: "3300"
 city: Greinsfurth
-street: "Waidhofner Straße"
-housenumber: 44
+street: Waidhofner Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

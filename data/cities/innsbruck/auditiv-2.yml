@@ -4,8 +4,8 @@ latitude: 47.26127
 longitude: 11.39619
 postcode: "6020"
 city: Innsbruck
-street: "Heiliggeiststraße"
-housenumber: 4
-phone: "+43 512 570159"
-opening_hours: "Mo 08:30-12:30,14:00-16:00; Tu-Fr 08:30-12:30,14:00-17:30; PH off"
-website: "https://www.optik-gaertner.at/"
+street: Heiliggeiststraße
+housenumber: "4"
+phone: +43 512 570159
+opening_hours: Mo 08:30-12:30,14:00-16:00; Tu-Fr 08:30-12:30,14:00-17:30; PH off
+website: https://www.optik-gaertner.at/

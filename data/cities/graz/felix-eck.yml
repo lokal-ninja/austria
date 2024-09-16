@@ -4,8 +4,8 @@ latitude: 47.07178
 longitude: 15.44176
 postcode: "8010"
 city: Graz
-street: "Bürgergasse"
-housenumber: 2
+street: Bürgergasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00; Sa 11:00-17:00"
+opening_hours: Tu-Fr 09:00-17:00; Sa 11:00-17:00
 website: ""

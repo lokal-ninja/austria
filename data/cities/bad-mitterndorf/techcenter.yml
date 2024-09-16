@@ -1,11 +1,11 @@
 id: 193098935
-type: way
+type: node
 latitude: 47.55166
 longitude: 13.94332
 postcode: "8983"
 city: Bad Mitterndorf
 street: ""
-housenumber: 80
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

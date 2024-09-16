@@ -1,11 +1,11 @@
 id: 231850937
-type: way
+type: node
 latitude: 47.93683
 longitude: 16.14754
 postcode: "2560"
 city: Berndorf
-street: "Leobersdorfer Straße"
-housenumber: 90
+street: Leobersdorfer Straße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

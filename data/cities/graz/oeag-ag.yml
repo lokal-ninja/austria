@@ -1,11 +1,11 @@
 id: 95953677
-type: way
+type: node
 latitude: 47.05225
 longitude: 15.44862
 postcode: "8010"
 city: Graz
-street: "Raiffeisenstraße"
-housenumber: 49
-phone: "+43 50 40666"
+street: Raiffeisenstraße
+housenumber: "49"
+phone: +43 50 40666
 opening_hours: ""
-website: "https://www.oeag.at/"
+website: https://www.oeag.at/

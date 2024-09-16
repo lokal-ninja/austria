@@ -4,8 +4,8 @@ latitude: 48.35139
 longitude: 16.34145
 postcode: "2100"
 city: Korneuburg
-street: "Teiritzstraße"
-housenumber: 2
-phone: "+43 2262 71333"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://www.dangl-dietrich.at"
+street: Teiritzstraße
+housenumber: "2"
+phone: +43 2262 71333
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://www.dangl-dietrich.at

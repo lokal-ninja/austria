@@ -4,8 +4,8 @@ latitude: 47.10148
 longitude: 15.42608
 postcode: "8045"
 city: Graz
-street: "Andritzer Reichsstraße"
-housenumber: 26
+street: Andritzer Reichsstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"
-website: "http://www.designwohnen.at/"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00
+website: http://www.designwohnen.at/

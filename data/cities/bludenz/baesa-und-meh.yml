@@ -4,8 +4,8 @@ latitude: 47.15585
 longitude: 9.81995
 postcode: "6700"
 city: Bludenz
-street: "Werdenbergerstraße"
-housenumber: 21
+street: Werdenbergerstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:30
 website: ""

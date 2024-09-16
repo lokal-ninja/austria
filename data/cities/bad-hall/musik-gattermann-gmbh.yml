@@ -1,11 +1,11 @@
 id: 57776373
-type: way
+type: node
 latitude: 48.03481
 longitude: 14.21186
 postcode: "4540"
 city: Bad Hall
-street: "Ing. Pesendorfer Straße"
-housenumber: 1
-phone: "+43 7258 4344 0"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.musik-gattermann.at/"
+street: Ing. Pesendorfer Straße
+housenumber: "1"
+phone: +43 7258 4344 0
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.musik-gattermann.at/

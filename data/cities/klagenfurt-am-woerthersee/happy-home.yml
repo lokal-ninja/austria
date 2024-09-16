@@ -1,11 +1,11 @@
 id: 95143142
-type: way
+type: node
 latitude: 46.61374
 longitude: 14.30707
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Sonnwendgasse"
-housenumber: 10
-phone: "+43 463 419101"
+street: Sonnwendgasse
+housenumber: "10"
+phone: +43 463 419101
 opening_hours: ""
-website: "https://happyhome-stoffe.at/"
+website: https://happyhome-stoffe.at/

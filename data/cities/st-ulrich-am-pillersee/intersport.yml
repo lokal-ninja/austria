@@ -1,11 +1,11 @@
 id: 205077630
-type: way
+type: node
 latitude: 47.50117
 longitude: 12.57213
 postcode: "6393"
 city: St. Ulrich am Pillersee
-street: "Buchenstein"
-housenumber: 12
+street: Buchenstein
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

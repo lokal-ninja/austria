@@ -4,8 +4,8 @@ latitude: 48.21662
 longitude: 16.38731
 postcode: "1020"
 city: Wien
-street: "Praterstraße"
-housenumber: 47
+street: Praterstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:30,13:00-17:00; Fr 09:00-12:30,13:00-15:30"
-website: "https://www.faber.at/praterstrasse"
+opening_hours: Mo-Th 09:00-12:30,13:00-17:00; Fr 09:00-12:30,13:00-15:30
+website: https://www.faber.at/praterstrasse

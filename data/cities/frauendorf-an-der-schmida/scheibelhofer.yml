@@ -1,11 +1,11 @@
 id: 313146387
-type: way
+type: node
 latitude: 48.57392
 longitude: 15.93486
 postcode: "3714"
 city: Frauendorf an der Schmida
-street: "Wienerstraße"
-housenumber: 4
+street: Wienerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

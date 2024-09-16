@@ -4,8 +4,8 @@ latitude: 47.39462
 longitude: 11.26693
 postcode: "6108"
 city: Scharnitz
-street: "Innsbruckerstraße"
-housenumber: 50
+street: Innsbruckerstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Sa,Su 13:00-18:00"
-website: "https://www.burgscharnitz.com/shop"
+opening_hours: Sa,Su 13:00-18:00
+website: https://www.burgscharnitz.com/shop

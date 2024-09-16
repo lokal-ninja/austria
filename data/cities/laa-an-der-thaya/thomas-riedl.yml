@@ -1,11 +1,11 @@
 id: 278676998
-type: way
+type: node
 latitude: 48.72816
 longitude: 16.38524
 postcode: "2136"
 city: Laa an der Thaya
-street: "Thayagasse"
-housenumber: 4
+street: Thayagasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 79123693
-type: way
+type: node
 latitude: 47.2571
 longitude: 9.58768
 postcode: "6800"
 city: Feldkirch
-street: "Nofler Straße"
-housenumber: 27
+street: Nofler Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.fahr-werk.at/"
+website: https://www.fahr-werk.at/

@@ -1,11 +1,11 @@
 id: 88161940
-type: way
+type: node
 latitude: 48.45921
 longitude: 15.72042
 postcode: "3493"
 city: Hadersdorf-Kammern
-street: "Hauptplatz"
-housenumber: 15
+street: Hauptplatz
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

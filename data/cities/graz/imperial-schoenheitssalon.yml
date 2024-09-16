@@ -4,8 +4,8 @@ latitude: 47.06438
 longitude: 15.44288
 postcode: "8010"
 city: Graz
-street: "Grazbachgasse"
-housenumber: 49
+street: Grazbachgasse
+housenumber: "49"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

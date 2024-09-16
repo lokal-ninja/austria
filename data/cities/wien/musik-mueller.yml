@@ -5,7 +5,7 @@ longitude: 16.37083
 postcode: ""
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-15:00"
-website: "https://www.musikmueller.at/"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-15:00
+website: https://www.musikmueller.at/

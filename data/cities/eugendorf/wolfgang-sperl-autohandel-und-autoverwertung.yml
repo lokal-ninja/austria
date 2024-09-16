@@ -1,11 +1,11 @@
 id: 295085157
-type: way
+type: node
 latitude: 47.85768
 longitude: 13.13118
 postcode: "5301"
 city: Eugendorf
-street: "Gewerbestraße"
-housenumber: 15
+street: Gewerbestraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.sperl-kfz.com"
+website: http://www.sperl-kfz.com

@@ -4,8 +4,8 @@ latitude: 47.26035
 longitude: 11.39615
 postcode: "6020"
 city: Innsbruck
-street: "Michael-Gaismair-Straße"
-housenumber: 5
-phone: "+43 512 551663"
-opening_hours: "Mo-Fr 09:00-12:30, Mo,Th 13:30-16:30; PH off"
-website: "https://www.audioakustik.at/"
+street: Michael-Gaismair-Straße
+housenumber: "5"
+phone: +43 512 551663
+opening_hours: Mo-Fr 09:00-12:30, Mo,Th 13:30-16:30; PH off
+website: https://www.audioakustik.at/

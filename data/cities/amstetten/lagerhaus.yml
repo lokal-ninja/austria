@@ -1,11 +1,11 @@
 id: 125501649
-type: way
+type: node
 latitude: 48.11901
 longitude: 14.88267
 postcode: "3300"
 city: Amstetten
-street: "Eggersdorfer Straße"
-housenumber: 51
+street: Eggersdorfer Straße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

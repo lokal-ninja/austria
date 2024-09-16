@@ -4,8 +4,8 @@ latitude: 48.3189
 longitude: 14.2924
 postcode: "4040"
 city: Linz
-street: "Heilhamer Straße"
-housenumber: 1
+street: Heilhamer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://velodom.bike/"
+website: https://velodom.bike/

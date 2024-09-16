@@ -4,8 +4,8 @@ latitude: 47.06938
 longitude: 15.45155
 postcode: "8010"
 city: Graz
-street: "Rechbauerstraße"
-housenumber: 23
-phone: "+43 316 319 166"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:00"
-website: "https://baeckerei-kern.at"
+street: Rechbauerstraße
+housenumber: "23"
+phone: +43 316 319 166
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-12:00
+website: https://baeckerei-kern.at

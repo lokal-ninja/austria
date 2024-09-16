@@ -1,11 +1,11 @@
 id: 338786742
-type: way
+type: node
 latitude: 47.87407
 longitude: 16.6503
 postcode: "7082"
 city: Donnerskirchen
-street: "Industriegelände"
-housenumber: 1
+street: Industriegelände
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

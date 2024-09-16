@@ -1,11 +1,11 @@
 id: 233911334
-type: way
+type: node
 latitude: 47.50161
 longitude: 16.29235
 postcode: "2860"
 city: Kirchschlag in der Buckligen Welt
-street: "Wiener Straße"
-housenumber: 6
+street: Wiener Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

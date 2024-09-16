@@ -1,11 +1,11 @@
 id: 612497839
-type: way
+type: node
 latitude: 47.08062
 longitude: 9.90345
 postcode: "6780"
 city: Schruns
-street: "Rätikonstraße"
-housenumber: 42
+street: Rätikonstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-22:00"
-website: "https://www.shell.at/"
+opening_hours: Mo-Su,PH 06:00-22:00
+website: https://www.shell.at/

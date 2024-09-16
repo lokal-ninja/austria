@@ -4,8 +4,8 @@ latitude: 48.21599
 longitude: 16.35097
 postcode: "1090"
 city: Wien
-street: "Spitalgasse"
-housenumber: 3
+street: Spitalgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-15:00"
+opening_hours: Mo-Fr 09:00-15:00
 website: ""

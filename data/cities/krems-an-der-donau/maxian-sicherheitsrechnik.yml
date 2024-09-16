@@ -4,8 +4,8 @@ latitude: 48.40915
 longitude: 15.59856
 postcode: "3500"
 city: Krems an der Donau
-street: "Hafnerplatz"
-housenumber: 10
-phone: "+43 2732 70518"
-opening_hours: "Mo,Th 08:15-13:00"
+street: Hafnerplatz
+housenumber: "10"
+phone: +43 2732 70518
+opening_hours: Mo,Th 08:15-13:00
 website: ""

@@ -1,11 +1,12 @@
 id: 766204799
-type: way
+type: node
 latitude: 48.85551
 longitude: 15.28955
 postcode: "3842"
 city: Thaya
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30; Mo-Tu 15:00-18:30; Th-Fr 15:00-18:30; Sa 06:30-12:30; PH off"
+opening_hours: Mo-Fr 06:30-12:30; Mo-Tu 15:00-18:30; Th-Fr 15:00-18:30; Sa 06:30-12:30;
+    PH off
 website: ""

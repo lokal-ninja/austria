@@ -5,7 +5,7 @@ longitude: 14.75242
 postcode: "3361"
 city: Aschbach-Markt
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00, 14:00-18:00; Sa,Su,PH 06:30-12:00"
-website: "https://www.danecker.at/"
+opening_hours: Mo-Fr 06:00-12:00, 14:00-18:00; Sa,Su,PH 06:30-12:00
+website: https://www.danecker.at/

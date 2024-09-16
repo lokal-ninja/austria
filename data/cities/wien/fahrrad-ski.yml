@@ -4,8 +4,8 @@ latitude: 48.19101
 longitude: 16.35268
 postcode: "1060"
 city: Wien
-street: "Linke Wienzeile"
-housenumber: 128
+street: Linke Wienzeile
+housenumber: "128"
 phone: "+4315978288"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 09:00-12:30"
-website: "https://www.fahrrad-ski.at/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 09:00-12:30
+website: https://www.fahrrad-ski.at/

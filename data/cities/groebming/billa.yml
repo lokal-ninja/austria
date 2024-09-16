@@ -1,11 +1,11 @@
 id: 114802231
-type: way
+type: node
 latitude: 47.44888
 longitude: 13.90516
 postcode: "8962"
 city: Gröbming
-street: "Buchenweg"
-housenumber: 830
+street: Buchenweg
+housenumber: "830"
 phone: ""
-opening_hours: "Mo-Fr 06:45-19:00; Sa 07:15-18:00"
+opening_hours: Mo-Fr 06:45-19:00; Sa 07:15-18:00
 website: ""

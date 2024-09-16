@@ -4,8 +4,8 @@ latitude: 47.07175
 longitude: 15.45183
 postcode: "8010"
 city: Graz
-street: "Schillerstraße"
-housenumber: 5
+street: Schillerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-17:00;Fr 09:00-12:00;on arrangement"
+opening_hours: Mo-Th 09:00-12:00,14:00-17:00;Fr 09:00-12:00;"on arrangement"
 website: ""

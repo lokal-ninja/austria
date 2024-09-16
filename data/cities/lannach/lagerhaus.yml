@@ -1,11 +1,11 @@
 id: 180380323
-type: way
+type: node
 latitude: 46.9469
 longitude: 15.33621
 postcode: "8502"
 city: Lannach
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

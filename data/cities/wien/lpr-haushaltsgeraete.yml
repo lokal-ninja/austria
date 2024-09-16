@@ -4,8 +4,8 @@ latitude: 48.22694
 longitude: 16.34427
 postcode: "1180"
 city: Wien
-street: "Gentzgasse"
-housenumber: 32
+street: Gentzgasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.weichsel.co.at"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.weichsel.co.at

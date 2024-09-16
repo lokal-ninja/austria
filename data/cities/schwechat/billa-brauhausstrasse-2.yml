@@ -1,11 +1,11 @@
 id: 150314287
-type: way
+type: node
 latitude: 48.13676
 longitude: 16.46769
 postcode: "2320"
 city: Schwechat
-street: "Brauhausstraße"
-housenumber: 14
-phone: "+43 1 7075019"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Brauhausstraße
+housenumber: "14"
+phone: +43 1 7075019
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off
+website: https://www.billa.at/

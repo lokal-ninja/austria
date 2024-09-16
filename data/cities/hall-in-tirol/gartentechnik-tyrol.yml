@@ -4,8 +4,8 @@ latitude: 47.28132
 longitude: 11.48518
 postcode: "6060"
 city: Hall in Tirol
-street: "Kasernenweg"
-housenumber: 54
-phone: "+43664 9154159"
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "https://www.gartentechnik-tyrol.at/"
+street: Kasernenweg
+housenumber: "54"
+phone: +43664 9154159
+opening_hours: Mo-Fr 08:00-12:00
+website: https://www.gartentechnik-tyrol.at/

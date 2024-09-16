@@ -1,11 +1,11 @@
 id: 121242204
-type: way
+type: node
 latitude: 47.4778
 longitude: 9.67566
 postcode: "6971"
 city: Hard
-street: "Am Römerstein"
-housenumber: 1
-phone: "+43 5574 84893 0"
+street: Am Römerstein
+housenumber: "1"
+phone: +43 5574 84893 0
 opening_hours: ""
-website: "https://www.hammerl-landbaeckerei.at/"
+website: https://www.hammerl-landbaeckerei.at/

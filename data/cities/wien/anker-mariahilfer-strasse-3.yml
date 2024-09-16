@@ -4,8 +4,8 @@ latitude: 48.19721
 longitude: 16.34725
 postcode: "1060"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 91
+street: Mariahilfer Straße
+housenumber: "91"
 phone: "+4315967373"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-18:00; PH off"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-18:00; PH off
+website: https://www.ankerbrot.at/

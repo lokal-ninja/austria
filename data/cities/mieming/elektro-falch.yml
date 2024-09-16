@@ -1,11 +1,11 @@
 id: 190981634
-type: way
+type: node
 latitude: 47.30618
 longitude: 10.9779
 postcode: "6414"
 city: Mieming
-street: "Obermieming"
-housenumber: 179
+street: Obermieming
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.47699
 longitude: 9.72681
 postcode: "6923"
 city: Lauterach
-street: "Karl-Höll-Straße"
-housenumber: 16
+street: Karl-Höll-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu,Th 11:00-13:00,17:00-19:00; We 11:00-13:00"
-website: "https://jol.at/"
+opening_hours: Tu,Th 11:00-13:00,17:00-19:00; We 11:00-13:00
+website: https://jol.at/

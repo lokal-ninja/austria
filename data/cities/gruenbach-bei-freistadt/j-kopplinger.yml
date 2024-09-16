@@ -1,11 +1,11 @@
 id: 89203693
-type: way
+type: node
 latitude: 48.53868
 longitude: 14.53694
 postcode: "4264"
 city: Grünbach bei Freistadt
-street: "Pflüglberg"
-housenumber: 3
+street: Pflüglberg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.kopplinger-technik.at/"
+website: https://www.kopplinger-technik.at/

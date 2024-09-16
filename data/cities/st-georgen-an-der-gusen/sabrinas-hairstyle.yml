@@ -1,11 +1,11 @@
 id: 246547960
-type: way
+type: node
 latitude: 48.27146
 longitude: 14.44882
 postcode: "4222"
 city: St. Georgen an der Gusen
-street: "Marktplatz"
-housenumber: 9
+street: Marktplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,Th,Fr 08:30-18:00; We 08:30-12:00; Sa 08:00-12:00"
+opening_hours: Tu,Th,Fr 08:30-18:00; We 08:30-12:00; Sa 08:00-12:00
 website: ""

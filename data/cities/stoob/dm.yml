@@ -1,11 +1,11 @@
 id: 664477713
-type: way
+type: node
 latitude: 47.51368
 longitude: 16.48948
 postcode: "7344"
 city: Stoob
-street: "Stoob-Süd"
-housenumber: 56
+street: Stoob-Süd
+housenumber: "56"
 phone: "+43261242958"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-17:00
 website: ""

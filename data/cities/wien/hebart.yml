@@ -4,8 +4,8 @@ latitude: 48.22974
 longitude: 16.38742
 postcode: "1200"
 city: Wien
-street: "Dresdner Straße"
-housenumber: 
+street: Dresdner Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00"
-website: "https://www.yamaha-hebart.at/"
+opening_hours: Mo-Th 09:00-17:00
+website: https://www.yamaha-hebart.at/

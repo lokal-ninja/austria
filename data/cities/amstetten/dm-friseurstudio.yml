@@ -1,11 +1,11 @@
 id: 288192646
-type: way
+type: node
 latitude: 48.10726
 longitude: 14.83164
 postcode: "3300"
 city: Amstetten
-street: "Gottlieb-Daimler-Straße"
-housenumber: 2
+street: Gottlieb-Daimler-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

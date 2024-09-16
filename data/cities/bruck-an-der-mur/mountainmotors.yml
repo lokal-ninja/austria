@@ -1,11 +1,11 @@
 id: 341147593
-type: way
+type: node
 latitude: 47.4257
 longitude: 15.27087
 postcode: "8600"
 city: Bruck an der Mur
-street: "Wiener Straße"
-housenumber: 94
+street: Wiener Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00, 14:00-18:00; Fr 09:00-12:00"
-website: "https://mountainmotors.at/"
+opening_hours: Mo-Th 09:00-12:00, 14:00-18:00; Fr 09:00-12:00
+website: https://mountainmotors.at/

@@ -4,8 +4,8 @@ latitude: 48.16726
 longitude: 16.30833
 postcode: "1120"
 city: Wien
-street: "Hetzendorfer Straße"
-housenumber: 81
+street: Hetzendorfer Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:00,14:30-18:30; Sa 09:30-17:00; PH off"
-website: "https://flickschuh.wien/"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:00,14:30-18:30; Sa 09:30-17:00; PH off
+website: https://flickschuh.wien/

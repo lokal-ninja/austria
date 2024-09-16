@@ -4,8 +4,8 @@ latitude: 48.12177
 longitude: 16.60399
 postcode: "2401"
 city: Fischamend
-street: "Donauarmstraße"
-housenumber: 10
+street: Donauarmstraße
+housenumber: "10"
 phone: "+436704046466"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.mythai.at/"
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.mythai.at/

@@ -4,8 +4,8 @@ latitude: 47.37802
 longitude: 15.09168
 postcode: "8700"
 city: Leoben
-street: "Waasenstraße"
-housenumber: 11
+street: Waasenstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,14:30-18:00"
-website: "https://www.woschner.at/"
+opening_hours: Tu-Fr 08:30-12:00,14:30-18:00
+website: https://www.woschner.at/

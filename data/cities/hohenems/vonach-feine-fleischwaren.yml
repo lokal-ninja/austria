@@ -1,11 +1,11 @@
 id: 88540874
-type: way
+type: node
 latitude: 47.3717
 longitude: 9.68054
 postcode: "6845"
 city: Hohenems
-street: "Schweizer Straße"
-housenumber: 75
-phone: "+43 5576 71220"
-opening_hours: "Mo-Th 08:00-11:50, 12:20-16:30; Fr 08:00-11:50, 12:20-14:00"
-website: "https://vff-vonach-feine-fleischwaren-gesmbhco-kg.business.site/"
+street: Schweizer Straße
+housenumber: "75"
+phone: +43 5576 71220
+opening_hours: Mo-Th 08:00-11:50, 12:20-16:30; Fr 08:00-11:50, 12:20-14:00
+website: https://vff-vonach-feine-fleischwaren-gesmbhco-kg.business.site/

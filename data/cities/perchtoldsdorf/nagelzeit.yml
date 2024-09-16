@@ -4,8 +4,8 @@ latitude: 48.12058
 longitude: 16.26413
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Hochstraße"
-housenumber: 11
-phone: "+43 650 2608666"
-opening_hours: "Mo-Th 10:00-20:00"
-website: "https://www.nagelzeit.at/"
+street: Hochstraße
+housenumber: "11"
+phone: +43 650 2608666
+opening_hours: Mo-Th 10:00-20:00
+website: https://www.nagelzeit.at/

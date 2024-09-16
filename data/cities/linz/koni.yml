@@ -4,8 +4,8 @@ latitude: 48.30589
 longitude: 14.28509
 postcode: "4020"
 city: Linz
-street: "Hofgasse"
-housenumber: 10
+street: Hofgasse
+housenumber: "10"
 phone: "+4369912494178"
-opening_hours: "Tu-Fr 14:00-18:00"
-website: "https://www.koni-oberhauser.at"
+opening_hours: Tu-Fr 14:00-18:00
+website: https://www.koni-oberhauser.at

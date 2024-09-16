@@ -1,11 +1,11 @@
 id: 265960997
-type: way
+type: node
 latitude: 48.14779
 longitude: 16.34215
 postcode: "1230"
 city: Wien
-street: "Richard-Strauss-Straße"
-housenumber: 4
+street: Richard-Strauss-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

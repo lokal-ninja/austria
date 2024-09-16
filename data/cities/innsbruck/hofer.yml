@@ -4,8 +4,8 @@ latitude: 47.26694
 longitude: 11.39678
 postcode: "6020"
 city: Innsbruck
-street: "Museumstraße"
-housenumber: 14
-phone: "+43 57030 32004"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.hofer.at"
+street: Museumstraße
+housenumber: "14"
+phone: +43 57030 32004
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
+website: https://www.hofer.at

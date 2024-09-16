@@ -1,11 +1,11 @@
 id: 502102973
-type: way
+type: node
 latitude: 47.80019
 longitude: 16.03113
 postcode: "2732"
 city: Höflein an der Hohen Wand
-street: "Quellenstraße"
-housenumber: 5
+street: Quellenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.zweierlei.at/"
+website: https://www.zweierlei.at/

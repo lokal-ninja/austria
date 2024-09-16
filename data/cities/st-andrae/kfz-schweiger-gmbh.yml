@@ -1,11 +1,11 @@
 id: 240129505
-type: way
+type: node
 latitude: 46.7471
 longitude: 14.82321
 postcode: "9433"
 city: St. Andrä
-street: "Framrach"
-housenumber: 50
+street: Framrach
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

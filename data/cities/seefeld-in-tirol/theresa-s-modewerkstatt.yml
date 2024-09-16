@@ -1,11 +1,11 @@
 id: 190659542
-type: way
+type: node
 latitude: 47.32829
 longitude: 11.1929
 postcode: "6100"
 city: Seefeld in Tirol
-street: "Milserstraße"
-housenumber: 127
-phone: "+43 664 1402932"
+street: Milserstraße
+housenumber: "127"
+phone: +43 664 1402932
 opening_hours: ""
 website: ""

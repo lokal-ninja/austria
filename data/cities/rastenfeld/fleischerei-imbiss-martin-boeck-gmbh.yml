@@ -5,7 +5,7 @@ longitude: 15.33225
 postcode: "3532"
 city: Rastenfeld
 street: ""
-housenumber: 12
-phone: "+43 2826 204"
-opening_hours: "Mo-Fr 6:30-18:00; Sa 07:00-12:00; PH off"
+housenumber: "12"
+phone: +43 2826 204
+opening_hours: Mo-Fr 6:30-18:00; Sa 07:00-12:00; PH off
 website: ""

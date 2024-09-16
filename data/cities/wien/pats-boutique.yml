@@ -4,8 +4,8 @@ latitude: 48.18668
 longitude: 16.29914
 postcode: "1130"
 city: Wien
-street: "Hietzinger Hauptstraße"
-housenumber: 28
-phone: "+43 1 8765634"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.pats-boutique.at/"
+street: Hietzinger Hauptstraße
+housenumber: "28"
+phone: +43 1 8765634
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.pats-boutique.at/

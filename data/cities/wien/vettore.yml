@@ -4,8 +4,8 @@ latitude: 48.19391
 longitude: 16.36155
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 56
-phone: "+43 1 2364170"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.vettore.at/"
+street: Margaretenstraße
+housenumber: "56"
+phone: +43 1 2364170
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.vettore.at/

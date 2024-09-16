@@ -1,11 +1,11 @@
 id: 227369876
-type: way
+type: node
 latitude: 47.11388
 longitude: 15.41325
 postcode: "8046"
 city: Graz
-street: "Sankt-Veiter-Straße"
-housenumber: 65
+street: Sankt-Veiter-Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

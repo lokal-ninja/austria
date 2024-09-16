@@ -4,8 +4,8 @@ latitude: 48.27692
 longitude: 16.38868
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 128
+street: Prager Straße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo - Fr 08:00-12:00, 13:00-18:00; Sa 10:00 - 14:00"
-website: "https://www.ww-autohifi.at"
+opening_hours: Mo - Fr 08:00-12:00, 13:00-18:00; Sa 10:00 - 14:00
+website: https://www.ww-autohifi.at

@@ -4,8 +4,8 @@ latitude: 47.06984
 longitude: 15.44389
 postcode: "8010"
 city: Graz
-street: "Tummelplatz"
-housenumber: 5
-phone: "+43 677 62870565"
-opening_hours: "Mo-Tu, Th-Fr 12:00-18:00"
-website: "https://www.cashy.at/"
+street: Tummelplatz
+housenumber: "5"
+phone: +43 677 62870565
+opening_hours: Mo-Tu, Th-Fr 12:00-18:00
+website: https://www.cashy.at/

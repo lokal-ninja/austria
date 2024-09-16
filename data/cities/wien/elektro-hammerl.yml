@@ -4,8 +4,8 @@ latitude: 48.19557
 longitude: 16.40782
 postcode: "1030"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 117
+street: Erdbergstraße
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "https://www.elektro-hammerl.at/"
+website: https://www.elektro-hammerl.at/

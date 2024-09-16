@@ -1,11 +1,11 @@
 id: 165006098
-type: way
+type: node
 latitude: 46.80472
 longitude: 15.56146
 postcode: "8431"
 city: Gralla
-street: "Gewerbepark Süd"
-housenumber: 12
+street: Gewerbepark Süd
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off"
-website: "https://jysk.at/stores-locator?storeId=5108"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su,PH off
+website: https://jysk.at/stores-locator?storeId=5108

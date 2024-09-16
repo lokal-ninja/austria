@@ -1,11 +1,11 @@
 id: 337358197
-type: way
+type: node
 latitude: 46.79193
 longitude: 15.3744
 postcode: "8444"
 city: Sankt Andrä-Höch
 street: ""
-housenumber: 62
-phone: "+43 3457 - 2295"
-opening_hours: "Mo-Fr 8:30 - 12:00, 14:30 - 18:00; Sa 8:30 - 12:00, Su,PH off"
-website: "http://www.mode-silberschneider.at/"
+housenumber: "62"
+phone: +43 3457 - 2295
+opening_hours: Mo-Fr 8:30 - 12:00, 14:30 - 18:00; Sa 8:30 - 12:00, Su,PH off
+website: http://www.mode-silberschneider.at/

@@ -1,11 +1,11 @@
 id: 23087416
-type: way
+type: node
 latitude: 48.11763
 longitude: 16.31953
 postcode: "2334"
 city: Vösendorf
-street: "Europaring"
-housenumber: 7
-phone: "+43 50111 865 0"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.moemax.at/"
+street: Europaring
+housenumber: "7"
+phone: +43 50111 865 0
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.moemax.at/

@@ -1,11 +1,11 @@
 id: 87691185
-type: way
+type: node
 latitude: 47.29198
 longitude: 16.20724
 postcode: "7400"
 city: Oberwart
-street: "Wienerstraße"
-housenumber: 38
+street: Wienerstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

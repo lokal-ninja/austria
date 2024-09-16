@@ -1,11 +1,11 @@
 id: 224988947
-type: way
+type: node
 latitude: 48.24288
 longitude: 16.3081
 postcode: "1180"
 city: Wien
-street: "Pötzleinsdorfer Straße"
-housenumber: 89
+street: Pötzleinsdorfer Straße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Sa 06:15-12:00"
+opening_hours: Mo-Sa 06:15-12:00
 website: ""

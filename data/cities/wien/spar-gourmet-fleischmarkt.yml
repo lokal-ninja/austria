@@ -4,8 +4,8 @@ latitude: 48.21086
 longitude: 16.37612
 postcode: "1010"
 city: Wien
-street: "Fleischmarkt"
-housenumber: 5
+street: Fleischmarkt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00
 website: ""

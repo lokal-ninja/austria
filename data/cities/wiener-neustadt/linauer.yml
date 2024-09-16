@@ -1,11 +1,11 @@
 id: 309296061
-type: way
+type: node
 latitude: 47.81572
 longitude: 16.25531
 postcode: "2700"
 city: Wiener Neustadt
-street: "Lazarettgasse"
-housenumber: 17
+street: Lazarettgasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

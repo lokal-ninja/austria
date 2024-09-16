@@ -1,11 +1,11 @@
 id: 30597606
-type: way
+type: node
 latitude: 48.23374
 longitude: 16.14383
 postcode: "3003"
 city: Gablitz
-street: "Linzer Straße"
-housenumber: 147
-phone: "+43 2231 63452"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-17:00"
-website: "https://www.spar-schober.at/"
+street: Linzer Straße
+housenumber: "147"
+phone: +43 2231 63452
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-17:00
+website: https://www.spar-schober.at/

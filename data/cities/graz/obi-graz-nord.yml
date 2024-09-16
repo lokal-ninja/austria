@@ -1,11 +1,11 @@
 id: 147018174
-type: way
+type: node
 latitude: 47.10567
 longitude: 15.40116
 postcode: "8051"
 city: Graz
-street: "Wiener Straße"
-housenumber: 364
+street: Wiener Straße
+housenumber: "364"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.obi.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.obi.at/

@@ -1,11 +1,11 @@
 id: 104848654
-type: way
+type: node
 latitude: 47.37646
 longitude: 9.70055
 postcode: "6845"
 city: Hohenems
-street: "Radetzkystraße"
+street: Radetzkystraße
 housenumber: 116b
-phone: "+43 664 1373446"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-17:00"
-website: "https://www.db-kfz.at/"
+phone: +43 664 1373446
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-17:00
+website: https://www.db-kfz.at/

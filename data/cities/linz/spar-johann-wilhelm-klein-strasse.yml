@@ -1,11 +1,11 @@
 id: 24823657
-type: way
+type: node
 latitude: 48.33133
 longitude: 14.31248
 postcode: "4040"
 city: Linz
-street: "Johann-Wilhelm-Klein-Straße"
-housenumber: 13
+street: Johann-Wilhelm-Klein-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at/standorte/spar-linz-4040-johann-wilhelm-klein-strasse-13"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at/standorte/spar-linz-4040-johann-wilhelm-klein-strasse-13

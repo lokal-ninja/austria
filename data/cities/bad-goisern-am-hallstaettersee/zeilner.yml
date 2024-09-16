@@ -1,11 +1,11 @@
 id: 324152769
-type: way
+type: node
 latitude: 47.65574
 longitude: 13.60979
 postcode: "4822"
 city: Bad Goisern am Hallstättersee
-street: "Bundesstraße"
-housenumber: 49
-phone: "+43-664-5203235"
+street: Bundesstraße
+housenumber: "49"
+phone: +43-664-5203235
 opening_hours: ""
-website: "https://www.zeilnerclassic.at/"
+website: https://www.zeilnerclassic.at/

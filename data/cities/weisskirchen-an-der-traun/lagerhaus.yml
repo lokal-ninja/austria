@@ -1,11 +1,11 @@
 id: 120124896
-type: way
+type: node
 latitude: 48.16344
 longitude: 14.12141
 postcode: "4616"
 city: Weißkirchen an der Traun
-street: "Obere Dorfstraße"
-housenumber: 26
+street: Obere Dorfstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

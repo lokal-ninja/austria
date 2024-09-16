@@ -1,11 +1,11 @@
 id: 255520411
-type: way
+type: node
 latitude: 48.50245
 longitude: 14.36065
 postcode: "4192"
 city: Schenkenfelden
-street: "Markt"
-housenumber: 19
+street: Markt
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

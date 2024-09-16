@@ -1,11 +1,11 @@
 id: 810680947
-type: way
+type: node
 latitude: 47.28412
 longitude: 12.4877
 postcode: "5730"
 city: Mittersill
-street: "Zeller Straße"
-housenumber: 16
+street: Zeller Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30, Sa 09:00-18:00"
-website: "https://www.kik.at/"
+opening_hours: Mo-Fr 08:30-18:30, Sa 09:00-18:00
+website: https://www.kik.at/

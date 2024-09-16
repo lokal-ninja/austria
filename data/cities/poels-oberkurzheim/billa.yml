@@ -1,11 +1,11 @@
 id: 190630288
-type: way
+type: node
 latitude: 47.22074
 longitude: 14.58496
 postcode: "8761"
 city: Pöls-Oberkurzheim
-street: "Arbeitergasse"
-housenumber: 1
-phone: "+43 59915 06255"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Arbeitergasse
+housenumber: "1"
+phone: +43 59915 06255
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

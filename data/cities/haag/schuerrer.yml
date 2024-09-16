@@ -1,11 +1,11 @@
 id: 316252903
-type: way
+type: node
 latitude: 48.11483
 longitude: 14.57047
 postcode: "3350"
 city: Haag
-street: "Straße zur Autobahn"
-housenumber: 6
-phone: "+43 7434 42836-0"
-opening_hours: "Mo-Th 06:00-15:00; Fr 06:00-11:00"
-website: "http://www.schuerrer.at"
+street: Straße zur Autobahn
+housenumber: "6"
+phone: +43 7434 42836-0
+opening_hours: Mo-Th 06:00-15:00; Fr 06:00-11:00
+website: http://www.schuerrer.at

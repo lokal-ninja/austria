@@ -4,8 +4,8 @@ latitude: 48.22267
 longitude: 16.32427
 postcode: "1170"
 city: Wien
-street: "Rhigasgasse"
-housenumber: 2
+street: Rhigasgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-14:00,15:00-20:00"
+opening_hours: Mo-Sa 09:00-14:00,15:00-20:00
 website: ""

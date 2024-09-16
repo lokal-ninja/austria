@@ -1,11 +1,11 @@
 id: 475278596
-type: way
+type: node
 latitude: 46.73888
 longitude: 15.60315
 postcode: "8472"
 city: Straß in Steiermark
-street: "Rebenland-Center-Straße"
+street: Rebenland-Center-Straße
 housenumber: 1e
 phone: ""
-opening_hours: "Mo-Th 08:30-18:00; Sa 08:00-17:00"
-website: "https://www.dm-drogeriemarkt.at"
+opening_hours: Mo-Th 08:30-18:00; Sa 08:00-17:00
+website: https://www.dm-drogeriemarkt.at

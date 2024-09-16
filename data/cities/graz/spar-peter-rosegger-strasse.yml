@@ -1,11 +1,11 @@
 id: 317247160
-type: way
+type: node
 latitude: 47.05349
 longitude: 15.40962
 postcode: "8053"
 city: Graz
-street: "Peter-Rosegger-Straße"
-housenumber: 25
+street: Peter-Rosegger-Straße
+housenumber: "25"
 phone: "+43316275375"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at

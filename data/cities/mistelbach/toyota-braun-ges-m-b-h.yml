@@ -1,11 +1,11 @@
 id: 241466081
-type: way
+type: node
 latitude: 48.56009
 longitude: 16.57628
 postcode: "2130"
 city: Mistelbach
-street: "Lanzendorfer Hauptstraße"
-housenumber: 6
+street: Lanzendorfer Hauptstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:00,13:00-17:30, Sa 09:00-12:00"
+opening_hours: Mo-Sa 07:30-12:00,13:00-17:30, Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 108888827
-type: way
+type: node
 latitude: 47.28077
 longitude: 11.52532
 postcode: "6060"
 city: Hall in Tirol
-street: "Salzburger Straße"
-housenumber: 71
+street: Salzburger Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:00;Fr 08:00-19:30;Sa 08:00-18:00"
+opening_hours: Mo-Th 08:00-19:00;Fr 08:00-19:30;Sa 08:00-18:00
 website: ""

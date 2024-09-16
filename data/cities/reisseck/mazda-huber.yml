@@ -1,11 +1,11 @@
 id: 183028939
-type: way
+type: node
 latitude: 46.8753
 longitude: 13.31032
 postcode: "9815"
 city: Reißeck
 street: ""
-housenumber: 125
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

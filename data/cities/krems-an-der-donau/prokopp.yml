@@ -4,8 +4,8 @@ latitude: 48.41109
 longitude: 15.60225
 postcode: "3500"
 city: Krems an der Donau
-street: "Spänglergasse"
-housenumber: 4
-phone: "+43 2732 706 67"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.prokopp.co.at"
+street: Spänglergasse
+housenumber: "4"
+phone: +43 2732 706 67
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.prokopp.co.at

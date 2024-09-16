@@ -1,11 +1,11 @@
 id: 245473191
-type: way
+type: node
 latitude: 48.05157
 longitude: 16.30723
 postcode: "2353"
 city: Guntramsdorf
-street: "Kammeringstraße"
-housenumber: 28
+street: Kammeringstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

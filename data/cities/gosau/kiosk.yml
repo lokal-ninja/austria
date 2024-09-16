@@ -1,11 +1,11 @@
 id: 56182862
-type: way
+type: node
 latitude: 47.53283
 longitude: 13.49778
 postcode: "4825"
 city: Gosau
-street: "Gosauseestraße"
-housenumber: 145
+street: Gosauseestraße
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

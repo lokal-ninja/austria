@@ -1,11 +1,11 @@
 id: 1010273674
-type: way
+type: node
 latitude: 47.3721
 longitude: 11.22999
 postcode: "6105"
 city: Leutasch
 street: ""
 housenumber: 4b
-phone: "+43 664 300 9336"
+phone: +43 664 300 9336
 opening_hours: ""
-website: "https://kfz-hausegger.at/"
+website: https://kfz-hausegger.at/

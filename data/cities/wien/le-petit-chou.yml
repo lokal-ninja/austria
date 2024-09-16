@@ -4,8 +4,8 @@ latitude: 48.22715
 longitude: 16.34071
 postcode: "1180"
 city: Wien
-street: "Weimarer Straße"
-housenumber: 11
-phone: "+43 650 741 0844"
-opening_hours: "Mo-Fr 09:30-18:00, Fr 09:30-14:00"
-website: "https://www.lepetitchou.at"
+street: Weimarer Straße
+housenumber: "11"
+phone: +43 650 741 0844
+opening_hours: Mo-Fr 09:30-18:00, Fr 09:30-14:00
+website: https://www.lepetitchou.at

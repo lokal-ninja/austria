@@ -1,11 +1,11 @@
 id: 237518128
-type: way
+type: node
 latitude: 47.04892
 longitude: 15.41478
 postcode: "8053"
 city: Graz
-street: "Kärntner Straße"
-housenumber: 136
-phone: "+43 59915 06065"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Kärntner Straße
+housenumber: "136"
+phone: +43 59915 06065
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

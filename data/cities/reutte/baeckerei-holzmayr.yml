@@ -1,11 +1,11 @@
 id: 119993965
-type: way
+type: node
 latitude: 47.48671
 longitude: 10.71975
 postcode: "6600"
 city: Reutte
-street: "Obermarkt"
-housenumber: 53
+street: Obermarkt
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

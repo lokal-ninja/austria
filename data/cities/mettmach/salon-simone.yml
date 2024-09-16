@@ -1,11 +1,11 @@
 id: 228704013
-type: way
+type: node
 latitude: 48.17102
 longitude: 13.34505
 postcode: "4931"
 city: Mettmach
-street: "Salzburger Straße"
-housenumber: 10
+street: Salzburger Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 08:00-11:30,13:00-18:00; Sa 07:30-13:00; Su,Mo,PH off"
+opening_hours: Tu-Fr 08:00-11:30,13:00-18:00; Sa 07:30-13:00; Su,Mo,PH off
 website: ""

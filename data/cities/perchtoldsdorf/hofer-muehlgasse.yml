@@ -1,11 +1,11 @@
 id: 86928496
-type: way
+type: node
 latitude: 48.12356
 longitude: 16.29196
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Mühlgasse"
-housenumber: 98
-phone: "+43 1 8691048"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
+street: Mühlgasse
+housenumber: "98"
+phone: +43 1 8691048
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
 website: ""

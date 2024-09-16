@@ -1,11 +1,11 @@
 id: 947442699
-type: way
+type: node
 latitude: 46.56153
 longitude: 13.86889
 postcode: "9584"
 city: Finkenstein am Faaker See
-street: "Faakerseestraße"
-housenumber: 5
-phone: "+43 5991507665"
-opening_hours: "Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su 08:00-13:00,15:00-18:00"
-website: "https://www.billa.at"
+street: Faakerseestraße
+housenumber: "5"
+phone: +43 5991507665
+opening_hours: Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su 08:00-13:00,15:00-18:00
+website: https://www.billa.at

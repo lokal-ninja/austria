@@ -1,11 +1,11 @@
 id: 220176722
-type: way
+type: node
 latitude: 47.27118
 longitude: 15.32704
 postcode: "8130"
 city: Frohnleiten
-street: "Hauptplatz"
-housenumber: 35
+street: Hauptplatz
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.20008
 longitude: 16.40672
 postcode: "1030"
 city: Wien
-street: "Erdberger Lände"
-housenumber: 
+street: Erdberger Lände
+housenumber: ""
 phone: "+4317107909"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

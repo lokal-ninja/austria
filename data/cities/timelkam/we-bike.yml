@@ -1,11 +1,11 @@
 id: 468786639
-type: way
+type: node
 latitude: 48.00262
 longitude: 13.61479
 postcode: "4850"
 city: Timelkam
-street: "Linzer Straße"
-housenumber: 53
-phone: "0680 1084369"
+street: Linzer Straße
+housenumber: "53"
+phone: 0680 1084369
 opening_hours: ""
-website: "https://we-bike.at/"
+website: https://we-bike.at/

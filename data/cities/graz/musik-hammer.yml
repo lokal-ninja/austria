@@ -4,8 +4,8 @@ latitude: 47.06676
 longitude: 15.43331
 postcode: "8020"
 city: Graz
-street: "Storchgasse"
-housenumber: 4
+street: Storchgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
 website: ""

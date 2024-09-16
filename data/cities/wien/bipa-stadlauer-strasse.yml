@@ -4,8 +4,8 @@ latitude: 48.22508
 longitude: 16.45195
 postcode: "1220"
 city: Wien
-street: "Stadlauer Straße"
-housenumber: 5
+street: Stadlauer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

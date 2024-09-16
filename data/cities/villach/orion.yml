@@ -4,8 +4,8 @@ latitude: 46.6035
 longitude: 13.86405
 postcode: "9500"
 city: Villach
-street: "Bruno-Kreisky-Straße"
-housenumber: 33
+street: Bruno-Kreisky-Straße
+housenumber: "33"
 phone: "+43424232289"
 opening_hours: ""
-website: "https://www.orion.at/fachgeschaeft/villach-4456"
+website: https://www.orion.at/fachgeschaeft/villach-4456

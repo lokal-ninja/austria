@@ -4,8 +4,8 @@ latitude: 47.3659
 longitude: 9.68906
 postcode: "6845"
 city: Hohenems
-street: "Marktstraße"
-housenumber: 27
+street: Marktstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "http://www.fraeulein-amann.at/"
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: http://www.fraeulein-amann.at/

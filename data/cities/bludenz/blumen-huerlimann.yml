@@ -1,11 +1,11 @@
 id: 306311172
-type: way
+type: node
 latitude: 47.15833
 longitude: 9.81729
 postcode: "6700"
 city: Bludenz
-street: "Sankt-Anna-Straße"
-housenumber: 8
+street: Sankt-Anna-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

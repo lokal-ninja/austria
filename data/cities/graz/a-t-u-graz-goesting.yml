@@ -1,11 +1,11 @@
 id: 145716510
-type: way
+type: node
 latitude: 47.09921
 longitude: 15.40382
 postcode: "8051"
 city: Graz
-street: "Wiener Straße"
+street: Wiener Straße
 housenumber: 310/312
-phone: "+43 50306241"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.atu.at/pages/home.html"
+phone: +43 50306241
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.atu.at/pages/home.html

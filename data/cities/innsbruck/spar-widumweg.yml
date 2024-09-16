@@ -1,11 +1,11 @@
 id: 109377600
-type: way
+type: node
 latitude: 47.23086
 longitude: 11.4072
 postcode: "6080"
 city: Innsbruck
-street: "Widumweg"
-housenumber: 3
+street: Widumweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

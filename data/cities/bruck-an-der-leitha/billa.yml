@@ -1,11 +1,11 @@
 id: 440838434
-type: way
+type: node
 latitude: 48.02795
 longitude: 16.78109
 postcode: "2460"
 city: Bruck an der Leitha
-street: "Pachfurther Straße"
-housenumber: 5
+street: Pachfurther Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30, Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30, Sa 07:15-18:00
 website: ""

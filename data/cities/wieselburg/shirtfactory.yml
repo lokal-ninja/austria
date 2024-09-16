@@ -4,8 +4,9 @@ latitude: 48.13004
 longitude: 15.13737
 postcode: "3250"
 city: Wieselburg
-street: "Grestner Straße"
-housenumber: 1
-phone: "+43 7416 55 55 6"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; Tu 08:00-12:00; Fr 08:00-12:00,13:00-16:00; PH off"
-website: "https://shirtfactory.at/"
+street: Grestner Straße
+housenumber: "1"
+phone: +43 7416 55 55 6
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; Tu 08:00-12:00; Fr 08:00-12:00,13:00-16:00;
+    PH off
+website: https://shirtfactory.at/

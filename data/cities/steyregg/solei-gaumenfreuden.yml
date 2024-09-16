@@ -1,11 +1,11 @@
 id: 1310662073
-type: way
+type: node
 latitude: 48.28541
 longitude: 14.37504
 postcode: "4221"
 city: Steyregg
-street: "Villagartenarea=yes"
-housenumber: 8
-phone: "+43 660 7369965"
-opening_hours: "Mo 08:30-18:00 Di-Do 09:00-17:00 Sa 09:00-17:00"
+street: Villagartenarea=yes
+housenumber: "8"
+phone: +43 660 7369965
+opening_hours: Mo 08:30-18:00 Di-Do 09:00-17:00 Sa 09:00-17:00
 website: ""

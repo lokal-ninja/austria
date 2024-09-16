@@ -1,11 +1,11 @@
 id: 464171234
-type: way
+type: node
 latitude: 48.20351
 longitude: 16.33644
 postcode: "1150"
 city: Wien
-street: "Gablenzgasse"
-housenumber: 11
+street: Gablenzgasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00
 website: ""

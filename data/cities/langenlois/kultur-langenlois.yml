@@ -4,8 +4,8 @@ latitude: 48.47256
 longitude: 15.67688
 postcode: "3550"
 city: Langenlois
-street: "Rathausstraße"
-housenumber: 4
-phone: "+43 2734 3450"
-opening_hours: "Mo-Tu,Th,Fr 08:00-16:00; We 08:00-12:00"
-website: "https://www.kulturlangenlois.at/"
+street: Rathausstraße
+housenumber: "4"
+phone: +43 2734 3450
+opening_hours: Mo-Tu,Th,Fr 08:00-16:00; We 08:00-12:00
+website: https://www.kulturlangenlois.at/

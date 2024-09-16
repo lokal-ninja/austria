@@ -4,8 +4,8 @@ latitude: 47.26052
 longitude: 11.39193
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 17
-phone: "+43 512 552162"
-opening_hours: "Mo-Su,PH 07:00-19:00"
-website: "http://www.aydin-baeckerei.at"
+street: Andreas-Hofer-Straße
+housenumber: "17"
+phone: +43 512 552162
+opening_hours: Mo-Su,PH 07:00-19:00
+website: http://www.aydin-baeckerei.at

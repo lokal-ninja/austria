@@ -1,11 +1,11 @@
 id: 188724447
-type: way
+type: node
 latitude: 48.20042
 longitude: 15.90169
 postcode: "3040"
 city: Neulengbach
-street: "Tullner Straße"
-housenumber: 74
+street: Tullner Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.obi.at/"
+website: https://www.obi.at/

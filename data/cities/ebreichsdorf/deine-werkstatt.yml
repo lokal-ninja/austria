@@ -1,11 +1,11 @@
 id: 156153948
-type: way
+type: node
 latitude: 47.95677
 longitude: 16.40232
 postcode: "2483"
 city: Ebreichsdorf
-street: "Wiener Neustädter Straße"
-housenumber: 23
-phone: "+43 2254 74362"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-14:00"
-website: "https://www.deine-werkstatt.at/"
+street: Wiener Neustädter Straße
+housenumber: "23"
+phone: +43 2254 74362
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-14:00
+website: https://www.deine-werkstatt.at/

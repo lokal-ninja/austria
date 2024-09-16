@@ -1,11 +1,11 @@
 id: 740399720
-type: way
+type: node
 latitude: 47.0904
 longitude: 15.73297
 postcode: "8200"
 city: Hofstätten an der Raab
 street: ""
-housenumber: 50
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

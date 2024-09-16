@@ -1,11 +1,11 @@
 id: 116725222
-type: way
+type: node
 latitude: 47.72108
 longitude: 14.32995
 postcode: "4580"
 city: Windischgarsten
-street: "Pyhrnstraße"
-housenumber: 5
-phone: "+43 7562 20630"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+street: Pyhrnstraße
+housenumber: "5"
+phone: +43 7562 20630
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 540502592
-type: way
+type: node
 latitude: 48.07876
 longitude: 16.32378
 postcode: "2351"
 city: Wiener Neudorf
-street: "Griesfeldstraße"
-housenumber: 17
+street: Griesfeldstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00
 website: ""

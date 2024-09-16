@@ -1,11 +1,11 @@
 id: 82761318
-type: way
+type: node
 latitude: 47.39281
 longitude: 15.9886
 postcode: "8234"
 city: Rohrbach an der Lafnitz
-street: "Tempelleitenstraße"
-housenumber: 3
+street: Tempelleitenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

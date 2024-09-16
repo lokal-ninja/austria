@@ -1,11 +1,11 @@
 id: 182929150
-type: way
+type: node
 latitude: 48.07085
 longitude: 14.00542
 postcode: "4652"
 city: Steinerkirchen an der Traun
 street: ""
-housenumber: 17
-phone: "+43 7241 5315"
+housenumber: "17"
+phone: +43 7241 5315
 opening_hours: ""
-website: "https://www.teamgruber.at/"
+website: https://www.teamgruber.at/

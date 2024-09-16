@@ -4,8 +4,8 @@ latitude: 48.17629
 longitude: 16.37713
 postcode: "1100"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 122
+street: Favoritenstraße
+housenumber: "122"
 phone: "+43139506981"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://stores.footlocker.at/de/at-9/wien/favoritenstrasse-122-571_31_08109.html"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://stores.footlocker.at/de/at-9/wien/favoritenstrasse-122-571_31_08109.html

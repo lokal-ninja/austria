@@ -1,11 +1,11 @@
 id: 95463156
-type: way
+type: node
 latitude: 47.26436
 longitude: 11.43774
 postcode: "6020"
 city: Innsbruck
-street: "Griesauweg"
-housenumber: 20
+street: Griesauweg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 293902486
-type: way
+type: node
 latitude: 47.79654
 longitude: 15.98944
 postcode: "2733"
 city: Grünbach am Schneeberg
-street: "Wiener Neustädter Straße"
-housenumber: 3
-phone: "+43 2637 2321"
-opening_hours: "Mo-Sa 08:00-12:00, Mo,Fr 15:00-18:00; PH off"
-website: "https://www.gaertnerei-pfarrer.at/"
+street: Wiener Neustädter Straße
+housenumber: "3"
+phone: +43 2637 2321
+opening_hours: Mo-Sa 08:00-12:00, Mo,Fr 15:00-18:00; PH off
+website: https://www.gaertnerei-pfarrer.at/

@@ -4,8 +4,8 @@ latitude: 47.74134
 longitude: 16.34794
 postcode: "7203"
 city: Wiesen
-street: "Bahnstraße"
-housenumber: 78
+street: Bahnstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00, 15:00-18:30; Sa 06:00-12:00"
-website: "https://www.spar.at/standorte/spar-wiesen-7203-bahnstrasse-78"
+opening_hours: Mo-Fr 06:00-12:00, 15:00-18:30; Sa 06:00-12:00
+website: https://www.spar.at/standorte/spar-wiesen-7203-bahnstrasse-78

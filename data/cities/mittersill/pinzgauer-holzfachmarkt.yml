@@ -1,11 +1,11 @@
 id: 95984717
-type: way
+type: node
 latitude: 47.28285
 longitude: 12.48097
 postcode: "5730"
 city: Mittersill
-street: "Lendstraße"
-housenumber: 11
+street: Lendstraße
+housenumber: "11"
 phone: "+4365624986"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://www.pinzgauerholzfachmarkt.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://www.pinzgauerholzfachmarkt.at/

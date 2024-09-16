@@ -1,11 +1,11 @@
 id: 451914026
-type: way
+type: node
 latitude: 47.93483
 longitude: 16.482
 postcode: "2443"
 city: Leithaprodersdorf
-street: "Feldstraße"
-housenumber: 9
+street: Feldstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

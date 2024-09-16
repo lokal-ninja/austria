@@ -1,11 +1,11 @@
 id: 286555789
-type: way
+type: node
 latitude: 48.38475
 longitude: 13.75222
 postcode: "4723"
 city: Natternbach
-street: "Hauserstraße"
-housenumber: 40
+street: Hauserstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:00-17:00"
-website: "http://www.peuerbach.cc/shops/blumen-prohaska.html"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:00-17:00
+website: http://www.peuerbach.cc/shops/blumen-prohaska.html

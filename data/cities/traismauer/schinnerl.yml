@@ -1,11 +1,11 @@
 id: 41924145
-type: way
+type: node
 latitude: 48.3504
 longitude: 15.74695
 postcode: "3133"
 city: Traismauer
-street: "Mitterndorfer Straße"
-housenumber: 1
+street: Mitterndorfer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

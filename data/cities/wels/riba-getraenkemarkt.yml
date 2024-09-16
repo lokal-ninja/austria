@@ -1,11 +1,11 @@
 id: 37047174
-type: way
+type: node
 latitude: 48.18007
 longitude: 14.00929
 postcode: "4600"
 city: Wels
-street: "Wallerer Straße"
-housenumber: 160
-phone: "+43 7242 206400"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00, 13:30-18:00; We,Sa 09:00-12:00"
-website: "http://www.riba-getraenke.at"
+street: Wallerer Straße
+housenumber: "160"
+phone: +43 7242 206400
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00, 13:30-18:00; We,Sa 09:00-12:00
+website: http://www.riba-getraenke.at

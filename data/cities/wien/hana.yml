@@ -4,8 +4,8 @@ latitude: 48.19018
 longitude: 16.34887
 postcode: "1060"
 city: Wien
-street: "Brückengasse"
-housenumber: 4
+street: Brückengasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-So 09:00-19:00"
-website: "https://tastehana.at"
+opening_hours: Mo-So 09:00-19:00
+website: https://tastehana.at

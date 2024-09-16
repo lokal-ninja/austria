@@ -1,11 +1,11 @@
 id: 258823883
-type: way
+type: node
 latitude: 47.30177
 longitude: 9.65257
 postcode: "6837"
 city: Weiler
-street: "Walgaustraße"
-housenumber: 7
+street: Walgaustraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off
 website: ""

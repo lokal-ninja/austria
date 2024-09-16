@@ -1,11 +1,11 @@
 id: 336406734
-type: way
+type: node
 latitude: 47.28041
 longitude: 9.89127
 postcode: "6884"
 city: Damüls
 street: ""
-housenumber: 137
+housenumber: "137"
 phone: ""
-opening_hours: "Mo-Sa 07:30-12:00, 14:00-18:00"
+opening_hours: Mo-Sa 07:30-12:00, 14:00-18:00
 website: ""

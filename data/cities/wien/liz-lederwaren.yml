@@ -4,8 +4,8 @@ latitude: 48.18303
 longitude: 16.32445
 postcode: "1120"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 242
+street: Schönbrunner Straße
+housenumber: "242"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://liz-lederwaren.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://liz-lederwaren.at/

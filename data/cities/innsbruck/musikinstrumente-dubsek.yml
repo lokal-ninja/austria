@@ -4,8 +4,8 @@ latitude: 47.25996
 longitude: 11.39196
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 19
-phone: "+43 512 587302"
-opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.dubsek.at/"
+street: Andreas-Hofer-Straße
+housenumber: "19"
+phone: +43 512 587302
+opening_hours: Mo-Fr 08:30-12:00,14:30-18:00; Sa 09:00-12:00; PH off
+website: https://www.dubsek.at/

@@ -1,11 +1,11 @@
 id: 23146436
-type: way
+type: node
 latitude: 48.36138
 longitude: 16.34701
 postcode: "2100"
 city: Leobendorf
-street: "Laaer Bundesstraße"
-housenumber: 252
+street: Laaer Bundesstraße
+housenumber: "252"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 180680616
-type: way
+type: node
 latitude: 47.16589
 longitude: 10.5905
 postcode: "6511"
 city: Zams
-street: "Uferstraße"
-housenumber: 1
+street: Uferstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

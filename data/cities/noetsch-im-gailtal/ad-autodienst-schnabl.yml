@@ -1,11 +1,11 @@
 id: 179848863
-type: way
+type: node
 latitude: 46.58799
 longitude: 13.61927
 postcode: "9611"
 city: Nötsch im Gailtal
 street: ""
-housenumber: 85
-phone: "+43 4256 2136"
+housenumber: "85"
+phone: +43 4256 2136
 opening_hours: ""
-website: "https://www.kfz-schnabl.com/"
+website: https://www.kfz-schnabl.com/

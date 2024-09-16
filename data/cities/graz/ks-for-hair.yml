@@ -4,8 +4,8 @@ latitude: 47.07598
 longitude: 15.44961
 postcode: "8010"
 city: Graz
-street: "Zinzendorfgasse"
-housenumber: 27
-phone: "+43 316 35 11 86"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.ks-hair.at/"
+street: Zinzendorfgasse
+housenumber: "27"
+phone: +43 316 35 11 86
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.ks-hair.at/

@@ -4,8 +4,8 @@ latitude: 47.08346
 longitude: 15.43356
 postcode: "8010"
 city: Graz
-street: "Hasnerplatz"
-housenumber: 4
+street: Hasnerplatz
+housenumber: "4"
 phone: "+4368120850943"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://shiatsuzeit-graz.at/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://shiatsuzeit-graz.at/

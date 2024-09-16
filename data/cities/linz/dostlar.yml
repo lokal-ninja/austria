@@ -1,11 +1,11 @@
 id: 144798391
-type: way
+type: node
 latitude: 48.32318
 longitude: 14.28354
 postcode: "4040"
 city: Linz
-street: "Leonfeldner Straße"
-housenumber: 54
+street: Leonfeldner Straße
+housenumber: "54"
 phone: "+43732701443"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "http://www.dostlar-supermarkt.at/"
+opening_hours: Mo-Sa 07:30-20:00
+website: http://www.dostlar-supermarkt.at/

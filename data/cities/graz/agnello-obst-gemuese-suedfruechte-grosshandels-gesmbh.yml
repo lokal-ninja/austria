@@ -4,8 +4,8 @@ latitude: 47.06553
 longitude: 15.42263
 postcode: "8020"
 city: Graz
-street: "Josef-Huber-Gasse"
-housenumber: 35
-phone: "+43 316 71 46 00"
+street: Josef-Huber-Gasse
+housenumber: "35"
+phone: +43 316 71 46 00
 opening_hours: ""
-website: "http://www.agnello.at/"
+website: http://www.agnello.at/

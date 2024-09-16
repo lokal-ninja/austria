@@ -1,11 +1,11 @@
 id: 194854562
-type: way
+type: node
 latitude: 47.03373
 longitude: 15.39808
 postcode: "8054"
 city: Graz
-street: "Straßganger Straße"
-housenumber: 436
+street: Straßganger Straße
+housenumber: "436"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

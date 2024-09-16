@@ -1,11 +1,11 @@
 id: 168047875
-type: way
+type: node
 latitude: 48.08566
 longitude: 16.324
 postcode: "2351"
 city: Wiener Neudorf
-street: "Mühlfeldgasse"
-housenumber: 20
+street: Mühlfeldgasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

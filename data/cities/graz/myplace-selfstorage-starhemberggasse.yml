@@ -1,11 +1,11 @@
 id: 182670477
-type: way
+type: node
 latitude: 47.07511
 longitude: 15.41238
 postcode: "8020"
 city: Graz
-street: "Starhemberggasse"
-housenumber: 4
+street: Starhemberggasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.myplace.at/graz"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.myplace.at/graz

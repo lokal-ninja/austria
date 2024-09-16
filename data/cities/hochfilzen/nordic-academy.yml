@@ -4,8 +4,8 @@ latitude: 47.47093
 longitude: 12.62136
 postcode: "6395"
 city: Hochfilzen
-street: "Kulturhausstraße"
+street: Kulturhausstraße
 housenumber: 1a
-phone: "+43 664 1116421"
-opening_hours: "Dec-Apr: 08:30-17:00"
-website: "https://www.nordicacademy.at/"
+phone: +43 664 1116421
+opening_hours: 'Dec-Apr: 08:30-17:00'
+website: https://www.nordicacademy.at/

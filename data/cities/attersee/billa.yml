@@ -1,11 +1,11 @@
 id: 238700544
-type: way
+type: node
 latitude: 47.91563
 longitude: 13.53348
 postcode: "4864"
 city: Attersee
-street: "Attergaustraße"
-housenumber: 9
+street: Attergaustraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.03124
 longitude: 15.42253
 postcode: "8054"
 city: Graz
-street: "Weblinger Gürtel"
-housenumber: 26
+street: Weblinger Gürtel
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.bellaflora.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.bellaflora.at/

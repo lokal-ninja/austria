@@ -4,8 +4,8 @@ latitude: 48.19451
 longitude: 16.28832
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 233
+street: Linzer Straße
+housenumber: "233"
 phone: "+4313431918"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

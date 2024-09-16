@@ -4,8 +4,8 @@ latitude: 48.08633
 longitude: 16.24713
 postcode: "2371"
 city: Hinterbrühl
-street: "Beethovengasse"
-housenumber: 2
+street: Beethovengasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-14:00; Sa 07:00-12:30; Su off; PH off"
-website: "https://www.kolm-diebaeckerei.at/"
+opening_hours: Mo-Fr 07:00-14:00; Sa 07:00-12:30; Su off; PH off
+website: https://www.kolm-diebaeckerei.at/

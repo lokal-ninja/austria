@@ -1,11 +1,11 @@
 id: 88504320
-type: way
+type: node
 latitude: 48.28262
 longitude: 14.11535
 postcode: "4072"
 city: Alkoven
-street: "Parzweg"
-housenumber: 2
+street: Parzweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

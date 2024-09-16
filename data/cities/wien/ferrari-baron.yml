@@ -4,8 +4,8 @@ latitude: 48.25483
 longitude: 16.46213
 postcode: "1220"
 city: Wien
-street: "Hosnedlgasse"
-housenumber: 4
+street: Hosnedlgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

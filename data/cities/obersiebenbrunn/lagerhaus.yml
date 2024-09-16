@@ -1,11 +1,11 @@
 id: 160757518
-type: way
+type: node
 latitude: 48.24284
 longitude: 16.69945
 postcode: "2283"
 city: Obersiebenbrunn
-street: "Bahnstraße"
-housenumber: 120
+street: Bahnstraße
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

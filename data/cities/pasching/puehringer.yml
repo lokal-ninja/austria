@@ -1,11 +1,11 @@
 id: 98741817
-type: way
+type: node
 latitude: 48.25755
 longitude: 14.2049
 postcode: "4061"
 city: Pasching
-street: "Hörschinger Straße"
-housenumber: 6
-phone: "+43-7221-88514"
-opening_hours: "Mo-Th 07:15-12:00, 12:45-16:30; Fr 07:15-12:00, 12:45-15:00"
+street: Hörschinger Straße
+housenumber: "6"
+phone: +43-7221-88514
+opening_hours: Mo-Th 07:15-12:00, 12:45-16:30; Fr 07:15-12:00, 12:45-15:00
 website: ""

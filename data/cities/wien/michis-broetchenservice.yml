@@ -5,7 +5,7 @@ longitude: 16.38559
 postcode: "1210"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 05:30-11:00; Sa,Su,PH 07:00-11:00"
+opening_hours: Mo,Tu,Th,Fr 05:30-11:00; Sa,Su,PH 07:00-11:00
 website: ""

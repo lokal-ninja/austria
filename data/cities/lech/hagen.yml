@@ -1,11 +1,11 @@
 id: 129888013
-type: way
+type: node
 latitude: 47.2117
 longitude: 10.1449
 postcode: "6764"
 city: Lech
 street: ""
-housenumber: 134
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.hagens.at/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.hagens.at/

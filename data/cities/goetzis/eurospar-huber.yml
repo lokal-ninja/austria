@@ -4,8 +4,8 @@ latitude: 47.33542
 longitude: 9.64547
 postcode: "6840"
 city: Götzis
-street: "Am Garnmarkt"
-housenumber: 1
+street: Am Garnmarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
+website: https://www.spar.at/

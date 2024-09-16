@@ -1,11 +1,11 @@
 id: 225168670
-type: way
+type: node
 latitude: 47.04526
 longitude: 15.15159
 postcode: "8570"
 city: Voitsberg
-street: "Arnsteinstraße"
-housenumber: 3
-phone: "+43 3142 22088"
+street: Arnsteinstraße
+housenumber: "3"
+phone: +43 3142 22088
 opening_hours: ""
 website: ""

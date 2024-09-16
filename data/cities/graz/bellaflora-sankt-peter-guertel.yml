@@ -1,11 +1,11 @@
 id: 730817928
-type: way
+type: node
 latitude: 47.03676
 longitude: 15.48245
 postcode: "8042"
 city: Graz
-street: "Sankt-Peter-Gürtel"
-housenumber: 9
+street: Sankt-Peter-Gürtel
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

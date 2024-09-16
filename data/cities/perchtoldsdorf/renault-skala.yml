@@ -1,11 +1,11 @@
 id: 318980066
-type: way
+type: node
 latitude: 48.11402
 longitude: 16.274
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Vierbatzstraße"
-housenumber: 3
+street: Vierbatzstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

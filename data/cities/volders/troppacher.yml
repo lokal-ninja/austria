@@ -1,11 +1,11 @@
 id: 131507861
-type: way
+type: node
 latitude: 47.29213
 longitude: 11.57422
 postcode: "6111"
 city: Volders
-street: "Alpenstraße"
-housenumber: 1
+street: Alpenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

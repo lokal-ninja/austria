@@ -1,11 +1,11 @@
 id: 168831975
-type: way
+type: node
 latitude: 47.68224
 longitude: 13.09427
 postcode: "5400"
 city: Hallein
-street: "Bayrhamerplatz"
-housenumber: 6
+street: Bayrhamerplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-12:00"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-12:00
 website: ""

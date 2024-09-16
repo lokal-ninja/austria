@@ -4,8 +4,8 @@ latitude: 47.38123
 longitude: 15.09388
 postcode: "8700"
 city: Leoben
-street: "Timmersdorfergasse"
-housenumber: 4
-phone: "+43 3842 46373"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-17:00"
-website: "https://www.hartlauer.at/"
+street: Timmersdorfergasse
+housenumber: "4"
+phone: +43 3842 46373
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-17:00
+website: https://www.hartlauer.at/

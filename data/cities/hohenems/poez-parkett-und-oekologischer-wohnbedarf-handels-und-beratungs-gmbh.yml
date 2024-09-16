@@ -4,8 +4,8 @@ latitude: 47.37959
 longitude: 9.70823
 postcode: "6845"
 city: Hohenems
-street: "Ermenstraße"
-housenumber: 4
-phone: "+43 5576 73590"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-17:00; Sa 09:00-12:00"
-website: "https://www.poez.at"
+street: Ermenstraße
+housenumber: "4"
+phone: +43 5576 73590
+opening_hours: Mo-Sa 08:00-12:00,14:00-17:00; Sa 09:00-12:00
+website: https://www.poez.at

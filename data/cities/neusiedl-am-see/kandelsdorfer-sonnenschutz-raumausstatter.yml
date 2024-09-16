@@ -4,8 +4,9 @@ latitude: 47.94738
 longitude: 16.84563
 postcode: "7100"
 city: Neusiedl am See
-street: "Untere Hauptstraße"
-housenumber: 13
-phone: "+43 2167 26 70"
-opening_hours: "Mo,We,Fr 08:30-12:00,14:30-18:00; Tu 08:00-12:00,14:30-18:00; Th,Sa 08:30-12:00"
-website: "https://www.kandelsdorfer.at/"
+street: Untere Hauptstraße
+housenumber: "13"
+phone: +43 2167 26 70
+opening_hours: Mo,We,Fr 08:30-12:00,14:30-18:00; Tu 08:00-12:00,14:30-18:00; Th,Sa
+    08:30-12:00
+website: https://www.kandelsdorfer.at/

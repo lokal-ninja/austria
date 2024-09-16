@@ -1,11 +1,11 @@
 id: 1110794757
-type: way
+type: node
 latitude: 47.03663
 longitude: 15.45043
 postcode: "8041"
 city: Graz
-street: "Speidlgasse"
-housenumber: 4
-phone: "+43 660 223 23 23"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-14:30"
-website: "https://spotmaster.at/"
+street: Speidlgasse
+housenumber: "4"
+phone: +43 660 223 23 23
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-14:30
+website: https://spotmaster.at/

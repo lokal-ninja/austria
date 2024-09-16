@@ -1,11 +1,11 @@
 id: 222628753
-type: way
+type: node
 latitude: 48.75633
 longitude: 15.95142
 postcode: "2070"
 city: Retz
-street: "Kremserstraße"
-housenumber: 2
+street: Kremserstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:30"
-website: "https://www.bauernladen-retz.at"
+opening_hours: Mo-Sa 08:30-18:30
+website: https://www.bauernladen-retz.at

@@ -1,11 +1,11 @@
 id: 199653851
-type: way
+type: node
 latitude: 48.57158
 longitude: 16.57381
 postcode: "2130"
 city: Mistelbach
-street: "Mistelsteig"
-housenumber: 13
+street: Mistelsteig
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.20192
 longitude: 16.34134
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 46
+street: Westbahnstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Sep-Jun:Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-14:00;Jul,Aug:Tu-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.naturmaterialien.eu/"
+opening_hours: Sep-Jun:Tu-Fr 09:00-12:00,14:00-18:00; Sa 10:00-14:00;Jul,Aug:Tu-Fr
+    09:00-12:00,14:00-18:00
+website: https://www.naturmaterialien.eu/

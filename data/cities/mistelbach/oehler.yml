@@ -1,11 +1,11 @@
 id: 199223784
-type: way
+type: node
 latitude: 48.56531
 longitude: 16.57727
 postcode: "2130"
 city: Mistelbach
-street: "Mitschastraße"
-housenumber: 25
+street: Mitschastraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

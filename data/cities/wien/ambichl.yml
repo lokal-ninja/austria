@@ -4,8 +4,8 @@ latitude: 48.20163
 longitude: 16.36976
 postcode: "1010"
 city: Wien
-street: "Bösendorferstraße"
-housenumber: 1
+street: Bösendorferstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

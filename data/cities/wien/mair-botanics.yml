@@ -4,8 +4,8 @@ latitude: 48.21029
 longitude: 16.35182
 postcode: "1080"
 city: Wien
-street: "Lange Gasse"
-housenumber: 41
-phone: "+43 664 7333 8551"
+street: Lange Gasse
+housenumber: "41"
+phone: +43 664 7333 8551
 opening_hours: ""
-website: "http://www.cousinerose.com/"
+website: http://www.cousinerose.com/

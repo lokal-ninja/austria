@@ -4,8 +4,8 @@ latitude: 47.22514
 longitude: 10.74885
 postcode: "6460"
 city: Imst
-street: "Langgasse"
-housenumber: 121
+street: Langgasse
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.fleischhof-oberland.at/unsere-geschaefte/falkner-abholmarkt/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.fleischhof-oberland.at/unsere-geschaefte/falkner-abholmarkt/

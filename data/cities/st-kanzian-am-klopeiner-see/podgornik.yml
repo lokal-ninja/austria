@@ -1,11 +1,11 @@
 id: 234392061
-type: way
+type: node
 latitude: 46.61528
 longitude: 14.564
 postcode: "9122"
 city: St. Kanzian am Klopeiner See
-street: "Gewerbestraße I"
-housenumber: 1
+street: Gewerbestraße I
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
 website: ""

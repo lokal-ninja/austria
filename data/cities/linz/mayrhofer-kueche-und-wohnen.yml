@@ -4,8 +4,8 @@ latitude: 48.29159
 longitude: 14.30102
 postcode: "4020"
 city: Linz
-street: "Lenaustraße"
-housenumber: 31
-phone: "+43-732-667718"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
+street: Lenaustraße
+housenumber: "31"
+phone: +43-732-667718
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.44226
 longitude: 16.12936
 postcode: "2011"
 city: Oberhautzental
-street: "Ortsstraße"
-housenumber: 42
+street: Ortsstraße
+housenumber: "42"
 phone: "+436649340106"
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

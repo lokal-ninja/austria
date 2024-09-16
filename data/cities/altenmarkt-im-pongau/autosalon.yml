@@ -1,11 +1,11 @@
 id: 69221456
-type: way
+type: node
 latitude: 47.37978
 longitude: 13.42514
 postcode: "5541"
 city: Altenmarkt im Pongau
-street: "Untere Marktstraße"
-housenumber: 17
+street: Untere Marktstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

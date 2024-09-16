@@ -4,8 +4,8 @@ latitude: 48.20427
 longitude: 16.37071
 postcode: "1010"
 city: Wien
-street: "Kärntner Straße"
-housenumber: 43
+street: Kärntner Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

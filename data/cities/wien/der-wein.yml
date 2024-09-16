@@ -4,8 +4,8 @@ latitude: 48.20732
 longitude: 16.37674
 postcode: "1010"
 city: Wien
-street: "Riemergasse"
-housenumber: 6
+street: Riemergasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.der-wein.at/"
+website: http://www.der-wein.at/

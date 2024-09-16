@@ -4,8 +4,8 @@ latitude: 47.79648
 longitude: 13.05208
 postcode: "5020"
 city: Salzburg
-street: "Schanzlgasse"
-housenumber: 6
-phone: "+43 662 840401"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://lederwaren-salzburg.at/"
+street: Schanzlgasse
+housenumber: "6"
+phone: +43 662 840401
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://lederwaren-salzburg.at/

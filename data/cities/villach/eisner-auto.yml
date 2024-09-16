@@ -1,11 +1,11 @@
 id: 148506783
-type: way
+type: node
 latitude: 46.60781
 longitude: 13.84875
 postcode: "9500"
 city: Villach
-street: "Ossiacher Zeile"
-housenumber: 29
-phone: "+43 4242 2027"
+street: Ossiacher Zeile
+housenumber: "29"
+phone: +43 4242 2027
 opening_hours: ""
 website: ""

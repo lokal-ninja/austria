@@ -1,11 +1,11 @@
 id: 1101558664
-type: way
+type: node
 latitude: 48.42652
 longitude: 15.22173
 postcode: "3631"
 city: Ottenschlag
-street: "Zwettler Straße"
-housenumber: 5
+street: Zwettler Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

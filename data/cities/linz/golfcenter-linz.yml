@@ -1,11 +1,11 @@
 id: 107035228
-type: way
+type: node
 latitude: 48.29046
 longitude: 14.28023
 postcode: "4020"
 city: Linz
-street: "Ziegeleistraße"
-housenumber: 32
+street: Ziegeleistraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00; Tu,Th 10:00-13:00,16:00-20:00"
+opening_hours: Mo-Fr 10:00-13:00; Tu,Th 10:00-13:00,16:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.1989
 longitude: 16.31133
 postcode: "1140"
 city: Wien
-street: "Hütteldorfer Straße"
-housenumber: 123
+street: Hütteldorfer Straße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.c-and-a.com/stores/at-de/wien/wien/huetteldorferstrasse-123.html"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.c-and-a.com/stores/at-de/wien/wien/huetteldorferstrasse-123.html

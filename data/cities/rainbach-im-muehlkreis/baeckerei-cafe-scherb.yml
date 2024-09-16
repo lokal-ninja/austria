@@ -1,11 +1,11 @@
 id: 1194222776
-type: way
+type: node
 latitude: 48.55768
 longitude: 14.47824
 postcode: "4261"
 city: Rainbach im Mühlkreis
-street: "Marktplatz"
-housenumber: 11
+street: Marktplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo,Fr 06:00-12:30,14:00-18:00; Di,Mi,Do 06:00-12:30; Sa 06:00-12:00"
+opening_hours: Mo,Fr 06:00-12:30,14:00-18:00; Di,Mi,Do 06:00-12:30; Sa 06:00-12:00
 website: ""

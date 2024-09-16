@@ -1,11 +1,11 @@
 id: 202385080
-type: way
+type: node
 latitude: 47.73871
 longitude: 13.0419
 postcode: "5082"
 city: Grödig
-street: "Lagerstraße"
-housenumber: 5
+street: Lagerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

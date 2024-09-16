@@ -1,11 +1,11 @@
 id: 51047676
-type: way
+type: node
 latitude: 48.27178
 longitude: 14.24949
 postcode: "4060"
 city: Leonding
-street: "Paschinger Straße"
-housenumber: 101
+street: Paschinger Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

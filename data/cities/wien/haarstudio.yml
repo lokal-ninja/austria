@@ -4,8 +4,8 @@ latitude: 48.1773
 longitude: 16.41289
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
+street: Simmeringer Hauptstraße
 housenumber: 60-64
-phone: "+43 1 7495800"
-opening_hours: "nach telefonischer Vereinbarung"
+phone: +43 1 7495800
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

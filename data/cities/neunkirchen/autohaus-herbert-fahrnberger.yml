@@ -1,11 +1,11 @@
 id: 133033839
-type: way
+type: node
 latitude: 47.71582
 longitude: 16.06768
 postcode: "2620"
 city: Neunkirchen
-street: "Am Spitz"
-housenumber: 12
+street: Am Spitz
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 95187664
-type: way
+type: node
 latitude: 47.46996
 longitude: 11.9855
 postcode: "6250"
 city: Kundl
-street: "Dorfstraße"
-housenumber: 19
+street: Dorfstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

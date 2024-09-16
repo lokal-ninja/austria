@@ -1,11 +1,11 @@
 id: 382745743
-type: way
+type: node
 latitude: 48.03749
 longitude: 13.74572
 postcode: "4846"
 city: Redlham
 street: ""
-housenumber: 21
-phone: "+43-699-17186439"
+housenumber: "21"
+phone: +43-699-17186439
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 484393149
-type: way
+type: node
 latitude: 46.82783
 longitude: 15.23546
 postcode: "8530"
 city: Deutschlandsberg
-street: "Mostbauerstraße"
-housenumber: 5
-phone: "+43 3462 2423"
-opening_hours: "Mo-Th 07:30-12:00,13:00-16:00; Fr 07:30-12:00, 12:30-14:30"
-website: "http://www.farmundforst.at/"
+street: Mostbauerstraße
+housenumber: "5"
+phone: +43 3462 2423
+opening_hours: Mo-Th 07:30-12:00,13:00-16:00; Fr 07:30-12:00, 12:30-14:30
+website: http://www.farmundforst.at/

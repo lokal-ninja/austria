@@ -1,11 +1,11 @@
 id: 82614086
-type: way
+type: node
 latitude: 47.49159
 longitude: 9.69391
 postcode: "6971"
 city: Hard
-street: "Wallstraße"
-housenumber: 2
+street: Wallstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

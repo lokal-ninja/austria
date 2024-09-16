@@ -1,11 +1,11 @@
 id: 1267137927
-type: way
+type: node
 latitude: 47.13116
 longitude: 13.79263
 postcode: "5580"
 city: Tamsweg
-street: "Mörtelsdorf"
-housenumber: 356
-phone: "+43 6474 6725"
-opening_hours: "Mo-Fr 08:00-12:00 / 13:00-17:00"
+street: Mörtelsdorf
+housenumber: "356"
+phone: +43 6474 6725
+opening_hours: Mo-Fr 08:00-12:00 / 13:00-17:00
 website: ""

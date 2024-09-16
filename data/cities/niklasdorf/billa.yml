@@ -1,11 +1,11 @@
 id: 162758490
-type: way
+type: node
 latitude: 47.39394
 longitude: 15.15133
 postcode: "8712"
 city: Niklasdorf
-street: "Proleber Straße"
-housenumber: 2
+street: Proleber Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.billa.at/"
+website: https://www.billa.at/

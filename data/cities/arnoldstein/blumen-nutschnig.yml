@@ -1,11 +1,11 @@
 id: 286461044
-type: way
+type: node
 latitude: 46.54884
 longitude: 13.70937
 postcode: "9601"
 city: Arnoldstein
-street: "Marktstraße"
-housenumber: 6
+street: Marktstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.blumen-nutschnig.at/"
+website: https://www.blumen-nutschnig.at/

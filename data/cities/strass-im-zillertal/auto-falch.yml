@@ -1,11 +1,11 @@
 id: 453116460
-type: way
+type: node
 latitude: 47.39669
 longitude: 11.81831
 postcode: "6261"
 city: Strass im Zillertal
-street: "Siedlung"
-housenumber: 77
+street: Siedlung
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

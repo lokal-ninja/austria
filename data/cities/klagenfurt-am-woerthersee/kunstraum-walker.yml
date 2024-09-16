@@ -4,8 +4,8 @@ latitude: 46.61892
 longitude: 14.29542
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Waidmannsdorfer Straße"
-housenumber: 34
+street: Waidmannsdorfer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

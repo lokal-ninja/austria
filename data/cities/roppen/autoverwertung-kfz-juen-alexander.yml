@@ -1,11 +1,11 @@
 id: 196671191
-type: way
+type: node
 latitude: 47.22911
 longitude: 10.82907
 postcode: "6426"
 city: Roppen
-street: "Gewerbegebiet Tschirgant"
-housenumber: 9
+street: Gewerbegebiet Tschirgant
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.18061
 longitude: 16.33612
 postcode: "1120"
 city: Wien
-street: "Albrechtsbergergasse"
-housenumber: 15
+street: Albrechtsbergergasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,12:45-16:30; Fr 08:00-13:30"
+opening_hours: Mo-Th 08:00-12:00,12:45-16:30; Fr 08:00-13:30
 website: ""

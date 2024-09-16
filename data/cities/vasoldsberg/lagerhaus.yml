@@ -1,11 +1,11 @@
 id: 404070702
-type: way
+type: node
 latitude: 47.05164
 longitude: 15.60439
 postcode: "8302"
 city: Vasoldsberg
 street: ""
-housenumber: 142
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

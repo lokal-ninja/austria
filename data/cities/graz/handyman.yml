@@ -4,8 +4,8 @@ latitude: 47.06692
 longitude: 15.43123
 postcode: "8020"
 city: Graz
-street: "Griesplatz"
-housenumber: 35
+street: Griesplatz
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-15:00"
-website: "http://www.handyman-graz.at/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-15:00
+website: http://www.handyman-graz.at/

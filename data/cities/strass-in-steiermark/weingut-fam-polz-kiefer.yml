@@ -1,11 +1,11 @@
 id: 210569625
-type: way
+type: node
 latitude: 46.68561
 longitude: 15.62936
 postcode: "8472"
 city: Straß in Steiermark
-street: "Am Graßnitzberg"
-housenumber: 47
+street: Am Graßnitzberg
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

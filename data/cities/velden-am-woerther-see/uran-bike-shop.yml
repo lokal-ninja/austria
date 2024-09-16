@@ -1,11 +1,11 @@
 id: 975935572
-type: way
+type: node
 latitude: 46.61427
 longitude: 14.03831
 postcode: "9220"
 city: Velden am Wörther See
-street: "Villacher Straße"
-housenumber: 10
+street: Villacher Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00
 website: ""

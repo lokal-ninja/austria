@@ -1,11 +1,11 @@
 id: 308562820
-type: way
+type: node
 latitude: 48.21653
 longitude: 14.4667
 postcode: "4470"
 city: Enns
-street: "Lauriacumstraße"
-housenumber: 3
+street: Lauriacumstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.bestattungbrixner.at/"
+website: https://www.bestattungbrixner.at/

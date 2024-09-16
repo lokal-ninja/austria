@@ -1,11 +1,11 @@
 id: 180626467
-type: way
+type: node
 latitude: 46.81564
 longitude: 14.83421
 postcode: "9400"
 city: Wolfsberg
-street: "Klagenfurter Straße"
-housenumber: 44
+street: Klagenfurter Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "http://www.grundnig.info/"
+website: http://www.grundnig.info/

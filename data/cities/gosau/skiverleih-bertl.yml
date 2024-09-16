@@ -1,11 +1,11 @@
 id: 56129184
-type: way
+type: node
 latitude: 47.56889
 longitude: 13.52142
 postcode: "4824"
 city: Gosau
-street: "Gosauseestraße"
-housenumber: 36
+street: Gosauseestraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.cafezeitlos.at/"
+website: https://www.cafezeitlos.at/

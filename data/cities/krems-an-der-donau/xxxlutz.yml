@@ -1,11 +1,11 @@
 id: 50230181
-type: way
+type: node
 latitude: 48.4057
 longitude: 15.65322
 postcode: "3500"
 city: Krems an der Donau
-street: "An der Schütt"
-housenumber: 43
-phone: "+43 50 111 118"
+street: An der Schütt
+housenumber: "43"
+phone: +43 50 111 118
 opening_hours: ""
-website: "https://www.xxxlutz.at/"
+website: https://www.xxxlutz.at/

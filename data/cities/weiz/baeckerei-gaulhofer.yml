@@ -4,8 +4,9 @@ latitude: 47.21965
 longitude: 15.62371
 postcode: "8160"
 city: Weiz
-street: "Kapfensteinergasse"
-housenumber: 9
+street: Kapfensteinergasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 5:30-12:30, 15:00-18:00, Tu 5:30-12:30, We-Fr 5:30-12:30, 15:00-18:00, Sa 5:30-12:00"
+opening_hours: Mo 5:30-12:30, 15:00-18:00, Tu 5:30-12:30, We-Fr 5:30-12:30, 15:00-18:00,
+    Sa 5:30-12:00
 website: ""

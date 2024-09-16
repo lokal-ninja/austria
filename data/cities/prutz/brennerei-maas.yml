@@ -1,11 +1,11 @@
 id: 654352665
-type: way
+type: node
 latitude: 47.07666
 longitude: 10.66596
 postcode: "6522"
 city: Prutz
-street: "Kaunertalerstraße"
-housenumber: 3
+street: Kaunertalerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

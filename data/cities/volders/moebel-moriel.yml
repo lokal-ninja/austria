@@ -1,11 +1,11 @@
 id: 123529681
-type: way
+type: node
 latitude: 47.28851
 longitude: 11.58369
 postcode: "6111"
 city: Volders
-street: "Innsbruckerstraße"
-housenumber: 61
-phone: "+43 5224 55770"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00; PH off"
-website: "http://moebelmoriel.at"
+street: Innsbruckerstraße
+housenumber: "61"
+phone: +43 5224 55770
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00; PH off
+website: http://moebelmoriel.at

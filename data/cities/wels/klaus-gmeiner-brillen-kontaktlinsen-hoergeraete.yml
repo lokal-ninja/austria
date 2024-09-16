@@ -4,8 +4,8 @@ latitude: 48.15853
 longitude: 14.02507
 postcode: "4600"
 city: Wels
-street: "Ringstraße"
-housenumber: 18
+street: Ringstraße
+housenumber: "18"
 phone: "00437242229313"
-opening_hours: "Mo-Fr 08:30-13:00; Mo-Fr 14:00-18:00"
-website: "https://www.klaus-gmeiner.at/"
+opening_hours: Mo-Fr 08:30-13:00; Mo-Fr 14:00-18:00
+website: https://www.klaus-gmeiner.at/

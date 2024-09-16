@@ -4,8 +4,8 @@ latitude: 48.19457
 longitude: 16.36117
 postcode: "1050"
 city: Wien
-street: "Kettenbrückengasse"
-housenumber: 5
+street: Kettenbrückengasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

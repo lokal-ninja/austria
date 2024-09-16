@@ -4,8 +4,8 @@ latitude: 48.18797
 longitude: 16.33205
 postcode: "1150"
 city: Wien
-street: "Sechshauser Straße"
-housenumber: 46
+street: Sechshauser Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00
+website: https://www.bipa.at/

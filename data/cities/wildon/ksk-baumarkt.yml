@@ -1,11 +1,11 @@
 id: 340259756
-type: way
+type: node
 latitude: 46.91112
 longitude: 15.48014
 postcode: "8410"
 city: Wildon
-street: "Bundesstraße"
-housenumber: 7
+street: Bundesstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.hagebau.at/baumarkt/ksk-baumarkt-gmbh-ndl-wildon-werndorf-neudorf-ob-wildon-sn225001/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.hagebau.at/baumarkt/ksk-baumarkt-gmbh-ndl-wildon-werndorf-neudorf-ob-wildon-sn225001/

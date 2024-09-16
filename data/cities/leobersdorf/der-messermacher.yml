@@ -4,8 +4,9 @@ latitude: 47.9297
 longitude: 16.21674
 postcode: "2544"
 city: Leobersdorf
-street: "Hauptstraße"
-housenumber: 5
-phone: "+43 664 3301879"
-opening_hours: "Mo,Tu,Th,Sa 09:00-12:00; Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00; PH off; We off"
-website: "http://www.rr-der-messermacher.at/"
+street: Hauptstraße
+housenumber: "5"
+phone: +43 664 3301879
+opening_hours: Mo,Tu,Th,Sa 09:00-12:00; Fr 09:00-12:00,15:00-18:00; Sa 09:00-12:00;
+    PH off; We off
+website: http://www.rr-der-messermacher.at/

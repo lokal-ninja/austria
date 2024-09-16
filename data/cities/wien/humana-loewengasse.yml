@@ -4,8 +4,8 @@ latitude: 48.2083
 longitude: 16.39321
 postcode: "1030"
 city: Wien
-street: "Löwengasse"
-housenumber: 37
+street: Löwengasse
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

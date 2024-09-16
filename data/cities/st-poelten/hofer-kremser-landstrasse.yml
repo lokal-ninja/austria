@@ -1,11 +1,11 @@
 id: 173923425
-type: way
+type: node
 latitude: 48.22015
 longitude: 15.62687
 postcode: "3100"
 city: St. Pölten
-street: "Kremser Landstraße"
-housenumber: 87
+street: Kremser Landstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

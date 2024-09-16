@@ -5,7 +5,7 @@ longitude: 16.05896
 postcode: "3430"
 city: Tulln an der Donau
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.bstaendig.at/de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.bstaendig.at/de/

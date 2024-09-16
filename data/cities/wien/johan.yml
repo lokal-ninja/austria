@@ -4,8 +4,8 @@ latitude: 48.19958
 longitude: 16.35079
 postcode: "1070"
 city: Wien
-street: "Zollergasse"
-housenumber: 13
+street: Zollergasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.johan-wohnen.at/"
+website: https://www.johan-wohnen.at/

@@ -1,11 +1,11 @@
 id: 194786540
-type: way
+type: node
 latitude: 48.17545
 longitude: 16.38045
 postcode: "1100"
 city: Wien
-street: "Quellenstraße"
-housenumber: 48
+street: Quellenstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

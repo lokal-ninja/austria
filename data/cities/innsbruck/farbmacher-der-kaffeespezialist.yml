@@ -5,7 +5,7 @@ longitude: 11.40389
 postcode: "6020"
 city: Innsbruck
 street: ""
-housenumber: 49
-phone: "+43 512 36 40 73"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00, Fr 08:00-15:00; PH off"
-website: "http://www.farbmacher-sanremo.at"
+housenumber: "49"
+phone: +43 512 36 40 73
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00, Fr 08:00-15:00; PH off
+website: http://www.farbmacher-sanremo.at

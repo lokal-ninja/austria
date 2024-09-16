@@ -4,8 +4,8 @@ latitude: 47.82345
 longitude: 16.21559
 postcode: "2700"
 city: Wiener Neustadt
-street: "Fischauer Gasse"
-housenumber: 150
+street: Fischauer Gasse
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-13:00
 website: ""

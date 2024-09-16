@@ -4,8 +4,8 @@ latitude: 48.22448
 longitude: 16.38681
 postcode: "1020"
 city: Wien
-street: "Am Tabor"
-housenumber: 18
-phone: "+43 667 7931222"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.facebook.com/friseurstudiopositiv/"
+street: Am Tabor
+housenumber: "18"
+phone: +43 667 7931222
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.facebook.com/friseurstudiopositiv/

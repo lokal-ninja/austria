@@ -1,11 +1,11 @@
 id: 109237838
-type: way
+type: node
 latitude: 47.79022
 longitude: 12.98744
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Bundesstraße"
-housenumber: 15
+street: Bundesstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

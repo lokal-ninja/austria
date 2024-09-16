@@ -1,11 +1,11 @@
 id: 299910128
-type: way
+type: node
 latitude: 47.84748
 longitude: 16.38001
 postcode: "2491"
 city: Zillingdorf
-street: "Bergwerk-Hauptstraße"
-housenumber: 4
+street: Bergwerk-Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

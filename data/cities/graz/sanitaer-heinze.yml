@@ -1,11 +1,11 @@
 id: 1239119521
-type: way
+type: node
 latitude: 47.02139
 longitude: 15.41535
 postcode: "8055"
 city: Graz
-street: "Gradnerstraße"
-housenumber: 100
-phone: "+43 316 29 55 81 0"
+street: Gradnerstraße
+housenumber: "100"
+phone: +43 316 29 55 81 0
 opening_hours: ""
-website: "https://www.sanitaer-heinze.com/de"
+website: https://www.sanitaer-heinze.com/de

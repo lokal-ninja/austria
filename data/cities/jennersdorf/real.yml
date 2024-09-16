@@ -1,11 +1,11 @@
 id: 372349900
-type: way
+type: node
 latitude: 46.93897
 longitude: 16.14318
 postcode: "8380"
 city: Jennersdorf
-street: "Raxer Straße"
-housenumber: 2
+street: Raxer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

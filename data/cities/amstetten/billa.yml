@@ -1,11 +1,11 @@
 id: 151635794
-type: way
+type: node
 latitude: 48.12506
 longitude: 14.88387
 postcode: "3300"
 city: Amstetten
-street: "Anton-Schwarz-Straße"
-housenumber: 3
+street: Anton-Schwarz-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

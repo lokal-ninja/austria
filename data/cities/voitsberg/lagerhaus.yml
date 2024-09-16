@@ -4,8 +4,8 @@ latitude: 47.05164
 longitude: 15.13206
 postcode: "8570"
 city: Voitsberg
-street: "Am Vorum"
-housenumber: 2
+street: Am Vorum
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
-website: "https://www.grazland.at/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
+website: https://www.grazland.at/

@@ -1,11 +1,11 @@
 id: 54520749
-type: way
+type: node
 latitude: 48.32057
 longitude: 16.6517
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Strazzegasse"
-housenumber: 2
+street: Strazzegasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

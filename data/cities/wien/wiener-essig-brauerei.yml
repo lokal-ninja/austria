@@ -4,8 +4,8 @@ latitude: 48.17718
 longitude: 16.38186
 postcode: "1100"
 city: Wien
-street: "Waldgasse"
-housenumber: 3
-phone: "+43 1 6041088"
+street: Waldgasse
+housenumber: "3"
+phone: +43 1 6041088
 opening_hours: ""
-website: "https://www.gegenbauer.at/"
+website: https://www.gegenbauer.at/

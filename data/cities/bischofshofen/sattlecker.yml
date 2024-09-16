@@ -1,11 +1,11 @@
 id: 256234278
-type: way
+type: node
 latitude: 47.41941
 longitude: 13.21884
 postcode: "5500"
 city: Bischofshofen
-street: "Salzburgerstraße"
-housenumber: 26
+street: Salzburgerstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 232617732
-type: way
+type: node
 latitude: 47.22587
 longitude: 9.58317
 postcode: "6800"
 city: Feldkirch
-street: "Liechtensteiner Straße"
-housenumber: 85
+street: Liechtensteiner Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00; Sa 9:00-17:00"
-website: "https://www.orion.at/fachgeschaeft/feldkirch-4445"
+opening_hours: Mo-Fr 9:00-19:00; Sa 9:00-17:00
+website: https://www.orion.at/fachgeschaeft/feldkirch-4445

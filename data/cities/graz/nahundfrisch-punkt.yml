@@ -1,11 +1,11 @@
 id: 153029083
-type: way
+type: node
 latitude: 47.06574
 longitude: 15.42027
 postcode: "8020"
 city: Graz
-street: "Eggenberger Gürtel"
-housenumber: 70
+street: Eggenberger Gürtel
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

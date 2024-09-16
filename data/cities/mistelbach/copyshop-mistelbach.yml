@@ -1,11 +1,11 @@
 id: 199523043
-type: way
+type: node
 latitude: 48.5677
 longitude: 16.57716
 postcode: "2130"
 city: Mistelbach
-street: "Liechtensteinstraße"
-housenumber: 13
-phone: "+43 2572 51 71"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa off"
+street: Liechtensteinstraße
+housenumber: "13"
+phone: +43 2572 51 71
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa off
 website: ""

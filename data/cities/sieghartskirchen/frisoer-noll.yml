@@ -1,11 +1,11 @@
 id: 344090730
-type: way
+type: node
 latitude: 48.25563
 longitude: 16.01536
 postcode: "3443"
 city: Sieghartskirchen
-street: "Wiener Straße"
-housenumber: 8
+street: Wiener Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

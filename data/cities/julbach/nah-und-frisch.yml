@@ -1,11 +1,11 @@
 id: 158480903
-type: way
+type: node
 latitude: 48.65873
 longitude: 13.86546
 postcode: "4162"
 city: Julbach
-street: "Schulstraße"
-housenumber: 21
+street: Schulstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

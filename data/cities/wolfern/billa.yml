@@ -1,11 +1,11 @@
 id: 240149669
-type: way
+type: node
 latitude: 48.07933
 longitude: 14.37496
 postcode: "4493"
 city: Wolfern
-street: "Schulstraße"
-housenumber: 13
+street: Schulstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 459052973
-type: way
+type: node
 latitude: 46.89212
 longitude: 10.50012
 postcode: "6543"
 city: Nauders
 street: ""
-housenumber: 407
+housenumber: "407"
 phone: ""
 opening_hours: ""
-website: "https://www.filirent.at/"
+website: https://www.filirent.at/

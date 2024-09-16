@@ -1,11 +1,11 @@
 id: 28512798
-type: way
+type: node
 latitude: 48.31004
 longitude: 16.25628
 postcode: "3400"
 city: Klosterneuburg
-street: "Franz Völker-Straße"
-housenumber: 1
-phone: "+43 59915 03138"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Franz Völker-Straße
+housenumber: "1"
+phone: +43 59915 03138
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

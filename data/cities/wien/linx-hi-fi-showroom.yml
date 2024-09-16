@@ -4,8 +4,8 @@ latitude: 48.21303
 longitude: 16.4674
 postcode: "1220"
 city: Wien
-street: "Kapellenweg"
-housenumber: 18
-phone: "+43 1 280 17 50"
-opening_hours: "Mo-Fr 15:00-20:00, Sa 10:30-15:30 || oder nach telefonischer Terminvereinbarung"
-website: "https://www.linx.co.at"
+street: Kapellenweg
+housenumber: "18"
+phone: +43 1 280 17 50
+opening_hours: Mo-Fr 15:00-20:00, Sa 10:30-15:30 || "oder nach telefonischer Terminvereinbarung"
+website: https://www.linx.co.at

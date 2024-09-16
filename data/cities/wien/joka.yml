@@ -4,8 +4,8 @@ latitude: 48.20918
 longitude: 16.38186
 postcode: "1010"
 city: Wien
-street: "Stubenring"
-housenumber: 12
+street: Stubenring
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-17:00
 website: ""

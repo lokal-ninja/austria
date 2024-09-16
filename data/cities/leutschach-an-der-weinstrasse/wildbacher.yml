@@ -1,11 +1,11 @@
 id: 217120926
-type: way
+type: node
 latitude: 46.69126
 longitude: 15.4222
 postcode: "8454"
 city: Leutschach an der Weinstraße
 street: ""
-housenumber: 56
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-wildbacher.at/"
+website: https://www.weingut-wildbacher.at/

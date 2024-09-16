@@ -1,11 +1,11 @@
 id: 31251417
-type: way
+type: node
 latitude: 48.16703
 longitude: 16.43136
 postcode: "1110"
 city: Wien
-street: "Florian-Hedorfer-Straße"
-housenumber: 19
+street: Florian-Hedorfer-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

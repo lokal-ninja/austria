@@ -1,11 +1,11 @@
 id: 48862823
-type: way
+type: node
 latitude: 47.2743
 longitude: 11.41203
 postcode: "6020"
 city: Innsbruck
-street: "Erzherzog-Eugen-Straße"
-housenumber: 41
-phone: "+43 5 0321 928079"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+street: Erzherzog-Eugen-Straße
+housenumber: "41"
+phone: +43 5 0321 928079
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

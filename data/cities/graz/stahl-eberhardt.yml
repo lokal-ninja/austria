@@ -1,11 +1,11 @@
 id: 198457310
-type: way
+type: node
 latitude: 47.08089
 longitude: 15.41008
 postcode: "8020"
 city: Graz
-street: "Waagner-Biro-Straße"
-housenumber: 117
+street: Waagner-Biro-Straße
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00"
-website: "www.stahl-eberhardt.at"
+opening_hours: Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00
+website: www.stahl-eberhardt.at

@@ -1,11 +1,11 @@
 id: 126403013
-type: way
+type: node
 latitude: 47.80615
 longitude: 13.25523
 postcode: "5322"
 city: Hof bei Salzburg
-street: "Schloss-Straße"
-housenumber: 2
+street: Schloss-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://schlossfuschlfischerei.com"
+website: https://schlossfuschlfischerei.com

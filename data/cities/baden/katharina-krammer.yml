@@ -4,8 +4,8 @@ latitude: 48.0081
 longitude: 16.23325
 postcode: "2500"
 city: Baden
-street: "Beethovengasse"
-housenumber: 5
+street: Beethovengasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-We 10:00-17:00; Th, Fr 10:00-18:00; Sa 10:00-15:00"
-website: "http://krammerdesign.at"
+opening_hours: Mo-We 10:00-17:00; Th, Fr 10:00-18:00; Sa 10:00-15:00
+website: http://krammerdesign.at

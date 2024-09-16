@@ -4,8 +4,8 @@ latitude: 47.26516
 longitude: 11.3934
 postcode: "6020"
 city: Innsbruck
-street: "Anichstraße"
-housenumber: 4
-phone: "+43 512 587146"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-18:00; PH off"
-website: "https://www.bipa.at"
+street: Anichstraße
+housenumber: "4"
+phone: +43 512 587146
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-18:00; PH off
+website: https://www.bipa.at

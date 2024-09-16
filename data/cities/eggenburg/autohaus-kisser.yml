@@ -1,11 +1,11 @@
 id: 494872402
-type: way
+type: node
 latitude: 48.64823
 longitude: 15.82257
 postcode: "3730"
 city: Eggenburg
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

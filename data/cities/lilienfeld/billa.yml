@@ -1,11 +1,11 @@
 id: 645764469
-type: way
+type: node
 latitude: 48.01533
 longitude: 15.59644
 postcode: "3180"
 city: Lilienfeld
-street: "Babenbergerstraße"
-housenumber: 8
+street: Babenbergerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

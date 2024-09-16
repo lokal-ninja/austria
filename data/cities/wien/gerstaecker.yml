@@ -4,8 +4,8 @@ latitude: 48.18859
 longitude: 16.35408
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 113
-phone: "+43 1 90547 18"
-opening_hours: "Mo,Tu,Th,Fr 09:30-18:30; Sa 09:30-17:00; PH off; We 09:30-19:30"
-website: "https://www.gerstaecker.at/kuenstlerfachmaerkte/"
+street: Margaretenstraße
+housenumber: "113"
+phone: +43 1 90547 18
+opening_hours: Mo,Tu,Th,Fr 09:30-18:30; Sa 09:30-17:00; PH off; We 09:30-19:30
+website: https://www.gerstaecker.at/kuenstlerfachmaerkte/

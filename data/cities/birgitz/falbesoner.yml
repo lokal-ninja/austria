@@ -1,11 +1,11 @@
 id: 110660844
-type: way
+type: node
 latitude: 47.23409
 longitude: 11.29174
 postcode: "6092"
 city: Birgitz
-street: "Ruifach"
-housenumber: 4
+street: Ruifach
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "https://www.falbesoner.com/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-12:00
+website: https://www.falbesoner.com/

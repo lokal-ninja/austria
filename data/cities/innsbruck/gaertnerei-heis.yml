@@ -1,11 +1,11 @@
 id: 39885311
-type: way
+type: node
 latitude: 47.26937
 longitude: 11.37628
 postcode: "6020"
 city: Innsbruck
-street: "Kohlweg"
-housenumber: 3
-phone: "+43 512 292099‎"
+street: Kohlweg
+housenumber: "3"
+phone: +43 512 292099‎
 opening_hours: ""
 website: ""

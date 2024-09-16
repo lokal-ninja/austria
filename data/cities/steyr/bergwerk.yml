@@ -4,8 +4,8 @@ latitude: 48.05458
 longitude: 14.42019
 postcode: "4400"
 city: Steyr
-street: "Ennser Straße"
-housenumber: 29
+street: Ennser Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.bergwerkmountainstore.at/stores/steyr/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.bergwerkmountainstore.at/stores/steyr/

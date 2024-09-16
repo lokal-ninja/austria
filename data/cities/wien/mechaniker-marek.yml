@@ -4,8 +4,8 @@ latitude: 48.18495
 longitude: 16.33001
 postcode: "1150"
 city: Wien
-street: "Ullmannstraße"
-housenumber: 65
+street: Ullmannstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-13:00"
-website: "www.fahrrad-mechaniker-marek.at"
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:30; Sa 10:00-13:00
+website: www.fahrrad-mechaniker-marek.at

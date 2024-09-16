@@ -1,11 +1,11 @@
 id: 179958614
-type: way
+type: node
 latitude: 46.69071
 longitude: 13.67994
 postcode: "9710"
 city: Paternion
-street: "Drautalstraße (Mühlboden)"
-housenumber: 4
+street: Drautalstraße (Mühlboden)
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

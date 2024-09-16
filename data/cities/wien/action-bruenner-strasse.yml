@@ -4,8 +4,8 @@ latitude: 48.27157
 longitude: 16.4042
 postcode: "1210"
 city: Wien
-street: "Brünner Straße"
-housenumber: 75
+street: Brünner Straße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://action.com"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://action.com

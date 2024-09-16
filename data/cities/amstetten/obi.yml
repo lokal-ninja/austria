@@ -1,11 +1,11 @@
 id: 55443246
-type: way
+type: node
 latitude: 48.11877
 longitude: 14.85293
 postcode: "3300"
 city: Amstetten
-street: "Waidhofner Straße"
-housenumber: 144
+street: Waidhofner Straße
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.obi.at/baumarkt/amstetten/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
+website: https://www.obi.at/baumarkt/amstetten/

@@ -4,8 +4,8 @@ latitude: 47.06489
 longitude: 15.44628
 postcode: "8010"
 city: Graz
-street: "Schießstattgasse"
-housenumber: 8
+street: Schießstattgasse
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "https://www.hairgott.cc/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-14:00
+website: https://www.hairgott.cc/

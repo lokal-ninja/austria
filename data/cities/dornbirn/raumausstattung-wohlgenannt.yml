@@ -1,11 +1,11 @@
 id: 234913081
-type: way
+type: node
 latitude: 47.39771
 longitude: 9.73186
 postcode: "6850"
 city: Dornbirn
-street: "Hatlerstraße"
-housenumber: 77
+street: Hatlerstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00; PH off"
+opening_hours: Mo-Sa 09:00-12:00; PH off
 website: ""

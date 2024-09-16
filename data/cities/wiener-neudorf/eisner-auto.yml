@@ -1,11 +1,11 @@
 id: 168831393
-type: way
+type: node
 latitude: 48.08158
 longitude: 16.31412
 postcode: "2351"
 city: Wiener Neudorf
-street: "Triesterstraße"
-housenumber: 11
+street: Triesterstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.eisner.at/"
+website: https://www.eisner.at/

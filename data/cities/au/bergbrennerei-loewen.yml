@@ -5,7 +5,7 @@ longitude: 9.99795
 postcode: "6883"
 city: Au
 street: ""
-housenumber: 87
-phone: "+43 5515 25964"
-opening_hours: "We-Sa 10:00-20:00; Su 09:00-12:00"
-website: "https://bergbrennerei-loewen.at"
+housenumber: "87"
+phone: +43 5515 25964
+opening_hours: We-Sa 10:00-20:00; Su 09:00-12:00
+website: https://bergbrennerei-loewen.at

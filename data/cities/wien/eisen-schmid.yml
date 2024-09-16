@@ -4,8 +4,8 @@ latitude: 48.28509
 longitude: 16.38487
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 260
+street: Prager Straße
+housenumber: "260"
 phone: ""
-opening_hours: "Tu-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-15:00"
-website: "https://eisen-schmid.at/"
+opening_hours: Tu-Th 07:30-12:00,13:00-16:30; Fr 07:30-12:00,13:00-15:00
+website: https://eisen-schmid.at/

@@ -1,11 +1,11 @@
 id: 23212814
-type: way
+type: node
 latitude: 48.34255
 longitude: 16.36584
 postcode: "2102"
 city: Klein-Engersdorf
-street: "Im Sandhübel"
-housenumber: 3
-phone: "059915 03005"
-opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-18:00"
+street: Im Sandhübel
+housenumber: "3"
+phone: 059915 03005
+opening_hours: Mo-Fr 07:00-19:00, Sa 07:00-18:00
 website: ""

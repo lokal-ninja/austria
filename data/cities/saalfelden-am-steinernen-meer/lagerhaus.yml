@@ -1,11 +1,11 @@
 id: 158064730
-type: way
+type: node
 latitude: 47.42145
 longitude: 12.83339
 postcode: "5760"
 city: Saalfelden am Steinernen Meer
-street: "Otto-Gruber-Straße"
-housenumber: 3
+street: Otto-Gruber-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

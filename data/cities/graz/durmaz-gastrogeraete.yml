@@ -1,11 +1,11 @@
 id: 867247087
-type: way
+type: node
 latitude: 47.03096
 longitude: 15.40517
 postcode: "8053"
 city: Graz
-street: "Kärntner Straße"
-housenumber: 319
-phone: "+43 660 4200023"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.durmazgastro.com/"
+street: Kärntner Straße
+housenumber: "319"
+phone: +43 660 4200023
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.durmazgastro.com/

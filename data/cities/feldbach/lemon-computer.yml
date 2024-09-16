@@ -1,11 +1,11 @@
 id: 330549553
-type: way
+type: node
 latitude: 46.95363
 longitude: 15.8672
 postcode: "8330"
 city: Feldbach
 street: ""
-housenumber: 181
-phone: "+43 59 002"
+housenumber: "181"
+phone: +43 59 002
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 92243331
-type: way
+type: node
 latitude: 47.56129
 longitude: 14.25379
 postcode: "8940"
 city: Liezen
-street: "Werkstraße"
-housenumber: 23
+street: Werkstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.oeamtc.at/standorte/steiermark/liezen-16192378"
+website: https://www.oeamtc.at/standorte/steiermark/liezen-16192378

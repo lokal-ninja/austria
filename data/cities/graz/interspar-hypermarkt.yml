@@ -4,8 +4,8 @@ latitude: 47.06079
 longitude: 15.42625
 postcode: "8020"
 city: Graz
-street: "Lazarettgürtel"
-housenumber: 55
+street: Lazarettgürtel
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 255194237
-type: way
+type: node
 latitude: 46.78983
 longitude: 15.85278
 postcode: "8345"
 city: Straden
 street: ""
-housenumber: 35
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

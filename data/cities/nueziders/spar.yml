@@ -1,11 +1,11 @@
 id: 151384699
-type: way
+type: node
 latitude: 47.17024
 longitude: 9.79765
 postcode: "6714"
 city: Nüziders
-street: "Kirchstraße"
-housenumber: 13
+street: Kirchstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:12; Sa 07:00-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:00-19:12; Sa 07:00-18:00
+website: https://www.spar.at/

@@ -1,11 +1,11 @@
 id: 516427094
-type: way
+type: node
 latitude: 47.98843
 longitude: 15.02684
 postcode: "3264"
 city: Gresten
-street: "Scheibbser Straße"
-housenumber: 1
-phone: "+43 7487 21700"
+street: Scheibbser Straße
+housenumber: "1"
+phone: +43 7487 21700
 opening_hours: ""
-website: "https://kfz-wir.at/"
+website: https://kfz-wir.at/

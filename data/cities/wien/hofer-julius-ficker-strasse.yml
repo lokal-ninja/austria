@@ -1,11 +1,11 @@
 id: 310966577
-type: way
+type: node
 latitude: 48.26673
 longitude: 16.45174
 postcode: "1210"
 city: Wien
-street: "Julius-Ficker-Straße"
-housenumber: 89
+street: Julius-Ficker-Straße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:45-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:45-18:00
 website: ""

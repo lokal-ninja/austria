@@ -4,8 +4,8 @@ latitude: 48.20187
 longitude: 16.36235
 postcode: "1060"
 city: Wien
-street: "Getreidemarkt"
-housenumber: 11
-phone: "+43 1 5812849"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-19:00; PH off"
-website: "http://www.magazinamgetreidemarkt.at/"
+street: Getreidemarkt
+housenumber: "11"
+phone: +43 1 5812849
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-19:00; PH off
+website: http://www.magazinamgetreidemarkt.at/

@@ -4,8 +4,8 @@ latitude: 48.31807
 longitude: 14.28341
 postcode: "4040"
 city: Linz
-street: "Leonfeldner Straße"
-housenumber: 2
+street: Leonfeldner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-13:00"
-website: "https://www.keba.com/de/emobility/lp/emobility-store"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-13:00
+website: https://www.keba.com/de/emobility/lp/emobility-store

@@ -4,8 +4,8 @@ latitude: 48.19096
 longitude: 16.38554
 postcode: "1030"
 city: Wien
-street: "Fasangasse"
-housenumber: 32
+street: Fasangasse
+housenumber: "32"
 phone: ""
-opening_hours: "Tu,We,Fr 08:30-18:00; Th 08:30-19:00; Sa 08:00-13:00"
+opening_hours: Tu,We,Fr 08:30-18:00; Th 08:30-19:00; Sa 08:00-13:00
 website: ""

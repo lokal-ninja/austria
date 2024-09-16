@@ -4,8 +4,8 @@ latitude: 48.20185
 longitude: 16.37595
 postcode: "1010"
 city: Wien
-street: "Christinengasse"
-housenumber: 2
+street: Christinengasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.sine-sine.com/"
+website: https://www.sine-sine.com/

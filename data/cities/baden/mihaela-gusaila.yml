@@ -4,8 +4,8 @@ latitude: 48.00661
 longitude: 16.2366
 postcode: "2500"
 city: Baden
-street: "Neustiftgasse"
-housenumber: 3
-phone: "+43 2252 259104"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00"
-website: "https://mytaylor.at/"
+street: Neustiftgasse
+housenumber: "3"
+phone: +43 2252 259104
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00
+website: https://mytaylor.at/

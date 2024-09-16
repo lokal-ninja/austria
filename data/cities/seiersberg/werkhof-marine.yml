@@ -4,8 +4,9 @@ latitude: 47.01559
 longitude: 15.43986
 postcode: "8055"
 city: Seiersberg
-street: "Triester Straße"
-housenumber: 488
+street: Triester Straße
+housenumber: "488"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Apr-Sep Sa 09:00-12:30; Oct-Mar Sa off; Su,PH off"
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Apr-Sep Sa 09:00-12:30; Oct-Mar Sa off;
+    Su,PH off
 website: ""

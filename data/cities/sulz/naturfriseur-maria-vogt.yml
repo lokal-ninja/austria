@@ -4,8 +4,8 @@ latitude: 47.28377
 longitude: 9.65078
 postcode: "6832"
 city: Sulz
-street: "Müsinenstraße"
-housenumber: 50
+street: Müsinenstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Dienstag -Freitag nach Vereinbarung"
+opening_hours: '"Dienstag -Freitag nach Vereinbarung"'
 website: ""

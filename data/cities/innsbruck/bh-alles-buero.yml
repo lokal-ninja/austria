@@ -4,8 +4,8 @@ latitude: 47.25916
 longitude: 11.42029
 postcode: "6020"
 city: Innsbruck
-street: "Kaufmannstraße"
-housenumber: 2
-phone: "+43 512 348273"
-opening_hours: "Mo-Th 08:00-12:30,13:00-17:00; Fr 08:00-12:30; PH off"
-website: "https://www.alles-buero.at"
+street: Kaufmannstraße
+housenumber: "2"
+phone: +43 512 348273
+opening_hours: Mo-Th 08:00-12:30,13:00-17:00; Fr 08:00-12:30; PH off
+website: https://www.alles-buero.at

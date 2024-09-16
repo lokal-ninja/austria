@@ -4,8 +4,8 @@ latitude: 48.22606
 longitude: 16.45348
 postcode: "1220"
 city: Wien
-street: "Stadlauer Straße"
-housenumber: 32
-phone: "+43 1 2807636"
+street: Stadlauer Straße
+housenumber: "32"
+phone: +43 1 2807636
 opening_hours: ""
-website: "https://www.erho.at/"
+website: https://www.erho.at/

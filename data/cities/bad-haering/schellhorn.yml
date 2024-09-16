@@ -4,8 +4,8 @@ latitude: 47.51091
 longitude: 12.11912
 postcode: "6323"
 city: Bad Häring
-street: "Dorfstraße"
-housenumber: 5
+street: Dorfstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00,14:00-18:00; Sa 06:00-12:00"
-website: "https://backerei-schellhorn.business.site/"
+opening_hours: Mo-Fr 06:00-12:00,14:00-18:00; Sa 06:00-12:00
+website: https://backerei-schellhorn.business.site/

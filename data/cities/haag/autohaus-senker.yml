@@ -1,11 +1,11 @@
 id: 316137695
-type: way
+type: node
 latitude: 48.11263
 longitude: 14.56026
 postcode: "3350"
 city: Haag
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.senker.at/kontakt/haag"
+website: https://www.senker.at/kontakt/haag

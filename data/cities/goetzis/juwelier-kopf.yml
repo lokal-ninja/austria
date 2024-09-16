@@ -1,11 +1,11 @@
 id: 210634812
-type: way
+type: node
 latitude: 47.33265
 longitude: 9.64382
 postcode: "6840"
 city: Götzis
-street: "Junker-Jonas-Platz"
-housenumber: 5
+street: Junker-Jonas-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-14:00; PH off"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-14:00; PH off
 website: ""

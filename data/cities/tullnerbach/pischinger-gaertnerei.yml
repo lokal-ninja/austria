@@ -1,11 +1,11 @@
 id: 304174545
-type: way
+type: node
 latitude: 48.1861
 longitude: 16.09834
 postcode: "3011"
 city: Tullnerbach
-street: "Lawieserstraße"
-housenumber: 15
+street: Lawieserstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

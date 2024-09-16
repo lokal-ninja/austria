@@ -1,11 +1,11 @@
 id: 240821507
-type: way
+type: node
 latitude: 47.04964
 longitude: 15.41584
 postcode: "8053"
 city: Graz
-street: "Kärntner Straße"
-housenumber: 133
+street: Kärntner Straße
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 91863812
-type: way
+type: node
 latitude: 46.59115
 longitude: 14.27326
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Abstimmungsstraße"
-housenumber: 41
+street: Abstimmungsstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

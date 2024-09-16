@@ -1,11 +1,11 @@
 id: 198811415
-type: way
+type: node
 latitude: 47.44933
 longitude: 12.25632
 postcode: "6364"
 city: Brixen im Thale
-street: "Dorfstraße"
-housenumber: 57
+street: Dorfstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

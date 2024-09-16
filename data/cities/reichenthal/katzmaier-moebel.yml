@@ -1,11 +1,11 @@
 id: 172816674
-type: way
+type: node
 latitude: 48.54224
 longitude: 14.37999
 postcode: "4193"
 city: Reichenthal
-street: "Oberer Markt"
-housenumber: 23
+street: Oberer Markt
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.einrichtungsteam.at/"
+website: https://www.einrichtungsteam.at/

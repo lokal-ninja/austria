@@ -4,8 +4,8 @@ latitude: 48.17561
 longitude: 16.37746
 postcode: "1100"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 128
+street: Favoritenstraße
+housenumber: "128"
 phone: "+4316041726"
-opening_hours: "Mo-Th 09:30-18:00; Fr 09:30-17:00"
-website: "http://www.fujifotocenter.at/"
+opening_hours: Mo-Th 09:30-18:00; Fr 09:30-17:00
+website: http://www.fujifotocenter.at/

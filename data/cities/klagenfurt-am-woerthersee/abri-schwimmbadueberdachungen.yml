@@ -1,11 +1,11 @@
 id: 725971622
-type: way
+type: node
 latitude: 46.61455
 longitude: 14.34245
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Südring"
-housenumber: 340
+street: Südring
+housenumber: "340"
 phone: ""
 opening_hours: ""
 website: ""

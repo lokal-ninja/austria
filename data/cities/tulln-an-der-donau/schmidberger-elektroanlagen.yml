@@ -1,11 +1,11 @@
 id: 30533714
-type: way
+type: node
 latitude: 48.31954
 longitude: 16.08332
 postcode: "3430"
 city: Tulln an der Donau
-street: "Königstetter Straße"
-housenumber: 167
-phone: "+43 2272 62879"
+street: Königstetter Straße
+housenumber: "167"
+phone: +43 2272 62879
 opening_hours: ""
-website: "https://www.schmidberger.at/"
+website: https://www.schmidberger.at/

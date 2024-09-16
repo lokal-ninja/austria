@@ -1,11 +1,12 @@
 id: 183763751
-type: way
+type: node
 latitude: 46.71895
 longitude: 15.26242
 postcode: "8551"
 city: Wies
-street: "Am Bahnhof"
-housenumber: 2
-phone: "+43 3465 30 95"
-opening_hours: "Mo-Tu,Th 08:00-12:00,13:00-17:00; We 08:00-12:00,13:00-19:00; Fr 08:00-12:00,13:00-19:00; Sa,Su,PH off"
-website: "https://www.kfz-zinser.at/"
+street: Am Bahnhof
+housenumber: "2"
+phone: +43 3465 30 95
+opening_hours: Mo-Tu,Th 08:00-12:00,13:00-17:00; We 08:00-12:00,13:00-19:00; Fr 08:00-12:00,13:00-19:00;
+    Sa,Su,PH off
+website: https://www.kfz-zinser.at/

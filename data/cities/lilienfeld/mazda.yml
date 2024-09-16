@@ -1,11 +1,11 @@
 id: 263503378
-type: way
+type: node
 latitude: 48.0127
 longitude: 15.58805
 postcode: "3180"
 city: Lilienfeld
-street: "Castellistraße"
-housenumber: 14
+street: Castellistraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

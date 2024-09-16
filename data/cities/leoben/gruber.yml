@@ -1,11 +1,11 @@
 id: 82672685
-type: way
+type: node
 latitude: 47.36183
 longitude: 15.09778
 postcode: "8700"
 city: Leoben
-street: "Steigtalstraße"
-housenumber: 11
+street: Steigtalstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 05:30-12:30, Sa 05:30-12:30, Mo-We,Fr,Sa 15:00-18:00"
+opening_hours: Mo-Fr 05:30-12:30, Sa 05:30-12:30, Mo-We,Fr,Sa 15:00-18:00
 website: ""

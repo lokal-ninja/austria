@@ -1,11 +1,11 @@
 id: 85754168
-type: way
+type: node
 latitude: 48.48837
 longitude: 14.41078
 postcode: "4242"
 city: Hirschbach im Mühlkries
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.kraeuterbaecker.at/"
+website: https://www.kraeuterbaecker.at/

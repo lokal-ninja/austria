@@ -4,8 +4,8 @@ latitude: 47.47064
 longitude: 9.729
 postcode: "6923"
 city: Lauterach
-street: "Bundesstraße"
-housenumber: 95
+street: Bundesstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00,14:00-18:00"
-website: "https://www.joka.at/"
+opening_hours: Mo-Sa 10:00-13:00,14:00-18:00
+website: https://www.joka.at/

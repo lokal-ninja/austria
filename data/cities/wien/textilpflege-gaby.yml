@@ -4,8 +4,8 @@ latitude: 48.27222
 longitude: 16.41856
 postcode: "1210"
 city: Wien
-street: "Ruthnergasse"
-housenumber: 42
+street: Ruthnergasse
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-17:00; Th 14:00-17:00"
+opening_hours: Mo-We,Fr 09:00-17:00; Th 14:00-17:00
 website: ""

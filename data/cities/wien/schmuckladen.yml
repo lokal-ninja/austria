@@ -4,8 +4,8 @@ latitude: 48.20345
 longitude: 16.3516
 postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 40
-phone: "+43 699 11413767"
-opening_hours: "We 13:00-19:00; Th,Fr 11:00-18:00; Sa 11:00-17:00; PH,Su-Tu off"
-website: "http://www.schmuckladen.org"
+street: Kirchengasse
+housenumber: "40"
+phone: +43 699 11413767
+opening_hours: We 13:00-19:00; Th,Fr 11:00-18:00; Sa 11:00-17:00; PH,Su-Tu off
+website: http://www.schmuckladen.org

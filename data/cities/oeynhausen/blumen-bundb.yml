@@ -1,11 +1,11 @@
 id: 45137511
-type: way
+type: node
 latitude: 47.98554
 longitude: 16.29123
 postcode: "2512"
 city: Oeynhausen
-street: "Triester Straße"
-housenumber: 62
+street: Triester Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:00; Su 08:00-18:00"
-website: "https://www.blumenbb.at/"
+opening_hours: Mo-Sa 07:30-19:00; Su 08:00-18:00
+website: https://www.blumenbb.at/

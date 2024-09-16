@@ -4,8 +4,8 @@ latitude: 48.20253
 longitude: 16.36181
 postcode: "1010"
 city: Wien
-street: "Babenbergerstraße"
-housenumber: 9
-phone: "+43 1 5811917"
-opening_hours: "Mo-Fr 07:45-20:00; Sa 09:45-21:00"
-website: "https://www.spar.at/standorte/spar-wien-sonntag-nur-bistro-1010-babenbergerstrasse-9"
+street: Babenbergerstraße
+housenumber: "9"
+phone: +43 1 5811917
+opening_hours: Mo-Fr 07:45-20:00; Sa 09:45-21:00
+website: https://www.spar.at/standorte/spar-wien-sonntag-nur-bistro-1010-babenbergerstrasse-9

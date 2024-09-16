@@ -4,8 +4,8 @@ latitude: 48.17085
 longitude: 16.36064
 postcode: "1100"
 city: Wien
-street: "Bernhardtstalgasse"
-housenumber: 38
+street: Bernhardtstalgasse
+housenumber: "38"
 phone: "+4316061060"
-opening_hours: "Mo-Fr 06:00-13:00; Sa, Su, PH 07:00-12:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:00-13:00; Sa, Su, PH 07:00-12:00
+website: https://www.ankerbrot.at/

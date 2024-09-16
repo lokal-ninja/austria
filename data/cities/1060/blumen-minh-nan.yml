@@ -3,9 +3,9 @@ type: node
 latitude: 48.19677
 longitude: 16.3481
 postcode: ""
-city: 1060
-street: "Otto-Bauer-Gasse"
-housenumber: 24
+city: "1060"
+street: Otto-Bauer-Gasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00"
+opening_hours: Mo-Sa 08:30-19:00
 website: ""

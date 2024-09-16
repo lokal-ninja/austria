@@ -1,11 +1,11 @@
 id: 242492672
-type: way
+type: node
 latitude: 47.0342
 longitude: 15.44085
 postcode: "8055"
 city: Graz
-street: "Puchstraße"
-housenumber: 191
-phone: "+43 316 24 15 13"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30"
-website: "https://www.boels.at/filialen/steiermark/graz-puntigam"
+street: Puchstraße
+housenumber: "191"
+phone: +43 316 24 15 13
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:30
+website: https://www.boels.at/filialen/steiermark/graz-puntigam

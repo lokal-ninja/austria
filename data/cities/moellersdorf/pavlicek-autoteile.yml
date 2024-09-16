@@ -1,11 +1,11 @@
 id: 583765557
-type: way
+type: node
 latitude: 48.03065
 longitude: 16.2901
 postcode: "2514"
 city: Möllersdorf
-street: "Badener Straße"
-housenumber: 37
+street: Badener Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

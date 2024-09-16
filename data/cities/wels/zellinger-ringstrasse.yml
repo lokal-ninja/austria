@@ -4,8 +4,8 @@ latitude: 48.15836
 longitude: 14.02457
 postcode: "4600"
 city: Wels
-street: "Ringstraße"
-housenumber: 14
-phone: "+43 7242 62251"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
-website: "https://www.zellinger.at/"
+street: Ringstraße
+housenumber: "14"
+phone: +43 7242 62251
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00
+website: https://www.zellinger.at/

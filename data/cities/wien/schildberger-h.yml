@@ -4,8 +4,8 @@ latitude: 48.19456
 longitude: 16.38919
 postcode: "1030"
 city: Wien
-street: "Schützengasse"
-housenumber: 17
+street: Schützengasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-16:30; Fr 08:00-12:00"
+opening_hours: Mo-Th 08:00-12:00,13:00-16:30; Fr 08:00-12:00
 website: ""

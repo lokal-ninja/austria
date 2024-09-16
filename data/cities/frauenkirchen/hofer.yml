@@ -1,11 +1,11 @@
 id: 88270249
-type: way
+type: node
 latitude: 47.84297
 longitude: 16.93086
 postcode: "7132"
 city: Frauenkirchen
-street: "Mönchhoferstraße"
-housenumber: 7
+street: Mönchhoferstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

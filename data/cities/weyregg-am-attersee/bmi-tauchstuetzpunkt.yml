@@ -1,11 +1,11 @@
 id: 144528993
-type: way
+type: node
 latitude: 47.9014
 longitude: 13.56694
 postcode: "4852"
 city: Weyregg am Attersee
-street: "Seedorf"
-housenumber: 15
+street: Seedorf
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

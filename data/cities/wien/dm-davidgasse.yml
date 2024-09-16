@@ -4,8 +4,8 @@ latitude: 48.17473
 longitude: 16.35875
 postcode: "1100"
 city: Wien
-street: "Davidgasse"
+street: Davidgasse
 housenumber: 82-90
 phone: "+4316031394"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off
+website: https://www.dm.at

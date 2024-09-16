@@ -1,11 +1,11 @@
 id: 486881796
-type: way
+type: node
 latitude: 47.87205
 longitude: 16.97429
 postcode: "7131"
 city: Halbturn
-street: "Kirchenplatz"
-housenumber: 
+street: Kirchenplatz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

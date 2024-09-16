@@ -4,8 +4,8 @@ latitude: 47.52001
 longitude: 12.42499
 postcode: "6380"
 city: St. Johann in Tirol
-street: "Speckbacherstraße"
-housenumber: 26
-phone: "+43 5352 65900"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30"
-website: "https://www.optik-kreinig.at/"
+street: Speckbacherstraße
+housenumber: "26"
+phone: +43 5352 65900
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30
+website: https://www.optik-kreinig.at/

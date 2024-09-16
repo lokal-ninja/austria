@@ -1,11 +1,11 @@
 id: 158232839
-type: way
+type: node
 latitude: 48.02665
 longitude: 15.42963
 postcode: "3204"
 city: Kirchberg an der Pielach
-street: "Melker Straße"
-housenumber: 1
+street: Melker Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "www.struwwelpeter.at"
+website: www.struwwelpeter.at

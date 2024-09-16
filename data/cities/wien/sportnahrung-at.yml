@@ -4,8 +4,8 @@ latitude: 48.2585
 longitude: 16.39633
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 1
+street: Prager Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.sportnahrung.at/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.sportnahrung.at/

@@ -4,8 +4,8 @@ latitude: 48.20746
 longitude: 16.37522
 postcode: "1010"
 city: Wien
-street: "Grünangergasse"
-housenumber: 8
-phone: "+43 1 8908501"
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://www.aisawanspa.at/"
+street: Grünangergasse
+housenumber: "8"
+phone: +43 1 8908501
+opening_hours: Mo-Su 11:00-21:00
+website: https://www.aisawanspa.at/

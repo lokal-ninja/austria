@@ -1,11 +1,11 @@
 id: 652138072
-type: way
+type: node
 latitude: 48.35152
 longitude: 16.47632
 postcode: "2203"
 city: Großebersdorf
-street: "Julius-Raab-Straße"
-housenumber: 33
+street: Julius-Raab-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:00-17:00
 website: ""

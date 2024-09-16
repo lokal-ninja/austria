@@ -4,8 +4,8 @@ latitude: 47.12741
 longitude: 10.26407
 postcode: "6580"
 city: St. Anton am Arlberg
-street: "Dorfstraße"
-housenumber: 6
+street: Dorfstraße
+housenumber: "6"
 phone: "+4354463453560"
-opening_hours: "Mo-Su 09:00-13:00, 14:00-18:00"
+opening_hours: Mo-Su 09:00-13:00, 14:00-18:00
 website: ""

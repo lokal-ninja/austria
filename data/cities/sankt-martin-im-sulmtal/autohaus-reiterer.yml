@@ -1,11 +1,11 @@
 id: 439749547
-type: way
+type: node
 latitude: 46.75468
 longitude: 15.30002
 postcode: "8543"
 city: Sankt Martin im Sulmtal
 street: ""
-housenumber: 54
-phone: "+43 3465 7070"
+housenumber: "54"
+phone: +43 3465 7070
 opening_hours: ""
-website: "https://www.reiterer-autohaus.at"
+website: https://www.reiterer-autohaus.at

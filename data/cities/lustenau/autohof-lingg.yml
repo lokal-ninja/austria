@@ -1,11 +1,11 @@
 id: 93508980
-type: way
+type: node
 latitude: 47.41944
 longitude: 9.67206
 postcode: "6890"
 city: Lustenau
-street: "Millennium Park"
-housenumber: 22
+street: Millennium Park
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.autohof-lingg.com/"
+website: https://www.autohof-lingg.com/

@@ -1,11 +1,11 @@
 id: 1127957978
-type: way
+type: node
 latitude: 47.72343
 longitude: 14.31455
 postcode: "4580"
 city: Windischgarsten
-street: "Linzer Straße"
-housenumber: 32
+street: Linzer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

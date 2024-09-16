@@ -1,11 +1,11 @@
 id: 156888808
-type: way
+type: node
 latitude: 47.4331
 longitude: 12.21378
 postcode: "6363"
 city: Westendorf
-street: "Sennereiweg"
-housenumber: 1
+street: Sennereiweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.sennerei-westendorf.at/"
+website: http://www.sennerei-westendorf.at/

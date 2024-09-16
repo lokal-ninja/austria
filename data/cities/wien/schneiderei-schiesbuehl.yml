@@ -4,8 +4,8 @@ latitude: 48.19927
 longitude: 16.33131
 postcode: "1150"
 city: Wien
-street: "Märzstraße"
-housenumber: 38
-phone: "+43 1 9858121"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+street: Märzstraße
+housenumber: "38"
+phone: +43 1 9858121
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

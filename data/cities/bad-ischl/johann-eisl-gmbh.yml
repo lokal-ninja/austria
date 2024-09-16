@@ -1,11 +1,11 @@
 id: 130853539
-type: way
+type: node
 latitude: 47.72182
 longitude: 13.57384
 postcode: "4820"
 city: Bad Ischl
-street: "Wolfganger Straße"
-housenumber: 35
+street: Wolfganger Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

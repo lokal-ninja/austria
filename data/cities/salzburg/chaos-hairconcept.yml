@@ -4,8 +4,8 @@ latitude: 47.80197
 longitude: 13.01904
 postcode: "5020"
 city: Salzburg
-street: "Innsbrucker Bundesstraße"
-housenumber: 47
-phone: "+43 662 425761"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.chaos.at/"
+street: Innsbrucker Bundesstraße
+housenumber: "47"
+phone: +43 662 425761
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.chaos.at/

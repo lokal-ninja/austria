@@ -4,8 +4,8 @@ latitude: 48.2087
 longitude: 16.33688
 postcode: "1160"
 city: Wien
-street: "Thaliastraße"
-housenumber: 7
+street: Thaliastraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "http://www.greenandclean.at/"
+opening_hours: Mo-Su 06:00-22:00
+website: http://www.greenandclean.at/

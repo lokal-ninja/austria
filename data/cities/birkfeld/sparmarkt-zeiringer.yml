@@ -1,11 +1,11 @@
 id: 175996653
-type: way
+type: node
 latitude: 47.35507
 longitude: 15.69952
 postcode: "8190"
 city: Birkfeld
-street: "Edelsee-Straße"
-housenumber: 42
+street: Edelsee-Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

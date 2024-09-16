@@ -1,11 +1,11 @@
 id: 807207083
-type: way
+type: node
 latitude: 47.5935
 longitude: 16.63683
 postcode: "7301"
 city: Deutschkreutz
-street: "Sonnenweg"
-housenumber: 
+street: Sonnenweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

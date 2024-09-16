@@ -1,11 +1,11 @@
 id: 208235046
-type: way
+type: node
 latitude: 48.22044
 longitude: 15.64336
 postcode: "3107"
 city: St. Pölten
-street: "Dr.Doch-Gasse"
-housenumber: 1
+street: Dr.Doch-Gasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.lagerhaus-stpoelten.at/"
+website: https://www.lagerhaus-stpoelten.at/

@@ -1,11 +1,11 @@
 id: 723153121
-type: way
+type: node
 latitude: 47.07536
 longitude: 15.43321
 postcode: "8020"
 city: Graz
-street: "Lendkai"
-housenumber: 45
+street: Lendkai
+housenumber: "45"
 phone: ""
-opening_hours: "We 17:00-20:00"
+opening_hours: We 17:00-20:00
 website: ""

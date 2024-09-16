@@ -1,11 +1,11 @@
 id: 90119545
-type: way
+type: node
 latitude: 47.41734
 longitude: 13.67252
 postcode: "8972"
 city: Ramsau am Dachstein
 street: ""
-housenumber: 231
-phone: "+43 3687 81373"
+housenumber: "231"
+phone: +43 3687 81373
 opening_hours: ""
-website: "https://www.sport-steiner.at/"
+website: https://www.sport-steiner.at/

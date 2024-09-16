@@ -4,8 +4,8 @@ latitude: 48.21393
 longitude: 16.34933
 postcode: "1080"
 city: Wien
-street: "Kochgasse"
-housenumber: 21
-phone: "+43/664/227 1999"
+street: Kochgasse
+housenumber: "21"
+phone: +43/664/227 1999
 opening_hours: ""
-website: "http://www.elkemderflinger.at/"
+website: http://www.elkemderflinger.at/

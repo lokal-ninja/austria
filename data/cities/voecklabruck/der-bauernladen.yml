@@ -4,8 +4,9 @@ latitude: 48.00794
 longitude: 13.65038
 postcode: "4840"
 city: Vöcklabruck
-street: "Salzburger Straße"
-housenumber: 16
-phone: "+43 699 16086586"
-opening_hours: "Mo-Di 08:00-12:30, 15:00-18:30; Mi 08:00-12:30; Do 08:00-12:30, 15:00-18:30; Fr 08:00-18:30; Sa 08:00-12:30"
-website: "https://www.voecklabruck.com/unternehmen/bauernladen/"
+street: Salzburger Straße
+housenumber: "16"
+phone: +43 699 16086586
+opening_hours: Mo-Di 08:00-12:30, 15:00-18:30; Mi 08:00-12:30; Do 08:00-12:30, 15:00-18:30;
+    Fr 08:00-18:30; Sa 08:00-12:30
+website: https://www.voecklabruck.com/unternehmen/bauernladen/

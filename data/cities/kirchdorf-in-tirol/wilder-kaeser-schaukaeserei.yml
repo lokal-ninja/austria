@@ -1,11 +1,11 @@
 id: 224636612
-type: way
+type: node
 latitude: 47.56189
 longitude: 12.4139
 postcode: "6382"
 city: Kirchdorf in Tirol
-street: "Schwendter Straße"
-housenumber: 76
+street: Schwendter Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.wilder-kaeser.at/"
+website: https://www.wilder-kaeser.at/

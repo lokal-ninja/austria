@@ -1,11 +1,11 @@
 id: 171450167
-type: way
+type: node
 latitude: 48.00192
 longitude: 13.68056
 postcode: "4840"
 city: Vöcklabruck
-street: "Johannes Kepler-Straße"
-housenumber: 5
+street: Johannes Kepler-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.26938
 longitude: 15.3243
 postcode: "8130"
 city: Frohnleiten
-street: "Brückenkopf"
-housenumber: 2
+street: Brückenkopf
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:30-12:00"
-website: "http://www.derschuessler.at/"
+opening_hours: Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:30-12:00
+website: http://www.derschuessler.at/

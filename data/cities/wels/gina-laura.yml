@@ -4,8 +4,8 @@ latitude: 48.1594
 longitude: 14.02443
 postcode: "4600"
 city: Wels
-street: "Bäckergasse"
-housenumber: 9
+street: Bäckergasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
-website: "https://www.gina-laura.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off
+website: https://www.gina-laura.com/

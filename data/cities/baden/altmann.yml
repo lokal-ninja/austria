@@ -4,8 +4,8 @@ latitude: 48.00762
 longitude: 16.23303
 postcode: "2500"
 city: Baden
-street: "Rathausgasse"
-housenumber: 5
+street: Rathausgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
 website: ""

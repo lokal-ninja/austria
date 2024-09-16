@@ -1,11 +1,11 @@
 id: 142410749
-type: way
+type: node
 latitude: 47.23751
 longitude: 10.85886
 postcode: "6430"
 city: Haiming
-street: "Bahnhofplatz"
-housenumber: 6
+street: Bahnhofplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:00-12:00
 website: ""

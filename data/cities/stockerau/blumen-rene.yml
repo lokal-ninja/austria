@@ -1,11 +1,11 @@
 id: 85597572
-type: way
+type: node
 latitude: 48.39848
 longitude: 16.2096
 postcode: "2000"
 city: Stockerau
-street: "Johann Strauß-Promenade"
-housenumber: 118
+street: Johann Strauß-Promenade
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

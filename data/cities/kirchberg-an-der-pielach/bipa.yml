@@ -1,11 +1,11 @@
 id: 158652109
-type: way
+type: node
 latitude: 48.02746
 longitude: 15.43536
 postcode: "3204"
 city: Kirchberg an der Pielach
-street: "Sankt Pöltner Straße"
-housenumber: 7
+street: Sankt Pöltner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

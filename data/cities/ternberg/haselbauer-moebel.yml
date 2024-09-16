@@ -4,8 +4,8 @@ latitude: 47.94346
 longitude: 14.35568
 postcode: "4452"
 city: Ternberg
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.haselbauer.at/index.php?kat=Kontakt"
+website: https://www.haselbauer.at/index.php?kat=Kontakt

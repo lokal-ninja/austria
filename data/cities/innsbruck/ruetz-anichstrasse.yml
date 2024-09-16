@@ -4,8 +4,8 @@ latitude: 47.26385
 longitude: 11.38703
 postcode: "6020"
 city: Innsbruck
-street: "Anichstraße"
-housenumber: 46
-phone: "+43 512 572794"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00; PH off"
-website: "https://www.ruetz.at/baeckereien/standorte/unikreuzung_innsbruck_tirol"
+street: Anichstraße
+housenumber: "46"
+phone: +43 512 572794
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-13:00; PH off
+website: https://www.ruetz.at/baeckereien/standorte/unikreuzung_innsbruck_tirol

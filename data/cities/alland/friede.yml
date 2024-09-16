@@ -1,11 +1,11 @@
 id: 420097650
-type: way
+type: node
 latitude: 48.05608
 longitude: 16.07361
 postcode: "2534"
 city: Alland
-street: "Hauptstraße"
-housenumber: 47
+street: Hauptstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

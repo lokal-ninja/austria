@@ -4,8 +4,8 @@ latitude: 47.52177
 longitude: 12.42715
 postcode: "6380"
 city: St. Johann in Tirol
-street: "Poststraße"
-housenumber: 4
-phone: "+43 5352 65543"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-15:00"
-website: "https://www.haar-almberger.at/"
+street: Poststraße
+housenumber: "4"
+phone: +43 5352 65543
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-15:00
+website: https://www.haar-almberger.at/

@@ -4,8 +4,8 @@ latitude: 48.1782
 longitude: 16.35806
 postcode: "1100"
 city: Wien
-street: "Triester Straße"
-housenumber: 3
+street: Triester Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:00-17:00"
-website: "https://www.auto-pfandhaus.at"
+opening_hours: Mo-Fr 09:00-12:30,14:00-17:00
+website: https://www.auto-pfandhaus.at

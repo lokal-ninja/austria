@@ -1,11 +1,11 @@
 id: 179096387
-type: way
+type: node
 latitude: 47.05588
 longitude: 15.83558
 postcode: "8311"
 city: Markt Hartmannsdorf
-street: "Hauptstraße"
-housenumber: 222
+street: Hauptstraße
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

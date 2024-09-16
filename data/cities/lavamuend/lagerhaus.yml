@@ -1,11 +1,11 @@
 id: 200303815
-type: way
+type: node
 latitude: 46.641
 longitude: 14.94738
 postcode: "9473"
 city: Lavamünd
 street: ""
-housenumber: 58
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

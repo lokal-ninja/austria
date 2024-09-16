@@ -1,5 +1,5 @@
 id: 104985379
-type: way
+type: node
 latitude: 47.26958
 longitude: 10.40352
 postcode: "6653"
@@ -7,5 +7,5 @@ city: Bach
 street: ""
 housenumber: 43a
 phone: ""
-opening_hours: "Mo 07:00-12:00,14:30-18:00; Tu-Fr 08:00-12:00,14:30-18:00; Sa 08:00-12:00,16:00-18:00"
+opening_hours: Mo 07:00-12:00,14:30-18:00; Tu-Fr 08:00-12:00,14:30-18:00; Sa 08:00-12:00,16:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.58637
 longitude: 12.16227
 postcode: "6330"
 city: Kufstein
-street: "Schubertstraße"
-housenumber: 20
-phone: "+43 800 202055"
-opening_hours: "24/7"
+street: Schubertstraße
+housenumber: "20"
+phone: +43 800 202055
+opening_hours: 24/7
 website: ""

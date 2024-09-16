@@ -1,11 +1,11 @@
 id: 83641808
-type: way
+type: node
 latitude: 48.12721
 longitude: 17.02668
 postcode: "2412"
 city: Wolfsthal
-street: "Betriebsstraße"
-housenumber: 6
+street: Betriebsstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.autohausergin.at/"
+website: http://www.autohausergin.at/

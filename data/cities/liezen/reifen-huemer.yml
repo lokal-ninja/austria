@@ -1,11 +1,11 @@
 id: 92381380
-type: way
+type: node
 latitude: 47.56343
 longitude: 14.24352
 postcode: "8940"
 city: Liezen
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

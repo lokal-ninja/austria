@@ -4,8 +4,8 @@ latitude: 46.59578
 longitude: 13.85082
 postcode: "9500"
 city: Villach
-street: "Karawankenweg"
-housenumber: 38
-phone: "+43 59915 07606"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+street: Karawankenweg
+housenumber: "38"
+phone: +43 59915 07606
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

@@ -4,8 +4,8 @@ latitude: 47.82437
 longitude: 13.05492
 postcode: "5020"
 city: Salzburg
-street: "Vogelweiderstraße"
-housenumber: 116
-phone: "+43 662 870540"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.polo-motorrad.de/cms/store/details/polo-store-salzburg"
+street: Vogelweiderstraße
+housenumber: "116"
+phone: +43 662 870540
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off
+website: https://www.polo-motorrad.de/cms/store/details/polo-store-salzburg

@@ -4,8 +4,8 @@ latitude: 48.20108
 longitude: 16.35076
 postcode: "1070"
 city: Wien
-street: "Mondscheingasse"
-housenumber: 11
+street: Mondscheingasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00"
-website: "http://www.salon-fuer-kunstbuch.at/"
+opening_hours: Tu-Fr 14:00-19:00
+website: http://www.salon-fuer-kunstbuch.at/

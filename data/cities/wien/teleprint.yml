@@ -4,8 +4,8 @@ latitude: 48.20173
 longitude: 16.34607
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 9
+street: Westbahnstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://teleprint.at/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://teleprint.at/

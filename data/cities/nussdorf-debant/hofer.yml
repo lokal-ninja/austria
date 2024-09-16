@@ -1,11 +1,11 @@
 id: 152237690
-type: way
+type: node
 latitude: 46.82759
 longitude: 12.8146
 postcode: "9990"
 city: Nussdorf-Debant
-street: "Hermann Gmeiner-Straße"
-housenumber: 14
+street: Hermann Gmeiner-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

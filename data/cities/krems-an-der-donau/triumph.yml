@@ -4,8 +4,8 @@ latitude: 48.41052
 longitude: 15.59802
 postcode: "3500"
 city: Krems an der Donau
-street: "Obere Landstraße"
-housenumber: 18
-phone: "+43 2732 82266"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00, 14:00-17:00; PH off"
-website: "https://at.triumph.com/"
+street: Obere Landstraße
+housenumber: "18"
+phone: +43 2732 82266
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00, 14:00-17:00; PH off
+website: https://at.triumph.com/

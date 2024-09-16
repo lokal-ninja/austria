@@ -4,8 +4,8 @@ latitude: 48.19714
 longitude: 16.39636
 postcode: "1030"
 city: Wien
-street: "Apostelgasse"
-housenumber: 39
+street: Apostelgasse
+housenumber: "39"
 phone: ""
-opening_hours: "Mo,We 08:30-18:00; Tu,Fr 08:30-14:00; Sa 08:30-12:00"
+opening_hours: Mo,We 08:30-18:00; Tu,Fr 08:30-14:00; Sa 08:30-12:00
 website: ""

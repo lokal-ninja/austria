@@ -1,11 +1,11 @@
 id: 136492709
-type: way
+type: node
 latitude: 48.23496
 longitude: 16.44267
 postcode: "1220"
 city: Wien
-street: "Erzherzog-Karl-Straße"
-housenumber: 57
+street: Erzherzog-Karl-Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.hofer.at/"
+website: https://www.hofer.at/

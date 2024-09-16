@@ -1,11 +1,11 @@
 id: 134554907
-type: way
+type: node
 latitude: 46.60591
 longitude: 13.87065
 postcode: "9500"
 city: Villach
-street: "Gewerbezeile"
-housenumber: 9
-phone: "+43 4242 318889"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "http://www.kaernten-shop.at/"
+street: Gewerbezeile
+housenumber: "9"
+phone: +43 4242 318889
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: http://www.kaernten-shop.at/

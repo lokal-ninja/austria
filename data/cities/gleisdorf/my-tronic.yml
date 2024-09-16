@@ -4,8 +4,8 @@ latitude: 47.10386
 longitude: 15.71116
 postcode: "8200"
 city: Gleisdorf
-street: "Franz-Josef-Straße"
-housenumber: 6
-phone: "+43 3112 5464"
-opening_hours: "Mo, We, Fr, Sa 08:30-12:00; Tu, Th 08:30-12:00, 15:00-18:00"
-website: "my-tronic.at"
+street: Franz-Josef-Straße
+housenumber: "6"
+phone: +43 3112 5464
+opening_hours: Mo, We, Fr, Sa 08:30-12:00; Tu, Th 08:30-12:00, 15:00-18:00
+website: my-tronic.at

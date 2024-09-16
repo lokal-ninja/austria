@@ -1,11 +1,11 @@
 id: 96399151
-type: way
+type: node
 latitude: 47.34157
 longitude: 9.65182
 postcode: "6840"
 city: Götzis
-street: "Im Buch"
-housenumber: 47
+street: Im Buch
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
 website: ""

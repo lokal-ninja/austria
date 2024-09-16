@@ -1,11 +1,11 @@
 id: 125366577
-type: way
+type: node
 latitude: 47.34975
 longitude: 15.46052
 postcode: "8163"
 city: Fladnitz an der Teichalm
 street: ""
-housenumber: 142
+housenumber: "142"
 phone: ""
 opening_hours: ""
-website: "https://www.ski-teichalm.com/verleih-preise/"
+website: https://www.ski-teichalm.com/verleih-preise/

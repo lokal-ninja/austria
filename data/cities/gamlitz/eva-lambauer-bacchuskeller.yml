@@ -1,11 +1,11 @@
 id: 208562452
-type: way
+type: node
 latitude: 46.68567
 longitude: 15.54963
 postcode: "8462"
 city: Gamlitz
 street: ""
-housenumber: 37
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.evalambauer.at/"
+website: https://www.evalambauer.at/

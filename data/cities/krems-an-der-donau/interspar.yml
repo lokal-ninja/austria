@@ -4,8 +4,8 @@ latitude: 48.41715
 longitude: 15.62044
 postcode: "3500"
 city: Krems an der Donau
-street: "Wiener Straße"
-housenumber: 91
-phone: "+43 2732 851 74"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
-website: "https://www.interspar.at"
+street: Wiener Straße
+housenumber: "91"
+phone: +43 2732 851 74
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+website: https://www.interspar.at

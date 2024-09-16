@@ -1,11 +1,11 @@
 id: 562775970
-type: way
+type: node
 latitude: 48.75883
 longitude: 15.9601
 postcode: "2070"
 city: Retz
-street: "Sandweg"
-housenumber: 8
+street: Sandweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.21346
 longitude: 16.35827
 postcode: "1010"
 city: Wien
-street: "Liebiggasse"
-housenumber: 4
-phone: "+43 1 4060719"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://de-de.facebook.com/Antikkeller/"
+street: Liebiggasse
+housenumber: "4"
+phone: +43 1 4060719
+opening_hours: Mo-Fr 09:00-18:00
+website: https://de-de.facebook.com/Antikkeller/

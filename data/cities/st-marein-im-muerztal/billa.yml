@@ -1,11 +1,11 @@
 id: 244960208
-type: way
+type: node
 latitude: 47.47418
 longitude: 15.36827
 postcode: "8641"
 city: St. Marein im Mürztal
-street: "Hauptstraße"
-housenumber: 7
-phone: "+43 59915 06688"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Hauptstraße
+housenumber: "7"
+phone: +43 59915 06688
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

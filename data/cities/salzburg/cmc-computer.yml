@@ -4,8 +4,9 @@ latitude: 47.80841
 longitude: 13.04573
 postcode: "5020"
 city: Salzburg
-street: "Haydnstraße"
-housenumber: 22
+street: Haydnstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30, 13:30-18:00; Sa 10:00-13:00 || und nach Vereinbarung/and by appointment"
+opening_hours: Mo-Fr 10:00-12:30, 13:30-18:00; Sa 10:00-13:00 || "und nach Vereinbarung/and
+    by appointment"
 website: ""

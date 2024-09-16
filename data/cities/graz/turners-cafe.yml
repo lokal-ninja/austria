@@ -4,8 +4,8 @@ latitude: 47.07365
 longitude: 15.44009
 postcode: "8010"
 city: Graz
-street: "Karmeliterplatz"
-housenumber: 8
+street: Karmeliterplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Tu,We 08:30-20:00; Th-Sa 08:30-22:00; Su 08:00-17:00"
+opening_hours: Tu,We 08:30-20:00; Th-Sa 08:30-22:00; Su 08:00-17:00
 website: ""

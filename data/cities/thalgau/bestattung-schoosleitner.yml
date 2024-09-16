@@ -1,11 +1,11 @@
 id: 611562434
-type: way
+type: node
 latitude: 47.84578
 longitude: 13.22886
 postcode: "5303"
 city: Thalgau
-street: "Irlachstraße"
-housenumber: 7
+street: Irlachstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

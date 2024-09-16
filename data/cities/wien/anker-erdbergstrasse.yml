@@ -1,11 +1,11 @@
 id: 494417995
-type: way
+type: node
 latitude: 48.19193
 longitude: 16.41321
 postcode: "1030"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 143
-phone: "+43 1 7961046"
-opening_hours: "Mo-Fr 06:00-14:00"
-website: "https://www.ankerbrot.at/"
+street: Erdbergstraße
+housenumber: "143"
+phone: +43 1 7961046
+opening_hours: Mo-Fr 06:00-14:00
+website: https://www.ankerbrot.at/

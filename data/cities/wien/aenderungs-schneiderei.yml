@@ -4,8 +4,8 @@ latitude: 48.1868
 longitude: 16.3282
 postcode: "1150"
 city: Wien
-street: "Sechshauser Straße"
-housenumber: 59
-phone: "+43 1 9677487"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-12:30,14:30-18:00; Sa 09:00-13:00"
+street: Sechshauser Straße
+housenumber: "59"
+phone: +43 1 9677487
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-12:30,14:30-18:00; Sa 09:00-13:00
 website: ""

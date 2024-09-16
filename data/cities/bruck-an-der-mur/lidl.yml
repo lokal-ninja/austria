@@ -1,11 +1,11 @@
 id: 400035607
-type: way
+type: node
 latitude: 47.4061
 longitude: 15.27069
 postcode: "8600"
 city: Bruck an der Mur
-street: "Leobner Straße"
-housenumber: 19
+street: Leobner Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

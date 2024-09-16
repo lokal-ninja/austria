@@ -1,11 +1,11 @@
 id: 769726312
-type: way
+type: node
 latitude: 47.82826
 longitude: 16.07426
 postcode: "2724"
 city: Stollhof
-street: "Lerchenweg"
-housenumber: 197
+street: Lerchenweg
+housenumber: "197"
 phone: ""
 opening_hours: ""
-website: "http://www.wellness-schloessl.at/"
+website: http://www.wellness-schloessl.at/

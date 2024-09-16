@@ -1,11 +1,11 @@
 id: 356412274
-type: way
+type: node
 latitude: 48.12865
 longitude: 13.79174
 postcode: "4672"
 city: Bachmanning
-street: "Schulstraße"
-housenumber: 13
+street: Schulstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

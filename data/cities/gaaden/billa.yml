@@ -1,11 +1,11 @@
 id: 288373868
-type: way
+type: node
 latitude: 48.05474
 longitude: 16.20674
 postcode: "2531"
 city: Gaaden
-street: "Hauptstraße"
-housenumber: 18
-phone: "+43 59915 03824"
-opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
-website: "https://www.billa.at/"
+street: Hauptstraße
+housenumber: "18"
+phone: +43 59915 03824
+opening_hours: Mo-Fr 07:30-19:50; Sa 07:40-18:00
+website: https://www.billa.at/

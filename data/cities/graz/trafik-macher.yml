@@ -1,11 +1,11 @@
 id: 136107653
-type: way
+type: node
 latitude: 47.01968
 longitude: 15.47209
 postcode: "8041"
 city: Graz
-street: "Liebenauer Hauptstraße"
-housenumber: 313
+street: Liebenauer Hauptstraße
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

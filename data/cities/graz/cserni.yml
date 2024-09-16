@@ -4,8 +4,8 @@ latitude: 47.07017
 longitude: 15.44458
 postcode: "8010"
 city: Graz
-street: "Burggasse"
-housenumber: 15
-phone: "+43 316 830677"
-opening_hours: "Tu-Fr 09:00-17:00"
-website: "https://www.cserni.at/"
+street: Burggasse
+housenumber: "15"
+phone: +43 316 830677
+opening_hours: Tu-Fr 09:00-17:00
+website: https://www.cserni.at/

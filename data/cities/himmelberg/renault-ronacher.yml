@@ -1,11 +1,11 @@
 id: 216521508
-type: way
+type: node
 latitude: 46.7565
 longitude: 14.02889
 postcode: "9562"
 city: Himmelberg
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

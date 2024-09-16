@@ -1,11 +1,11 @@
 id: 608648597
-type: way
+type: node
 latitude: 47.72401
 longitude: 16.93309
 postcode: "7151"
 city: Wallern im Burgenland
-street: "Pamhagenerstraße"
+street: Pamhagenerstraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-15:30"
-website: "https://www.spar.at/standorte/spar-wallern-7151-pamhagenerstrasse-2a"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-15:30
+website: https://www.spar.at/standorte/spar-wallern-7151-pamhagenerstrasse-2a

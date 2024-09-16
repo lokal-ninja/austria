@@ -4,8 +4,8 @@ latitude: 47.92884
 longitude: 16.21706
 postcode: "2544"
 city: Leobersdorf
-street: "Hauptstraße"
-housenumber: 17
-phone: "+43 2256 64533"
-opening_hours: "Mo,Sa 09:00-12:00; Tu-Fr 09:00-12:00,15:00-18:00; PH off"
+street: Hauptstraße
+housenumber: "17"
+phone: +43 2256 64533
+opening_hours: Mo,Sa 09:00-12:00; Tu-Fr 09:00-12:00,15:00-18:00; PH off
 website: ""

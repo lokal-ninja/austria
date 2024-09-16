@@ -4,8 +4,8 @@ latitude: 48.40924
 longitude: 15.59866
 postcode: "3500"
 city: Krems an der Donau
-street: "Hafnerplatz"
-housenumber: 11
-phone: "+43 699 18300576"
+street: Hafnerplatz
+housenumber: "11"
+phone: +43 699 18300576
 opening_hours: ""
-website: "http://www.cakeme.at/index.php"
+website: http://www.cakeme.at/index.php

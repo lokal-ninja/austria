@@ -1,11 +1,11 @@
 id: 653957786
-type: way
+type: node
 latitude: 47.91678
 longitude: 16.4276
 postcode: "2485"
 city: Wimpassing an der Leitha
-street: "Eisenstädter Straße"
-housenumber: 42
+street: Eisenstädter Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 531819306
-type: way
+type: node
 latitude: 47.79934
 longitude: 16.22751
 postcode: "2700"
 city: Wiener Neustadt
-street: "Waldschulgasse"
+street: Waldschulgasse
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 16.35244
 postcode: "1070"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: "015222102"
-opening_hours: "Sa 10:00-18:00; Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Su off"
-website: "https://www.monki.com/"
+opening_hours: Sa 10:00-18:00; Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Su off
+website: https://www.monki.com/

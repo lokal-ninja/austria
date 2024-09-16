@@ -1,11 +1,11 @@
 id: 493699554
-type: way
+type: node
 latitude: 48.19713
 longitude: 16.40077
 postcode: "1030"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 06:00-13:00"
+opening_hours: Mo-Fr 05:30-18:30; Sa 06:00-13:00
 website: ""

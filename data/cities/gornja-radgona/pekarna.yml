@@ -1,11 +1,11 @@
 id: 313716614
-type: way
+type: node
 latitude: 46.67398
 longitude: 15.99363
 postcode: "9250"
 city: Gornja Radgona
-street: "Partizanska cesta"
-housenumber: 45
-phone: "031 536 010"
+street: Partizanska cesta
+housenumber: "45"
+phone: 031 536 010
 opening_hours: ""
 website: ""

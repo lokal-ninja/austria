@@ -1,11 +1,11 @@
 id: 170593701
-type: way
+type: node
 latitude: 48.76115
 longitude: 14.98613
 postcode: "3950"
 city: Gmünd
-street: "Eichenallee"
-housenumber: 3
+street: Eichenallee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
 website: ""

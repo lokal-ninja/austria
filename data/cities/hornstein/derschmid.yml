@@ -1,11 +1,11 @@
 id: 669357325
-type: way
+type: node
 latitude: 47.87417
 longitude: 16.43374
 postcode: "7053"
 city: Hornstein
-street: "Gewerbezone"
-housenumber: 2
+street: Gewerbezone
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

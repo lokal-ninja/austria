@@ -1,11 +1,11 @@
 id: 165484065
-type: way
+type: node
 latitude: 48.42655
 longitude: 13.44577
 postcode: "4782"
 city: St. Florian am Inn
 street: ""
-housenumber: 43
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

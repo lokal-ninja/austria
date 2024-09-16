@@ -4,8 +4,8 @@ latitude: 48.21673
 longitude: 16.3407
 postcode: "1170"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 14
+street: Hernalser Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00"
-website: "https://www.lakim-friseur.at/"
+opening_hours: Tu-Fr 09:00-18:00
+website: https://www.lakim-friseur.at/

@@ -1,11 +1,11 @@
 id: 370648357
-type: way
+type: node
 latitude: 46.62477
 longitude: 14.36012
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "St. Jakober Straße"
-housenumber: 40
+street: St. Jakober Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

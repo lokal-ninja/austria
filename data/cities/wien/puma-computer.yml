@@ -4,8 +4,8 @@ latitude: 48.25772
 longitude: 16.39557
 postcode: "1210"
 city: Wien
-street: "Schwaigergasse"
-housenumber: 35
-phone: "+43 1 2706255"
-opening_hours: "Mo-Fr 10:00-13:30; Mo-Fr 14:00-18:00; Sa 10:00-14:00"
-website: "http://www.p-c.at"
+street: Schwaigergasse
+housenumber: "35"
+phone: +43 1 2706255
+opening_hours: Mo-Fr 10:00-13:30; Mo-Fr 14:00-18:00; Sa 10:00-14:00
+website: http://www.p-c.at

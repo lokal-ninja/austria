@@ -1,11 +1,11 @@
 id: 312884064
-type: way
+type: node
 latitude: 47.56135
 longitude: 14.24919
 postcode: "8940"
 city: Liezen
-street: "Gesäusestraße"
-housenumber: 5
+street: Gesäusestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

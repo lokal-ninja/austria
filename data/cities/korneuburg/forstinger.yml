@@ -4,8 +4,8 @@ latitude: 48.35109
 longitude: 16.34095
 postcode: "2100"
 city: Korneuburg
-street: "Laaer Straße"
-housenumber: 81
+street: Laaer Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00"
-website: "https://www.forstinger.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
+website: https://www.forstinger.com/

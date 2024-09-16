@@ -4,8 +4,8 @@ latitude: 47.26733
 longitude: 11.3959
 postcode: "6020"
 city: Innsbruck
-street: "Museumstraße"
-housenumber: 5
+street: Museumstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off"
-website: "https://www.magenta.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off
+website: https://www.magenta.at

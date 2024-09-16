@@ -1,11 +1,11 @@
 id: 409127068
-type: way
+type: node
 latitude: 48.18997
 longitude: 14.09711
 postcode: "4614"
 city: Marchtrenk
-street: "Welser Straße"
-housenumber: 70
+street: Welser Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.autonett.at/"
+website: https://www.autonett.at/

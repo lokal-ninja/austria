@@ -4,8 +4,9 @@ latitude: 48.2652
 longitude: 16.47503
 postcode: "1220"
 city: Wien
-street: "Rudolf-Hausner-Gasse"
-housenumber: 13
-phone: "+43 1 734428221"
-opening_hours: "Mo,We,Th,Fr 09:00-12:00, 12:30-19:00; Tu 09:00-12:00, 12:30-21:00; Sa 09:00-12:00, 12:30-16:00"
+street: Rudolf-Hausner-Gasse
+housenumber: "13"
+phone: +43 1 734428221
+opening_hours: Mo,We,Th,Fr 09:00-12:00, 12:30-19:00; Tu 09:00-12:00, 12:30-21:00;
+    Sa 09:00-12:00, 12:30-16:00
 website: ""

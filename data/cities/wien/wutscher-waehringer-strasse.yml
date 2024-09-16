@@ -4,8 +4,8 @@ latitude: 48.22515
 longitude: 16.34825
 postcode: "1180"
 city: Wien
-street: "Währinger Straße"
-housenumber: 75
-phone: "+43 1 4781461"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://wutscher.com"
+street: Währinger Straße
+housenumber: "75"
+phone: +43 1 4781461
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://wutscher.com

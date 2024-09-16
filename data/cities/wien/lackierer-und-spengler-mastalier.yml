@@ -1,11 +1,11 @@
 id: 200282798
-type: way
+type: node
 latitude: 48.17727
 longitude: 16.4098
 postcode: "1110"
 city: Wien
-street: "Rautenstrauchgasse"
-housenumber: 11
-phone: "+43 1 749 89 01"
-opening_hours: "Mo-Th 07:30-16:30, Fr 07:30-12:00"
-website: "https://www.kfz-fichtinger.at/kontakt.html"
+street: Rautenstrauchgasse
+housenumber: "11"
+phone: +43 1 749 89 01
+opening_hours: Mo-Th 07:30-16:30, Fr 07:30-12:00
+website: https://www.kfz-fichtinger.at/kontakt.html

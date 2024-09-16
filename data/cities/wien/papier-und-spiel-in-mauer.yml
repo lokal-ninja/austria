@@ -4,8 +4,8 @@ latitude: 48.15026
 longitude: 16.2689
 postcode: "1230"
 city: Wien
-street: "Geßlgasse"
-housenumber: 1
-phone: "+43 1 88 98 669"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
-website: "https://papierinmauer.at/"
+street: Geßlgasse
+housenumber: "1"
+phone: +43 1 88 98 669
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30
+website: https://papierinmauer.at/

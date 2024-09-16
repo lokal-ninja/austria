@@ -4,8 +4,8 @@ latitude: 48.4165
 longitude: 15.62625
 postcode: "3500"
 city: Krems an der Donau
-street: "Landersdorfer Straße"
-housenumber: 8
-phone: "+43 2732 862 20"
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+street: Landersdorfer Straße
+housenumber: "8"
+phone: +43 2732 862 20
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

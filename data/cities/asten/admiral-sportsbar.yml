@@ -4,8 +4,8 @@ latitude: 48.21775
 longitude: 14.42391
 postcode: "4481"
 city: Asten
-street: "Geranienstraße"
-housenumber: 1
-phone: "+43 7224 6547411"
-opening_hours: "09:00-03:00"
+street: Geranienstraße
+housenumber: "1"
+phone: +43 7224 6547411
+opening_hours: 09:00-03:00
 website: ""

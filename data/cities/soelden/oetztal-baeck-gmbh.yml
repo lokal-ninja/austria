@@ -1,11 +1,11 @@
 id: 92100116
-type: way
+type: node
 latitude: 46.94739
 longitude: 11.0199
 postcode: "6450"
 city: Sölden
-street: "Gewerbestraße"
-housenumber: 9
-phone: "+43 5254 2482"
+street: Gewerbestraße
+housenumber: "9"
+phone: +43 5254 2482
 opening_hours: ""
-website: "https://www.oetztal-baeck.at"
+website: https://www.oetztal-baeck.at

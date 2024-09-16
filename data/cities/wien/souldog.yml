@@ -4,8 +4,8 @@ latitude: 48.22973
 longitude: 16.35469
 postcode: "1090"
 city: Wien
-street: "Nussdorfer Straße"
-housenumber: 84
+street: Nussdorfer Straße
+housenumber: "84"
 phone: "+4319611721"
-opening_hours: "Mo-Fr 09:00-12:00,17:00-20:00; Sa 09:00-13:00"
-website: "https://souldog.at/"
+opening_hours: Mo-Fr 09:00-12:00,17:00-20:00; Sa 09:00-13:00
+website: https://souldog.at/

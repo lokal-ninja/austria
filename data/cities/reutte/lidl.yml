@@ -1,11 +1,11 @@
 id: 131579068
-type: way
+type: node
 latitude: 47.48179
 longitude: 10.72434
 postcode: "6600"
 city: Reutte
-street: "Innsbrucker Straße"
-housenumber: 12
+street: Innsbrucker Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

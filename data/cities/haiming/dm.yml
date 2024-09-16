@@ -1,11 +1,11 @@
 id: 144230764
-type: way
+type: node
 latitude: 47.23052
 longitude: 10.85668
 postcode: "6430"
 city: Haiming
-street: "Ötztaler Höhe"
-housenumber: 11
+street: Ötztaler Höhe
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

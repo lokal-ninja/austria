@@ -1,11 +1,11 @@
 id: 839909088
-type: way
+type: node
 latitude: 48.32495
 longitude: 16.18702
 postcode: "3424"
 city: Zeiselmauer
-street: "Gewerbestraße"
-housenumber: 12
-phone: "+43 650 462 33 77"
+street: Gewerbestraße
+housenumber: "12"
+phone: +43 650 462 33 77
 opening_hours: ""
-website: "kfz-fahrecker.at"
+website: kfz-fahrecker.at

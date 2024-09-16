@@ -4,8 +4,8 @@ latitude: 48.20502
 longitude: 16.37615
 postcode: "1010"
 city: Wien
-street: "Schellinggasse"
-housenumber: 1
+street: Schellinggasse
+housenumber: "1"
 phone: ""
-opening_hours: "Sa 10:00-14:00; Mo-Fr 10:00-18:00"
-website: "https://www.ladenstein.at/"
+opening_hours: Sa 10:00-14:00; Mo-Fr 10:00-18:00
+website: https://www.ladenstein.at/

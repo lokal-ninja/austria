@@ -1,11 +1,11 @@
 id: 190572858
-type: way
+type: node
 latitude: 48.18124
 longitude: 13.7897
 postcode: "4714"
 city: Meggenhofen
 street: ""
-housenumber: 80
+housenumber: "80"
 phone: "+4372477148"
 opening_hours: ""
-website: "https://www.lagerhaus.at/"
+website: https://www.lagerhaus.at/

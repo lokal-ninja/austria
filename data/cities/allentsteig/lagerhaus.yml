@@ -1,11 +1,11 @@
 id: 183484122
-type: way
+type: node
 latitude: 48.69771
 longitude: 15.32312
 postcode: "3804"
 city: Allentsteig
-street: "Zwettlerstraße"
-housenumber: 17
+street: Zwettlerstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.20746
 longitude: 16.37368
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 7
+street: Singerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.michelmayer.at/"
+website: https://www.michelmayer.at/

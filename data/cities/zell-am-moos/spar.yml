@@ -1,11 +1,11 @@
 id: 100188640
-type: way
+type: node
 latitude: 47.90393
 longitude: 13.31972
 postcode: "4893"
 city: Zell am Moos
-street: "Mondseer Straße"
-housenumber: 2
+street: Mondseer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

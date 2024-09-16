@@ -4,8 +4,8 @@ latitude: 48.21822
 longitude: 16.40378
 postcode: "1020"
 city: Wien
-street: "Ausstellungsstraße"
-housenumber: 41
-phone: "+43 (01) 726 63 67"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00; PH,Su off"
-website: "https://www.anglertreff.at/"
+street: Ausstellungsstraße
+housenumber: "41"
+phone: +43 (01) 726 63 67
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00; PH,Su off
+website: https://www.anglertreff.at/

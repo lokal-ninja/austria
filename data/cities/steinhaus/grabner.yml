@@ -1,11 +1,11 @@
 id: 180202430
-type: way
+type: node
 latitude: 48.11684
 longitude: 14.01899
 postcode: "4641"
 city: Steinhaus
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 07:00-12:00,16:00-18:00; Mo,Sa 07:00-12:00; PH off"
+opening_hours: Tu-Fr 07:00-12:00,16:00-18:00; Mo,Sa 07:00-12:00; PH off
 website: ""

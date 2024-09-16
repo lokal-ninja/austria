@@ -1,11 +1,11 @@
 id: 224669558
-type: way
+type: node
 latitude: 46.66761
 longitude: 14.27981
 postcode: "9061"
 city: Klagenfurt am Wörthersee
-street: "Tessendorfer Straße"
-housenumber: 358
-phone: "+43 463 40 148"
+street: Tessendorfer Straße
+housenumber: "358"
+phone: +43 463 40 148
 opening_hours: ""
-website: "https://www.mattuschka.com/"
+website: https://www.mattuschka.com/

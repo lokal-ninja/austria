@@ -1,11 +1,11 @@
 id: 311765788
-type: way
+type: node
 latitude: 46.79144
 longitude: 15.53842
 postcode: "8430"
 city: Leibnitz
-street: "Grazer Straße"
-housenumber: 104
+street: Grazer Straße
+housenumber: "104"
 phone: "+433452825870"
-opening_hours: "Mo-Fr 06:00-12:30, 15:00-18:00; Sa 06:00-12:00"
+opening_hours: Mo-Fr 06:00-12:30, 15:00-18:00; Sa 06:00-12:00
 website: ""

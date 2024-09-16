@@ -4,8 +4,8 @@ latitude: 48.181
 longitude: 16.33484
 postcode: "1120"
 city: Wien
-street: "Niederhofstraße"
-housenumber: 13
-phone: "+43 1 9581277"
-opening_hours: "We-Fr 09:00-18:00, Sa 08:00-13:00"
-website: "https://www.hairstyling-by-nina.at/"
+street: Niederhofstraße
+housenumber: "13"
+phone: +43 1 9581277
+opening_hours: We-Fr 09:00-18:00, Sa 08:00-13:00
+website: https://www.hairstyling-by-nina.at/

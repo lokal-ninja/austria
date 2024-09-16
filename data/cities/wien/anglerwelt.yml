@@ -4,8 +4,8 @@ latitude: 48.26859
 longitude: 16.46491
 postcode: "1220"
 city: Wien
-street: "Percostraße"
-housenumber: 31
+street: Percostraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.anglerwelt.net/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.anglerwelt.net/

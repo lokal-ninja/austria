@@ -1,11 +1,12 @@
 id: 142346644
-type: way
+type: node
 latitude: 47.26204
 longitude: 11.89514
 postcode: "6274"
 city: Aschau im Zillertal
-street: "Dorfstraße"
-housenumber: 50
+street: Dorfstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:30; Fr 08:00-12:30, 15:00-18:00; Sa 08:00-12:30; PH off"
+opening_hours: Mo-Th 08:00-12:30; Fr 08:00-12:30, 15:00-18:00; Sa 08:00-12:30; PH
+    off
 website: ""

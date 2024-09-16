@@ -1,11 +1,11 @@
 id: 150011452
-type: way
+type: node
 latitude: 47.78987
 longitude: 12.96751
 postcode: ""
 city: Wals-Siezenheim
-street: "Walserstraße"
-housenumber: 12
+street: Walserstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

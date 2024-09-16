@@ -1,11 +1,11 @@
 id: 37293021
-type: way
+type: node
 latitude: 48.03098
 longitude: 14.22085
 postcode: "4540"
 city: Bad Hall
-street: "Johann-Strauß-Straße"
-housenumber: 2
-phone: "+43-7258-5666-0"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-18:00; Sa 07:00-12:00"
-website: "http://www.ziermair.at"
+street: Johann-Strauß-Straße
+housenumber: "2"
+phone: +43-7258-5666-0
+opening_hours: Mo-Fr 07:00-12:00, 13:00-18:00; Sa 07:00-12:00
+website: http://www.ziermair.at

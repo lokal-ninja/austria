@@ -1,11 +1,11 @@
 id: 23329295
-type: way
+type: node
 latitude: 48.26239
 longitude: 16.42387
 postcode: "1210"
 city: Wien
-street: "Leopoldauer Straße"
-housenumber: 141
+street: Leopoldauer Straße
+housenumber: "141"
 phone: ""
 opening_hours: ""
-website: "https://www.beyschlag.at/"
+website: https://www.beyschlag.at/

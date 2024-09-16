@@ -1,11 +1,11 @@
 id: 261242960
-type: way
+type: node
 latitude: 47.6127
 longitude: 13.7775
 postcode: "8990"
 city: Obertressen
-street: "Altausseer Straße"
-housenumber: 74
+street: Altausseer Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 406946490
-type: way
+type: node
 latitude: 48.13889
 longitude: 14.23878
 postcode: "4501"
 city: Neuhofen an der Krems
-street: "Steyrer Straße"
-housenumber: 41
+street: Steyrer Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

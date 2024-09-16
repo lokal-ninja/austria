@@ -1,11 +1,11 @@
 id: 744697234
-type: way
+type: node
 latitude: 48.0414
 longitude: 14.61866
 postcode: "3352"
 city: St. Peter in der Au
-street: "Burgholzstraße"
-housenumber: 24
+street: Burgholzstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:00-18:00"
-website: "https://www.spar.at/standorte/spar-st-peter-in-der-au-3352-burgholzstrasse-24"
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:00-18:00
+website: https://www.spar.at/standorte/spar-st-peter-in-der-au-3352-burgholzstrasse-24

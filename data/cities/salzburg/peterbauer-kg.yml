@@ -1,11 +1,11 @@
 id: 97277929
-type: way
+type: node
 latitude: 47.82358
 longitude: 13.04367
 postcode: "5020"
 city: Salzburg
-street: "Itzlinger Hauptstraße"
-housenumber: 44
+street: Itzlinger Hauptstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, Mo-Th 12:30-16:30"
+opening_hours: Mo-Fr 08:00-12:00, Mo-Th 12:30-16:30
 website: ""

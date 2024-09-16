@@ -4,8 +4,8 @@ latitude: 47.07116
 longitude: 15.42905
 postcode: "8020"
 city: Graz
-street: "Volksgartenstraße"
-housenumber: 2
+street: Volksgartenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 6:00-18:00;Sa 6:00-12:00"
+opening_hours: Mo-Fr 6:00-18:00;Sa 6:00-12:00
 website: ""

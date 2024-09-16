@@ -1,11 +1,11 @@
 id: 392521520
-type: way
+type: node
 latitude: 47.67272
 longitude: 15.96211
 postcode: "2640"
 city: Enzenreith
-street: "Triester Bundesstraße"
-housenumber: 60
+street: Triester Bundesstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

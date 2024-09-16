@@ -4,8 +4,8 @@ latitude: 48.56865
 longitude: 13.98117
 postcode: "4150"
 city: Rohrbach-Berg
-street: "Wirtschaftszeile"
-housenumber: 4
-phone: "+43 7289 4604"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00"
-website: "https://www.dm.at/store/at-452/rohrbach-berg/wirtschaftszeile-4"
+street: Wirtschaftszeile
+housenumber: "4"
+phone: +43 7289 4604
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00
+website: https://www.dm.at/store/at-452/rohrbach-berg/wirtschaftszeile-4

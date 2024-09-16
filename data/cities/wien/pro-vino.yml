@@ -4,8 +4,9 @@ latitude: 48.19185
 longitude: 16.36601
 postcode: "1040"
 city: Wien
-street: "Große Neugasse"
-housenumber: 6
-phone: "+43 1 5815040"
-opening_hours: "Mo-We, Fr 09:00-12:30, 14:00-19:00; Th 09:00-12:30, 14:00-20:00; Sa 10:00-14:30"
-website: "https://www.weine-aus-italien.at/"
+street: Große Neugasse
+housenumber: "6"
+phone: +43 1 5815040
+opening_hours: Mo-We, Fr 09:00-12:30, 14:00-19:00; Th 09:00-12:30, 14:00-20:00; Sa
+    10:00-14:30
+website: https://www.weine-aus-italien.at/

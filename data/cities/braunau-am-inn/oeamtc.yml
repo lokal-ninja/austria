@@ -1,11 +1,11 @@
 id: 164752032
-type: way
+type: node
 latitude: 48.24957
 longitude: 13.04904
 postcode: "5280"
 city: Braunau am Inn
-street: "Auf der Haiden"
-housenumber: 105
-phone: "+43-7722-83150"
+street: Auf der Haiden
+housenumber: "105"
+phone: +43-7722-83150
 opening_hours: ""
-website: "https://www.oeamtc.at/portal/braunau+2500+1323111"
+website: https://www.oeamtc.at/portal/braunau+2500+1323111

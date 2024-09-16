@@ -1,11 +1,11 @@
 id: 168533667
-type: way
+type: node
 latitude: 48.64013
 longitude: 15.10834
 postcode: "3910"
 city: Zwettl-Niederösterreich
 street: ""
-housenumber: 124
+housenumber: "124"
 phone: ""
 opening_hours: ""
-website: "http://www.stundner-fahrzeugbau.at"
+website: http://www.stundner-fahrzeugbau.at

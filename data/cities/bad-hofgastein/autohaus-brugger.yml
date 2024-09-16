@@ -1,11 +1,11 @@
 id: 131671262
-type: way
+type: node
 latitude: 47.17166
 longitude: 13.09746
 postcode: "5630"
 city: Bad Hofgastein
-street: "Bundesstraße"
-housenumber: 463
+street: Bundesstraße
+housenumber: "463"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-brugger.at"
+website: http://www.auto-brugger.at

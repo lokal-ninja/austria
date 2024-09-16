@@ -1,11 +1,11 @@
 id: 326775027
-type: way
+type: node
 latitude: 48.13856
 longitude: 13.73189
 postcode: "4673"
 city: Gaspoltshofen
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.norma-online.de/at/filialfinder/suchergebnis?lng=13.7318201&lat=48.1393394&r=300"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.norma-online.de/at/filialfinder/suchergebnis?lng=13.7318201&lat=48.1393394&r=300

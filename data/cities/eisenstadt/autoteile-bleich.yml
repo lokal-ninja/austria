@@ -1,11 +1,11 @@
 id: 372806089
-type: way
+type: node
 latitude: 47.83362
 longitude: 16.54086
 postcode: "7000"
 city: Eisenstadt
-street: "Industriestraße"
-housenumber: 35
+street: Industriestraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 275745753
-type: way
+type: node
 latitude: 48.25576
 longitude: 14.25524
 postcode: "4060"
 city: Leonding
-street: "Edtstraße"
-housenumber: 13
+street: Edtstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

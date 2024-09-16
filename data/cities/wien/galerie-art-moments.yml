@@ -4,8 +4,8 @@ latitude: 48.20833
 longitude: 16.38085
 postcode: "1010"
 city: Wien
-street: "Falkestraße"
-housenumber: 6
+street: Falkestraße
+housenumber: "6"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "https://www.artmoments.at/"
+opening_hours: '"nach Vereinbarung"'
+website: https://www.artmoments.at/

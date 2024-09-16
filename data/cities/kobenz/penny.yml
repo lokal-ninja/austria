@@ -1,11 +1,11 @@
 id: 619531548
-type: way
+type: node
 latitude: 47.22146
 longitude: 14.82932
 postcode: "8723"
 city: Kobenz
-street: "Kobenzer Straße"
-housenumber: 14
+street: Kobenzer Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

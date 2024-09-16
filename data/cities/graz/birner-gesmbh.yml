@@ -1,11 +1,11 @@
 id: 129092265
-type: way
+type: node
 latitude: 47.07
 longitude: 15.405
 postcode: "8020"
 city: Graz
-street: "Eggenberger Allee"
-housenumber: 29
+street: Eggenberger Allee
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
-website: "https://www.birner.at/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00
+website: https://www.birner.at/

@@ -4,8 +4,8 @@ latitude: 48.20702
 longitude: 16.21639
 postcode: "1140"
 city: Wien
-street: "Albert-Schweitzer-Gasse"
-housenumber: 11
+street: Albert-Schweitzer-Gasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.smythstoys.com/at/de-at/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.smythstoys.com/at/de-at/

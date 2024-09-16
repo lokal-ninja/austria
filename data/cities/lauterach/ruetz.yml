@@ -4,8 +4,8 @@ latitude: 47.4834
 longitude: 9.71999
 postcode: "6923"
 city: Lauterach
-street: "Harderstraße"
-housenumber: 54
+street: Harderstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00; Su,PH 07:00-17:00"
-website: "https://www.ruetz.at"
+opening_hours: Mo-Sa 07:00-18:00; Su,PH 07:00-17:00
+website: https://www.ruetz.at

@@ -4,8 +4,8 @@ latitude: 47.07141
 longitude: 15.43832
 postcode: "8010"
 city: Graz
-street: "Hauptplatz"
-housenumber: 13
+street: Hauptplatz
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-17:00; Jun-Aug: Sa 09:30-13:00"
-website: "http://weikhard.at/kontakt/"
+opening_hours: 'Mo-Fr 09:00-18:00; Sa 09:30-17:00; Jun-Aug: Sa 09:30-13:00'
+website: http://weikhard.at/kontakt/

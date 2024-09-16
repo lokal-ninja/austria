@@ -1,11 +1,11 @@
 id: 95430368
-type: way
+type: node
 latitude: 47.26746
 longitude: 11.44319
 postcode: "6020"
 city: Innsbruck
-street: "Trientlgasse"
-housenumber: 77
+street: Trientlgasse
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.deinelagerbox.at/"
+website: https://www.deinelagerbox.at/

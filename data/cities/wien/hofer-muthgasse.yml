@@ -1,11 +1,11 @@
 id: 38941604
-type: way
+type: node
 latitude: 48.24757
 longitude: 16.36778
 postcode: "1190"
 city: Wien
-street: "Muthgasse"
+street: Muthgasse
 housenumber: 20A
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

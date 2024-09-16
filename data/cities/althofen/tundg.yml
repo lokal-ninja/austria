@@ -1,11 +1,11 @@
 id: 380657788
-type: way
+type: node
 latitude: 46.86708
 longitude: 14.46879
 postcode: "9330"
 city: Althofen
-street: "Funderstraße"
-housenumber: 8
+street: Funderstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

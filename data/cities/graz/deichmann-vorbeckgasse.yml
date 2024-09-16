@@ -1,11 +1,11 @@
 id: 90439160
-type: way
+type: node
 latitude: 47.07071
 longitude: 15.43089
 postcode: "8020"
 city: Graz
-street: "Vorbeckgasse"
-housenumber: 1
+street: Vorbeckgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

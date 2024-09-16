@@ -4,8 +4,8 @@ latitude: 48.07161
 longitude: 15.32514
 postcode: "3241"
 city: Kirnberg an der Mank
-street: "Schulgasse"
-housenumber: 1
+street: Schulgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:00; Sa 07:00-12:30"
-website: "https://www.nahundfrisch.at/de/kaufmann/gansberger-julia"
+opening_hours: Mo-Fr 06:15-18:00; Sa 07:00-12:30
+website: https://www.nahundfrisch.at/de/kaufmann/gansberger-julia

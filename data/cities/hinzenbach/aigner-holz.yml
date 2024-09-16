@@ -1,11 +1,11 @@
 id: 255547555
-type: way
+type: node
 latitude: 48.32195
 longitude: 13.99612
 postcode: "4070"
 city: Hinzenbach
 street: ""
-housenumber: 7
-phone: "+43 7272 2306"
-opening_hours: "Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00"
-website: "https://www.aignerholz.at"
+housenumber: "7"
+phone: +43 7272 2306
+opening_hours: Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-12:00
+website: https://www.aignerholz.at

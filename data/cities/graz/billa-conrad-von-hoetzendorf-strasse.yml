@@ -4,8 +4,8 @@ latitude: 47.06407
 longitude: 15.44254
 postcode: "8010"
 city: Graz
-street: "Conrad-von-Hötzendorf-Straße"
-housenumber: 2
+street: Conrad-von-Hötzendorf-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:00-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:00-18:00
+website: https://www.billa.at

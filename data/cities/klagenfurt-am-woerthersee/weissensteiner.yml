@@ -4,8 +4,8 @@ latitude: 46.62071
 longitude: 14.2681
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Kohldorfer Straße"
-housenumber: 102
-phone: "+43 463 219564"
-opening_hours: "06:30-18:00"
-website: "https://www.weissensteiner.at/"
+street: Kohldorfer Straße
+housenumber: "102"
+phone: +43 463 219564
+opening_hours: 06:30-18:00
+website: https://www.weissensteiner.at/

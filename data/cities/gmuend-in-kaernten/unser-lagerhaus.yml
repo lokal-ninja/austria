@@ -1,11 +1,11 @@
 id: 237531257
-type: way
+type: node
 latitude: 46.90306
 longitude: 13.53029
 postcode: "9853"
 city: Gmünd in Kärnten
-street: "Untere Vorstadt"
-housenumber: 35
+street: Untere Vorstadt
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

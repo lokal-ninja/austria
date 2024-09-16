@@ -1,11 +1,11 @@
 id: 495035642
-type: way
+type: node
 latitude: 47.6727
 longitude: 15.96115
 postcode: "2640"
 city: Enzenreith
-street: "Triester Bundesstraße"
-housenumber: 79
-phone: "+43 660 3194891; +43 2662 43214"
+street: Triester Bundesstraße
+housenumber: "79"
+phone: +43 660 3194891; +43 2662 43214
 opening_hours: ""
 website: ""

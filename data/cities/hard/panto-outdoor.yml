@@ -1,11 +1,11 @@
 id: 83103750
-type: way
+type: node
 latitude: 47.48748
 longitude: 9.701
 postcode: "6971"
 city: Hard
-street: "Rauhholzstraße"
-housenumber: 18
-phone: "+43 5574 64317"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-16:00"
-website: "https://www.panto.at/"
+street: Rauhholzstraße
+housenumber: "18"
+phone: +43 5574 64317
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:30; Sa 09:00-16:00
+website: https://www.panto.at/

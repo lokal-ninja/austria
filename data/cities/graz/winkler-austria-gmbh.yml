@@ -1,11 +1,11 @@
 id: 238370397
-type: way
+type: node
 latitude: 47.02175
 longitude: 15.40937
 postcode: "8054"
 city: Graz
-street: "Gradnerstraße"
-housenumber: 140
-phone: "+43 316 25 55 000"
+street: Gradnerstraße
+housenumber: "140"
+phone: +43 316 25 55 000
 opening_hours: ""
-website: "https://www.winkler.com/"
+website: https://www.winkler.com/

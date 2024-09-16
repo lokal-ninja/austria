@@ -1,11 +1,11 @@
 id: 720854720
-type: way
+type: node
 latitude: 46.91176
 longitude: 12.34987
 postcode: "9963"
 city: St. Jakob in Defereggen
-street: "Ausserrotte"
-housenumber: 57
+street: Ausserrotte
+housenumber: "57"
 phone: "+436643555800"
-opening_hours: "Mo-Su 08:45 17:30 Winter"
-website: "http://www.intersport-troger.at/"
+opening_hours: Mo-Su 08:45 17:30 Winter
+website: http://www.intersport-troger.at/

@@ -4,8 +4,8 @@ latitude: 47.78826
 longitude: 12.96731
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Walserstraße"
-housenumber: 43
-phone: "+43 662 941 680"
-opening_hours: "Mo,We,Fr 14:00-18:00"
+street: Walserstraße
+housenumber: "43"
+phone: +43 662 941 680
+opening_hours: Mo,We,Fr 14:00-18:00
 website: ""

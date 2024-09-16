@@ -4,8 +4,8 @@ latitude: 48.15768
 longitude: 14.02551
 postcode: "4600"
 city: Wels
-street: "Schmidtgasse"
-housenumber: 18
+street: Schmidtgasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-15:00; PH off"
-website: "https://www.selmarina.at/"
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:00-15:00; PH off
+website: https://www.selmarina.at/

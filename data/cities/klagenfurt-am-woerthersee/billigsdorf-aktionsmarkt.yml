@@ -1,11 +1,11 @@
 id: 83036026
-type: way
+type: node
 latitude: 46.61363
 longitude: 14.31857
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Ledererstraße"
-housenumber: 5
+street: Ledererstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

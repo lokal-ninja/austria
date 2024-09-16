@@ -4,8 +4,8 @@ latitude: 48.19609
 longitude: 16.36496
 postcode: "1040"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 21
+street: Margaretenstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
-website: "https://www.denns-biomarkt.at/"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00
+website: https://www.denns-biomarkt.at/

@@ -4,8 +4,8 @@ latitude: 47.4887
 longitude: 9.68926
 postcode: "6971"
 city: Hard
-street: "Landstraße"
-housenumber: 9
+street: Landstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-12:00,14:00-18:00; Th,Sa 09:00-12:00"
-website: "https://www.radwelt-hard.at"
+opening_hours: Mo-We,Fr 09:00-12:00,14:00-18:00; Th,Sa 09:00-12:00
+website: https://www.radwelt-hard.at

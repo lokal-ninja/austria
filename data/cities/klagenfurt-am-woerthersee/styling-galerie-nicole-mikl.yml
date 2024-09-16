@@ -4,8 +4,8 @@ latitude: 46.6216
 longitude: 14.26855
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Kohldorfer Straße"
-housenumber: 100
-phone: "+43 660 7018320"
-opening_hours: "Mo-We 08:00-18:30; Th,Fr 08:00-19:00; PH off"
-website: "http://www.styling-galerie.at"
+street: Kohldorfer Straße
+housenumber: "100"
+phone: +43 660 7018320
+opening_hours: Mo-We 08:00-18:30; Th,Fr 08:00-19:00; PH off
+website: http://www.styling-galerie.at

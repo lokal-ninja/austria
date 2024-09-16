@@ -1,11 +1,11 @@
 id: 1261693182
-type: way
+type: node
 latitude: 48.33931
 longitude: 16.21407
 postcode: "3423"
 city: St. Andrä-Wördern
-street: "Schredengasse"
-housenumber: 31
+street: Schredengasse
+housenumber: "31"
 phone: ""
-opening_hours: "May-Nov:Fr 13:00-18:00"
-website: "https://www.distelfink.bio"
+opening_hours: May-Nov:Fr 13:00-18:00
+website: https://www.distelfink.bio

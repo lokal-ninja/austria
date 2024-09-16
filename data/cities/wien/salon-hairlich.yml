@@ -4,8 +4,8 @@ latitude: 48.13675
 longitude: 16.28637
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 391
+street: Breitenfurter Straße
+housenumber: "391"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

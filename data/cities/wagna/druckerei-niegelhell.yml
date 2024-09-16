@@ -1,11 +1,11 @@
 id: 315128013
-type: way
+type: node
 latitude: 46.77349
 longitude: 15.56801
 postcode: "8435"
 city: Wagna
-street: "Leitringer Hauptstraße"
-housenumber: 23
+street: Leitringer Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00;Sa 08:00-13:00"
-website: "https://www.niegelhell.net/"
+opening_hours: Mo-Fr 08:00-17:00;Sa 08:00-13:00
+website: https://www.niegelhell.net/

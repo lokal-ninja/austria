@@ -1,11 +1,11 @@
 id: 320941651
-type: way
+type: node
 latitude: 48.02771
 longitude: 13.90874
 postcode: "4655"
 city: Vorchdorf
-street: "Feldhamer Straße"
-housenumber: 41
+street: Feldhamer Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.schausberger.net/"
+website: https://www.schausberger.net/

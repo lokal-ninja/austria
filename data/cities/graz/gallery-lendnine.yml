@@ -4,8 +4,8 @@ latitude: 47.07174
 longitude: 15.43418
 postcode: "8020"
 city: Graz
-street: "Lendkai"
-housenumber: 9
+street: Lendkai
+housenumber: "9"
 phone: ""
-opening_hours: "by appointment by phone"
+opening_hours: '"by appointment by phone"'
 website: ""

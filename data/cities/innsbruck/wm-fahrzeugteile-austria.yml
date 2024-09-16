@@ -4,8 +4,8 @@ latitude: 47.26731
 longitude: 11.43186
 postcode: "6020"
 city: Innsbruck
-street: "Etrichgasse"
-housenumber: 19
-phone: "+43 512 365262150"
-opening_hours: "Mo-Fr 07:30-17:00; PH off"
-website: "https://www.wm-fahrzeugteile.at/standorte.html"
+street: Etrichgasse
+housenumber: "19"
+phone: +43 512 365262150
+opening_hours: Mo-Fr 07:30-17:00; PH off
+website: https://www.wm-fahrzeugteile.at/standorte.html

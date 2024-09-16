@@ -4,8 +4,8 @@ latitude: 48.26638
 longitude: 16.39916
 postcode: "1210"
 city: Wien
-street: "Ignaz-Köck-Straße"
-housenumber: 1
+street: Ignaz-Köck-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 118993126
-type: way
+type: node
 latitude: 47.50377
 longitude: 9.74458
 postcode: "6900"
 city: Bregenz
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

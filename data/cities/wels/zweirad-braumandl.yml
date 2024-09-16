@@ -4,8 +4,8 @@ latitude: 48.16729
 longitude: 14.02328
 postcode: "4600"
 city: Wels
-street: "Wallerer Straße"
-housenumber: 8
-phone: "+43 7242 351520"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00;Sa 09:00-12:00"
-website: "https://www.braumandl-zweirad.at/"
+street: Wallerer Straße
+housenumber: "8"
+phone: +43 7242 351520
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00;Sa 09:00-12:00
+website: https://www.braumandl-zweirad.at/

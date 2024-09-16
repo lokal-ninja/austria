@@ -4,8 +4,8 @@ latitude: 47.07119
 longitude: 15.43624
 postcode: "8010"
 city: Graz
-street: "Murgasse"
-housenumber: 12
+street: Murgasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.prokopp.co.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.prokopp.co.at

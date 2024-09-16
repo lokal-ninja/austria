@@ -4,8 +4,8 @@ latitude: 47.58489
 longitude: 12.1721
 postcode: "6330"
 city: Kufstein
-street: "Kaiserbergstraße"
-housenumber: 8
+street: Kaiserbergstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "http://www.simpl-life-company.net"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: http://www.simpl-life-company.net

@@ -1,11 +1,11 @@
 id: 647704145
-type: way
+type: node
 latitude: 48.43066
 longitude: 15.90273
 postcode: "3470"
 city: Kirchberg am Wagram
-street: "Kremser Straße"
-housenumber: 2
+street: Kremser Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.klug.cc"
+website: https://www.klug.cc

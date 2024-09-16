@@ -1,11 +1,11 @@
 id: 335714642
-type: way
+type: node
 latitude: 48.48728
 longitude: 14.4122
 postcode: "4242"
 city: Hirschbach im Mühlkries
-street: "Gusenstraße"
-housenumber: 3
+street: Gusenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

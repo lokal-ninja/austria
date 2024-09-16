@@ -4,8 +4,8 @@ latitude: 47.5192
 longitude: 12.44022
 postcode: "6380"
 city: St. Johann in Tirol
-street: "Almdorf"
-housenumber: 7
+street: Almdorf
+housenumber: "7"
 phone: "+43535262409"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-16:00"
-website: "https://www.aufschnaiter.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-16:00
+website: https://www.aufschnaiter.com/

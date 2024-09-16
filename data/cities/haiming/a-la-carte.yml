@@ -1,11 +1,11 @@
 id: 174461343
-type: way
+type: node
 latitude: 47.25492
 longitude: 10.88051
 postcode: "6425"
 city: Haiming
-street: "Siedlungsstraße"
-housenumber: 10
+street: Siedlungsstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

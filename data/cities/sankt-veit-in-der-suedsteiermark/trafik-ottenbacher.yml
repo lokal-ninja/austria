@@ -1,11 +1,11 @@
 id: 228187000
-type: way
+type: node
 latitude: 46.74667
 longitude: 15.62499
 postcode: "8423"
 city: Sankt Veit in der Südsteiermark
-street: "Am Kirchplatz"
-housenumber: 3
+street: Am Kirchplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

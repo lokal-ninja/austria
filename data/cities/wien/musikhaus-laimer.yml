@@ -4,8 +4,8 @@ latitude: 48.20386
 longitude: 16.37595
 postcode: "1010"
 city: Wien
-street: "Hegelgasse"
-housenumber: 7
-phone: "+43 (0)1 257 55 18"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:00; Su,PH off"
-website: "http://www.musikhaus-laimer.at/"
+street: Hegelgasse
+housenumber: "7"
+phone: +43 (0)1 257 55 18
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-13:00; Su,PH off
+website: http://www.musikhaus-laimer.at/

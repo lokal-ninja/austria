@@ -1,11 +1,11 @@
 id: 59806835
-type: way
+type: node
 latitude: 46.602
 longitude: 13.84164
 postcode: "9500"
 city: Villach
-street: "Tschinowitscher Weg"
-housenumber: 12
+street: Tschinowitscher Weg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00; 14:00-18:00"
+opening_hours: Mo-Fr 09:30-13:00; 14:00-18:00
 website: ""

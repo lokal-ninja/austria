@@ -4,8 +4,8 @@ latitude: 47.12311
 longitude: 15.42643
 postcode: "8045"
 city: Graz
-street: "Stattegger Straße"
-housenumber: 130
+street: Stattegger Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su, PH off"
-website: "https://www.baumschule-ledolter.at"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su, PH off
+website: https://www.baumschule-ledolter.at

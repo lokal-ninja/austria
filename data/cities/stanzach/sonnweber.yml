@@ -1,11 +1,11 @@
 id: 106141957
-type: way
+type: node
 latitude: 47.38365
 longitude: 10.56107
 postcode: "6642"
 city: Stanzach
-street: "Dorf"
-housenumber: 5
+street: Dorf
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

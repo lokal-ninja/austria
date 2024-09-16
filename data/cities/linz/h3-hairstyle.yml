@@ -4,8 +4,8 @@ latitude: 48.26975
 longitude: 14.28956
 postcode: "4020"
 city: Linz
-street: "Stadlerstraße"
-housenumber: 34
+street: Stadlerstraße
+housenumber: "34"
 phone: "+43732381236"
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:00-18:00"
-website: "https://www.h3-hairstyle.at/"
+opening_hours: Tu-Th 08:30-18:00; Fr 08:00-18:00
+website: https://www.h3-hairstyle.at/

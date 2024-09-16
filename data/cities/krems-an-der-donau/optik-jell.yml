@@ -4,8 +4,8 @@ latitude: 48.41089
 longitude: 15.60252
 postcode: "3500"
 city: Krems an der Donau
-street: "Dinstlstraße"
-housenumber: 2
-phone: "+43 2732 841 14"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
-website: "https://www.jell.at/"
+street: Dinstlstraße
+housenumber: "2"
+phone: +43 2732 841 14
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:30
+website: https://www.jell.at/

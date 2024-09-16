@@ -4,8 +4,8 @@ latitude: 48.18721
 longitude: 16.33041
 postcode: "1150"
 city: Wien
-street: "Sechshauser Straße"
-housenumber: 43
-phone: "+43 1 8924575"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 08:30-12:00; PH off"
-website: "https://schokomichi.at"
+street: Sechshauser Straße
+housenumber: "43"
+phone: +43 1 8924575
+opening_hours: Tu-Fr 10:00-19:00; Sa 08:30-12:00; PH off
+website: https://schokomichi.at

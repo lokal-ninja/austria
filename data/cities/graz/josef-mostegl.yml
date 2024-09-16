@@ -1,11 +1,11 @@
 id: 149402791
-type: way
+type: node
 latitude: 47.05705
 longitude: 15.47561
 postcode: "8042"
 city: Graz
-street: "Peterstalstraße"
-housenumber: 8
-phone: "+43 664 39 14 403"
+street: Peterstalstraße
+housenumber: "8"
+phone: +43 664 39 14 403
 opening_hours: ""
-website: "https://www.mostegl-trans.at/"
+website: https://www.mostegl-trans.at/

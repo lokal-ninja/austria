@@ -1,11 +1,11 @@
 id: 86982972
-type: way
+type: node
 latitude: 47.4335
 longitude: 11.87831
 postcode: "6230"
 city: Brixlegg
-street: "Burglechnerweg"
-housenumber: 12
+street: Burglechnerweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.21774
 longitude: 16.37758
 postcode: "1020"
 city: Wien
-street: "Haidgasse"
-housenumber: 2
+street: Haidgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30; Sa 09:00-14:00"
-website: "https://www.weinladen.wien/"
+opening_hours: Tu-Fr 11:00-18:30; Sa 09:00-14:00
+website: https://www.weinladen.wien/

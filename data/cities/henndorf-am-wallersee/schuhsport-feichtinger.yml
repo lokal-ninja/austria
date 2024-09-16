@@ -4,8 +4,8 @@ latitude: 47.89634
 longitude: 13.1846
 postcode: "5302"
 city: Henndorf am Wallersee
-street: "Hauptstraße"
-housenumber: 24
+street: Hauptstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Tu 08:30-12:00,14:30-18:00; We-Sa 08:30-12:00"
-website: "http://www.sport-feichtinger.at/"
+opening_hours: Mo-Tu 08:30-12:00,14:30-18:00; We-Sa 08:30-12:00
+website: http://www.sport-feichtinger.at/

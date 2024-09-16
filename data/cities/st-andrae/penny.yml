@@ -1,11 +1,11 @@
 id: 429890301
-type: way
+type: node
 latitude: 46.76212
 longitude: 14.82214
 postcode: "9433"
 city: St. Andrä
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

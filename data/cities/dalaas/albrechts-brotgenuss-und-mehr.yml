@@ -4,8 +4,8 @@ latitude: 47.12287
 longitude: 9.99925
 postcode: "6752"
 city: Dalaas
-street: "Klostertalerstraße"
-housenumber: 73
+street: Klostertalerstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 06:00-10:00"
-website: "https://www.albrechts-brotwerkstatt.at/"
+opening_hours: Mo-Sa 06:00-10:00
+website: https://www.albrechts-brotwerkstatt.at/

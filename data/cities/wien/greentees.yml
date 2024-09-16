@@ -4,8 +4,8 @@ latitude: 48.23869
 longitude: 16.38617
 postcode: "1200"
 city: Wien
-street: "Engerthstraße"
-housenumber: 98
-phone: "+43 676 720 6 720"
+street: Engerthstraße
+housenumber: "98"
+phone: +43 676 720 6 720
 opening_hours: ""
-website: "https://greentees.at"
+website: https://greentees.at

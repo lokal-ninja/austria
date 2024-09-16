@@ -1,11 +1,11 @@
 id: 382639131
-type: way
+type: node
 latitude: 47.97872
 longitude: 13.69626
 postcode: "4844"
 city: Regau
-street: "Amselweg"
-housenumber: 10
-phone: "+43 7672 22007"
+street: Amselweg
+housenumber: "10"
+phone: +43 7672 22007
 opening_hours: ""
 website: ""

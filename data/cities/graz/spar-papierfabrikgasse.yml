@@ -1,11 +1,11 @@
 id: 89567068
-type: way
+type: node
 latitude: 47.10041
 longitude: 15.41694
 postcode: "8045"
 city: Graz
-street: "Papierfabrikgasse"
-housenumber: 1
+street: Papierfabrikgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

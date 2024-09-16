@@ -4,8 +4,8 @@ latitude: 48.22266
 longitude: 16.33515
 postcode: "1170"
 city: Wien
-street: "Kalvarienberggasse"
-housenumber: 63
+street: Kalvarienberggasse
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

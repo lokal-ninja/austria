@@ -1,11 +1,11 @@
 id: 118431101
-type: way
+type: node
 latitude: 47.27174
 longitude: 15.69579
 postcode: "8184"
 city: Anger
-street: "Pettauer Straße"
-housenumber: 8
+street: Pettauer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

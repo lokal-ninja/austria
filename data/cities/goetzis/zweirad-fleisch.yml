@@ -1,11 +1,11 @@
 id: 156593134
-type: way
+type: node
 latitude: 47.33703
 longitude: 9.64002
 postcode: "6840"
 city: Götzis
-street: "Bahnhofstraße"
-housenumber: 44
+street: Bahnhofstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, Mo-We,Fr 14:30-18:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-12:00, Mo-We,Fr 14:30-18:00; PH,Su off
 website: ""

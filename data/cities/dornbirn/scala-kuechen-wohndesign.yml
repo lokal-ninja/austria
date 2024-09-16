@@ -4,8 +4,8 @@ latitude: 47.40906
 longitude: 9.7436
 postcode: "6850"
 city: Dornbirn
-street: "Kapuzinergasse"
-housenumber: 6
-phone: "+43 5572 38 66 15"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00"
-website: "https://www.scala-kuechen.at/"
+street: Kapuzinergasse
+housenumber: "6"
+phone: +43 5572 38 66 15
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00
+website: https://www.scala-kuechen.at/

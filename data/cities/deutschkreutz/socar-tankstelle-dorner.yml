@@ -4,8 +4,8 @@ latitude: 47.59762
 longitude: 16.6278
 postcode: "7301"
 city: Deutschkreutz
-street: "Hauptstraße"
-housenumber: 85
-phone: "+43 2613 80296"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.dorner.info"
+street: Hauptstraße
+housenumber: "85"
+phone: +43 2613 80296
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.dorner.info

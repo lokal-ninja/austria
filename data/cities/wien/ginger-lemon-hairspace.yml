@@ -4,8 +4,8 @@ latitude: 48.19043
 longitude: 16.34
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 147
+street: Gumpendorfer Straße
+housenumber: "147"
 phone: ""
-opening_hours: "Mo,Tu 10:00-18:00; We-Fr 09:00-19:00"
-website: "https://www.gingerlemonhair.com/"
+opening_hours: Mo,Tu 10:00-18:00; We-Fr 09:00-19:00
+website: https://www.gingerlemonhair.com/

@@ -1,11 +1,11 @@
 id: 148063381
-type: way
+type: node
 latitude: 47.95261
 longitude: 16.0983
 postcode: "2563"
 city: Pottenstein
-street: "Bundesstraße"
-housenumber: 28
-phone: "+43 2672 84115"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa,Su,PH off"
-website: "https://www.ktm-schruf.at"
+street: Bundesstraße
+housenumber: "28"
+phone: +43 2672 84115
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa,Su,PH off
+website: https://www.ktm-schruf.at

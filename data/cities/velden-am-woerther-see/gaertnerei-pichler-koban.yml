@@ -1,11 +1,11 @@
 id: 149034369
-type: way
+type: node
 latitude: 46.62465
 longitude: 14.04463
 postcode: "9220"
 city: Velden am Wörther See
-street: "Göriacher Straße"
-housenumber: 22
+street: Göriacher Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 92100911
-type: way
+type: node
 latitude: 46.97092
 longitude: 11.00881
 postcode: "6450"
 city: Sölden
-street: "Dorfstraße"
-housenumber: 9
+street: Dorfstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:45-19:00; Su 14:30-18:30"
-website: "https://www.spar.at/standorte/spar-soelden-6450-dorfstrasse-9"
+opening_hours: Mo-Sa 07:45-19:00; Su 14:30-18:30
+website: https://www.spar.at/standorte/spar-soelden-6450-dorfstrasse-9

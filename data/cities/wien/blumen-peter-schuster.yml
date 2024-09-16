@@ -1,11 +1,11 @@
 id: 224839649
-type: way
+type: node
 latitude: 48.17294
 longitude: 16.33179
 postcode: "1230"
 city: Wien
-street: "Haidackergasse"
-housenumber: 5
-phone: "+43 1 8043395"
-opening_hours: "PH,Mo-Su 08:00-18:00"
+street: Haidackergasse
+housenumber: "5"
+phone: +43 1 8043395
+opening_hours: PH,Mo-Su 08:00-18:00
 website: ""

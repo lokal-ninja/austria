@@ -1,11 +1,11 @@
 id: 938357343
-type: way
+type: node
 latitude: 48.51534
 longitude: 15.4992
 postcode: "3542"
 city: Gföhl
-street: "Langenloiser Straße"
-housenumber: 49
+street: Langenloiser Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

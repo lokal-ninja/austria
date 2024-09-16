@@ -4,8 +4,8 @@ latitude: 47.15209
 longitude: 10.3794
 postcode: "6574"
 city: Schnann
-street: "Schnann"
-housenumber: 39
+street: Schnann
+housenumber: "39"
 phone: ""
-opening_hours: "dauerhaft geschlossen"
+opening_hours: '"dauerhaft geschlossen"'
 website: ""

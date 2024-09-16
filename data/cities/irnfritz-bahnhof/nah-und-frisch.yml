@@ -4,8 +4,8 @@ latitude: 48.74765
 longitude: 15.53984
 postcode: "3754"
 city: Irnfritz-Bahnhof
-street: "Bahnstraße"
-housenumber: 5
+street: Bahnstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.nahundfrisch.at/de/kaufmann/zotter"
+website: https://www.nahundfrisch.at/de/kaufmann/zotter

@@ -1,11 +1,11 @@
 id: 164045310
-type: way
+type: node
 latitude: 48.19611
 longitude: 14.13839
 postcode: "4614"
 city: Marchtrenk
-street: "Gewerbestraße"
-housenumber: 17
-phone: "+43-664-5208737"
+street: Gewerbestraße
+housenumber: "17"
+phone: +43-664-5208737
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 182149677
-type: way
+type: node
 latitude: 48.09457
 longitude: 14.98573
 postcode: "3325"
 city: Ferschnitz
-street: "Marktstraße"
-housenumber: 1
+street: Marktstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

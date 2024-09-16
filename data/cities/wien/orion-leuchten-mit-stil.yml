@@ -4,8 +4,8 @@ latitude: 48.20062
 longitude: 16.34898
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 23
+street: Neubaugasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-18:00"
-website: "https://www.orion.co.at/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-18:00
+website: https://www.orion.co.at/

@@ -1,11 +1,11 @@
 id: 131556019
-type: way
+type: node
 latitude: 47.46872
 longitude: 12.5513
 postcode: "6391"
 city: Fieberbrunn
-street: "Lindau"
+street: Lindau
 housenumber: 15a
-phone: "+43 5354 52540"
+phone: +43 5354 52540
 opening_hours: ""
-website: "https://www.skischule-fieberbrunn.at"
+website: https://www.skischule-fieberbrunn.at

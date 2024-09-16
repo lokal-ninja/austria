@@ -4,8 +4,8 @@ latitude: 47.231
 longitude: 11.40744
 postcode: "6080"
 city: Innsbruck
-street: "Widumweg"
-housenumber: 10
-phone: "+43 512 377317"
-opening_hours: "Mo-Fr 05:30-12:30; Sa 05:30-12:00; PH off"
-website: "http://www.hoecks-brotkoerbl.at"
+street: Widumweg
+housenumber: "10"
+phone: +43 512 377317
+opening_hours: Mo-Fr 05:30-12:30; Sa 05:30-12:00; PH off
+website: http://www.hoecks-brotkoerbl.at

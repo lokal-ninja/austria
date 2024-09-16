@@ -4,8 +4,8 @@ latitude: 48.12349
 longitude: 14.87182
 postcode: "3300"
 city: Amstetten
-street: "Hauptplatz"
-housenumber: 28
+street: Hauptplatz
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.thalia.at/shop/home/filialen/showDetails/6400/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
+website: https://www.thalia.at/shop/home/filialen/showDetails/6400/

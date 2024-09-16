@@ -5,7 +5,7 @@ longitude: 13.30683
 postcode: "5511"
 city: Hüttau
 street: ""
-housenumber: 56
-phone: "+43 6458 71013"
+housenumber: "56"
+phone: +43 6458 71013
 opening_hours: ""
-website: "https://www.nahundfrisch.at/de/kaufmann/haidenberger"
+website: https://www.nahundfrisch.at/de/kaufmann/haidenberger

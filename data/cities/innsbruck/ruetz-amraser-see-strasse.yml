@@ -1,11 +1,11 @@
 id: 1238172048
-type: way
+type: node
 latitude: 47.26284
 longitude: 11.43051
 postcode: "6020"
 city: Innsbruck
-street: "Amraser-See-Straße"
+street: Amraser-See-Straße
 housenumber: 56a
-phone: "+43 512 325506"
-opening_hours: "Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 08:00-18:00"
-website: "https://www.ruetz.at/baeckereien/standorte/einkaufszentrum_dez_nord_innsbruck_tirol"
+phone: +43 512 325506
+opening_hours: Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 08:00-18:00
+website: https://www.ruetz.at/baeckereien/standorte/einkaufszentrum_dez_nord_innsbruck_tirol

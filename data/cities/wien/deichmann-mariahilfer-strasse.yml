@@ -4,8 +4,8 @@ latitude: 48.19733
 longitude: 16.3462
 postcode: "1070"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 90
-phone: "+43 1 5222573"
-opening_hours: "Mo-We 09:00-19:00; Sa 09:00-18:00; Th,Fr 09:00-20:00"
-website: "https://www.deichmann.com/AT/"
+street: Mariahilfer Straße
+housenumber: "90"
+phone: +43 1 5222573
+opening_hours: Mo-We 09:00-19:00; Sa 09:00-18:00; Th,Fr 09:00-20:00
+website: https://www.deichmann.com/AT/

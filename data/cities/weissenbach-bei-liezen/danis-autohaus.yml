@@ -1,11 +1,11 @@
 id: 93302663
-type: way
+type: node
 latitude: 47.56825
 longitude: 14.20888
 postcode: "8940"
 city: Weißenbach bei Liezen
-street: "Knaufstraße"
-housenumber: 10
+street: Knaufstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-danis.at/"
+website: https://www.autohaus-danis.at/

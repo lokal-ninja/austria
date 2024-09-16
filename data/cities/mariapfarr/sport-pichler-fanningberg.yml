@@ -1,11 +1,11 @@
 id: 143426595
-type: way
+type: node
 latitude: 47.1697
 longitude: 13.69359
 postcode: "5571"
 city: Mariapfarr
-street: "Fanningberg"
-housenumber: 156
-phone: "+43 6473 7010"
-opening_hours: "Mo-Su 08:30-16:30"
+street: Fanningberg
+housenumber: "156"
+phone: +43 6473 7010
+opening_hours: Mo-Su 08:30-16:30
 website: ""

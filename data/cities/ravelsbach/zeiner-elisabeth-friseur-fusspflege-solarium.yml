@@ -1,11 +1,11 @@
 id: 241187451
-type: way
+type: node
 latitude: 48.55109
 longitude: 15.8487
 postcode: "3720"
 city: Ravelsbach
-street: "Hauptstraße"
-housenumber: 14
-phone: "+43 (2958) 82357"
+street: Hauptstraße
+housenumber: "14"
+phone: +43 (2958) 82357
 opening_hours: ""
 website: ""

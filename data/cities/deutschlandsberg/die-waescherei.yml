@@ -4,8 +4,8 @@ latitude: 46.81429
 longitude: 15.21162
 postcode: "8530"
 city: Deutschlandsberg
-street: "Hauptplatz"
-housenumber: 40
-phone: "0043 3462 30 009"
-opening_hours: "Mo-Th 07:00-15:00; Fr 07:00-14:00"
-website: "https://www.lebensgross.at/arbeit-und-begleitung/unsere-betriebe/"
+street: Hauptplatz
+housenumber: "40"
+phone: 0043 3462 30 009
+opening_hours: Mo-Th 07:00-15:00; Fr 07:00-14:00
+website: https://www.lebensgross.at/arbeit-und-begleitung/unsere-betriebe/

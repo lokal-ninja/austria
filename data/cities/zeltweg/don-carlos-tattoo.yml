@@ -1,11 +1,11 @@
 id: 150042535
-type: way
+type: node
 latitude: 47.19041
 longitude: 14.75466
 postcode: "8740"
 city: Zeltweg
-street: "Bahnhofstraße"
-housenumber: 34
+street: Bahnhofstraße
+housenumber: "34"
 phone: "+43357722060"
 opening_hours: ""
-website: "https://www.dctattoo.eu/"
+website: https://www.dctattoo.eu/

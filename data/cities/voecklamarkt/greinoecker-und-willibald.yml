@@ -1,11 +1,11 @@
 id: 263362396
-type: way
+type: node
 latitude: 48.00313
 longitude: 13.48599
 postcode: "4870"
 city: Vöcklamarkt
-street: "Marktstraße"
-housenumber: 4
+street: Marktstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 139712771
-type: way
+type: node
 latitude: 48.49696
 longitude: 14.50132
 postcode: "4240"
 city: Freistadt
-street: "Industriestraße"
-housenumber: 3
+street: Industriestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

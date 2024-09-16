@@ -1,11 +1,11 @@
 id: 144339255
-type: way
+type: node
 latitude: 47.09181
 longitude: 15.40869
 postcode: "8051"
 city: Graz
-street: "Schippingerstraße"
-housenumber: 8
-phone: "+43316 6076 0"
+street: Schippingerstraße
+housenumber: "8"
+phone: +43316 6076 0
 opening_hours: ""
 website: ""

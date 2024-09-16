@@ -1,11 +1,11 @@
 id: 353667592
-type: way
+type: node
 latitude: 48.01519
 longitude: 16.27495
 postcode: "2511"
 city: Pfaffstätten
-street: "Alzenauer Platz"
-housenumber: 4
+street: Alzenauer Platz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

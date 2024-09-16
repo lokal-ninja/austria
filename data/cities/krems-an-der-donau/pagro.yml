@@ -4,8 +4,8 @@ latitude: 48.41424
 longitude: 15.61464
 postcode: "3500"
 city: Krems an der Donau
-street: "Wiener Straße"
-housenumber: 60
-phone: "+43 2732 771 69"
+street: Wiener Straße
+housenumber: "60"
+phone: +43 2732 771 69
 opening_hours: ""
-website: "https://www.pagro.at"
+website: https://www.pagro.at

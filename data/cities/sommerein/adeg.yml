@@ -1,11 +1,11 @@
 id: 601618545
-type: way
+type: node
 latitude: 47.99109
 longitude: 16.65749
 postcode: "2453"
 city: Sommerein
-street: "Markt"
-housenumber: 4
+street: Markt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:00"
-website: "https://adeg-schmutterer.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-12:00
+website: https://adeg-schmutterer.at/

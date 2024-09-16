@@ -1,11 +1,11 @@
 id: 176364942
-type: way
+type: node
 latitude: 47.9417
 longitude: 16.84693
 postcode: "7100"
 city: Neusiedl am See
-street: "Seestraße"
-housenumber: 17
-phone: "+43 59915 07237"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Seestraße
+housenumber: "17"
+phone: +43 59915 07237
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

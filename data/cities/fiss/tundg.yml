@@ -1,11 +1,11 @@
 id: 122159295
-type: way
+type: node
 latitude: 47.05438
 longitude: 10.61869
 postcode: "6533"
 city: Fiss
-street: "Fisser Straße"
-housenumber: 6
-phone: "+43 50321 928704"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Fisser Straße
+housenumber: "6"
+phone: +43 50321 928704
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

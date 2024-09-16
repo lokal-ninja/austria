@@ -4,8 +4,8 @@ latitude: 47.8088
 longitude: 16.03865
 postcode: "2732"
 city: Zweiersdorf
-street: "Neue-Welt-Straße"
-housenumber: 109
+street: Neue-Welt-Straße
+housenumber: "109"
 phone: "004326202395"
-opening_hours: "We-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.mohr-sederl.com/"
+opening_hours: We-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.mohr-sederl.com/

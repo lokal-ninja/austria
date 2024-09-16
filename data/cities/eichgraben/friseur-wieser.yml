@@ -4,8 +4,8 @@ latitude: 48.17393
 longitude: 15.9864
 postcode: "3032"
 city: Eichgraben
-street: "Hauptstraße"
-housenumber: 59
-phone: "+43 2773 46401"
-opening_hours: "Tu,We,Fr 08:00-12:00,13:00-17:30; Th,Sa 08:00-12:00"
+street: Hauptstraße
+housenumber: "59"
+phone: +43 2773 46401
+opening_hours: Tu,We,Fr 08:00-12:00,13:00-17:30; Th,Sa 08:00-12:00
 website: ""

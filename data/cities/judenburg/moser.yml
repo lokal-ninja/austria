@@ -4,8 +4,8 @@ latitude: 47.16874
 longitude: 14.66128
 postcode: "8750"
 city: Judenburg
-street: "Hauptplatz"
-housenumber: 8
-phone: "+43(0)664/ 43 94 394"
-opening_hours: "Mo-Fr 08:30-12:00,15:00-18:00; Sa 08:30-12:00"
-website: "http://www.goldschmiedemoser.at/"
+street: Hauptplatz
+housenumber: "8"
+phone: +43(0)664/ 43 94 394
+opening_hours: Mo-Fr 08:30-12:00,15:00-18:00; Sa 08:30-12:00
+website: http://www.goldschmiedemoser.at/

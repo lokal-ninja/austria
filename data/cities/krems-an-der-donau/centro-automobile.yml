@@ -1,11 +1,11 @@
 id: 128811949
-type: way
+type: node
 latitude: 48.40832
 longitude: 15.66324
 postcode: "3500"
 city: Krems an der Donau
-street: "Gewerbeparkstraße"
-housenumber: 25
+street: Gewerbeparkstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Th 07:45-12:00,12:45-16:15; Fr 07:45-12:00,12:45-16:00"
+opening_hours: Mo-Th 07:45-12:00,12:45-16:15; Fr 07:45-12:00,12:45-16:00
 website: ""

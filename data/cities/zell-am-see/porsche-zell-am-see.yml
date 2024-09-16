@@ -1,11 +1,11 @@
 id: 154235878
-type: way
+type: node
 latitude: 47.29446
 longitude: 12.79515
 postcode: "5700"
 city: Zell am See
-street: "Prof.Ferry Porsche Straße"
-housenumber: 1
+street: Prof.Ferry Porsche Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.porschezellamsee.at/"
+website: https://www.porschezellamsee.at/

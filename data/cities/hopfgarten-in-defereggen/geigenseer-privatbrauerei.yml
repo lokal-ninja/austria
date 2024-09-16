@@ -1,11 +1,11 @@
 id: 655459863
-type: way
+type: node
 latitude: 46.92279
 longitude: 12.54307
 postcode: "9961"
 city: Hopfgarten in Defereggen
-street: "Dölach"
-housenumber: 33
-phone: "+43 (0) 664 538 88 98"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-12:00"
-website: "https://www.geigenseer.at"
+street: Dölach
+housenumber: "33"
+phone: +43 (0) 664 538 88 98
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-12:00
+website: https://www.geigenseer.at

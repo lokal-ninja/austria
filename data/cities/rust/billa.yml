@@ -1,11 +1,11 @@
 id: 271820243
-type: way
+type: node
 latitude: 47.79538
 longitude: 16.67282
 postcode: "7071"
 city: Rust
-street: "Mörbischerstraße"
-housenumber: 10
-phone: "+43 59915 07232"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Mörbischerstraße
+housenumber: "10"
+phone: +43 59915 07232
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

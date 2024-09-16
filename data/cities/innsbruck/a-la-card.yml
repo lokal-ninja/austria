@@ -4,8 +4,8 @@ latitude: 47.26595
 longitude: 11.39535
 postcode: "6020"
 city: Innsbruck
-street: "Sparkassenplatz"
-housenumber: 2
-phone: "+43 512 584979"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-12:30; PH off"
-website: "https://www.a-la-card.shop/"
+street: Sparkassenplatz
+housenumber: "2"
+phone: +43 512 584979
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-12:30; PH off
+website: https://www.a-la-card.shop/

@@ -1,11 +1,11 @@
 id: 699956384
-type: way
+type: node
 latitude: 48.16739
 longitude: 15.61396
 postcode: "3100"
 city: St. Pölten
-street: "Brunnenfeldgasse"
-housenumber: 30
+street: Brunnenfeldgasse
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.abc-autoservice.at/"
+website: https://www.abc-autoservice.at/

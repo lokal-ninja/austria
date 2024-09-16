@@ -1,11 +1,11 @@
 id: 128912395
-type: way
+type: node
 latitude: 47.28336
 longitude: 9.65119
 postcode: "6832"
 city: Sulz
-street: "Müsinenstraße"
-housenumber: 53
+street: Müsinenstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.lebenshilfe-vorarlberg.at/brockenhaus.html"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.lebenshilfe-vorarlberg.at/brockenhaus.html

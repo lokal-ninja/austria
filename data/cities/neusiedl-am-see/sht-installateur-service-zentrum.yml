@@ -1,11 +1,11 @@
 id: 321548451
-type: way
+type: node
 latitude: 47.96886
 longitude: 16.83643
 postcode: "7100"
 city: Neusiedl am See
-street: "Rot-Kreuz-Gasse"
-housenumber: 25
+street: Rot-Kreuz-Gasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

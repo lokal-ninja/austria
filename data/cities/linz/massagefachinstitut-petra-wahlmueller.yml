@@ -4,8 +4,8 @@ latitude: 48.30199
 longitude: 14.2999
 postcode: "4020"
 city: Linz
-street: "Eisenhandstrasse"
-housenumber: 44
+street: Eisenhandstrasse
+housenumber: "44"
 phone: "+436801301220"
-opening_hours: "Nach Terminvereinbarung"
-website: "https://www.massage-wahlmueller.at"
+opening_hours: '"Nach Terminvereinbarung"'
+website: https://www.massage-wahlmueller.at

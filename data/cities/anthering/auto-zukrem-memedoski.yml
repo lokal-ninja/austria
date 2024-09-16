@@ -4,8 +4,9 @@ latitude: 47.87849
 longitude: 13.01404
 postcode: "5102"
 city: Anthering
-street: "Salzburgerstraße"
-housenumber: 23
-phone: "+43 6223 2208"
-opening_hours: "Mo: 07:45-17:00 Uhr Di: 07:45-17:00 Uhr Mi: 07:45-17:00 Uhr Do: 07:45-17:00 Uhr Fr: 07:45-17:00 Uhr Sa: Geschlossen So: Geschlossen"
-website: "https://auto-zukrem-memedoski.business.site/"
+street: Salzburgerstraße
+housenumber: "23"
+phone: +43 6223 2208
+opening_hours: 'Mo: 07:45-17:00 Uhr Di: 07:45-17:00 Uhr Mi: 07:45-17:00 Uhr Do: 07:45-17:00
+    Uhr Fr: 07:45-17:00 Uhr Sa: Geschlossen So: Geschlossen'
+website: https://auto-zukrem-memedoski.business.site/

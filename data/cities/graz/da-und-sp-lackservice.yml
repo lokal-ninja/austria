@@ -4,8 +4,8 @@ latitude: 47.02981
 longitude: 15.41255
 postcode: "8054"
 city: Graz
-street: "Zahläckerweg"
-housenumber: 29
+street: Zahläckerweg
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.lack-service.at/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.lack-service.at/

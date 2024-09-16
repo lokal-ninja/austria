@@ -1,11 +1,11 @@
 id: 401295673
-type: way
+type: node
 latitude: 48.1922
 longitude: 13.92646
 postcode: "4632"
 city: Pichl bei Wels
-street: "Kaplanstraße"
-housenumber: 10
-phone: "+43-7247-21021-0"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.partyrent.com/austria/wels-address-bank/"
+street: Kaplanstraße
+housenumber: "10"
+phone: +43-7247-21021-0
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.partyrent.com/austria/wels-address-bank/

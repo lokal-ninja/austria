@@ -4,8 +4,8 @@ latitude: 48.14028
 longitude: 16.29371
 postcode: "1230"
 city: Wien
-street: "Seybelgasse"
-housenumber: 13
+street: Seybelgasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://www.rieber.at"
+website: http://www.rieber.at

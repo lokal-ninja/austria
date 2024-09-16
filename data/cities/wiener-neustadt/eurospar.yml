@@ -1,11 +1,11 @@
 id: 97590016
-type: way
+type: node
 latitude: 47.826
 longitude: 16.25022
 postcode: "2700"
 city: Wiener Neustadt
-street: "Stadionstraße"
-housenumber: 11
+street: Stadionstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

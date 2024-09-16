@@ -4,8 +4,8 @@ latitude: 48.20442
 longitude: 16.34532
 postcode: "1070"
 city: Wien
-street: "Burggasse"
-housenumber: 90
-phone: "+43 1 5223958"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Burggasse
+housenumber: "90"
+phone: +43 1 5223958
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

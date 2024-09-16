@@ -1,11 +1,11 @@
 id: 415518299
-type: way
+type: node
 latitude: 47.93744
 longitude: 13.62695
 postcode: "4861"
 city: Schörfling am Attersee
-street: "Sickingerstraße"
-housenumber: 52
+street: Sickingerstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

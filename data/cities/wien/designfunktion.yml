@@ -4,8 +4,8 @@ latitude: 48.20993
 longitude: 16.37289
 postcode: "1010"
 city: Wien
-street: "Bauernmarkt"
-housenumber: 12
+street: Bauernmarkt
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

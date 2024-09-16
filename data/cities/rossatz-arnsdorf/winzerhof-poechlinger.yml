@@ -5,7 +5,7 @@ longitude: 15.43842
 postcode: "3621"
 city: Rossatz-Arnsdorf
 street: ""
-housenumber: 72
-phone: "+43 2714 84 96"
+housenumber: "72"
+phone: +43 2714 84 96
 opening_hours: ""
-website: "https://poechlinger.at/"
+website: https://poechlinger.at/

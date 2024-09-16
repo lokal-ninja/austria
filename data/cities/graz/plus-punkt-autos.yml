@@ -4,8 +4,8 @@ latitude: 47.05281
 longitude: 15.4764
 postcode: "8042"
 city: Graz
-street: "Sankt-Peter-Hauptstraße"
-housenumber: 107
+street: Sankt-Peter-Hauptstraße
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://www.strohmaier-auto.at/fahrzeuge"
+website: https://www.strohmaier-auto.at/fahrzeuge

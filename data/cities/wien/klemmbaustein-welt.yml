@@ -4,8 +4,8 @@ latitude: 48.18334
 longitude: 16.32293
 postcode: "1120"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 254
-phone: "+43 (1) 810 14 64"
-opening_hours: "Mo-Tu 14:00-18:30; Th-Fr 14:00-18:30; Sa 09:00-13:30"
-website: "https://www.klemmbausteinwelt.at/"
+street: Schönbrunner Straße
+housenumber: "254"
+phone: +43 (1) 810 14 64
+opening_hours: Mo-Tu 14:00-18:30; Th-Fr 14:00-18:30; Sa 09:00-13:30
+website: https://www.klemmbausteinwelt.at/

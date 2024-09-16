@@ -1,11 +1,11 @@
 id: 317588703
-type: way
+type: node
 latitude: 48.141
 longitude: 16.33293
 postcode: "1230"
 city: Wien
-street: "Zetschegasse"
-housenumber: 13
+street: Zetschegasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

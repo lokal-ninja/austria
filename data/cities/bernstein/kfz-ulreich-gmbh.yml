@@ -4,8 +4,8 @@ latitude: 47.40622
 longitude: 16.26104
 postcode: "7434"
 city: Bernstein
-street: "Hauptstraße"
-housenumber: 54
+street: Hauptstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Tu-Fr 07:30-12:00,13:00-17:00; Sa 07:30-12:00; Mo off"
+opening_hours: Tu-Fr 07:30-12:00,13:00-17:00; Sa 07:30-12:00; Mo off
 website: ""

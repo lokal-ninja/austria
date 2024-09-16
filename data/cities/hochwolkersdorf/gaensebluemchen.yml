@@ -4,8 +4,8 @@ latitude: 47.66113
 longitude: 16.28108
 postcode: "2802"
 city: Hochwolkersdorf
-street: "Dorfstraße"
-housenumber: 5
+street: Dorfstraße
+housenumber: "5"
 phone: "+436645091388"
-opening_hours: "We,Fr 08:00-13:00,14:00-19:00; Th,Sa 08:00-13:00"
+opening_hours: We,Fr 08:00-13:00,14:00-19:00; Th,Sa 08:00-13:00
 website: ""

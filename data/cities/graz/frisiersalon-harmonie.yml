@@ -4,8 +4,8 @@ latitude: 47.08643
 longitude: 15.43248
 postcode: "8010"
 city: Graz
-street: "Vogelweiderstraße"
-housenumber: 26
+street: Vogelweiderstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo 9:00-18:00; Tu 09:00-13:00; Th-Fr 9:00-18:00; Sa 08:00-12:00"
-website: "www.frisiersalon-harmonie.at"
+opening_hours: Mo 9:00-18:00; Tu 09:00-13:00; Th-Fr 9:00-18:00; Sa 08:00-12:00
+website: www.frisiersalon-harmonie.at

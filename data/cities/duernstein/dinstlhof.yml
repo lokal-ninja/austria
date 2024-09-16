@@ -5,7 +5,7 @@ longitude: 15.54161
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 6
-phone: "+43 2732 706 00"
+housenumber: "6"
+phone: +43 2732 706 00
 opening_hours: ""
-website: "https://www.georgedlinger.at/"
+website: https://www.georgedlinger.at/

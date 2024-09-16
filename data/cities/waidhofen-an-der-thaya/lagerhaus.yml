@@ -1,11 +1,11 @@
 id: 87772646
-type: way
+type: node
 latitude: 48.81391
 longitude: 15.27368
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Brunnerstraße"
-housenumber: 2
-phone: "+43 2842 52535185"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-17:00"
+street: Brunnerstraße
+housenumber: "2"
+phone: +43 2842 52535185
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 279160777
-type: way
+type: node
 latitude: 46.99994
 longitude: 15.94715
 postcode: "8333"
 city: Riegersburg
 street: ""
-housenumber: 60
-phone: "+43 3153 7565"
-opening_hours: "Mo-Sa 08:00-12:00,13:00-18:00"
-website: "http://www.amtmann-urlaub.at"
+housenumber: "60"
+phone: +43 3153 7565
+opening_hours: Mo-Sa 08:00-12:00,13:00-18:00
+website: http://www.amtmann-urlaub.at

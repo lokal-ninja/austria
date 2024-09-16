@@ -4,8 +4,8 @@ latitude: 48.11721
 longitude: 16.32036
 postcode: "2334"
 city: Vösendorf
-street: "Autoallee"
-housenumber: 7
+street: Autoallee
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.sportoutlet.at/standorte/standortdetails.html?outletId=495"
+website: https://www.sportoutlet.at/standorte/standortdetails.html?outletId=495

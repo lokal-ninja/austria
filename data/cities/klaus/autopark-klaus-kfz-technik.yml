@@ -1,11 +1,11 @@
 id: 300788767
-type: way
+type: node
 latitude: 47.30956
 longitude: 9.62025
 postcode: "6833"
 city: Klaus
-street: "Bundesstraße"
-housenumber: 4
+street: Bundesstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
 website: ""

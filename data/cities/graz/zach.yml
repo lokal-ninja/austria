@@ -1,11 +1,11 @@
 id: 85580302
-type: way
+type: node
 latitude: 47.03694
 longitude: 15.45079
 postcode: "8041"
 city: Graz
-street: "Puntigamer Straße"
-housenumber: 70
+street: Puntigamer Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.zach-kfz.at/"
+website: https://www.zach-kfz.at/

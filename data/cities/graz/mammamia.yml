@@ -1,11 +1,11 @@
 id: 171711445
-type: way
+type: node
 latitude: 47.03017
 longitude: 15.40174
 postcode: "8054"
 city: Graz
-street: "Weblinger Straße"
-housenumber: 37
+street: Weblinger Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

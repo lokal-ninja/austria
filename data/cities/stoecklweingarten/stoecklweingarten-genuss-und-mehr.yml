@@ -4,8 +4,8 @@ latitude: 46.66995
 longitude: 13.94554
 postcode: "9520"
 city: Stöcklweingarten
-street: "Mitterlingweg"
-housenumber: 5
-phone: "+43 650 760 26 92"
-opening_hours: "Mo-Th 08:00-12:00, 13:30-17:00; Fr 08:00-12:00"
-website: "https://www.stoecklweingarten.at/"
+street: Mitterlingweg
+housenumber: "5"
+phone: +43 650 760 26 92
+opening_hours: Mo-Th 08:00-12:00, 13:30-17:00; Fr 08:00-12:00
+website: https://www.stoecklweingarten.at/

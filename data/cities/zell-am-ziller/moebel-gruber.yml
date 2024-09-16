@@ -1,11 +1,11 @@
 id: 106434902
-type: way
+type: node
 latitude: 47.23493
 longitude: 11.88856
 postcode: "6280"
 city: Zell am Ziller
-street: "Rohrerstraße"
-housenumber: 38
+street: Rohrerstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://www.moebel-gruber.at/"
+website: http://www.moebel-gruber.at/

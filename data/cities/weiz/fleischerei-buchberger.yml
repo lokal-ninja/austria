@@ -4,8 +4,9 @@ latitude: 47.21931
 longitude: 15.63253
 postcode: "8160"
 city: Weiz
-street: "Birkfelder Straße"
-housenumber: 51
+street: Birkfelder Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-We 06:30-13:00; Th 06:30-13:00, 15:00-18:00; FR 06:30-18:00; Sa 06:30-12:00"
+opening_hours: Mo-We 06:30-13:00; Th 06:30-13:00, 15:00-18:00; FR 06:30-18:00; Sa
+    06:30-12:00
 website: ""

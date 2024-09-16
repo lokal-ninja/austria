@@ -1,11 +1,11 @@
 id: 133564814
-type: way
+type: node
 latitude: 47.59674
 longitude: 14.74805
 postcode: "8920"
 city: Hieflau
-street: "Hauptstraße"
-housenumber: 53
-phone: "+43 3634 260"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30"
-website: "https://www.autohaus-lumplecker.at/"
+street: Hauptstraße
+housenumber: "53"
+phone: +43 3634 260
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30
+website: https://www.autohaus-lumplecker.at/

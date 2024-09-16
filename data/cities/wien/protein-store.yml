@@ -4,8 +4,8 @@ latitude: 48.19926
 longitude: 16.35099
 postcode: "1070"
 city: Wien
-street: "Zollergasse"
-housenumber: 7
+street: Zollergasse
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://proteinstore.at/zollergasse/"
+website: https://proteinstore.at/zollergasse/

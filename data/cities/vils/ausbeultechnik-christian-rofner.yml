@@ -1,11 +1,11 @@
 id: 25504146
-type: way
+type: node
 latitude: 47.54916
 longitude: 10.65779
 postcode: "6682"
 city: Vils
-street: "Stegen"
-housenumber: 5
+street: Stegen
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

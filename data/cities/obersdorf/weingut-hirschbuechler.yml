@@ -1,11 +1,11 @@
 id: 103202133
-type: way
+type: node
 latitude: 48.3729
 longitude: 16.52172
 postcode: "2120"
 city: Obersdorf
-street: "Hauptstraße"
-housenumber: 84
+street: Hauptstraße
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.hirschbuechler.at/"
+website: https://www.hirschbuechler.at/

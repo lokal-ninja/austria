@@ -4,8 +4,8 @@ latitude: 47.79171
 longitude: 13.17496
 postcode: "5323"
 city: Ebenau
-street: "Messingstraße"
-housenumber: 18
-phone: "+43 6221 7219"
-opening_hours: "Mo-Fr 06:30-12:00,15:00-18:00; We,Sa 06:30-12:00"
+street: Messingstraße
+housenumber: "18"
+phone: +43 6221 7219
+opening_hours: Mo-Fr 06:30-12:00,15:00-18:00; We,Sa 06:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1165180031
-type: way
+type: node
 latitude: 48.13759
 longitude: 16.27811
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
+street: Breitenfurter Straße
 housenumber: 372/26
-phone: "+43 59913 - 02349"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su, PH off"
-website: "https://www.bipa.at/"
+phone: +43 59913 - 02349
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su, PH off
+website: https://www.bipa.at/

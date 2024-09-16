@@ -1,11 +1,11 @@
 id: 392958959
-type: way
+type: node
 latitude: 47.84013
 longitude: 13.25407
 postcode: "5303"
 city: Thalgau
-street: "Fuschler Straße"
-housenumber: 10
+street: Fuschler Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30;Sa 7:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30;Sa 7:15-18:00
 website: ""

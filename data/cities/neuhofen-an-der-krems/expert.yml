@@ -4,8 +4,8 @@ latitude: 48.13901
 longitude: 14.22988
 postcode: "4501"
 city: Neuhofen an der Krems
-street: "Gappstraße"
-housenumber: 4
+street: Gappstraße
+housenumber: "4"
 phone: "+4372274220"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.etech.at"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.etech.at

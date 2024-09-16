@@ -1,11 +1,11 @@
 id: 400599442
-type: way
+type: node
 latitude: 48.03976
 longitude: 16.38338
 postcode: "2482"
 city: Münchendorf
-street: "Santorastraße"
-housenumber: 3
+street: Santorastraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

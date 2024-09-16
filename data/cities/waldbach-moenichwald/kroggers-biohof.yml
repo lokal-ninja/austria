@@ -1,11 +1,11 @@
 id: 99468280
-type: way
+type: node
 latitude: 47.45728
 longitude: 15.89916
 postcode: "8252"
 city: Waldbach-Mönichwald
 street: ""
-housenumber: 61
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

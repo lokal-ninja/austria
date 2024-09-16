@@ -1,11 +1,11 @@
 id: 118649686
-type: way
+type: node
 latitude: 47.29474
 longitude: 11.51395
 postcode: "6067"
 city: Absam
-street: "Dörferstraße"
-housenumber: 4
-phone: "+43 50321 928075"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off"
-website: "https://www.mpreis.at"
+street: Dörferstraße
+housenumber: "4"
+phone: +43 50321 928075
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off
+website: https://www.mpreis.at

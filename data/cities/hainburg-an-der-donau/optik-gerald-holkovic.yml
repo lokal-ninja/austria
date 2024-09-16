@@ -4,8 +4,8 @@ latitude: 48.14678
 longitude: 16.94007
 postcode: "2410"
 city: Hainburg an der Donau
-street: "Wiener Straße"
-housenumber: 8
-phone: "+43 216562341"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00"
-website: "http://www.optik-gerald-holkovic.at/index.php/hainburg/"
+street: Wiener Straße
+housenumber: "8"
+phone: +43 216562341
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00
+website: http://www.optik-gerald-holkovic.at/index.php/hainburg/

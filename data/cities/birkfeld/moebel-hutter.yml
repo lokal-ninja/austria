@@ -1,11 +1,11 @@
 id: 172632814
-type: way
+type: node
 latitude: 47.35285
 longitude: 15.69546
 postcode: "8190"
 city: Birkfeld
-street: "Wiesenweg"
-housenumber: 9
+street: Wiesenweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

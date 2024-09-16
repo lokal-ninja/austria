@@ -1,11 +1,11 @@
 id: 228092352
-type: way
+type: node
 latitude: 46.78555
 longitude: 15.539
 postcode: "8430"
 city: Leibnitz
-street: "Grazergasse"
-housenumber: 36
+street: Grazergasse
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "https://www.vogl-auto.at/"
+opening_hours: Mo-Fr 07:30-12:00,13:00-18:00; Sa 09:00-12:00
+website: https://www.vogl-auto.at/

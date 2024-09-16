@@ -1,11 +1,11 @@
 id: 158546188
-type: way
+type: node
 latitude: 48.26891
 longitude: 16.4282
 postcode: "1210"
 city: Wien
-street: "Siemensstraße"
-housenumber: 105
+street: Siemensstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "http://www.kfz-peter.at/"
+website: http://www.kfz-peter.at/

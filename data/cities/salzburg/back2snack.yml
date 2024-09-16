@@ -4,8 +4,8 @@ latitude: 47.80108
 longitude: 13.01884
 postcode: "5020"
 city: Salzburg
-street: "Maxglaner Hauptstraße"
-housenumber: 71
-phone: "+43 662 82164211"
-opening_hours: "Mo-Fr 06:00-15:00; PH,Sa,Su 06:00-12:00"
-website: "http://www.back2snack.at"
+street: Maxglaner Hauptstraße
+housenumber: "71"
+phone: +43 662 82164211
+opening_hours: Mo-Fr 06:00-15:00; PH,Sa,Su 06:00-12:00
+website: http://www.back2snack.at

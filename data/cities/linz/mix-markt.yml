@@ -1,11 +1,11 @@
 id: 37144327
-type: way
+type: node
 latitude: 48.27713
 longitude: 14.27723
 postcode: "4020"
 city: Linz
-street: "Landwiedstraße"
+street: Landwiedstraße
 housenumber: 1-3
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.mixmarkt.eu/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.mixmarkt.eu/

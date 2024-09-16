@@ -1,11 +1,11 @@
 id: 275100887
-type: way
+type: node
 latitude: 46.95709
 longitude: 15.88033
 postcode: "8330"
 city: Feldbach
-street: "Grazer Straße"
-housenumber: 33
+street: Grazer Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

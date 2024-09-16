@@ -1,11 +1,11 @@
 id: 565476273
-type: way
+type: node
 latitude: 48.20196
 longitude: 15.61861
 postcode: "3100"
 city: St. Pölten
-street: "Linzer Straße"
-housenumber: 52
+street: Linzer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
 website: ""

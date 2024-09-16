@@ -4,8 +4,8 @@ latitude: 47.1678
 longitude: 14.65963
 postcode: "8750"
 city: Judenburg
-street: "Burggasse"
-housenumber: 11
-phone: "+43 664 3264221"
-opening_hours: "Tu,Fr 15:00-19:00; We,Th 15:00-18:00"
-website: "http://www.flyonly.at/"
+street: Burggasse
+housenumber: "11"
+phone: +43 664 3264221
+opening_hours: Tu,Fr 15:00-19:00; We,Th 15:00-18:00
+website: http://www.flyonly.at/

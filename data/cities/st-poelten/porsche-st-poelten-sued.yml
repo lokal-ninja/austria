@@ -1,11 +1,11 @@
 id: 145337592
-type: way
+type: node
 latitude: 48.16863
 longitude: 15.61431
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 230
+street: Mariazeller Straße
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://www.porschestpoeltensued.at/kontakt"
+website: https://www.porschestpoeltensued.at/kontakt

@@ -1,11 +1,11 @@
 id: 252923975
-type: way
+type: node
 latitude: 47.97716
 longitude: 13.25792
 postcode: "5204"
 city: Straßwalchen
-street: "Andreas-Thalhammer-Straße"
-housenumber: 22
+street: Andreas-Thalhammer-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

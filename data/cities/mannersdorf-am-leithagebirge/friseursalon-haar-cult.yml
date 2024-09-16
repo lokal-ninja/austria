@@ -4,8 +4,8 @@ latitude: 47.97349
 longitude: 16.60223
 postcode: "2452"
 city: Mannersdorf am Leithagebirge
-street: "Hauptstraße"
-housenumber: 36
-phone: "+43 2168 63585"
-opening_hours: "Tu-Fr 09:00-19:30"
-website: "http://www.haarcult.at/"
+street: Hauptstraße
+housenumber: "36"
+phone: +43 2168 63585
+opening_hours: Tu-Fr 09:00-19:30
+website: http://www.haarcult.at/

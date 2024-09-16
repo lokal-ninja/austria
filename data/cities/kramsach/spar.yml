@@ -1,11 +1,11 @@
 id: 102542474
-type: way
+type: node
 latitude: 47.44671
 longitude: 11.885
 postcode: "6233"
 city: Kramsach
 street: ""
-housenumber: 32
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

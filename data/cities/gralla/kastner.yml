@@ -4,8 +4,8 @@ latitude: 46.80507
 longitude: 15.56371
 postcode: "8431"
 city: Gralla
-street: "Gewerbepark Süd"
-housenumber: 20
-phone: "+43 3452 84356"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://auto-kastner.at/"
+street: Gewerbepark Süd
+housenumber: "20"
+phone: +43 3452 84356
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH off
+website: https://auto-kastner.at/

@@ -4,8 +4,8 @@ latitude: 47.55795
 longitude: 14.25235
 postcode: "8940"
 city: Liezen
-street: "Richard-Steinhuber-Straße"
-housenumber: 10
+street: Richard-Steinhuber-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; Sa 08:00-12:00"
-website: "https://www.agm.at/maerkte"
+opening_hours: Mo-Fr 07:00-16:00; Sa 08:00-12:00
+website: https://www.agm.at/maerkte

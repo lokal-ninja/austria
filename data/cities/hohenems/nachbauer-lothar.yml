@@ -1,11 +1,11 @@
 id: 128792008
-type: way
+type: node
 latitude: 47.36367
 longitude: 9.67727
 postcode: "6845"
 city: Hohenems
-street: "Rudolf-von-Ems-Straße"
-housenumber: 12
-phone: "+43 5576 42948"
+street: Rudolf-von-Ems-Straße
+housenumber: "12"
+phone: +43 5576 42948
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 364197378
-type: way
+type: node
 latitude: 46.61292
 longitude: 14.03278
 postcode: "9220"
 city: Velden am Wörther See
-street: "Villacher Straße"
-housenumber: 41
-phone: "+43 699 15525 071"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.blumen-bb.at/"
+street: Villacher Straße
+housenumber: "41"
+phone: +43 699 15525 071
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.blumen-bb.at/

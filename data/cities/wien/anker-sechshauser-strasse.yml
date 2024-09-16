@@ -4,8 +4,8 @@ latitude: 48.18678
 longitude: 16.32794
 postcode: "1150"
 city: Wien
-street: "Sechshauser Straße"
-housenumber: 61
+street: Sechshauser Straße
+housenumber: "61"
 phone: "018952170"
-opening_hours: "Mo-Fr 06:00-18:00;Sa 07:00-12:00"
-website: "https://www.ankerbrot.at"
+opening_hours: Mo-Fr 06:00-18:00;Sa 07:00-12:00
+website: https://www.ankerbrot.at

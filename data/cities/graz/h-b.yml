@@ -4,8 +4,8 @@ latitude: 47.06662
 longitude: 15.44716
 postcode: "8010"
 city: Graz
-street: "Dietrichsteinplatz"
-housenumber: 2
+street: Dietrichsteinplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 470001436
-type: way
+type: node
 latitude: 48.16592
 longitude: 15.17704
 postcode: "3253"
 city: Erlauf
-street: "Erlaufstraße"
-housenumber: 38
+street: Erlaufstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-freitag.at/"
+website: https://www.kfz-freitag.at/

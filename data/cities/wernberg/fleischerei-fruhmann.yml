@@ -1,11 +1,11 @@
 id: 61721485
-type: way
+type: node
 latitude: 46.62521
 longitude: 13.9294
 postcode: "9241"
 city: Wernberg
-street: "Triester Straße"
-housenumber: 1
+street: Triester Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.fruhmann.at/de/kaerntner-fleischerei/Kaerntner-Fleischerei.php"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.fruhmann.at/de/kaerntner-fleischerei/Kaerntner-Fleischerei.php

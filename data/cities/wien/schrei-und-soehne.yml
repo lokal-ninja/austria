@@ -4,8 +4,8 @@ latitude: 48.19129
 longitude: 16.35561
 postcode: "1050"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 48
+street: Schönbrunner Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "https://www.schrei.wien/"
+website: https://www.schrei.wien/

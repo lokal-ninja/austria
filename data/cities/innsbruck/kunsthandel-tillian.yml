@@ -4,8 +4,8 @@ latitude: 47.26267
 longitude: 11.39389
 postcode: "6020"
 city: Innsbruck
-street: "Maximilianstraße"
+street: Maximilianstraße
 housenumber: 2a
-phone: "+43 512 589190"
-opening_hours: "Mo-Fr 10:00-12:30, 15:00-18:30; PH off || nach Vereinbarung"
-website: "https://www.kunsthandel-tillian.at/"
+phone: +43 512 589190
+opening_hours: Mo-Fr 10:00-12:30, 15:00-18:30; PH off || "nach Vereinbarung"
+website: https://www.kunsthandel-tillian.at/

@@ -4,8 +4,8 @@ latitude: 47.26566
 longitude: 11.34545
 postcode: "6020"
 city: Innsbruck
-street: "Viktor-Franz-Hess-Straße"
-housenumber: 5
-phone: "+43 50322 926125"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-18:00; PH off"
-website: "https://www.baguette.at/handel/baguette/innsbruck-viktor-franz-hess-strasse-5.html"
+street: Viktor-Franz-Hess-Straße
+housenumber: "5"
+phone: +43 50322 926125
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-18:00; PH off
+website: https://www.baguette.at/handel/baguette/innsbruck-viktor-franz-hess-strasse-5.html

@@ -1,11 +1,11 @@
 id: 98019983
-type: way
+type: node
 latitude: 48.33237
 longitude: 15.82065
 postcode: "3454"
 city: Sitzenberg-Reidling
-street: "Sitzenberger Bahnstraße"
-housenumber: 17
+street: Sitzenberger Bahnstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

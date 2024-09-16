@@ -4,8 +4,8 @@ latitude: 47.47329
 longitude: 9.75237
 postcode: "6922"
 city: Wolfurt
-street: "Im Dorf"
-housenumber: 2
+street: Im Dorf
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 08:15-12:00,14:00-18:00; Th,Sa 08:15-12:00"
-website: "http://wolfurt.optikzone.com"
+opening_hours: Mo-We,Fr 08:15-12:00,14:00-18:00; Th,Sa 08:15-12:00
+website: http://wolfurt.optikzone.com

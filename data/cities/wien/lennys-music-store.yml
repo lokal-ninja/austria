@@ -4,8 +4,8 @@ latitude: 48.13894
 longitude: 16.3633
 postcode: "1230"
 city: Wien
-street: "Heizwerkstraße"
-housenumber: 8
+street: Heizwerkstraße
+housenumber: "8"
 phone: "+4367763253111"
-opening_hours: "Th,Fr 10:00-18:00,Sa[1] 09:00-16:00"
-website: "https://www.lennysmusicstore.com"
+opening_hours: Th,Fr 10:00-18:00,Sa[1] 09:00-16:00
+website: https://www.lennysmusicstore.com

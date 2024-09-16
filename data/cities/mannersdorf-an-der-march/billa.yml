@@ -1,11 +1,11 @@
 id: 401746807
-type: way
+type: node
 latitude: 48.38727
 longitude: 16.83472
 postcode: "2261"
 city: Mannersdorf an der March
-street: "Bernsteinstraße"
-housenumber: 237
+street: Bernsteinstraße
+housenumber: "237"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.07109
 longitude: 15.4259
 postcode: "8020"
 city: Graz
-street: "Annenstraße"
-housenumber: 35
+street: Annenstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00, Sa 10:00-13:00"
-website: "https://www.spielewerk.at/"
+opening_hours: Mo-Fr 14:00-18:00, Sa 10:00-13:00
+website: https://www.spielewerk.at/

@@ -4,8 +4,8 @@ latitude: 48.00916
 longitude: 16.23396
 postcode: "2500"
 city: Baden
-street: "Theresiengasse"
-housenumber: 8
-phone: "+43 660 2611977"
-opening_hours: "nach Vereinbarung"
+street: Theresiengasse
+housenumber: "8"
+phone: +43 660 2611977
+opening_hours: '"nach Vereinbarung"'
 website: ""

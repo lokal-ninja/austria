@@ -1,11 +1,11 @@
 id: 293856904
-type: way
+type: node
 latitude: 47.97775
 longitude: 14.63114
 postcode: "3355"
 city: Ertl
-street: "Hauptplatz"
-housenumber: 4
+street: Hauptplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

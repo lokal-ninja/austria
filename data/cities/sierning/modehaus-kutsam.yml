@@ -1,11 +1,11 @@
 id: 131513889
-type: way
+type: node
 latitude: 48.04622
 longitude: 14.3105
 postcode: "4522"
 city: Sierning
-street: "Mühlberg"
-housenumber: 16
+street: Mühlberg
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.kutsam.at"
+website: http://www.kutsam.at

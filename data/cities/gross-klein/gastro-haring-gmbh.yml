@@ -5,7 +5,7 @@ longitude: 15.43023
 postcode: "8452"
 city: Groß-Klein
 street: ""
-housenumber: 95
-phone: "+43 3456 2088"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-16:00; Sa 08:30-11:00; PH off"
-website: "https://www.gastro-haring.at"
+housenumber: "95"
+phone: +43 3456 2088
+opening_hours: Mo-Fr 07:00-12:00,13:00-16:00; Sa 08:30-11:00; PH off
+website: https://www.gastro-haring.at

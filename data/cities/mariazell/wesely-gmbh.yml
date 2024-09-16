@@ -1,11 +1,11 @@
 id: 301283316
-type: way
+type: node
 latitude: 47.77691
 longitude: 15.31316
 postcode: "8630"
 city: Mariazell
-street: "Wiener Straße"
-housenumber: 45
+street: Wiener Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

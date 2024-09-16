@@ -1,11 +1,11 @@
 id: 605820218
-type: way
+type: node
 latitude: 47.75679
 longitude: 16.67005
 postcode: "7072"
 city: Mörbisch am See
-street: "Ruster Straße"
-housenumber: 20
-phone: "+43 2685 60903"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00"
+street: Ruster Straße
+housenumber: "20"
+phone: +43 2685 60903
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-17:00
 website: ""

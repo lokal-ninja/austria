@@ -4,8 +4,8 @@ latitude: 47.47074
 longitude: 9.72838
 postcode: "6923"
 city: Lauterach
-street: "Bundesstraße"
-housenumber: 94
+street: Bundesstraße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "https://www.loitz.at/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:30-12:00
+website: https://www.loitz.at/

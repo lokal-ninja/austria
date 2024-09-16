@@ -1,11 +1,11 @@
 id: 554684530
-type: way
+type: node
 latitude: 48.20161
 longitude: 16.26076
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 383
+street: Linzer Straße
+housenumber: "383"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.dm.at

@@ -1,11 +1,12 @@
 id: 92224222
-type: way
+type: node
 latitude: 47.56538
 longitude: 14.24247
 postcode: "8940"
 city: Liezen
-street: "Fronleichnamsweg"
-housenumber: 6
+street: Fronleichnamsweg
+housenumber: "6"
 phone: ""
-opening_hours: "TU-WE 8:30-12:30;TU-WE 14:30-18:00;FR 8:30-12:30;FR 14:30-18:00;SA 8:30-12:00"
+opening_hours: TU-WE 8:30-12:30;TU-WE 14:30-18:00;FR 8:30-12:30;FR 14:30-18:00;SA
+    8:30-12:00
 website: ""

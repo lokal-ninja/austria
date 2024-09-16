@@ -4,8 +4,8 @@ latitude: 48.27281
 longitude: 16.44624
 postcode: "1210"
 city: Wien
-street: "Kürschnergasse"
-housenumber: 9
-phone: "+43 59915 02170"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Kürschnergasse
+housenumber: "9"
+phone: +43 59915 02170
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

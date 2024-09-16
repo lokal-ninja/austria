@@ -1,11 +1,11 @@
 id: 216975525
-type: way
+type: node
 latitude: 46.62927
 longitude: 15.47545
 postcode: "8463"
 city: Schloßberg
 street: ""
-housenumber: 24
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.panoramaschenke-kure.at/"
+website: https://www.panoramaschenke-kure.at/

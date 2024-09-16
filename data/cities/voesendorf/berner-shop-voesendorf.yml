@@ -1,11 +1,11 @@
 id: 495066873
-type: way
+type: node
 latitude: 48.12534
 longitude: 16.32516
 postcode: "2331"
 city: Vösendorf
-street: "Ortsstraße"
-housenumber: 51
+street: Ortsstraße
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

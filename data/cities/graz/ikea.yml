@@ -1,11 +1,11 @@
 id: 24816747
-type: way
+type: node
 latitude: 47.03363
 longitude: 15.42399
 postcode: "8054"
 city: Graz
-street: "Weblinger Gürtel"
-housenumber: 31
+street: Weblinger Gürtel
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 229917054
-type: way
+type: node
 latitude: 48.31727
 longitude: 16.6353
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Anton-Lendler-Gasse"
-housenumber: 21
-phone: "+43 2287 2331"
+street: Anton-Lendler-Gasse
+housenumber: "21"
+phone: +43 2287 2331
 opening_hours: ""
-website: "https://www.geier.at/"
+website: https://www.geier.at/

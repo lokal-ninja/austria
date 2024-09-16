@@ -4,8 +4,8 @@ latitude: 47.06672
 longitude: 15.42779
 postcode: "8020"
 city: Graz
-street: "Rösselmühlgasse"
-housenumber: 26
+street: Rösselmühlgasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Th 09:30-12:00,16:00-18:00; Fr 09:30-12:00"
-website: "http://members.inode.at/evol.sports/main.htm"
+opening_hours: Mo-Th 09:30-12:00,16:00-18:00; Fr 09:30-12:00
+website: http://members.inode.at/evol.sports/main.htm

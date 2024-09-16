@@ -4,8 +4,8 @@ latitude: 47.07278
 longitude: 15.45281
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 39
+street: Leonhardstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00"
-website: "http://www.schlosserei-ritonja.at/"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00
+website: http://www.schlosserei-ritonja.at/

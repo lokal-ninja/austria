@@ -1,11 +1,11 @@
 id: 230116504
-type: way
+type: node
 latitude: 47.44562
 longitude: 15.29482
 postcode: "8605"
 city: Kapfenberg
-street: "Wiener Straße"
-housenumber: 49
+street: Wiener Straße
+housenumber: "49"
 phone: "+43386224961"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

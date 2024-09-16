@@ -4,8 +4,8 @@ latitude: 47.83095
 longitude: 16.52206
 postcode: "7000"
 city: Eisenstadt
-street: "Mattersburger Straße"
-housenumber: 38
+street: Mattersburger Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5163"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5163

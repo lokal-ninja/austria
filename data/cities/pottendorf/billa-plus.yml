@@ -1,11 +1,11 @@
 id: 1268687324
-type: way
+type: node
 latitude: 47.90893
 longitude: 16.38518
 postcode: "2486"
 city: Pottendorf
-street: "Wr. Neustädter Straße"
-housenumber: 2
+street: Wr. Neustädter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

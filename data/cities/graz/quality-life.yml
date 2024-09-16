@@ -4,8 +4,8 @@ latitude: 47.07856
 longitude: 15.41093
 postcode: "8020"
 city: Graz
-street: "Waagner-Biro-Straße"
-housenumber: 95
-phone: "+43 316 67 23 96 0"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-13:30"
-website: "https://qualitylife.at/"
+street: Waagner-Biro-Straße
+housenumber: "95"
+phone: +43 316 67 23 96 0
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-13:30
+website: https://qualitylife.at/

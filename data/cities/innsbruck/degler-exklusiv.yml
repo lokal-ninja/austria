@@ -4,8 +4,8 @@ latitude: 47.26474
 longitude: 11.39253
 postcode: "6020"
 city: Innsbruck
-street: "Anichstraße"
-housenumber: 9
-phone: "+43 512 550590"
-opening_hours: "Tu-We,Fr 08:30-18:00; Th 10:00-20:00; Sa 08:00-13:00; PH off"
-website: "https://www.degler.at/exklusiv.htm"
+street: Anichstraße
+housenumber: "9"
+phone: +43 512 550590
+opening_hours: Tu-We,Fr 08:30-18:00; Th 10:00-20:00; Sa 08:00-13:00; PH off
+website: https://www.degler.at/exklusiv.htm

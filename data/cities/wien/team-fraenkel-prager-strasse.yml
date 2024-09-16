@@ -1,11 +1,11 @@
 id: 563943919
-type: way
+type: node
 latitude: 48.29187
 longitude: 16.37937
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 247
+street: Prager Straße
+housenumber: "247"
 phone: ""
 opening_hours: ""
-website: "https://www.teamfraenkel.at/"
+website: https://www.teamfraenkel.at/

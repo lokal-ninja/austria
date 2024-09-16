@@ -1,11 +1,11 @@
 id: 1249400885
-type: way
+type: node
 latitude: 48.23206
 longitude: 13.82986
 postcode: "4710"
 city: Grieskirchen
-street: "Moos"
-housenumber: 31
+street: Moos
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188889868
-type: way
+type: node
 latitude: 48.07269
 longitude: 14.81397
 postcode: "3363"
 city: Amstetten
-street: "Weppergasse"
-housenumber: 7
+street: Weppergasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 131427435
-type: way
+type: node
 latitude: 47.13352
 longitude: 11.34163
 postcode: "6166"
 city: Fulpmes
-street: "Industriegelände Zone B"
-housenumber: 1
-phone: "+43 5225 62346"
+street: Industriegelände Zone B
+housenumber: "1"
+phone: +43 5225 62346
 opening_hours: ""
 website: ""

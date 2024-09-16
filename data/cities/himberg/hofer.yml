@@ -1,11 +1,11 @@
 id: 83383054
-type: way
+type: node
 latitude: 48.07193
 longitude: 16.45818
 postcode: "2325"
 city: Himberg
-street: "Hofer Straße"
-housenumber: 2
+street: Hofer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00;Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00;Sa 07:40-18:00
 website: ""

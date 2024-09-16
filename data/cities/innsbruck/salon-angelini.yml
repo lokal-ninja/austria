@@ -4,8 +4,8 @@ latitude: 47.25718
 longitude: 11.39167
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 40
-phone: "+43 664 5397030"
-opening_hours: "Mo,Tu 08:00-19:00; We,Th 08:00-21:00; Fr 08:00-15:00; PH off"
-website: "https://salonangelini.at/"
+street: Andreas-Hofer-Straße
+housenumber: "40"
+phone: +43 664 5397030
+opening_hours: Mo,Tu 08:00-19:00; We,Th 08:00-21:00; Fr 08:00-15:00; PH off
+website: https://salonangelini.at/

@@ -1,11 +1,11 @@
 id: 37652037
-type: way
+type: node
 latitude: 48.29438
 longitude: 14.2755
 postcode: "4020"
 city: Linz
-street: "Helmut-Köglberger-Platz"
-housenumber: 1
-phone: "+43 732 603332\;ext=0"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://shop.lask.at"
+street: Helmut-Köglberger-Platz
+housenumber: "1"
+phone: +43 732 603332\;ext=0
+opening_hours: Mo-Fr 10:00-18:00
+website: https://shop.lask.at

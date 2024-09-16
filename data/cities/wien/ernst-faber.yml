@@ -4,8 +4,8 @@ latitude: 48.21966
 longitude: 16.38608
 postcode: "1020"
 city: Wien
-street: "Große Stadtgutgasse"
-housenumber: 29
-phone: "+43 1 216 24 23"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
+street: Große Stadtgutgasse
+housenumber: "29"
+phone: +43 1 216 24 23
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
 website: ""

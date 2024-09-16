@@ -4,8 +4,8 @@ latitude: 47.06936
 longitude: 15.42871
 postcode: "8020"
 city: Graz
-street: "Dreihackengasse"
-housenumber: 1
+street: Dreihackengasse
+housenumber: "1"
 phone: ""
-opening_hours: "Tu 08:00-13:00; Th 14:00-18:30"
-website: "https://bilderrahmen-bergmann.at/"
+opening_hours: Tu 08:00-13:00; Th 14:00-18:30
+website: https://bilderrahmen-bergmann.at/

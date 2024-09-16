@@ -4,8 +4,8 @@ latitude: 48.00811
 longitude: 16.23342
 postcode: "2500"
 city: Baden
-street: "Beethovengasse"
-housenumber: 3
+street: Beethovengasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Tu 09:00-13:00,14:00-17:00; We-Fr 09:00-13:00; Sa 09:00-12:00"
+opening_hours: Mo-Tu 09:00-13:00,14:00-17:00; We-Fr 09:00-13:00; Sa 09:00-12:00
 website: ""

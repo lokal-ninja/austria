@@ -4,8 +4,8 @@ latitude: 47.0704
 longitude: 15.44196
 postcode: "8010"
 city: Graz
-street: "Bischofplatz"
-housenumber: 
+street: Bischofplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 10:00-13:00, 14:00-17:00"
-website: "https://www.casamichaela.at/"
+opening_hours: Mo-We 10:00-13:00, 14:00-17:00
+website: https://www.casamichaela.at/

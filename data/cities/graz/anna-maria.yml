@@ -4,8 +4,8 @@ latitude: 47.06772
 longitude: 15.44094
 postcode: "8010"
 city: Graz
-street: "Joanneumring"
-housenumber: 6
-phone: "+43316 813573"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 10:00-17:00; Mo off"
+street: Joanneumring
+housenumber: "6"
+phone: +43316 813573
+opening_hours: Tu-Fr 09:30-18:00; Sa 10:00-17:00; Mo off
 website: ""

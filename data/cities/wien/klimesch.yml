@@ -4,8 +4,8 @@ latitude: 48.20547
 longitude: 16.3861
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 4
-phone: "+43 1 712 57 51"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-18:00"
-website: "https://klimesch-schuhe.at/"
+street: Landstraßer Hauptstraße
+housenumber: "4"
+phone: +43 1 712 57 51
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-18:00
+website: https://klimesch-schuhe.at/

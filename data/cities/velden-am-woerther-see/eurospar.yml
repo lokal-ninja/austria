@@ -1,11 +1,11 @@
 id: 155023438
-type: way
+type: node
 latitude: 46.60504
 longitude: 14.03663
 postcode: "9220"
 city: Velden am Wörther See
-street: "Rosentaler Straße"
-housenumber: 74
+street: Rosentaler Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

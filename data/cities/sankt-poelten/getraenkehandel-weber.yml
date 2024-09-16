@@ -1,11 +1,11 @@
 id: 174668250
-type: way
+type: node
 latitude: 48.2289
 longitude: 15.67394
 postcode: "3100"
 city: Sankt Pölten
-street: "Keltenstraße"
-housenumber: 9
+street: Keltenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

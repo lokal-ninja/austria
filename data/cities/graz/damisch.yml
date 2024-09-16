@@ -1,11 +1,11 @@
 id: 236870015
-type: way
+type: node
 latitude: 47.10923
 longitude: 15.41544
 postcode: "8046"
 city: Graz
-street: "Andritzer Reichsstraße"
-housenumber: 89
+street: Andritzer Reichsstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

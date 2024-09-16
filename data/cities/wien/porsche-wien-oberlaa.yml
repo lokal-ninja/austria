@@ -1,11 +1,11 @@
 id: 177657330
-type: way
+type: node
 latitude: 48.14392
 longitude: 16.38002
 postcode: "1100"
 city: Wien
-street: "Oberlaaerstraße"
-housenumber: 224
+street: Oberlaaerstraße
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 411763496
-type: way
+type: node
 latitude: 48.71971
 longitude: 15.92139
 postcode: "2073"
 city: Zellerndorf
 street: ""
-housenumber: 55
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 281813083
-type: way
+type: node
 latitude: 47.60157
 longitude: 15.66859
 postcode: "8680"
 city: Mürzzuschlag
-street: "Grazer Straße"
-housenumber: 59
+street: Grazer Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

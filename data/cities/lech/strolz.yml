@@ -1,11 +1,11 @@
 id: 127649492
-type: way
+type: node
 latitude: 47.16886
 longitude: 10.16392
 postcode: "6763"
 city: Lech
-street: "Zürs"
-housenumber: 205
+street: Zürs
+housenumber: "205"
 phone: ""
 opening_hours: ""
-website: "https://www.strolz.at/rent/zuerszentrum.php"
+website: https://www.strolz.at/rent/zuerszentrum.php

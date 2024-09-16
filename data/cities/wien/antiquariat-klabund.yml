@@ -4,8 +4,8 @@ latitude: 48.2177
 longitude: 16.35623
 postcode: "1090"
 city: Wien
-street: "Garnisongasse"
-housenumber: 22
+street: Garnisongasse
+housenumber: "22"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00"
-website: "https://www.klabund.at/"
+opening_hours: Tu-Fr 10:00-19:00
+website: https://www.klabund.at/

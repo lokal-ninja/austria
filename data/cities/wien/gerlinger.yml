@@ -4,8 +4,8 @@ latitude: 48.20023
 longitude: 16.34217
 postcode: "1070"
 city: Wien
-street: "Seidengasse"
-housenumber: 29
-phone: "+43 1 / 5238433"
-opening_hours: "Mo-Th 09:00-12:00,14:00-17:00; Fr 09:00-13:00; Sa,Su,PH off"
-website: "https://www.gerlinger.co.at/"
+street: Seidengasse
+housenumber: "29"
+phone: +43 1 / 5238433
+opening_hours: Mo-Th 09:00-12:00,14:00-17:00; Fr 09:00-13:00; Sa,Su,PH off
+website: https://www.gerlinger.co.at/

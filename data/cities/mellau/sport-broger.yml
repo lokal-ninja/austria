@@ -1,11 +1,12 @@
 id: 159330744
-type: way
+type: node
 latitude: 47.34952
 longitude: 9.88312
 postcode: "6881"
 city: Mellau
 street: ""
-housenumber: 305
+housenumber: "305"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00, Sa 08:00-12:00; Dec-Mar Mo-Sa 08:00-12:00, 14:00-18:00; Su 09:00-12:00, 15:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00, Sa 08:00-12:00; Dec-Mar Mo-Sa 08:00-12:00,
+    14:00-18:00; Su 09:00-12:00, 15:00-18:00
 website: ""

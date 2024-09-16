@@ -4,8 +4,8 @@ latitude: 46.62671
 longitude: 14.31167
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Waagplatz"
-housenumber: 5
-phone: "+43 463 908695"
-opening_hours: "Mo,Tu 07:30-12:00; We,Th 07:30-16:00; Fr 08:00-12:00"
+street: Waagplatz
+housenumber: "5"
+phone: +43 463 908695
+opening_hours: Mo,Tu 07:30-12:00; We,Th 07:30-16:00; Fr 08:00-12:00
 website: ""

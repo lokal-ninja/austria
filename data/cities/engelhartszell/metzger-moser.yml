@@ -4,8 +4,9 @@ latitude: 48.50666
 longitude: 13.73204
 postcode: "4090"
 city: Engelhartszell
-street: "Marktstraße"
-housenumber: 29
+street: Marktstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Tu 07:00-12:15, 14:30-18:00; We 07:00-12:15; Th-Fr 07:00-12:15, 14:30-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Tu 07:00-12:15, 14:30-18:00; We 07:00-12:15; Th-Fr 07:00-12:15,
+    14:30-18:00; Sa 07:00-12:00
 website: ""

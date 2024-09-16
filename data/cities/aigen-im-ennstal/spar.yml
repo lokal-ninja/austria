@@ -5,7 +5,7 @@ longitude: 14.14741
 postcode: "8943"
 city: Aigen im Ennstal
 street: ""
-housenumber: 109
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.spar.at/standorte/spar-aigen-8943-nr-109"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.spar.at/standorte/spar-aigen-8943-nr-109

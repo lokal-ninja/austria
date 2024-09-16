@@ -1,11 +1,11 @@
 id: 118376464
-type: way
+type: node
 latitude: 48.40428
 longitude: 14.23871
 postcode: "4201"
 city: Eidenberg
-street: "Pointnerstraße"
-housenumber: 28
-phone: "+43 7239 5017"
+street: Pointnerstraße
+housenumber: "28"
+phone: +43 7239 5017
 opening_hours: ""
 website: ""

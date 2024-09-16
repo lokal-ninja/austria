@@ -4,8 +4,8 @@ latitude: 48.35493
 longitude: 14.53097
 postcode: "4230"
 city: Pregarten
-street: "Stadtplatz"
-housenumber: 18
+street: Stadtplatz
+housenumber: "18"
 phone: "+43723620057"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.baeckerei-tauber.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.baeckerei-tauber.at/

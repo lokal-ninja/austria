@@ -4,8 +4,8 @@ latitude: 47.95873
 longitude: 14.77775
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Ybbsitzerstraße"
-housenumber: 7
+street: Ybbsitzerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00"
-website: "https://www.soogut.at/standort/verkaufsstelle-waidhofenybbs"
+opening_hours: Tu-Fr 09:00-12:00
+website: https://www.soogut.at/standort/verkaufsstelle-waidhofenybbs

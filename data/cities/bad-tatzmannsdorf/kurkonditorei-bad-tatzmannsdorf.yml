@@ -4,8 +4,8 @@ latitude: 47.33278
 longitude: 16.23003
 postcode: "7431"
 city: Bad Tatzmannsdorf
-street: "Joseph Haydn-Platz"
-housenumber: 5
-phone: "+43 3353 8515"
-opening_hours: "Mo-Su 09:00-18:15"
-website: "https://www.gradwohl.info"
+street: Joseph Haydn-Platz
+housenumber: "5"
+phone: +43 3353 8515
+opening_hours: Mo-Su 09:00-18:15
+website: https://www.gradwohl.info

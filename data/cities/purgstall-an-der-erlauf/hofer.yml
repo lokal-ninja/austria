@@ -1,11 +1,11 @@
 id: 165772715
-type: way
+type: node
 latitude: 48.06472
 longitude: 15.13465
 postcode: "3251"
 city: Purgstall an der Erlauf
-street: "Erlauftalstraße"
-housenumber: 49
+street: Erlauftalstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off
 website: ""

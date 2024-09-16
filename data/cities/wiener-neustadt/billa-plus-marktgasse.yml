@@ -1,11 +1,11 @@
 id: 142722917
-type: way
+type: node
 latitude: 47.8039
 longitude: 16.23727
 postcode: "2700"
 city: Wiener Neustadt
-street: "Marktgasse"
-housenumber: 2
+street: Marktgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://billa.at/

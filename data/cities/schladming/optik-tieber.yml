@@ -4,8 +4,8 @@ latitude: 47.39192
 longitude: 13.69009
 postcode: "8970"
 city: Schladming
-street: "Hauptplatz"
-housenumber: 43
+street: Hauptplatz
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00, 14:30-17:00"
-website: "http://www.optik-tieber.at/tieber-kontakt.html"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00, 14:30-17:00
+website: http://www.optik-tieber.at/tieber-kontakt.html

@@ -4,8 +4,8 @@ latitude: 47.06574
 longitude: 15.44414
 postcode: "8010"
 city: Graz
-street: "Klosterwiesgasse"
-housenumber: 18
+street: Klosterwiesgasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-16:00"
-website: "https://preiner.at/kontakt"
+opening_hours: Mo-Fr 09:00-12:30,13:30-16:00
+website: https://preiner.at/kontakt

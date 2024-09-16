@@ -4,8 +4,8 @@ latitude: 48.23466
 longitude: 13.83062
 postcode: "4710"
 city: Grieskirchen
-street: "Stadtplatz"
-housenumber: 33
-phone: "+43-7248-68158"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00;Sa 09:00-12:00"
-website: "https://www.hohensinner.at/"
+street: Stadtplatz
+housenumber: "33"
+phone: +43-7248-68158
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00;Sa 09:00-12:00
+website: https://www.hohensinner.at/

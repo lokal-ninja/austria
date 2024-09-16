@@ -1,11 +1,11 @@
 id: 124054740
-type: way
+type: node
 latitude: 48.27042
 longitude: 14.94963
 postcode: "4391"
 city: Waldhausen im Strudengau
-street: "Froschau"
-housenumber: 94
+street: Froschau
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

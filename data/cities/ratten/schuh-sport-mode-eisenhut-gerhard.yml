@@ -1,11 +1,12 @@
 id: 395768991
-type: way
+type: node
 latitude: 47.48551
 longitude: 15.72366
 postcode: "8673"
 city: Ratten
-street: "Kirchenviertel"
-housenumber: 15
+street: Kirchenviertel
+housenumber: "15"
 phone: ""
-opening_hours: "Mo 8:00-12:00, 15:00-18:00, Di 8:00-12:00, 15:00-18:00, Mi 8:00-12:00, Do 8:00-12:00, 15:00-18:00, Fr 8:00-12:00, 15:00-18:00, Sa 8:00-12:00"
+opening_hours: Mo 8:00-12:00, 15:00-18:00, Di 8:00-12:00, 15:00-18:00, Mi 8:00-12:00,
+    Do 8:00-12:00, 15:00-18:00, Fr 8:00-12:00, 15:00-18:00, Sa 8:00-12:00
 website: ""

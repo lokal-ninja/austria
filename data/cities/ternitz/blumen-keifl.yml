@@ -1,11 +1,11 @@
 id: 1285161577
-type: way
+type: node
 latitude: 47.6953
 longitude: 16.00469
 postcode: "2630"
 city: Ternitz
-street: "Putzmannsdorfer Straße"
-housenumber: 17
+street: Putzmannsdorfer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

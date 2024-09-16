@@ -1,11 +1,11 @@
 id: 92384385
-type: way
+type: node
 latitude: 47.56329
 longitude: 14.24137
 postcode: "8940"
 city: Liezen
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.landmarkt.at/de/unternehmen/unsere-filialen/plants-corner-liezen.html"
+website: https://www.landmarkt.at/de/unternehmen/unsere-filialen/plants-corner-liezen.html

@@ -1,11 +1,11 @@
 id: 47090323
-type: way
+type: node
 latitude: 48.24117
 longitude: 16.45899
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 38
-phone: "+43 1 288550"
+street: Hirschstettner Straße
+housenumber: "38"
+phone: +43 1 288550
 opening_hours: ""
-website: "https://www.porschedonaustadt.at"
+website: https://www.porschedonaustadt.at

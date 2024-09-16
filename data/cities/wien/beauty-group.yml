@@ -4,8 +4,8 @@ latitude: 48.14869
 longitude: 16.34531
 postcode: "1230"
 city: Wien
-street: "Sterngasse"
-housenumber: 4
-phone: "+43 1 9973007"
+street: Sterngasse
+housenumber: "4"
+phone: +43 1 9973007
 opening_hours: ""
-website: "https://www.beautygroup.at/"
+website: https://www.beautygroup.at/

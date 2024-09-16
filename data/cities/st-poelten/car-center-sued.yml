@@ -1,11 +1,11 @@
 id: 699956376
-type: way
+type: node
 latitude: 48.15513
 longitude: 15.61435
 postcode: "3100"
 city: St. Pölten
-street: "Kortenstraße"
-housenumber: 2
+street: Kortenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://car-center-sued.at/"
+website: https://car-center-sued.at/

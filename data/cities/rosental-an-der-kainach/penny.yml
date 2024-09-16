@@ -1,11 +1,11 @@
 id: 785221519
-type: way
+type: node
 latitude: 47.05499
 longitude: 15.11852
 postcode: "8582"
 city: Rosental an der Kainach
-street: "Knappenplatz"
-housenumber: 23
+street: Knappenplatz
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

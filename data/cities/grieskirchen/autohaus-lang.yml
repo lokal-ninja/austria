@@ -1,11 +1,11 @@
 id: 222561080
-type: way
+type: node
 latitude: 48.23221
 longitude: 13.82499
 postcode: "4710"
 city: Grieskirchen
-street: "Wengerstraße"
-housenumber: 4
-phone: "+43-7248-68089"
+street: Wengerstraße
+housenumber: "4"
+phone: +43-7248-68089
 opening_hours: ""
 website: ""

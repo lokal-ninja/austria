@@ -1,11 +1,11 @@
 id: 332118783
-type: way
+type: node
 latitude: 47.27348
 longitude: 9.61608
 postcode: "6830"
 city: Rankweil
-street: "Vorarlberger Straße"
-housenumber: 24
+street: Vorarlberger Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

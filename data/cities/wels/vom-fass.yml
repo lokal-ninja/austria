@@ -4,8 +4,8 @@ latitude: 48.15968
 longitude: 14.0243
 postcode: "4600"
 city: Wels
-street: "Bäckergasse"
-housenumber: 11
+street: Bäckergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su,PH off"
-website: "https://www.vomfass.at/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00; Su,PH off
+website: https://www.vomfass.at/

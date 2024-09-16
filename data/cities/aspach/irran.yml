@@ -1,11 +1,11 @@
 id: 265902509
-type: way
+type: node
 latitude: 48.18322
 longitude: 13.29623
 postcode: "5252"
 city: Aspach
-street: "Höhnharter Straße"
-housenumber: 43
+street: Höhnharter Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

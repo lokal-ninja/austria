@@ -1,11 +1,11 @@
 id: 131709644
-type: way
+type: node
 latitude: 47.70487
 longitude: 16.03571
 postcode: "2630"
 city: Ternitz
-street: "Triester Straße"
-housenumber: 86
-phone: "+43 59915 03923"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Triester Straße
+housenumber: "86"
+phone: +43 59915 03923
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

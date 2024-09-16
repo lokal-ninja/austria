@@ -1,11 +1,11 @@
 id: 304614060
-type: way
+type: node
 latitude: 46.73602
 longitude: 15.44577
 postcode: "8452"
 city: Großklein
 street: ""
-housenumber: 62
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-12:00
 website: ""

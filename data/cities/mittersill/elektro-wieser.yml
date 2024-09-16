@@ -1,11 +1,11 @@
 id: 160830595
-type: way
+type: node
 latitude: 47.28285
 longitude: 12.48229
 postcode: "5730"
 city: Mittersill
-street: "Zeller Straße"
-housenumber: 3
+street: Zeller Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.redzac-wieser.at/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.redzac-wieser.at/

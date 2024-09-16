@@ -1,11 +1,11 @@
 id: 111090225
-type: way
+type: node
 latitude: 48.50465
 longitude: 14.50019
 postcode: "4240"
 city: Freistadt
-street: "Neuhoferstraße"
-housenumber: 16
+street: Neuhoferstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

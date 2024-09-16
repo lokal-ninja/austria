@@ -4,8 +4,8 @@ latitude: 47.25819
 longitude: 11.4051
 postcode: "6020"
 city: Innsbruck
-street: "Olympiastraße"
-housenumber: 11
-phone: "+43 512 360299"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
-website: "https://www.billa.at"
+street: Olympiastraße
+housenumber: "11"
+phone: +43 512 360299
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
+website: https://www.billa.at

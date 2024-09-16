@@ -4,8 +4,8 @@ latitude: 48.18453
 longitude: 16.36435
 postcode: "1050"
 city: Wien
-street: "Laurenzgasse"
-housenumber: 12
+street: Laurenzgasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-aksa.at/"
+website: https://www.kfz-aksa.at/

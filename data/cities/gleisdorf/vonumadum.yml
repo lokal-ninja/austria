@@ -1,11 +1,11 @@
 id: 984906893
-type: way
+type: node
 latitude: 47.12014
 longitude: 15.71504
 postcode: "8200"
 city: Gleisdorf
-street: "Hartberger Straße"
-housenumber: 167
+street: Hartberger Straße
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

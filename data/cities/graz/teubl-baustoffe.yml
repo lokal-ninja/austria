@@ -1,11 +1,11 @@
 id: 462111431
-type: way
+type: node
 latitude: 47.03072
 longitude: 15.4407
 postcode: "8055"
 city: Graz
-street: "Rudersdorfer Straße"
-housenumber: 22
+street: Rudersdorfer Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

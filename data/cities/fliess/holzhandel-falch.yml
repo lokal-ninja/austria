@@ -1,11 +1,11 @@
 id: 322355356
-type: way
+type: node
 latitude: 47.11695
 longitude: 10.61618
 postcode: "6500"
 city: Fließ
-street: "Nesselgarten"
-housenumber: 421
+street: Nesselgarten
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

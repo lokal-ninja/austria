@@ -1,11 +1,11 @@
 id: 45235545
-type: way
+type: node
 latitude: 48.28039
 longitude: 15.69496
 postcode: "3130"
 city: Oberndorf in der Ebene
-street: "St. Pöltner Straße"
-housenumber: 44
+street: St. Pöltner Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

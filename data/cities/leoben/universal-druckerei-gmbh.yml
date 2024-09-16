@@ -4,8 +4,8 @@ latitude: 47.37755
 longitude: 15.09475
 postcode: "8700"
 city: Leoben
-street: "Gösser Straße"
-housenumber: 11
-phone: "+43 3842 44 77 60"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-13:00"
-website: "https://www.universaldruckerei.at/"
+street: Gösser Straße
+housenumber: "11"
+phone: +43 3842 44 77 60
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-13:00
+website: https://www.universaldruckerei.at/

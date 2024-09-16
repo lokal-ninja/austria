@@ -1,11 +1,11 @@
 id: 383267737
-type: way
+type: node
 latitude: 48.15593
 longitude: 15.90343
 postcode: "3033"
 city: Altlengbach
-street: "Reitermühlstraße"
-housenumber: 2
+street: Reitermühlstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

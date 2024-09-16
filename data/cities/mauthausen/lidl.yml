@@ -1,11 +1,11 @@
 id: 680712798
-type: way
+type: node
 latitude: 48.24672
 longitude: 14.5017
 postcode: "4310"
 city: Mauthausen
-street: "Linzer Straße"
-housenumber: 71
+street: Linzer Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 235780635
-type: way
+type: node
 latitude: 46.8846
 longitude: 15.51928
 postcode: "8410"
 city: Wildon
-street: "Am Bahnhof"
-housenumber: 2
-phone: "+43 3182 3277 4512"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://lagerhaus.at/standort/1739"
+street: Am Bahnhof
+housenumber: "2"
+phone: +43 3182 3277 4512
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://lagerhaus.at/standort/1739

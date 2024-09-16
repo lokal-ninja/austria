@@ -4,8 +4,8 @@ latitude: 48.19694
 longitude: 16.3039
 postcode: "1140"
 city: Wien
-street: "Matznergasse"
-housenumber: 32
-phone: "+43 1 914 51 83"
-opening_hours: "Mo-Fr 14:00-18:00; Tu,Th 09:00-13:00"
-website: "https://korbwaren-oberegger.at/"
+street: Matznergasse
+housenumber: "32"
+phone: +43 1 914 51 83
+opening_hours: Mo-Fr 14:00-18:00; Tu,Th 09:00-13:00
+website: https://korbwaren-oberegger.at/

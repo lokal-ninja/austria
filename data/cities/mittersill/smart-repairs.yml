@@ -4,8 +4,8 @@ latitude: 47.2784
 longitude: 12.48338
 postcode: "5730"
 city: Mittersill
-street: "Hallenbadstraße"
-housenumber: 2
+street: Hallenbadstraße
+housenumber: "2"
 phone: "+436804018446"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00, Sa 09:00-12:00"
-website: "https://www.smart-repairs.at/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00, Sa 09:00-12:00
+website: https://www.smart-repairs.at/

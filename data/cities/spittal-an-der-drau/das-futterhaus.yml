@@ -1,11 +1,11 @@
 id: 307623373
-type: way
+type: node
 latitude: 46.79297
 longitude: 13.50587
 postcode: "9800"
 city: Spittal an der Drau
-street: "Villacher Straße"
-housenumber: 29
+street: Villacher Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.dasfutterhaus.at/"
+website: https://www.dasfutterhaus.at/

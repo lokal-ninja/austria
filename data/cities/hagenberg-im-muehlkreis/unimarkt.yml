@@ -4,8 +4,8 @@ latitude: 48.36647
 longitude: 14.52065
 postcode: "4232"
 city: Hagenberg im Mühlkreis
-street: "Hauptstraße"
-housenumber: 69
-phone: "+43 7236 2314"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00"
-website: "https://unimarkt.at/standort/hagenberg/"
+street: Hauptstraße
+housenumber: "69"
+phone: +43 7236 2314
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00
+website: https://unimarkt.at/standort/hagenberg/

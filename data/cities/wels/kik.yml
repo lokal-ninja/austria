@@ -1,11 +1,11 @@
 id: 976410199
-type: way
+type: node
 latitude: 48.17711
 longitude: 14.06001
 postcode: "4600"
 city: Wels
-street: "Linzer Straße"
-housenumber: 226
+street: Linzer Straße
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

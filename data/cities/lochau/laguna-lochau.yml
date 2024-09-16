@@ -1,11 +1,12 @@
 id: 132697850
-type: way
+type: node
 latitude: 47.52779
 longitude: 9.74522
 postcode: "6911"
 city: Lochau
-street: "Lindauer Straße"
-housenumber: 42
+street: Lindauer Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo,We,Fr 09:30-13:00,14:00-18:30; Tu 09:30-13:00,14:00-18:30; Sa 09:00-14:00; Th,Su off"
-website: "https://www.laguna-lochau.at/"
+opening_hours: Mo,We,Fr 09:30-13:00,14:00-18:30; Tu 09:30-13:00,14:00-18:30; Sa 09:00-14:00;
+    Th,Su off
+website: https://www.laguna-lochau.at/

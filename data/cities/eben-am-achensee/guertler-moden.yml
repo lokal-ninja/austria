@@ -1,11 +1,11 @@
 id: 100299310
-type: way
+type: node
 latitude: 47.42393
 longitude: 11.74708
 postcode: "6212"
 city: Eben am Achensee
-street: "Dorfstraße"
-housenumber: 43
+street: Dorfstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

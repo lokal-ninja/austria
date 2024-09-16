@@ -1,11 +1,11 @@
 id: 157152727
-type: way
+type: node
 latitude: 47.41202
 longitude: 9.7097
 postcode: "6850"
 city: Dornbirn
-street: "Untere Roßmähder"
-housenumber: 2
-phone: "+43 5572 23232-0"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-12:00"
+street: Untere Roßmähder
+housenumber: "2"
+phone: +43 5572 23232-0
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 96412531
-type: way
+type: node
 latitude: 47.34372
 longitude: 9.63555
 postcode: "6840"
 city: Götzis
-street: "Appenzeller Straße"
-housenumber: 57
+street: Appenzeller Straße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

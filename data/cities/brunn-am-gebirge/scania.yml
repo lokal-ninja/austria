@@ -1,11 +1,11 @@
 id: 311151312
-type: way
+type: node
 latitude: 48.11129
 longitude: 16.30748
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Johann-Steinböck-Straße"
-housenumber: 4
+street: Johann-Steinböck-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 12:30-18:00"
+opening_hours: Mo-Fr 07:30-12:00, 12:30-18:00
 website: ""

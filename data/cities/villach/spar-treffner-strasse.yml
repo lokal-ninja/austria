@@ -1,11 +1,11 @@
 id: 1003531918
-type: way
+type: node
 latitude: 46.62129
 longitude: 13.85132
 postcode: "9500"
 city: Villach
-street: "Treffner Straße"
-housenumber: 1
-phone: "+43 4242 26232"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at"
+street: Treffner Straße
+housenumber: "1"
+phone: +43 4242 26232
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at

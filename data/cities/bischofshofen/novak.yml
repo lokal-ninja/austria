@@ -4,8 +4,8 @@ latitude: 47.41617
 longitude: 13.21867
 postcode: "5500"
 city: Bischofshofen
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,Fr 09:00-12:30,14:00-18:00; Tu-Th 09:00-12:00,14:00-18:00; Sa 09:00-12:30,14:00-16:00"
+opening_hours: Mo,Fr 09:00-12:30,14:00-18:00; Tu-Th 09:00-12:00,14:00-18:00; Sa 09:00-12:30,14:00-16:00
 website: ""

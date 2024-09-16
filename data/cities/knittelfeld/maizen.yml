@@ -4,8 +4,8 @@ latitude: 47.21642
 longitude: 14.83484
 postcode: "8720"
 city: Knittelfeld
-street: "Bahnstraße"
-housenumber: 43
-phone: "+43 3512/83449"
+street: Bahnstraße
+housenumber: "43"
+phone: +43 3512/83449
 opening_hours: ""
-website: "https://www.maizen.at/kontakt/"
+website: https://www.maizen.at/kontakt/

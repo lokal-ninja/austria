@@ -1,11 +1,11 @@
 id: 1232640636
-type: way
+type: node
 latitude: 48.21361
 longitude: 14.40236
 postcode: "4490"
 city: St. Florian
-street: "Am Bäckerberg"
+street: Am Bäckerberg
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa,Su,PH 07:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa,Su,PH 07:00-22:00
 website: ""

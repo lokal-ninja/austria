@@ -1,11 +1,11 @@
 id: 625876768
-type: way
+type: node
 latitude: 48.18098
 longitude: 14.00955
 postcode: "4600"
 city: Wels
-street: "Oberfeldstraße"
-housenumber: 77
+street: Oberfeldstraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

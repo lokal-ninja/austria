@@ -1,11 +1,11 @@
 id: 224871969
-type: way
+type: node
 latitude: 47.37933
 longitude: 12.41868
 postcode: "6373"
 city: Jochberg
-street: "Dorf"
-housenumber: 26
+street: Dorf
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

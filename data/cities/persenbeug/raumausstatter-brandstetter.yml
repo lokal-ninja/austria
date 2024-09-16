@@ -1,11 +1,11 @@
 id: 132370785
-type: way
+type: node
 latitude: 48.189
 longitude: 15.09278
 postcode: "3680"
 city: Persenbeug
-street: "Nibelungenstraße"
-housenumber: 48
+street: Nibelungenstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

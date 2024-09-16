@@ -1,11 +1,11 @@
 id: 1284892484
-type: way
+type: node
 latitude: 48.18598
 longitude: 16.3766
 postcode: "1100"
 city: Wien
-street: "Wiedner Gürtel"
-housenumber: 13
-phone: "+43 1 503194029"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-19:00"
+street: Wiedner Gürtel
+housenumber: "13"
+phone: +43 1 503194029
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-19:00
 website: ""

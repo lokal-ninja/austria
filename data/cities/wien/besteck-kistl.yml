@@ -4,8 +4,8 @@ latitude: 48.21036
 longitude: 16.37346
 postcode: "1010"
 city: Wien
-street: "Bauernmarkt"
-housenumber: 18
-phone: "+43 1 533 01 35"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.besteckkistl.at/"
+street: Bauernmarkt
+housenumber: "18"
+phone: +43 1 533 01 35
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.besteckkistl.at/

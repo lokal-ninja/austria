@@ -1,11 +1,11 @@
 id: 178749949
-type: way
+type: node
 latitude: 48.19061
 longitude: 15.61901
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 81
+street: Mariazeller Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.hofer.at

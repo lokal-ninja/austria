@@ -1,11 +1,11 @@
 id: 257434398
-type: way
+type: node
 latitude: 46.98931
 longitude: 15.39762
 postcode: "8054"
 city: Premstätten
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

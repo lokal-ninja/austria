@@ -1,11 +1,11 @@
 id: 178364462
-type: way
+type: node
 latitude: 46.76488
 longitude: 14.3648
 postcode: "9300"
 city: Sankt Veit an der Glan
-street: "Lastenstraße"
-housenumber: 32
+street: Lastenstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

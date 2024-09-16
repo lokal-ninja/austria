@@ -1,11 +1,11 @@
 id: 509292178
-type: way
+type: node
 latitude: 48.41404
 longitude: 16.08618
 postcode: "3464"
 city: Seitzersdorf-Wolfpassing
-street: "Horner Straße"
-housenumber: 35
+street: Horner Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 266640136
-type: way
+type: node
 latitude: 48.20203
 longitude: 15.61403
 postcode: "3100"
 city: St. Pölten
-street: "Lagerhausgasse"
-housenumber: 2
+street: Lagerhausgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

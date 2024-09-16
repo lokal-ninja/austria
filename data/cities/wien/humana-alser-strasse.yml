@@ -4,8 +4,8 @@ latitude: 48.21513
 longitude: 16.34741
 postcode: "1080"
 city: Wien
-street: "Alser Straße"
-housenumber: 41
+street: Alser Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

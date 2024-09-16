@@ -5,7 +5,7 @@ longitude: 14.61792
 postcode: "8933"
 city: Sankt Gallen
 street: ""
-housenumber: 161
+housenumber: "161"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00"
-website: "http://www.bici-sport.at/"
+opening_hours: Tu-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00
+website: http://www.bici-sport.at/

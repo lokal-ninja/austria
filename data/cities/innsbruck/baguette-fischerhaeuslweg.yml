@@ -4,8 +4,8 @@ latitude: 47.2618
 longitude: 11.36463
 postcode: "6020"
 city: Innsbruck
-street: "Fischerhäuslweg"
-housenumber: 31
-phone: "+43 50322 926092"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-18:00; PH off"
-website: "https://www.baguette.at/handel/baguette/innsbruck-fischerhaeuslweg-31.html"
+street: Fischerhäuslweg
+housenumber: "31"
+phone: +43 50322 926092
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-18:00; PH off
+website: https://www.baguette.at/handel/baguette/innsbruck-fischerhaeuslweg-31.html

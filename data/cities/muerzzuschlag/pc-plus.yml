@@ -4,8 +4,8 @@ latitude: 47.606
 longitude: 15.67133
 postcode: "8680"
 city: Mürzzuschlag
-street: "Hauptplatz"
-housenumber: 4
+street: Hauptplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30, 16:30-18:00; Sa 08:30-12:00"
-website: "https://www.pcplus.co.at/kontakt.htm"
+opening_hours: Mo-Fr 08:30-12:30, 16:30-18:00; Sa 08:30-12:00
+website: https://www.pcplus.co.at/kontakt.htm

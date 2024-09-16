@@ -4,8 +4,8 @@ latitude: 47.15118
 longitude: 9.81194
 postcode: "6706"
 city: Bürs
-street: "Almteilweg"
-housenumber: 1
-phone: "+43 1 54699"
-opening_hours: "Mo-Th 09:00-21:00"
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-B%C3%BCrs,23353,-15.html"
+street: Almteilweg
+housenumber: "1"
+phone: +43 1 54699
+opening_hours: Mo-Th 09:00-21:00
+website: https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-B%C3%BCrs,23353,-15.html

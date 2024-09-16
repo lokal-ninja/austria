@@ -1,11 +1,11 @@
 id: 135302459
-type: way
+type: node
 latitude: 48.7186
 longitude: 16.39786
 postcode: "2136"
 city: Laa an der Thaya
-street: "Simon-Scheiner-Straße"
-housenumber: 19
-phone: "+43 59915 03860"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Simon-Scheiner-Straße
+housenumber: "19"
+phone: +43 59915 03860
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

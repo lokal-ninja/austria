@@ -4,8 +4,8 @@ latitude: 48.21823
 longitude: 16.33253
 postcode: "1170"
 city: Wien
-street: "Elterleinplatz"
-housenumber: 15
+street: Elterleinplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; PH,Su off"
-website: "https://embergeroptik.de/filiale/wien-3"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00; PH,Su off
+website: https://embergeroptik.de/filiale/wien-3

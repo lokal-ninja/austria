@@ -1,11 +1,11 @@
 id: 353385596
-type: way
+type: node
 latitude: 48.12018
 longitude: 14.87083
 postcode: "3300"
 city: Amstetten
-street: "Roseggerstraße"
-housenumber: 2
+street: Roseggerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, Mo-We 14:30-18:00; Fr 14:30-18:00"
+opening_hours: Mo-Sa 08:00-12:00, Mo-We 14:30-18:00; Fr 14:30-18:00
 website: ""

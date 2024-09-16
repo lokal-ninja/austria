@@ -4,8 +4,8 @@ latitude: 47.06826
 longitude: 15.4472
 postcode: "8010"
 city: Graz
-street: "Kaiser-Josef-Platz"
-housenumber: 6
-phone: "+43 / 663 / 03006312"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 08:00-13:00"
-website: "https://www.confiseriedengel.at/"
+street: Kaiser-Josef-Platz
+housenumber: "6"
+phone: +43 / 663 / 03006312
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 08:00-13:00
+website: https://www.confiseriedengel.at/

@@ -1,11 +1,11 @@
 id: 132378115
-type: way
+type: node
 latitude: 46.5247
 longitude: 14.30048
 postcode: "9170"
 city: Ferlach
-street: "Werkstraße"
-housenumber: 12
+street: Werkstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

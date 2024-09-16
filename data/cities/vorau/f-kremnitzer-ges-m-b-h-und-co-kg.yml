@@ -1,11 +1,11 @@
 id: 392564909
-type: way
+type: node
 latitude: 47.40434
 longitude: 15.87902
 postcode: "8250"
 city: Vorau
-street: "Hauptstraße"
-housenumber: 285
+street: Hauptstraße
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

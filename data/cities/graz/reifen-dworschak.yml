@@ -1,11 +1,11 @@
 id: 88048232
-type: way
+type: node
 latitude: 47.0764
 longitude: 15.43044
 postcode: "8020"
 city: Graz
-street: "Keplerstraße"
-housenumber: 15
+street: Keplerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
 website: ""

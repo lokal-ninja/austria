@@ -1,11 +1,11 @@
 id: 95868567
-type: way
+type: node
 latitude: 47.57356
 longitude: 14.85211
 postcode: "8790"
 city: Eisenerz
-street: "Seestraße"
-housenumber: 13
+street: Seestraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.leopoldsteinersee.at"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.leopoldsteinersee.at

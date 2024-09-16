@@ -1,11 +1,11 @@
 id: 167529519
-type: way
+type: node
 latitude: 48.21546
 longitude: 16.39662
 postcode: "1020"
 city: Wien
 street: ""
-housenumber: 97
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

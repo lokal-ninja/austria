@@ -4,8 +4,8 @@ latitude: 47.95956
 longitude: 13.20183
 postcode: "5203"
 city: Köstendorf
-street: "Bittersamstraße"
-housenumber: 11
+street: Bittersamstraße
+housenumber: "11"
 phone: ""
-opening_hours: "u-Th 14:00-18:00; Fr 07:00-18:00; Sa 07:00-14:00"
-website: "https://www.hairbyhaas.at/"
+opening_hours: u-Th 14:00-18:00; Fr 07:00-18:00; Sa 07:00-14:00
+website: https://www.hairbyhaas.at/

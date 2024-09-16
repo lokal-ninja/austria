@@ -4,8 +4,8 @@ latitude: 48.21946
 longitude: 16.38892
 postcode: "1020"
 city: Wien
-street: "Kleine Stadtgutgasse"
-housenumber: 12
-phone: "43 650 214 3361"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 14:00-18:00; Sa 08:00-12:00"
-website: "http://www.yourlifestyle.at/"
+street: Kleine Stadtgutgasse
+housenumber: "12"
+phone: 43 650 214 3361
+opening_hours: Tu,Th,Fr 09:00-18:00; We 14:00-18:00; Sa 08:00-12:00
+website: http://www.yourlifestyle.at/

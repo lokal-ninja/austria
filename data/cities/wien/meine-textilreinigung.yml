@@ -4,8 +4,8 @@ latitude: 48.18582
 longitude: 16.29851
 postcode: "1130"
 city: Wien
-street: "Altgasse"
-housenumber: 20
+street: Altgasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-18:00; Tu,Th 08:00-13:00; Sa 09:00-13:00"
-website: "http://www.meine-textilreinigung.at/"
+opening_hours: Mo,We,Fr 08:00-18:00; Tu,Th 08:00-13:00; Sa 09:00-13:00
+website: http://www.meine-textilreinigung.at/

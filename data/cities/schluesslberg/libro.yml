@@ -1,11 +1,11 @@
 id: 241338685
-type: way
+type: node
 latitude: 48.22613
 longitude: 13.85043
 postcode: "4707"
 city: Schlüßlberg
-street: "Handelspark"
-housenumber: 4
+street: Handelspark
+housenumber: "4"
 phone: "+43724863731"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
 website: ""

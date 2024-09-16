@@ -1,11 +1,11 @@
 id: 305626406
-type: way
+type: node
 latitude: 48.28563
 longitude: 16.36905
 postcode: "1210"
 city: Wien
-street: "Trauzlgasse"
-housenumber: 1
+street: Trauzlgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

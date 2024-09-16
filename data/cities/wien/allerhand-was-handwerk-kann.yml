@@ -4,8 +4,8 @@ latitude: 48.18959
 longitude: 16.30469
 postcode: "1140"
 city: Wien
-street: "Nisselgasse"
+street: Nisselgasse
 housenumber: 16/2
-phone: "+43 678 129 99 34"
-opening_hours: "Mo 13:00-18:30, Tu-Fr 10:00-18:30; Sa 09:00-13:00"
-website: "https://www.allerhand.wien"
+phone: +43 678 129 99 34
+opening_hours: Mo 13:00-18:30, Tu-Fr 10:00-18:30; Sa 09:00-13:00
+website: https://www.allerhand.wien

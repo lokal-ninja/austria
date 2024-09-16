@@ -1,11 +1,11 @@
 id: 241886307
-type: way
+type: node
 latitude: 48.11425
 longitude: 14.92299
 postcode: "3304"
 city: Hart
-street: "Automeile"
-housenumber: 3
+street: Automeile
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "https://www.sonnleitner-auto.com/"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-18:00; Sa 09:00-12:00
+website: https://www.sonnleitner-auto.com/

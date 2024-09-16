@@ -1,11 +1,11 @@
 id: 107361516
-type: way
+type: node
 latitude: 47.8887
 longitude: 16.95456
 postcode: "7123"
 city: Mönchhof
-street: "Betriebsgebiet Nord"
-housenumber: 4
+street: Betriebsgebiet Nord
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 166334412
-type: way
+type: node
 latitude: 47.95687
 longitude: 16.30601
 postcode: "2523"
 city: Tattendorf
-street: "Wally Neuzil Platz"
-housenumber: 1
+street: Wally Neuzil Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

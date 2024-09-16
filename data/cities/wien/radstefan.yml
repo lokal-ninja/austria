@@ -4,8 +4,8 @@ latitude: 48.19628
 longitude: 16.30395
 postcode: "1140"
 city: Wien
-street: "Matznergasse"
-housenumber: 26
+street: Matznergasse
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 15:00-18:00"
+opening_hours: Tu-Fr 09:00-12:00, 15:00-18:00
 website: ""

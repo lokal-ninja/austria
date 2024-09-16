@@ -5,7 +5,7 @@ longitude: 11.12528
 postcode: "6105"
 city: Leutasch
 street: ""
-housenumber: 30
-phone: "+43 677 620 761 68"
-opening_hours: "24/7"
-website: "https://www.wirtseppeler.at/"
+housenumber: "30"
+phone: +43 677 620 761 68
+opening_hours: 24/7
+website: https://www.wirtseppeler.at/

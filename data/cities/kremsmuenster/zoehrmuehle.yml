@@ -1,11 +1,11 @@
 id: 54982026
-type: way
+type: node
 latitude: 48.05258
 longitude: 14.12919
 postcode: "4550"
 city: Kremsmünster
-street: "Rathausplatz"
-housenumber: 4
+street: Rathausplatz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

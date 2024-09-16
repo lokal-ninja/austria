@@ -4,8 +4,8 @@ latitude: 48.19682
 longitude: 16.34368
 postcode: "1070"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 108
-phone: "+43 15233172"
-opening_hours: "Mo-Fr 08:30-19:30; Sa 09:00-18:00"
-website: "https://www.dm.at"
+street: Mariahilfer Straße
+housenumber: "108"
+phone: +43 15233172
+opening_hours: Mo-Fr 08:30-19:30; Sa 09:00-18:00
+website: https://www.dm.at

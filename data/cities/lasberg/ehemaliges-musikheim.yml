@@ -1,11 +1,11 @@
 id: 217814241
-type: way
+type: node
 latitude: 48.47207
 longitude: 14.54179
 postcode: "4291"
 city: Lasberg
-street: "Oswalderstraße"
-housenumber: 2
+street: Oswalderstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

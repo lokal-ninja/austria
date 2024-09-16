@@ -4,8 +4,8 @@ latitude: 47.05112
 longitude: 15.41233
 postcode: "8053"
 city: Graz
-street: "Harter Straße"
-housenumber: 70
+street: Harter Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00;Fr 08:00-19:00"
-website: "http://www.euromotors.cc"
+opening_hours: Mo-Th 08:00-18:00;Fr 08:00-19:00
+website: http://www.euromotors.cc

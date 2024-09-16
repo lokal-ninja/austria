@@ -1,11 +1,11 @@
 id: 241886230
-type: way
+type: node
 latitude: 48.1144
 longitude: 14.92361
 postcode: "3304"
 city: Hart
-street: "Automeile"
-housenumber: 2
+street: Automeile
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-16:30"
-website: "https://www.slawitscheck.at/"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-16:30
+website: https://www.slawitscheck.at/

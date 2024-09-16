@@ -1,11 +1,11 @@
 id: 51745190
-type: way
+type: node
 latitude: 48.26061
 longitude: 14.25483
 postcode: "4060"
 city: Leonding
-street: "Meixnerstraße"
-housenumber: 8
+street: Meixnerstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

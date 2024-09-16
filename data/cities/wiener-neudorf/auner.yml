@@ -1,11 +1,11 @@
 id: 166880378
-type: way
+type: node
 latitude: 48.08531
 longitude: 16.31344
 postcode: "2351"
 city: Wiener Neudorf
-street: "Wienerstraße"
+street: Wienerstraße
 housenumber: 11-13
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:30"
-website: "https://www.auner.at/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:30
+website: https://www.auner.at/

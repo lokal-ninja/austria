@@ -1,11 +1,11 @@
 id: 30382874
-type: way
+type: node
 latitude: 46.78197
 longitude: 15.56432
 postcode: "8430"
 city: Leibnitz-Leitring
-street: "Leitringer Hauptstraße"
-housenumber: 55
+street: Leitringer Hauptstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

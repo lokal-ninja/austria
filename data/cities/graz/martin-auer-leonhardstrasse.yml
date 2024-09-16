@@ -4,8 +4,8 @@ latitude: 47.07248
 longitude: 15.45214
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 33
+street: Leonhardstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-12:30; Su 07:00-12:00"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-12:30; Su 07:00-12:00
 website: ""

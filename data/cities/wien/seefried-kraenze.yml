@@ -1,11 +1,11 @@
 id: 354945992
-type: way
+type: node
 latitude: 48.15426
 longitude: 16.44481
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 351
-phone: "+43 1 769 63 10"
+street: Simmeringer Hauptstraße
+housenumber: "351"
+phone: +43 1 769 63 10
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 579417329
-type: way
+type: node
 latitude: 47.23392
 longitude: 10.74226
 postcode: "6460"
 city: Imst
-street: "Langgasse"
-housenumber: 38
+street: Langgasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
-website: "https://www.spar.at/standorte/interspar-imst-6460-langgasse-38"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
+website: https://www.spar.at/standorte/interspar-imst-6460-langgasse-38

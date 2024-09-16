@@ -1,11 +1,11 @@
 id: 416211125
-type: way
+type: node
 latitude: 47.53193
 longitude: 14.10425
 postcode: "8950"
 city: Stainach
-street: "Salzburgerstraße"
-housenumber: 495
+street: Salzburgerstraße
+housenumber: "495"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 48.33151
 longitude: 14.31211
 postcode: "4040"
 city: Linz
-street: "Dornacher Straße"
-housenumber: 1
+street: Dornacher Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 07:00-12:30,14:00-18:00; Tu 07:00-12:00,14:00-18:00; We 07:00-12:30,14:00-18:30; Th 07:00-12:30,14:00-18:00; Fr 07:00-18:30; Sa 07:00-12:30"
+opening_hours: Mo 07:00-12:30,14:00-18:00; Tu 07:00-12:00,14:00-18:00; We 07:00-12:30,14:00-18:30;
+    Th 07:00-12:30,14:00-18:00; Fr 07:00-18:30; Sa 07:00-12:30
 website: ""

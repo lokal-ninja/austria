@@ -1,11 +1,11 @@
 id: 223110123
-type: way
+type: node
 latitude: 48.12154
 longitude: 16.59839
 postcode: "2401"
 city: Fischamend
-street: "Reichsstraße"
-housenumber: 2
-phone: "+43 800 202055"
-opening_hours: "24/7"
+street: Reichsstraße
+housenumber: "2"
+phone: +43 800 202055
+opening_hours: 24/7
 website: ""

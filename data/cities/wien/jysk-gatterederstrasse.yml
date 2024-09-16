@@ -1,11 +1,11 @@
 id: 296199490
-type: way
+type: node
 latitude: 48.15173
 longitude: 16.29175
 postcode: "1230"
 city: Wien
-street: "Gatterederstraße"
-housenumber: 9
+street: Gatterederstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://jysk.at/stores-locator?storeId=5154"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://jysk.at/stores-locator?storeId=5154

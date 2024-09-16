@@ -4,8 +4,8 @@ latitude: 47.98682
 longitude: 14.7457
 postcode: "3333"
 city: Böhlerwerk
-street: "Dr.-Theodor-Körner-Hof"
-housenumber: 12
+street: Dr.-Theodor-Körner-Hof
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 14:00-17:00; Fr 07:30-14:00"
-website: "https://www.elektro-stockinger.at/"
+opening_hours: Mo-Th 07:30-12:00, 14:00-17:00; Fr 07:30-14:00
+website: https://www.elektro-stockinger.at/

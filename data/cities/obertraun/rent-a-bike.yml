@@ -1,11 +1,11 @@
 id: 1175121263
-type: way
+type: node
 latitude: 47.55877
 longitude: 13.68307
 postcode: "4831"
 city: Obertraun
 street: ""
-housenumber: 265
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

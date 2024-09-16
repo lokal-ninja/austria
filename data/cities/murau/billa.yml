@@ -1,11 +1,11 @@
 id: 303859241
-type: way
+type: node
 latitude: 47.11429
 longitude: 14.1743
 postcode: "8850"
 city: Murau
-street: "Karl-Brunner-Siedlung"
-housenumber: 1
-phone: "+433532 4267"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Karl-Brunner-Siedlung
+housenumber: "1"
+phone: +433532 4267
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

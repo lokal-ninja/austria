@@ -1,11 +1,11 @@
 id: 1228466886
-type: way
+type: node
 latitude: 48.25444
 longitude: 16.01381
 postcode: "3443"
 city: Sieghartskirchen
-street: "Preßbaumer Straße"
-housenumber: 7
-phone: "+ 43 2274 2289"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00; Sa 07:00-12:00"
-website: "https://www.baustoffe-gutscher.at/"
+street: Preßbaumer Straße
+housenumber: "7"
+phone: + 43 2274 2289
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00; Sa 07:00-12:00
+website: https://www.baustoffe-gutscher.at/

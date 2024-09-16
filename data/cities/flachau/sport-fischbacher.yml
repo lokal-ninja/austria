@@ -1,11 +1,11 @@
 id: 65968189
-type: way
+type: node
 latitude: 47.35957
 longitude: 13.38315
 postcode: "5542"
 city: Flachau
-street: "Liftstraße"
-housenumber: 281
+street: Liftstraße
+housenumber: "281"
 phone: ""
 opening_hours: ""
 website: ""

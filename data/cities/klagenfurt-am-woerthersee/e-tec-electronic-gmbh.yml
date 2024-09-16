@@ -4,8 +4,8 @@ latitude: 46.6011
 longitude: 14.29733
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Rosentaler Straße"
-housenumber: 189
-phone: "+43 7672 958800"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.e-tec.at/"
+street: Rosentaler Straße
+housenumber: "189"
+phone: +43 7672 958800
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: https://www.e-tec.at/

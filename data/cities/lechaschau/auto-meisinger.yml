@@ -1,11 +1,11 @@
 id: 217328580
-type: way
+type: node
 latitude: 47.48059
 longitude: 10.70056
 postcode: "6600"
 city: Lechaschau
-street: "Lechtaler Straße"
-housenumber: 56
+street: Lechtaler Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

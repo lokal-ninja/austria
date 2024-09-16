@@ -1,11 +1,11 @@
 id: 167173018
-type: way
+type: node
 latitude: 48.37974
 longitude: 16.35798
 postcode: "2111"
 city: Tresdorf
-street: "Korneuburger Straße"
-housenumber: 8
+street: Korneuburger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

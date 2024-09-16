@@ -1,11 +1,11 @@
 id: 315071031
-type: way
+type: node
 latitude: 46.64614
 longitude: 14.31368
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "St. Veiter Straße"
-housenumber: 147
-phone: "+43 3338 4515"
+street: St. Veiter Straße
+housenumber: "147"
+phone: +43 3338 4515
 opening_hours: ""
-website: "https://faustmann-moebel.at/"
+website: https://faustmann-moebel.at/

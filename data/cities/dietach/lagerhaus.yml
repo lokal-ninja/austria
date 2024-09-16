@@ -1,11 +1,11 @@
 id: 396555283
-type: way
+type: node
 latitude: 48.07676
 longitude: 14.42483
 postcode: "4407"
 city: Dietach
-street: "Ennser Straße"
-housenumber: 79
+street: Ennser Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00; Sa 07:30-12:00
 website: ""

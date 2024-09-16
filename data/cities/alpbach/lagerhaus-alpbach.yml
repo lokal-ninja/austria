@@ -1,11 +1,11 @@
 id: 85122972
-type: way
+type: node
 latitude: 47.39467
 longitude: 11.94019
 postcode: "6236"
 city: Alpbach
-street: "Alpbach"
-housenumber: 220
+street: Alpbach
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.unser-lagerhaus.at/"
+website: https://www.unser-lagerhaus.at/

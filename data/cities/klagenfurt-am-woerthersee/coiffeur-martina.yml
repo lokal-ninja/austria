@@ -4,8 +4,8 @@ latitude: 46.61803
 longitude: 14.30985
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Kempfstraße"
-housenumber: 12
-phone: "0664 5949828"
-opening_hours: "by appointment"
+street: Kempfstraße
+housenumber: "12"
+phone: 0664 5949828
+opening_hours: '"by appointment"'
 website: ""

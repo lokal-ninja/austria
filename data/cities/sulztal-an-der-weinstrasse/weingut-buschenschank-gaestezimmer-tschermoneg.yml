@@ -1,11 +1,11 @@
 id: 208562460
-type: way
+type: node
 latitude: 46.6819
 longitude: 15.54595
 postcode: "8461"
 city: Sulztal an der Weinstraße
 street: ""
-housenumber: 32
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "http://www.weinbergurlaub.at"
+website: http://www.weinbergurlaub.at

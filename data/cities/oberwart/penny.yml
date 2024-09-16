@@ -1,11 +1,11 @@
 id: 902218729
-type: way
+type: node
 latitude: 47.28577
 longitude: 16.20842
 postcode: "7400"
 city: Oberwart
-street: "Schulgasse"
-housenumber: 20
+street: Schulgasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.at"
+website: https://www.penny.at

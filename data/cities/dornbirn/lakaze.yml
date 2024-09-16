@@ -4,8 +4,8 @@ latitude: 47.43148
 longitude: 9.74019
 postcode: "6850"
 city: Dornbirn
-street: "Schwefel"
-housenumber: 82
-phone: "+43 5572 3751 136"
-opening_hours: "Mo-Th 07:30-12:00,13:00-18:00; Fr 07:30-12:00,13:00-17:00"
-website: "https://www.lakaze.biz/"
+street: Schwefel
+housenumber: "82"
+phone: +43 5572 3751 136
+opening_hours: Mo-Th 07:30-12:00,13:00-18:00; Fr 07:30-12:00,13:00-17:00
+website: https://www.lakaze.biz/

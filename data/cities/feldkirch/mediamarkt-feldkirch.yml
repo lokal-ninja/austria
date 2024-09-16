@@ -4,8 +4,8 @@ latitude: 47.27066
 longitude: 9.61306
 postcode: "6800"
 city: Feldkirch
-street: "Königshofstraße"
-housenumber: 79
-phone: "+43 1 54699"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:30-18:00"
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Feldkirch,53853,-15.html"
+street: Königshofstraße
+housenumber: "79"
+phone: +43 1 54699
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:30-18:00
+website: https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Feldkirch,53853,-15.html

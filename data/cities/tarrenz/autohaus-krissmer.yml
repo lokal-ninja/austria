@@ -1,11 +1,11 @@
 id: 204538885
-type: way
+type: node
 latitude: 47.26044
 longitude: 10.75887
 postcode: "6464"
 city: Tarrenz
-street: "Hauptstraße"
-housenumber: 71
+street: Hauptstraße
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-krissmer.at"
+website: http://www.autohaus-krissmer.at

@@ -1,11 +1,11 @@
 id: 145937167
-type: way
+type: node
 latitude: 48.6676
 longitude: 15.62862
 postcode: "3580"
 city: St. Bernhard-Frauenhofen
-street: "Scheibenstraße"
-housenumber: 30
+street: Scheibenstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

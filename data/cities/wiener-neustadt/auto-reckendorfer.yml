@@ -1,11 +1,11 @@
 id: 248924934
-type: way
+type: node
 latitude: 47.80483
 longitude: 16.23605
 postcode: "2700"
 city: Wiener Neustadt
-street: "Neunkirchner Straße"
-housenumber: 70
+street: Neunkirchner Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:00
 website: ""

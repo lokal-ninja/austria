@@ -4,8 +4,8 @@ latitude: 48.22583
 longitude: 16.35499
 postcode: "1090"
 city: Wien
-street: "Nussdorfer Straße"
-housenumber: 29
-phone: "+43 (0)1 / 3174580"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-13:00"
-website: "https://www.gruppalultima.at/newsite/page/?page_id=48"
+street: Nussdorfer Straße
+housenumber: "29"
+phone: +43 (0)1 / 3174580
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-13:00
+website: https://www.gruppalultima.at/newsite/page/?page_id=48

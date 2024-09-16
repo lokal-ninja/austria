@@ -4,8 +4,9 @@ latitude: 48.79288
 longitude: 15.07265
 postcode: "3943"
 city: Schrems
-street: "Hauptplatz"
-housenumber: 25
-phone: "+43 2853 77461"
-opening_hours: "Mo-Tu 08:00-12:00,14:30-18:00; We 08:00-12:00; Th-Fr 08:00-12:00,14:30-18:00; Sa,Su,PH off"
+street: Hauptplatz
+housenumber: "25"
+phone: +43 2853 77461
+opening_hours: Mo-Tu 08:00-12:00,14:30-18:00; We 08:00-12:00; Th-Fr 08:00-12:00,14:30-18:00;
+    Sa,Su,PH off
 website: ""

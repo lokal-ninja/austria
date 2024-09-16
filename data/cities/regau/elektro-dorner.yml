@@ -1,11 +1,11 @@
 id: 331788701
-type: way
+type: node
 latitude: 47.98983
 longitude: 13.69021
 postcode: "4844"
 city: Regau
-street: "Marktstraße"
-housenumber: 31
-phone: "+43 7672 72 802"
+street: Marktstraße
+housenumber: "31"
+phone: +43 7672 72 802
 opening_hours: ""
-website: "http://www.elektro-dorner.com/"
+website: http://www.elektro-dorner.com/

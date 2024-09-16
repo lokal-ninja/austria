@@ -1,11 +1,11 @@
 id: 24003027
-type: way
+type: node
 latitude: 48.26054
 longitude: 14.25916
 postcode: "4060"
 city: Leonding
-street: "Kornstraße"
-housenumber: 2
-phone: "+43 732 684040"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off"
+street: Kornstraße
+housenumber: "2"
+phone: +43 732 684040
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 332060171
-type: way
+type: node
 latitude: 47.82096
 longitude: 14.64016
 postcode: "4464"
 city: Weyer
 street: ""
-housenumber: 165
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 97546028
-type: way
+type: node
 latitude: 47.04255
 longitude: 15.48404
 postcode: "8042"
 city: Graz
-street: "Styriastraße"
-housenumber: 14
+street: Styriastraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.hofer.at/

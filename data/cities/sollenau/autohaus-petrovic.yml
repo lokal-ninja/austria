@@ -1,11 +1,11 @@
 id: 631748163
-type: way
+type: node
 latitude: 47.91168
 longitude: 16.25575
 postcode: "2601"
 city: Sollenau
-street: "Industriestraße-Nord"
-housenumber: 2
-phone: "+43 699 19253254"
+street: Industriestraße-Nord
+housenumber: "2"
+phone: +43 699 19253254
 opening_hours: ""
-website: "https://petrocars.at/"
+website: https://petrocars.at/

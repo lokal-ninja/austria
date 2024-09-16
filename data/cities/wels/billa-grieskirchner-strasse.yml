@@ -1,11 +1,11 @@
 id: 37047180
-type: way
+type: node
 latitude: 48.18024
 longitude: 14.01866
 postcode: "4600"
 city: Wels
-street: "Grieskirchner Straße"
-housenumber: 121
-phone: "+43 7242 63266"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Grieskirchner Straße
+housenumber: "121"
+phone: +43 7242 63266
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

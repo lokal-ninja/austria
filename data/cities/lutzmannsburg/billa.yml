@@ -1,11 +1,11 @@
 id: 128602094
-type: way
+type: node
 latitude: 47.46342
 longitude: 16.62747
 postcode: "7361"
 city: Lutzmannsburg
-street: "Birkenhain"
-housenumber: 
-phone: "+43-2615-81209"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Birkenhain
+housenumber: ""
+phone: +43-2615-81209
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

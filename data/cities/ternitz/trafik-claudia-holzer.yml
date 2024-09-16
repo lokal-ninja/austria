@@ -1,11 +1,11 @@
 id: 510252724
-type: way
+type: node
 latitude: 47.708
 longitude: 16.02381
 postcode: "2630"
 city: Ternitz
-street: "Franz-Samwald-Straße"
-housenumber: 136
+street: Franz-Samwald-Straße
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Fr 05:00-11:00,13:00-17:00; Th 05:00-11:00; Sa 06:00-12:00"
+opening_hours: Mo-Fr 05:00-11:00,13:00-17:00; Th 05:00-11:00; Sa 06:00-12:00
 website: ""

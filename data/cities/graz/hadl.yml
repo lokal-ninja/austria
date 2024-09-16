@@ -1,11 +1,11 @@
 id: 133455381
-type: way
+type: node
 latitude: 47.073
 longitude: 15.50787
 postcode: "8047"
 city: Graz
-street: "Ragnitztalweg"
-housenumber: 70
+street: Ragnitztalweg
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

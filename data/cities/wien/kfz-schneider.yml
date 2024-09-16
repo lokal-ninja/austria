@@ -1,11 +1,11 @@
 id: 240886629
-type: way
+type: node
 latitude: 48.23078
 longitude: 16.46869
 postcode: "1220"
 city: Wien
-street: "Aspernstraße"
-housenumber: 2
-phone: "+43 1 2825142"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-15:00"
-website: "http://kfz-schneider.at"
+street: Aspernstraße
+housenumber: "2"
+phone: +43 1 2825142
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-15:00
+website: http://kfz-schneider.at

@@ -1,11 +1,11 @@
 id: 440596833
-type: way
+type: node
 latitude: 47.0712
 longitude: 16.14607
 postcode: "7571"
 city: Rudersdorf
-street: "Pußta"
-housenumber: 5
+street: Pußta
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.alles-essig.at/"
+website: https://www.alles-essig.at/

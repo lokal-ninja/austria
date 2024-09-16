@@ -1,11 +1,11 @@
 id: 14653227
-type: way
+type: node
 latitude: 48.3033
 longitude: 14.29011
 postcode: "4020"
 city: Linz
-street: "Landstraße"
+street: Landstraße
 housenumber: 17-25
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.passage.at/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.passage.at/

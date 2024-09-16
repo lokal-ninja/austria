@@ -1,11 +1,11 @@
 id: 174499080
-type: way
+type: node
 latitude: 47.34832
 longitude: 15.68949
 postcode: "8190"
 city: Birkfeld
-street: "Sankt-Georgen-Straße"
-housenumber: 4
-phone: "+43 59915 06973"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Sankt-Georgen-Straße
+housenumber: "4"
+phone: +43 59915 06973
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

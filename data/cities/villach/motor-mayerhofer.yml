@@ -1,11 +1,11 @@
 id: 263761083
-type: way
+type: node
 latitude: 46.59042
 longitude: 13.8398
 postcode: "9500"
 city: Villach
-street: "Triglavstraße"
-housenumber: 31
-phone: "+43 4242 24867"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "https://www.motor-mayerhofer.at/"
+street: Triglavstraße
+housenumber: "31"
+phone: +43 4242 24867
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: https://www.motor-mayerhofer.at/

@@ -1,11 +1,11 @@
 id: 47129419
-type: way
+type: node
 latitude: 47.26727
 longitude: 11.42558
 postcode: "6020"
 city: Innsbruck
-street: "Stadlweg"
-housenumber: 1
-phone: "+43 512 3939350"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.obi.at/baumarkt/innsbruck/"
+street: Stadlweg
+housenumber: "1"
+phone: +43 512 3939350
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off
+website: https://www.obi.at/baumarkt/innsbruck/

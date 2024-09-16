@@ -1,11 +1,11 @@
 id: 448132487
-type: way
+type: node
 latitude: 48.81461
 longitude: 15.27929
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Johannes Gutenberg-Straße"
-housenumber: 6
+street: Johannes Gutenberg-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

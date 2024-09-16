@@ -1,11 +1,11 @@
 id: 125956391
-type: way
+type: node
 latitude: 48.52617
 longitude: 14.29444
 postcode: "4190"
 city: Bad Leonfelden
-street: "Böhmer Straße"
-housenumber: 30
+street: Böhmer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

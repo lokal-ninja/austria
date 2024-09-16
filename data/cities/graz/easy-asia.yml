@@ -4,8 +4,8 @@ latitude: 47.06334
 longitude: 15.43083
 postcode: "8010"
 city: Graz
-street: "Albert-Schweitzer-Gasse"
-housenumber: 49
+street: Albert-Schweitzer-Gasse
+housenumber: "49"
 phone: "+436646435888"
-opening_hours: "Su-Th 09:00-22:00; Fr-Sa 09:00-00:00"
-website: "https://www.easyasia.at/"
+opening_hours: Su-Th 09:00-22:00; Fr-Sa 09:00-00:00
+website: https://www.easyasia.at/

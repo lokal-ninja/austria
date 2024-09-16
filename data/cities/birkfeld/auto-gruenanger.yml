@@ -1,11 +1,11 @@
 id: 176355239
-type: way
+type: node
 latitude: 47.35881
 longitude: 15.68932
 postcode: "8190"
 city: Birkfeld
-street: "Fischbacher-Straße"
-housenumber: 5
+street: Fischbacher-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

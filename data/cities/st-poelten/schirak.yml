@@ -1,11 +1,11 @@
 id: 178752116
-type: way
+type: node
 latitude: 48.18042
 longitude: 15.61723
 postcode: "3100"
 city: St. Pölten
-street: "Porschestraße"
-housenumber: 19
+street: Porschestraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

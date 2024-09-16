@@ -4,8 +4,8 @@ latitude: 48.19064
 longitude: 16.32347
 postcode: "1150"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 206
+street: Mariahilfer Straße
+housenumber: "206"
 phone: ""
-opening_hours: "Fahrradwerkstatt nur im Sommer"
+opening_hours: '"Fahrradwerkstatt nur im Sommer"'
 website: ""

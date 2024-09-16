@@ -4,8 +4,8 @@ latitude: 47.79962
 longitude: 13.04372
 postcode: "5020"
 city: Salzburg
-street: "Universitätsplatz"
-housenumber: 15
+street: Universitätsplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
 website: ""

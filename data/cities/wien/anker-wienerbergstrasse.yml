@@ -4,8 +4,8 @@ latitude: 48.16896
 longitude: 16.3471
 postcode: "1100"
 city: Wien
-street: "Wienerbergstraße"
-housenumber: 5
-phone: "+43 1 9059059"
-opening_hours: "Mo-Fr 06:00-18:00; Sa, Su, PH 07:30-12:00"
-website: "https://www.ankerbrot.at/"
+street: Wienerbergstraße
+housenumber: "5"
+phone: +43 1 9059059
+opening_hours: Mo-Fr 06:00-18:00; Sa, Su, PH 07:30-12:00
+website: https://www.ankerbrot.at/

@@ -1,11 +1,11 @@
 id: 262138608
-type: way
+type: node
 latitude: 47.69695
 longitude: 13.6225
 postcode: "4820"
 city: Bad Ischl
-street: "Sulzbacherstraße"
-housenumber: 18
-phone: "+43-6133-5484"
+street: Sulzbacherstraße
+housenumber: "18"
+phone: +43-6133-5484
 opening_hours: ""
-website: "https://www.moebel-baumgartner.at/"
+website: https://www.moebel-baumgartner.at/

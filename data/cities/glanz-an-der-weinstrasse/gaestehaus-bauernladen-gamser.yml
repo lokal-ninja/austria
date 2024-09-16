@@ -1,11 +1,11 @@
 id: 189170413
-type: way
+type: node
 latitude: 46.66207
 longitude: 15.53567
 postcode: "8463"
 city: Glanz an der Weinstraße
 street: ""
-housenumber: 73
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Su"
-website: "https://www.gamser.at/"
+opening_hours: Mo-Su
+website: https://www.gamser.at/

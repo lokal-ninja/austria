@@ -4,8 +4,8 @@ latitude: 46.89393
 longitude: 15.26504
 postcode: "8510"
 city: Stainz
-street: "Hauptplatz"
-housenumber: 6
-phone: "+43 5 0517 8510"
-opening_hours: "Mo-Su 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.handyshop.cc/stainz/"
+street: Hauptplatz
+housenumber: "6"
+phone: +43 5 0517 8510
+opening_hours: Mo-Su 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.handyshop.cc/stainz/

@@ -4,8 +4,8 @@ latitude: 47.28113
 longitude: 12.48135
 postcode: "5730"
 city: Mittersill
-street: "Stadtplatz"
-housenumber: 2
-phone: "+43 6562 4504"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
+street: Stadtplatz
+housenumber: "2"
+phone: +43 6562 4504
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

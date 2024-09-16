@@ -4,8 +4,8 @@ latitude: 47.41288
 longitude: 15.26131
 postcode: "8600"
 city: Bruck an der Mur
-street: "Bergstraße"
-housenumber: 41
+street: Bergstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "http://www.zuleger.servicepartner.at/"
+website: http://www.zuleger.servicepartner.at/

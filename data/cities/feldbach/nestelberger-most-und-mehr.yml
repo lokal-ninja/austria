@@ -5,7 +5,7 @@ longitude: 15.88716
 postcode: "8333"
 city: Feldbach
 street: ""
-housenumber: 58
-phone: "+43 3153 7107"
+housenumber: "58"
+phone: +43 3153 7107
 opening_hours: ""
-website: "https://www.nestelberger.net/"
+website: https://www.nestelberger.net/

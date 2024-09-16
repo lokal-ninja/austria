@@ -4,8 +4,8 @@ latitude: 48.20924
 longitude: 16.36721
 postcode: "1010"
 city: Wien
-street: "Wallnerstraße"
-housenumber: 3
+street: Wallnerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-18:00; PH off"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-18:00; PH off
 website: ""

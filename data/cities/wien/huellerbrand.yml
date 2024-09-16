@@ -4,8 +4,8 @@ latitude: 48.20457
 longitude: 16.37133
 postcode: "1010"
 city: Wien
-street: "Annagasse"
-housenumber: 3
+street: Annagasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,We 10:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-15:00; PH,Su,Mo off"
-website: "https://www.huellerbrand.at"
+opening_hours: Tu,We 10:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-15:00; PH,Su,Mo off
+website: https://www.huellerbrand.at

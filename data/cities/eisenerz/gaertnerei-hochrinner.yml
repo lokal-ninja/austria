@@ -1,11 +1,11 @@
 id: 223891852
-type: way
+type: node
 latitude: 47.54128
 longitude: 14.89152
 postcode: "8790"
 city: Eisenerz
-street: "Vordernberger Straße"
-housenumber: 15
+street: Vordernberger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo, We, Th, Fr 08:00-17:00; Tu, Sa 08:00-12:00"
-website: "https://www.blumenklaus.at/"
+opening_hours: Mo, We, Th, Fr 08:00-17:00; Tu, Sa 08:00-12:00
+website: https://www.blumenklaus.at/

@@ -1,11 +1,11 @@
 id: 433010190
-type: way
+type: node
 latitude: 48.38541
 longitude: 16.19875
 postcode: "2000"
 city: Stockerau
-street: "Hornerstraße"
-housenumber: 5
+street: Hornerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.bernhaupt.at/"
+website: https://www.bernhaupt.at/

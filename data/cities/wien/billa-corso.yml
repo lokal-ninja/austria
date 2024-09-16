@@ -4,8 +4,8 @@ latitude: 48.20693
 longitude: 16.37079
 postcode: "1010"
 city: Wien
-street: "Neuer Markt"
-housenumber: 17
+street: Neuer Markt
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-20:00
 website: ""

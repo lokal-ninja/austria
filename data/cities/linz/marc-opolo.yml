@@ -4,8 +4,8 @@ latitude: 48.30352
 longitude: 14.2881
 postcode: "4020"
 city: Linz
-street: "Landstraße"
-housenumber: 12
-phone: "+43 732 781340"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://linzerie.at/shop/marc-opolo/"
+street: Landstraße
+housenumber: "12"
+phone: +43 732 781340
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://linzerie.at/shop/marc-opolo/

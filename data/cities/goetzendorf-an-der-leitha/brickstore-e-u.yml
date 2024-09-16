@@ -1,11 +1,11 @@
 id: 71317769
-type: way
+type: node
 latitude: 48.02337
 longitude: 16.58694
 postcode: "2434"
 city: Götzendorf an der Leitha
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.brickstore.at/"
+website: https://www.brickstore.at/

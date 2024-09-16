@@ -4,8 +4,8 @@ latitude: 46.61798
 longitude: 14.26767
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Universitätsstraße"
-housenumber: 98
+street: Universitätsstraße
+housenumber: "98"
 phone: "+43463204411"
-opening_hours: "Mo-Fr 06:30-18:00; Sa,Su 06:30-13:00"
-website: "https://www.wienerroither.com/"
+opening_hours: Mo-Fr 06:30-18:00; Sa,Su 06:30-13:00
+website: https://www.wienerroither.com/

@@ -1,11 +1,11 @@
 id: 180320317
-type: way
+type: node
 latitude: 46.8378
 longitude: 14.83874
 postcode: "9400"
 city: Wolfsberg
-street: "Spanheimerstraße"
-housenumber: 32
+street: Spanheimerstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.billa.at"
+website: https://www.billa.at

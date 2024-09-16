@@ -1,11 +1,11 @@
 id: 195004390
-type: way
+type: node
 latitude: 47.05603
 longitude: 16.07779
 postcode: "8280"
 city: Fürstenfeld
-street: "Körmenderstraße"
-housenumber: 17
+street: Körmenderstraße
+housenumber: "17"
 phone: "+43508867569"
-opening_hours: "Mo-Do 08:00-12:00,Mo-Do 13:00-17:00,Fr 08:00-14:00"
-website: "https://www.impex.at"
+opening_hours: Mo-Do 08:00-12:00,Mo-Do 13:00-17:00,Fr 08:00-14:00
+website: https://www.impex.at

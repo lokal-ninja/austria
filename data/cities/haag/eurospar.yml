@@ -1,11 +1,11 @@
 id: 317016020
-type: way
+type: node
 latitude: 48.10881
 longitude: 14.5699
 postcode: "3350"
 city: Haag
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
-website: "https://www.spar.at/standorte/eurospar-haag-3350-bahnhofstrasse-9"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+website: https://www.spar.at/standorte/eurospar-haag-3350-bahnhofstrasse-9

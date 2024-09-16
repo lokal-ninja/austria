@@ -1,11 +1,11 @@
 id: 85832902
-type: way
+type: node
 latitude: 48.47035
 longitude: 15.68684
 postcode: "3550"
 city: Langenlois
-street: "Wiener Straße"
-housenumber: 44
-phone: "+43 2734 4488 0"
+street: Wiener Straße
+housenumber: "44"
+phone: +43 2734 4488 0
 opening_hours: ""
-website: "https://fragnerkfz.at/"
+website: https://fragnerkfz.at/

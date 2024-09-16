@@ -1,11 +1,11 @@
 id: 23328877
-type: way
+type: node
 latitude: 48.14525
 longitude: 16.37321
 postcode: "1230"
 city: Wien
-street: "Oberlaaer Straße"
-housenumber: 250
+street: Oberlaaer Straße
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "https://www.oeag.at/"
+website: https://www.oeag.at/

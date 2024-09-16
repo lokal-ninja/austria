@@ -4,8 +4,8 @@ latitude: 48.16968
 longitude: 16.36572
 postcode: "1100"
 city: Wien
-street: "Troststraße"
-housenumber: 57
+street: Troststraße
+housenumber: "57"
 phone: "+4316047925"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

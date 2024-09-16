@@ -4,8 +4,8 @@ latitude: 48.15521
 longitude: 16.34966
 postcode: "1100"
 city: Wien
-street: "Tesarekplatz"
-housenumber: 1
-phone: "+43 1 6150550"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Tesarekplatz
+housenumber: "1"
+phone: +43 1 6150550
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

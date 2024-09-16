@@ -1,11 +1,11 @@
 id: 143471981
-type: way
+type: node
 latitude: 48.21627
 longitude: 14.44068
 postcode: "4470"
 city: Enns
-street: "Astner Straße"
-housenumber: 31
+street: Astner Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.seyrlehner.at/"
+website: https://www.seyrlehner.at/

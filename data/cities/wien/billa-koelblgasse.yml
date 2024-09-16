@@ -4,8 +4,8 @@ latitude: 48.19096
 longitude: 16.38726
 postcode: "1030"
 city: Wien
-street: "Kölblgasse"
-housenumber: 14
-phone: "+43 1 9610331"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Kölblgasse
+housenumber: "14"
+phone: +43 1 9610331
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

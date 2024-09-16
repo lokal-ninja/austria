@@ -1,11 +1,11 @@
 id: 293475835
-type: way
+type: node
 latitude: 48.07267
 longitude: 16.33681
 postcode: "2351"
 city: Wiener Neudorf
-street: "IZ-NÖ-Süd Straße 14"
-housenumber: 21
-phone: "+43 699 14228293"
-opening_hours: "Mo-Fr 9:30-18:30, Sa 9:30-17:00"
-website: "https://www.golfhouse.at"
+street: IZ-NÖ-Süd Straße 14
+housenumber: "21"
+phone: +43 699 14228293
+opening_hours: Mo-Fr 9:30-18:30, Sa 9:30-17:00
+website: https://www.golfhouse.at

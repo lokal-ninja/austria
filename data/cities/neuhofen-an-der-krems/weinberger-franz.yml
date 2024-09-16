@@ -4,8 +4,8 @@ latitude: 48.13778
 longitude: 14.22857
 postcode: "4501"
 city: Neuhofen an der Krems
-street: "Marktplatz"
-housenumber: 15
-phone: "+43-7227-4262"
-opening_hours: "Mo-Sa 05:00-12:00, Mo,Tu,Th,Fr 14:30-17:30"
+street: Marktplatz
+housenumber: "15"
+phone: +43-7227-4262
+opening_hours: Mo-Sa 05:00-12:00, Mo,Tu,Th,Fr 14:30-17:30
 website: ""

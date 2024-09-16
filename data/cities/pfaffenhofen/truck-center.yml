@@ -1,11 +1,11 @@
 id: 1102900185
-type: way
+type: node
 latitude: 47.29897
 longitude: 11.07175
 postcode: "6405"
 city: Pfaffenhofen
-street: "Gewerbepark"
-housenumber: 9
-phone: "+43 526222400"
+street: Gewerbepark
+housenumber: "9"
+phone: +43 526222400
 opening_hours: ""
-website: "https://www.truckcenter.cc/"
+website: https://www.truckcenter.cc/

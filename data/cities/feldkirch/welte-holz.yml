@@ -1,11 +1,11 @@
 id: 327968864
-type: way
+type: node
 latitude: 47.27746
 longitude: 9.59262
 postcode: "6800"
 city: Feldkirch
-street: "Paspelsstraße"
-housenumber: 56
+street: Paspelsstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:00
 website: ""

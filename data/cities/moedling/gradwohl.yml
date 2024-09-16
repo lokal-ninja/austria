@@ -4,8 +4,8 @@ latitude: 48.0859
 longitude: 16.28671
 postcode: "2340"
 city: Mödling
-street: "Hauptstraße"
-housenumber: 71
-phone: "+43 2236 866799"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "https://www.gradwohl.info"
+street: Hauptstraße
+housenumber: "71"
+phone: +43 2236 866799
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: https://www.gradwohl.info

@@ -1,11 +1,11 @@
 id: 172844192
-type: way
+type: node
 latitude: 47.33154
 longitude: 9.63817
 postcode: "6840"
 city: Götzis
-street: "Doktor-Alfons-Heinzle-Straße"
-housenumber: 40
+street: Doktor-Alfons-Heinzle-Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00, Mo-Fr 14:00-18:00; PH,Su off"
+opening_hours: Mo-Sa 08:30-12:00, Mo-Fr 14:00-18:00; PH,Su off
 website: ""

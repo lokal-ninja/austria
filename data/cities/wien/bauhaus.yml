@@ -1,11 +1,11 @@
 id: 23046580
-type: way
+type: node
 latitude: 48.23734
 longitude: 16.45858
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 54
-phone: "+43 1 2855486"
+street: Hirschstettner Straße
+housenumber: "54"
+phone: +43 1 2855486
 opening_hours: ""
-website: "https://www.bauhaus.at/"
+website: https://www.bauhaus.at/

@@ -4,8 +4,8 @@ latitude: 48.2427
 longitude: 16.35482
 postcode: "1190"
 city: Wien
-street: "Hofzeile"
-housenumber: 27
-phone: "+43 664 5277929"
-opening_hours: "Showroom-Besichtigung nach Terminvereinbarung"
-website: "https://www.hofzeile27.at/"
+street: Hofzeile
+housenumber: "27"
+phone: +43 664 5277929
+opening_hours: '"Showroom-Besichtigung nach Terminvereinbarung"'
+website: https://www.hofzeile27.at/

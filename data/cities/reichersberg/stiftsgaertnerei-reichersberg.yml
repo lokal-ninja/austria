@@ -1,11 +1,11 @@
 id: 199797682
-type: way
+type: node
 latitude: 48.33507
 longitude: 13.36816
 postcode: "4981"
 city: Reichersberg
-street: "Gärtnereiweg"
-housenumber: 2
+street: Gärtnereiweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

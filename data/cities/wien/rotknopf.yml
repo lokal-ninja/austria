@@ -4,8 +4,8 @@ latitude: 48.2002
 longitude: 16.35055
 postcode: "1070"
 city: Wien
-street: "Lindengasse"
-housenumber: 32
-phone: "+43 1 9420472"
-opening_hours: "Tu-Th 10:00-13:00,14:00-18:00; Fr 10:00-16:00; Sa 11:00-14:00"
-website: "https://rotknopf.at/"
+street: Lindengasse
+housenumber: "32"
+phone: +43 1 9420472
+opening_hours: Tu-Th 10:00-13:00,14:00-18:00; Fr 10:00-16:00; Sa 11:00-14:00
+website: https://rotknopf.at/

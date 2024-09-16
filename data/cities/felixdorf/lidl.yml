@@ -1,11 +1,11 @@
 id: 166444607
-type: way
+type: node
 latitude: 47.87752
 longitude: 16.24905
 postcode: "2603"
 city: Felixdorf
-street: "Wiener Neustädter Straße"
-housenumber: 46
+street: Wiener Neustädter Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

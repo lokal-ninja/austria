@@ -1,11 +1,11 @@
 id: 237766358
-type: way
+type: node
 latitude: 48.2998
 longitude: 14.03023
 postcode: "4070"
 city: Fraham
-street: "Linzerstraße"
-housenumber: 60
+street: Linzerstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

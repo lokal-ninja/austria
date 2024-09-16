@@ -1,11 +1,11 @@
 id: 281331479
-type: way
+type: node
 latitude: 48.22203
 longitude: 15.91557
 postcode: "3040"
 city: Markersdorf
-street: "Laurenzistraße"
-housenumber: 1
+street: Laurenzistraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.03208
 longitude: 15.41796
 postcode: "8054"
 city: Graz
-street: "Weblinger Gürtel"
-housenumber: 
+street: Weblinger Gürtel
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.tennis-point.at"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.tennis-point.at

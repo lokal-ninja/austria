@@ -1,11 +1,11 @@
 id: 339799046
-type: way
+type: node
 latitude: 47.72725
 longitude: 16.06481
 postcode: "2620"
 city: Ternitz
-street: "Neunkirchner Straße"
-housenumber: 
+street: Neunkirchner Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

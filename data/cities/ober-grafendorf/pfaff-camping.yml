@@ -1,11 +1,11 @@
 id: 120359014
-type: way
+type: node
 latitude: 48.14914
 longitude: 15.55366
 postcode: "3200"
 city: Ober-Grafendorf
 street: ""
-housenumber: 31
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://pfaff-camping.at/"
+website: https://pfaff-camping.at/

@@ -4,8 +4,8 @@ latitude: 48.22296
 longitude: 16.40032
 postcode: "1020"
 city: Wien
-street: "Lassallestraße"
-housenumber: 36
+street: Lassallestraße
+housenumber: "36"
 phone: "+4317269598"
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su 09:00-20:00"
-website: "http://www.sunclub.at"
+opening_hours: Mo-Fr 09:00-20:00; Sa,Su 09:00-20:00
+website: http://www.sunclub.at

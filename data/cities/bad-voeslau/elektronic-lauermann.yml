@@ -1,11 +1,11 @@
 id: 293075730
-type: way
+type: node
 latitude: 47.97847
 longitude: 16.21996
 postcode: "2540"
 city: Bad Vöslau
-street: "Badner Straße"
-housenumber: 99
+street: Badner Straße
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://www.lauermann.at/"
+website: https://www.lauermann.at/

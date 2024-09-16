@@ -1,11 +1,11 @@
 id: 355309086
-type: way
+type: node
 latitude: 47.21402
 longitude: 9.72766
 postcode: "6822"
 city: Schnifis
-street: "Jagdbergstraße"
-housenumber: 54
-phone: "+43 5524 8439"
-opening_hours: "Mo-Fr 15:00-18:00; Tu,Th off; Sa 09:00-12:00"
-website: "https://www.fca.at/"
+street: Jagdbergstraße
+housenumber: "54"
+phone: +43 5524 8439
+opening_hours: Mo-Fr 15:00-18:00; Tu,Th off; Sa 09:00-12:00
+website: https://www.fca.at/

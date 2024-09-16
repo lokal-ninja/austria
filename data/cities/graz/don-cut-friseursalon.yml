@@ -4,8 +4,8 @@ latitude: 47.06598
 longitude: 15.44734
 postcode: "8010"
 city: Graz
-street: "Münzgrabenstraße"
-housenumber: 5
+street: Münzgrabenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

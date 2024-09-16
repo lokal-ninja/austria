@@ -1,11 +1,11 @@
 id: 85892423
-type: way
+type: node
 latitude: 48.30937
 longitude: 14.27808
 postcode: "4040"
 city: Linz
-street: "Rudolfstraße"
-housenumber: 37
+street: Rudolfstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.hrinkow-bikes.at/"
+opening_hours: Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.hrinkow-bikes.at/

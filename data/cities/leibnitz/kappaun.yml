@@ -4,8 +4,8 @@ latitude: 46.78138
 longitude: 15.5389
 postcode: "8430"
 city: Leibnitz
-street: "Hauptplatz"
-housenumber: 21
+street: Hauptplatz
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 8:00-18:00; Sa 08:00-17:00"
-website: "http://www.kappaun.at/"
+opening_hours: Mo-Fr 8:00-18:00; Sa 08:00-17:00
+website: http://www.kappaun.at/

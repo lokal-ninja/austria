@@ -4,8 +4,8 @@ latitude: 47.07539
 longitude: 15.52847
 postcode: "8047"
 city: Kainbach bei Graz
-street: "Kapellenweg"
-housenumber: 4
-phone: "+43 664 911 2 999"
-opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-12:00"
-website: "https://www.kfz-weiss.at"
+street: Kapellenweg
+housenumber: "4"
+phone: +43 664 911 2 999
+opening_hours: Mo-Th 09:00-16:00; Fr 09:00-12:00
+website: https://www.kfz-weiss.at

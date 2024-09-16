@@ -1,11 +1,11 @@
 id: 220470050
-type: way
+type: node
 latitude: 48.04211
 longitude: 16.30444
 postcode: "2514"
 city: Traiskirchen
-street: "Wiener Straße"
-housenumber: 199
+street: Wiener Straße
+housenumber: "199"
 phone: ""
 opening_hours: ""
-website: "https://www.fuermsinn.at/"
+website: https://www.fuermsinn.at/

@@ -4,8 +4,8 @@ latitude: 48.23863
 longitude: 16.35471
 postcode: "1190"
 city: Wien
-street: "Döblinger Hauptstraße"
-housenumber: 60
-phone: "+43 677 61796165"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-12:00"
+street: Döblinger Hauptstraße
+housenumber: "60"
+phone: +43 677 61796165
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-12:00
 website: ""

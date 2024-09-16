@@ -1,11 +1,11 @@
 id: 297367871
-type: way
+type: node
 latitude: 48.8008
 longitude: 15.74402
 postcode: "2091"
 city: Weitersfeld
 street: ""
-housenumber: 55
-phone: "+43 2912 352"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-16:45"
-website: "http://klement.fordpartner.at/"
+housenumber: "55"
+phone: +43 2912 352
+opening_hours: Mo-Fr 07:30-12:00,13:00-16:45
+website: http://klement.fordpartner.at/

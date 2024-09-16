@@ -1,11 +1,11 @@
 id: 1303209493
-type: way
+type: node
 latitude: 46.827
 longitude: 15.23636
 postcode: "8530"
 city: Deutschlandsberg
-street: "Mostbauerstraße 4"
-housenumber: 2
+street: Mostbauerstraße 4
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.21129
 longitude: 16.36567
 postcode: "1010"
 city: Wien
-street: "Freyung"
-housenumber: 2
+street: Freyung
+housenumber: "2"
 phone: "+4315336116"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92019164
-type: way
+type: node
 latitude: 46.87036
 longitude: 11.02738
 postcode: "6456"
 city: Sölden
-street: "Gurglerstraße"
-housenumber: 131
+street: Gurglerstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo,Fr 08:30-12:00,14:00-16:30; Tu-Th 08:30-12:00"
+opening_hours: Mo,Fr 08:30-12:00,14:00-16:30; Tu-Th 08:30-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 598503918
-type: way
+type: node
 latitude: 48.19689
 longitude: 13.14939
 postcode: "5271"
 city: Moosbach bei Mauerkirchen
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-sailer.at/"
+website: https://www.baeckerei-sailer.at/

@@ -1,11 +1,11 @@
 id: 98867211
-type: way
+type: node
 latitude: 47.28076
 longitude: 12.48289
 postcode: "5730"
 city: Mittersill
-street: "Lebzeltergasse"
-housenumber: 4
-phone: "+43 6562 20601"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.hautnah-waesche.at/"
+street: Lebzeltergasse
+housenumber: "4"
+phone: +43 6562 20601
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.hautnah-waesche.at/

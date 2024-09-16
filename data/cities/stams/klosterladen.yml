@@ -4,8 +4,8 @@ latitude: 47.27805
 longitude: 10.98341
 postcode: "6422"
 city: Stams
-street: "Stiftshof"
-housenumber: 7
-phone: "+43 5263 6242512"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00"
-website: "https://www.stiftstams.at/?page_id=91"
+street: Stiftshof
+housenumber: "7"
+phone: +43 5263 6242512
+opening_hours: Mo-Fr 09:00-12:00,13:00-16:00
+website: https://www.stiftstams.at/?page_id=91

@@ -4,8 +4,8 @@ latitude: 48.22481
 longitude: 16.49871
 postcode: "1220"
 city: Wien
-street: "Maria-Tusch-Straße"
-housenumber: 9
+street: Maria-Tusch-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00
 website: ""

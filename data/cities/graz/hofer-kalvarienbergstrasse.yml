@@ -1,11 +1,11 @@
 id: 130667731
-type: way
+type: node
 latitude: 47.08703
 longitude: 15.41823
 postcode: "8020"
 city: Graz
-street: "Kalvarienbergstraße"
-housenumber: 73
-phone: "+43 57030 31070"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+street: Kalvarienbergstraße
+housenumber: "73"
+phone: +43 57030 31070
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.hofer.at/

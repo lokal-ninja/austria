@@ -1,11 +1,11 @@
 id: 95541115
-type: way
+type: node
 latitude: 47.46756
 longitude: 11.98952
 postcode: "6250"
 city: Kundl
-street: "Schieferrollstraße"
-housenumber: 17
+street: Schieferrollstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

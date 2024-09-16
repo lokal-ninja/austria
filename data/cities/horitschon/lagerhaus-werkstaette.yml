@@ -1,11 +1,11 @@
 id: 126365546
-type: way
+type: node
 latitude: 47.59163
 longitude: 16.53994
 postcode: "7312"
 city: Horitschon
-street: "Hauptstraße"
-housenumber: 99
+street: Hauptstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

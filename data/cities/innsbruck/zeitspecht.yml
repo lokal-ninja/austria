@@ -4,8 +4,8 @@ latitude: 47.26482
 longitude: 11.4097
 postcode: "6020"
 city: Innsbruck
-street: "Pradler Straße"
-housenumber: 42
-phone: "+43 650 4509320"
-opening_hours: "Mo-Fr 10:00-12:00, 15:00-18:00"
-website: "https://www.zeitspecht.com/"
+street: Pradler Straße
+housenumber: "42"
+phone: +43 650 4509320
+opening_hours: Mo-Fr 10:00-12:00, 15:00-18:00
+website: https://www.zeitspecht.com/

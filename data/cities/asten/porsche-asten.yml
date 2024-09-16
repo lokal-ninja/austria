@@ -1,11 +1,11 @@
 id: 84866961
-type: way
+type: node
 latitude: 48.22288
 longitude: 14.40669
 postcode: "4481"
 city: Asten
-street: "Technologiestraße"
-housenumber: 2
+street: Technologiestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00
 website: ""

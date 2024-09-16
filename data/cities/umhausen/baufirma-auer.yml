@@ -1,11 +1,11 @@
 id: 218373603
-type: way
+type: node
 latitude: 47.1357
 longitude: 10.92783
 postcode: "6441"
 city: Umhausen
-street: "Löck"
-housenumber: 15
+street: Löck
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.auerbau.at/baustoffhandel/"
+website: http://www.auerbau.at/baustoffhandel/

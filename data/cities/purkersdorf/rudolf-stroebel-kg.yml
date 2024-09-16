@@ -4,8 +4,8 @@ latitude: 48.20717
 longitude: 16.1772
 postcode: "3002"
 city: Purkersdorf
-street: "Hauptplatz"
-housenumber: 2
+street: Hauptplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "http://www.ströbel.at"
+opening_hours: Mo-Fr 07:30-18:00
+website: http://www.ströbel.at

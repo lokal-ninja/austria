@@ -1,11 +1,11 @@
 id: 187166148
-type: way
+type: node
 latitude: 48.45779
 longitude: 14.26751
 postcode: "4180"
 city: Zwettl an der Rodl
-street: "Linzerstraße"
-housenumber: 20
+street: Linzerstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

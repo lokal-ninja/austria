@@ -4,8 +4,9 @@ latitude: 47.41238
 longitude: 9.72433
 postcode: "6850"
 city: Dornbirn
-street: "Millöckergasse"
-housenumber: 10
+street: Millöckergasse
+housenumber: "10"
 phone: ""
-opening_hours: "Tu 14:00-19:00; Th 10:00-12:00, 14:00-19:00, Sa 09:00-12:00; We, Fr nach Terminvereinbarung; PH off"
+opening_hours: Tu 14:00-19:00; Th 10:00-12:00, 14:00-19:00, Sa 09:00-12:00; We, Fr
+    "nach Terminvereinbarung"; PH off
 website: ""

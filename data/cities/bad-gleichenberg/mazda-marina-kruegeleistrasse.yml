@@ -1,11 +1,11 @@
 id: 201332163
-type: way
+type: node
 latitude: 46.86689
 longitude: 15.90497
 postcode: "8344"
 city: Bad Gleichenberg
-street: "Krügeleistraße"
-housenumber: 8
+street: Krügeleistraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

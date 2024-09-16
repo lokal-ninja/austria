@@ -1,11 +1,11 @@
 id: 159424000
-type: way
+type: node
 latitude: 46.82061
 longitude: 14.83743
 postcode: "9400"
 city: Wolfsberg
-street: "Roßhaltweg"
-housenumber: 2
+street: Roßhaltweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

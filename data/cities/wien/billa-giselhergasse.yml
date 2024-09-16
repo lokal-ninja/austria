@@ -4,8 +4,8 @@ latitude: 48.20349
 longitude: 16.32827
 postcode: "1150"
 city: Wien
-street: "Giselhergasse"
-housenumber: 11
-phone: "+43 1 9820454"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at/"
+street: Giselhergasse
+housenumber: "11"
+phone: +43 1 9820454
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.billa.at/

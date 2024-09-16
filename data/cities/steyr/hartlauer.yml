@@ -4,8 +4,8 @@ latitude: 48.04026
 longitude: 14.41985
 postcode: "4400"
 city: Steyr
-street: "Stadtplatz"
-housenumber: 6
+street: Stadtplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-17:00"
-website: "https://www.hartlauer.at/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-17:00
+website: https://www.hartlauer.at/

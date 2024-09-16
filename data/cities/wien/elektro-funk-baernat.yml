@@ -4,8 +4,8 @@ latitude: 48.12697
 longitude: 16.31246
 postcode: "1230"
 city: Wien
-street: "Ketzergasse"
-housenumber: 59
-phone: "+43 1 699 21 53"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa,Su,PH off"
+street: Ketzergasse
+housenumber: "59"
+phone: +43 1 699 21 53
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa,Su,PH off
 website: ""

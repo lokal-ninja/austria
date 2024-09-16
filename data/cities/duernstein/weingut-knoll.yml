@@ -5,7 +5,7 @@ longitude: 15.54231
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 132
-phone: "+43 2732 793 550"
+housenumber: "132"
+phone: +43 2732 793 550
 opening_hours: ""
-website: "https://www.vinea-wachau.at/mywachau/betriebe/betriebs-details/myw_company/weingut-knoll"
+website: https://www.vinea-wachau.at/mywachau/betriebe/betriebs-details/myw_company/weingut-knoll

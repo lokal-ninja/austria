@@ -1,11 +1,11 @@
 id: 462615571
-type: way
+type: node
 latitude: 48.06072
 longitude: 13.11489
 postcode: "5224"
 city: Auerbach
-street: "Holz"
-housenumber: 11
+street: Holz
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://hagenauer.at"
+website: http://hagenauer.at

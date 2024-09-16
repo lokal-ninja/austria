@@ -4,8 +4,8 @@ latitude: 48.12017
 longitude: 16.2667
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Franz-Josef-Straße"
-housenumber: 6
-phone: "+43 2624 52345 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://burghemden.at/"
+street: Franz-Josef-Straße
+housenumber: "6"
+phone: +43 2624 52345 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://burghemden.at/

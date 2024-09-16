@@ -1,11 +1,11 @@
 id: 75795873
-type: way
+type: node
 latitude: 48.256
 longitude: 16.0087
 postcode: "3443"
 city: Sieghartskirchen
-street: "Hoferstraße"
-housenumber: 1
+street: Hoferstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

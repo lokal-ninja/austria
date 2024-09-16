@@ -1,11 +1,11 @@
 id: 120667359
-type: way
+type: node
 latitude: 48.20439
 longitude: 14.25547
 postcode: "4053"
 city: Ansfelden
-street: "Schulstraße"
-housenumber: 15
+street: Schulstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

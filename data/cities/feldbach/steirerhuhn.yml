@@ -1,11 +1,11 @@
 id: 362889249
-type: way
+type: node
 latitude: 46.95971
 longitude: 15.8478
 postcode: "8330"
 city: Feldbach
 street: ""
-housenumber: 95
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.h.lugitsch.at/"
+website: https://www.h.lugitsch.at/

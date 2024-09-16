@@ -1,11 +1,11 @@
 id: 456245194
-type: way
+type: node
 latitude: 46.60737
 longitude: 14.29562
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Ernst-Wlattnig-Gasse"
-housenumber: 22
+street: Ernst-Wlattnig-Gasse
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-12:00"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-12:00
 website: ""

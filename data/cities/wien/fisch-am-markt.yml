@@ -4,8 +4,8 @@ latitude: 48.22199
 longitude: 16.40233
 postcode: "1020"
 city: Wien
-street: "Vorgartenmarkt Stand"
-housenumber: 11
-phone: "+43 1 7268377"
-opening_hours: "Mo,Sa 08:00-15:00; Tu-Fr 08:00-18:00; PH off"
-website: "https://www.fischammarkt.at/"
+street: Vorgartenmarkt Stand
+housenumber: "11"
+phone: +43 1 7268377
+opening_hours: Mo,Sa 08:00-15:00; Tu-Fr 08:00-18:00; PH off
+website: https://www.fischammarkt.at/

@@ -1,11 +1,11 @@
 id: 512571016
-type: way
+type: node
 latitude: 48.80879
 longitude: 15.30431
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Neumannplatz"
-housenumber: 3
+street: Neumannplatz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

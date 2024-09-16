@@ -1,11 +1,11 @@
 id: 304591905
-type: way
+type: node
 latitude: 46.79238
 longitude: 13.50783
 postcode: "9800"
 city: Spittal an der Drau
-street: "Villacher Straße"
-housenumber: 49
+street: Villacher Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

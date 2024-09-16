@@ -4,8 +4,8 @@ latitude: 47.33372
 longitude: 10.16179
 postcode: "6993"
 city: Mittelberg
-street: "Walserstraße"
-housenumber: 311
-phone: "+43 5517 5790"
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:15; Fr 7:30-12:00"
+street: Walserstraße
+housenumber: "311"
+phone: +43 5517 5790
+opening_hours: Mo-Th 07:30-12:00,13:00-17:15; Fr 7:30-12:00
 website: ""

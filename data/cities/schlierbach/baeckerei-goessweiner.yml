@@ -1,11 +1,11 @@
 id: 393928713
-type: way
+type: node
 latitude: 47.93538
 longitude: 14.11546
 postcode: "4553"
 city: Schlierbach
-street: "Landstraße"
-housenumber: 27
+street: Landstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366127501
-type: way
+type: node
 latitude: 47.35483
 longitude: 10.18235
 postcode: "6991"
 city: Riezlern
-street: "Zwerwaldstraße"
-housenumber: 
+street: Zwerwaldstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 15:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 15:00-17:00; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.07096
 longitude: 15.42789
 postcode: "8020"
 city: Graz
-street: "Annenstraße"
-housenumber: 23
-phone: "+43 59915 06262"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Annenstraße
+housenumber: "23"
+phone: +43 59915 06262
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

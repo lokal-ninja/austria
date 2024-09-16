@@ -4,8 +4,8 @@ latitude: 48.19669
 longitude: 16.31279
 postcode: "1140"
 city: Wien
-street: "Märzstraße"
-housenumber: 128
+street: Märzstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00, Sa 07:00-12:00"
-website: "http://www.stekobaustoffe.at/"
+opening_hours: Mo-Fr 06:30-18:00, Sa 07:00-12:00
+website: http://www.stekobaustoffe.at/

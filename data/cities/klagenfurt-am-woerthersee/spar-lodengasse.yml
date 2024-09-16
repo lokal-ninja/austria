@@ -1,11 +1,11 @@
 id: 83387663
-type: way
+type: node
 latitude: 46.60819
 longitude: 14.2939
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Lodengasse"
-housenumber: 22
+street: Lodengasse
+housenumber: "22"
 phone: "+43463240274"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

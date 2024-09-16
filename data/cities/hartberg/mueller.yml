@@ -4,8 +4,8 @@ latitude: 47.28063
 longitude: 15.99364
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 12
-phone: "+433332 632330"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.mueller.at/"
+street: Im Hatric
+housenumber: "12"
+phone: +433332 632330
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.mueller.at/

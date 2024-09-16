@@ -4,8 +4,8 @@ latitude: 47.26124
 longitude: 11.39601
 postcode: "6020"
 city: Innsbruck
-street: "Heiliggeiststraße"
-housenumber: 4
-phone: "+43 650 6111301"
-opening_hours: "Mo-Sa 09:00+ || nach Vereinbarung"
-website: "http://www.steviescherl.com"
+street: Heiliggeiststraße
+housenumber: "4"
+phone: +43 650 6111301
+opening_hours: Mo-Sa 09:00+ || "nach Vereinbarung"
+website: http://www.steviescherl.com

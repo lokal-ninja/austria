@@ -4,8 +4,8 @@ latitude: 48.01247
 longitude: 16.29356
 postcode: "2514"
 city: Traiskirchen
-street: "Hauptplatz"
-housenumber: 17
+street: Hauptplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.etsan.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.etsan.at/

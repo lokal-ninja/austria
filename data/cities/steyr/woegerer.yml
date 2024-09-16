@@ -4,8 +4,8 @@ latitude: 48.05216
 longitude: 14.39632
 postcode: "4400"
 city: Steyr
-street: "Wolfernstraße"
-housenumber: 46
-phone: "+43-7252-889-0"
-opening_hours: "Mo-Th 08:00-12:00, 12:30-16:30; Fr 08:00-12:30"
-website: "https://www.woegerer.at/"
+street: Wolfernstraße
+housenumber: "46"
+phone: +43-7252-889-0
+opening_hours: Mo-Th 08:00-12:00, 12:30-16:30; Fr 08:00-12:30
+website: https://www.woegerer.at/

@@ -4,8 +4,8 @@ latitude: 47.34733
 longitude: 11.70973
 postcode: "6130"
 city: Schwaz
-street: "Tannenberggasse"
-housenumber: 15
-phone: "+43 5242 63220"
-opening_hours: "Mo-Sa 06:00-11:00"
-website: "https://baeckerei-bathelt.at/"
+street: Tannenberggasse
+housenumber: "15"
+phone: +43 5242 63220
+opening_hours: Mo-Sa 06:00-11:00
+website: https://baeckerei-bathelt.at/

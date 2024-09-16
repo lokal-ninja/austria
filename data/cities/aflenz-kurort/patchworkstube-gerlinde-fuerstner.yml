@@ -4,8 +4,8 @@ latitude: 47.54479
 longitude: 15.23743
 postcode: "8623"
 city: Aflenz Kurort
-street: "Aflenzer Straße"
-housenumber: 10
+street: Aflenzer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo: 9-12h; Di-Fr: 9-12h & 15-18h, Sa: 9-12h"
-website: "https://www.patchworkstube.at/"
+opening_hours: 'Mo: 9-12h; Di-Fr: 9-12h & 15-18h, Sa: 9-12h'
+website: https://www.patchworkstube.at/

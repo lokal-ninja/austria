@@ -1,11 +1,11 @@
 id: 394000235
-type: way
+type: node
 latitude: 47.95885
 longitude: 14.13323
 postcode: "4542"
 city: Nußbach
-street: "Jageredtstraße"
-housenumber: 17
-phone: "+43 7587 8519"
+street: Jageredtstraße
+housenumber: "17"
+phone: +43 7587 8519
 opening_hours: ""
-website: "https://www.renault-weiermeier.at/"
+website: https://www.renault-weiermeier.at/

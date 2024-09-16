@@ -1,11 +1,11 @@
 id: 515863611
-type: way
+type: node
 latitude: 47.99788
 longitude: 16.29673
 postcode: "2512"
 city: Tribuswinkel
-street: "Südautobahnstraße"
-housenumber: 7
-phone: "+43 2252 254243"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.loesdau.de/pferdesporthaeuser/loesdau-traiskirchen/"
+street: Südautobahnstraße
+housenumber: "7"
+phone: +43 2252 254243
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.loesdau.de/pferdesporthaeuser/loesdau-traiskirchen/

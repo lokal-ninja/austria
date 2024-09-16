@@ -1,11 +1,11 @@
 id: 32062420
-type: way
+type: node
 latitude: 47.26551
 longitude: 11.39446
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 31
-phone: "+43 512 901115"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kaufhaus-tyrol.at"
+street: Maria-Theresien-Straße
+housenumber: "31"
+phone: +43 512 901115
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kaufhaus-tyrol.at

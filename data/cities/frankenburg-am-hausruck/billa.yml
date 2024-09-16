@@ -1,11 +1,11 @@
 id: 39596762
-type: way
+type: node
 latitude: 48.06267
 longitude: 13.48213
 postcode: "4873"
 city: Frankenburg am Hausruck
-street: "Badstraße"
-housenumber: 43
+street: Badstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

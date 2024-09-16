@@ -1,11 +1,11 @@
 id: 235553450
-type: way
+type: node
 latitude: 48.24238
 longitude: 16.3621
 postcode: "1190"
 city: Wien
-street: "Heiligenstädter Straße"
-housenumber: 66
+street: Heiligenstädter Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-wien.at/"
+website: https://www.bmw-wien.at/

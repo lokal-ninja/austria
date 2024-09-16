@@ -4,8 +4,8 @@ latitude: 47.0589
 longitude: 15.43854
 postcode: "8010"
 city: Graz
-street: "Pestalozzistraße"
-housenumber: 74
+street: Pestalozzistraße
+housenumber: "74"
 phone: "+436644846523"
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 10:00-20:00; Sa 09:00-12:00"
-website: "http://www.friseur-ist-kopfsache.at/"
+opening_hours: Tu,Th,Fr 09:00-18:00; We 10:00-20:00; Sa 09:00-12:00
+website: http://www.friseur-ist-kopfsache.at/

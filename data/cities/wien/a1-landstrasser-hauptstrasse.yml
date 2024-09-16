@@ -4,8 +4,8 @@ latitude: 48.207
 longitude: 16.38552
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
+street: Landstraßer Hauptstraße
 housenumber: 1b
-phone: "+43 800 664 100"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.a1.net"
+phone: +43 800 664 100
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.a1.net

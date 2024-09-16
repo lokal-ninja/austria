@@ -1,11 +1,11 @@
 id: 95695220
-type: way
+type: node
 latitude: 47.44003
 longitude: 11.70345
 postcode: "6213"
 city: Eben am Achensee
-street: "Seepromenade"
-housenumber: 16
+street: Seepromenade
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

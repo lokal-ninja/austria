@@ -1,11 +1,11 @@
 id: 85128103
-type: way
+type: node
 latitude: 47.39595
 longitude: 10.91527
 postcode: "6632"
 city: Ehrwald
-street: "Im Tal"
-housenumber: 35
+street: Im Tal
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30; Sa 08:00-12:00
 website: ""

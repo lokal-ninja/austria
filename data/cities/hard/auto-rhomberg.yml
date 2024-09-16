@@ -1,11 +1,11 @@
 id: 82010739
-type: way
+type: node
 latitude: 47.48827
 longitude: 9.70718
 postcode: "6971"
 city: Hard
-street: "Hofsteigstraße"
-housenumber: 105
-phone: "+43 5574 73146"
+street: Hofsteigstraße
+housenumber: "105"
+phone: +43 5574 73146
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 129121099
-type: way
+type: node
 latitude: 47.167
 longitude: 11.86888
 postcode: "6290"
 city: Mayrhofen
-street: "Sportplatzstraße"
-housenumber: 312
+street: Sportplatzstraße
+housenumber: "312"
 phone: ""
 opening_hours: ""
-website: "https://www.holiday-service.at/"
+website: https://www.holiday-service.at/

@@ -4,8 +4,8 @@ latitude: 47.0783
 longitude: 15.48533
 postcode: "8047"
 city: Graz
-street: "Ragnitzstraße"
-housenumber: 91
-phone: "+43 316 80 40 108"
-opening_hours: "Mo-Fr 06:30-19:00; Sa,So,PH 07:00-18:00"
+street: Ragnitzstraße
+housenumber: "91"
+phone: +43 316 80 40 108
+opening_hours: Mo-Fr 06:30-19:00; Sa,So,PH 07:00-18:00
 website: ""

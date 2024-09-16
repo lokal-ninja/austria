@@ -1,11 +1,11 @@
 id: 727462816
-type: way
+type: node
 latitude: 48.80937
 longitude: 15.30061
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "ÖAMTC-Straße"
-housenumber: 2
+street: ÖAMTC-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

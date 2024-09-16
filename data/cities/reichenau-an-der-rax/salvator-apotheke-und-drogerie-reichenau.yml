@@ -4,8 +4,8 @@ latitude: 47.69524
 longitude: 15.84503
 postcode: "2651"
 city: Reichenau an der Rax
-street: "Hauptstraße"
-housenumber: 51
+street: Hauptstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "http://www.apotheke-salvator.at"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: http://www.apotheke-salvator.at

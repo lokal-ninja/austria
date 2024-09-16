@@ -4,8 +4,8 @@ latitude: 48.17758
 longitude: 15.08136
 postcode: "3370"
 city: Ybbs an der Donau
-street: "Stauwerkstraße"
-housenumber: 10
+street: Stauwerkstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.geyrecker.com/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.geyrecker.com/

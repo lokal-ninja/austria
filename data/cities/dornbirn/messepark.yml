@@ -1,11 +1,11 @@
 id: 89211437
-type: way
+type: node
 latitude: 47.41288
 longitude: 9.71107
 postcode: "6850"
 city: Dornbirn
-street: "Messestraße"
-housenumber: 2
+street: Messestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:30; Fr 09:00-21:00; Sa 08:30-18:00"
-website: "https://www.messepark.at/"
+opening_hours: Mo-Th 09:00-19:30; Fr 09:00-21:00; Sa 08:30-18:00
+website: https://www.messepark.at/

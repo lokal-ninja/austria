@@ -1,11 +1,11 @@
 id: 107808607
-type: way
+type: node
 latitude: 47.06812
 longitude: 15.40903
 postcode: "8020"
 city: Graz
-street: "Eckertstraße"
-housenumber: 1
-phone: "+43 316 577100"
+street: Eckertstraße
+housenumber: "1"
+phone: +43 316 577100
 opening_hours: ""
-website: "https://www.aul.at/"
+website: https://www.aul.at/

@@ -1,11 +1,11 @@
 id: 174668304
-type: way
+type: node
 latitude: 48.22871
 longitude: 15.67472
 postcode: "3100"
 city: Sankt Pölten
-street: "Keltenstraße"
-housenumber: 7
+street: Keltenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.derendinger.at/"
+website: https://www.derendinger.at/

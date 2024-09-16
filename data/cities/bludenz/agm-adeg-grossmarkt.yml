@@ -1,11 +1,11 @@
 id: 204714297
-type: way
+type: node
 latitude: 47.14074
 longitude: 9.8339
 postcode: "6700"
 city: Bludenz
-street: "Montafonerstraße"
-housenumber: 31
+street: Montafonerstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
 website: ""

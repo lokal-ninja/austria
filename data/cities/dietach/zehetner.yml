@@ -1,11 +1,11 @@
 id: 420359850
-type: way
+type: node
 latitude: 48.08134
 longitude: 14.42949
 postcode: "4407"
 city: Dietach
-street: "Winklingerstraße"
-housenumber: 8
-phone: "+43-7252-38254"
-opening_hours: "Mo-Fr 06:00-14:00,15:00-18:00; Sa 06:30-12:30"
-website: "https://www.zehetner-fleischer.at/"
+street: Winklingerstraße
+housenumber: "8"
+phone: +43-7252-38254
+opening_hours: Mo-Fr 06:00-14:00,15:00-18:00; Sa 06:30-12:30
+website: https://www.zehetner-fleischer.at/

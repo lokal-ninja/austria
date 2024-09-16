@@ -1,11 +1,11 @@
 id: 88865448
-type: way
+type: node
 latitude: 48.21609
 longitude: 15.65339
 postcode: "3100"
 city: St. Pölten
-street: "Wiener Straße"
-housenumber: 215
+street: Wiener Straße
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.92631
 longitude: 16.21306
 postcode: "2544"
 city: Leobersdorf
-street: "Wiesengasse"
-housenumber: 3
-phone: "+43 650 6940640"
-opening_hours: "Tu,Fr 07:30-13:00, 15:00-19:00; PH off"
-website: "http://www.irenes-bauernladen.at"
+street: Wiesengasse
+housenumber: "3"
+phone: +43 650 6940640
+opening_hours: Tu,Fr 07:30-13:00, 15:00-19:00; PH off
+website: http://www.irenes-bauernladen.at

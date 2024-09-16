@@ -1,11 +1,11 @@
 id: 168716469
-type: way
+type: node
 latitude: 48.36393
 longitude: 16.53607
 postcode: "2211"
 city: Pillichsdorf
-street: "Wiener Straße"
-housenumber: 23
+street: Wiener Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.bio-weingut-goessinger.at/"
+website: https://www.bio-weingut-goessinger.at/

@@ -1,11 +1,11 @@
 id: 180922685
-type: way
+type: node
 latitude: 48.21181
 longitude: 15.62287
 postcode: "3100"
 city: St. Pölten
-street: "Maximilianstraße"
-housenumber: 71
-phone: "+43 2742 47048"
-opening_hours: "Mo-Fr 09:30-12:30,13:00-18:00, Sa 09:00-12:30,13:00-17:00"
-website: "https://www.matratzen-concord.at"
+street: Maximilianstraße
+housenumber: "71"
+phone: +43 2742 47048
+opening_hours: Mo-Fr 09:30-12:30,13:00-18:00, Sa 09:00-12:30,13:00-17:00
+website: https://www.matratzen-concord.at

@@ -1,11 +1,11 @@
 id: 132659342
-type: way
+type: node
 latitude: 48.24208
 longitude: 14.29322
 postcode: "4030"
 city: Linz
-street: "Franzosenhausweg"
-housenumber: 61
+street: Franzosenhausweg
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-15:00"
-website: "https://www.hilti.at/stores/linz"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-15:00
+website: https://www.hilti.at/stores/linz

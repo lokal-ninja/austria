@@ -1,11 +1,11 @@
 id: 250559287
-type: way
+type: node
 latitude: 48.15348
 longitude: 16.30071
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 168
-phone: "+43 1 8021834"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off"
-website: "https://www.cattobello.at/"
+street: Breitenfurter Straße
+housenumber: "168"
+phone: +43 1 8021834
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su off
+website: https://www.cattobello.at/

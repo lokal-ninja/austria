@@ -1,11 +1,11 @@
 id: 31251438
-type: way
+type: node
 latitude: 48.16053
 longitude: 16.43275
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 269
+street: Simmeringer Hauptstraße
+housenumber: "269"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "mobil.autohaus-sieger.at"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: mobil.autohaus-sieger.at

@@ -4,8 +4,8 @@ latitude: 47.06175
 longitude: 15.43337
 postcode: "8020"
 city: Graz
-street: "Grieskai"
-housenumber: 76
-phone: "+43 057 0303 1050"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Grieskai
+housenumber: "76"
+phone: +43 057 0303 1050
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

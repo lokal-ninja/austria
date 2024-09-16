@@ -4,8 +4,8 @@ latitude: 48.18335
 longitude: 16.3511
 postcode: "1050"
 city: Wien
-street: "Einsiedlergasse"
-housenumber: 26
-phone: "+43 1 5452774"
-opening_hours: "PH,Mo-Su 06:00-22:00"
+street: Einsiedlergasse
+housenumber: "26"
+phone: +43 1 5452774
+opening_hours: PH,Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 655427107
-type: way
+type: node
 latitude: 47.11863
 longitude: 13.13429
 postcode: "5640"
 city: Bad Gastein
-street: "Mozartplatz"
-housenumber: 13
+street: Mozartplatz
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.15653
 longitude: 14.02653
 postcode: "4600"
 city: Wels
-street: "Hafergasse"
-housenumber: 7
+street: Hafergasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:10-12:00; PH off"
-website: "https://www.consul.at"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:10-12:00; PH off
+website: https://www.consul.at

@@ -1,11 +1,11 @@
 id: 30577447
-type: way
+type: node
 latitude: 48.04675
 longitude: 14.41368
 postcode: "4400"
 city: Steyr
-street: "Kaserngasse"
+street: Kaserngasse
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

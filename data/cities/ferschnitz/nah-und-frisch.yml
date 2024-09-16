@@ -1,11 +1,11 @@
 id: 182149685
-type: way
+type: node
 latitude: 48.0909
 longitude: 14.98522
 postcode: "3325"
 city: Ferschnitz
-street: "Hauptstraße"
-housenumber: 47
+street: Hauptstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 07:30-12:00, 13:00-18:00; We, Sa 07:30-12:00"
-website: "https://www.nahundfrisch.at/de/kaufmann/roseneder"
+opening_hours: Mo, Tu, Th, Fr 07:30-12:00, 13:00-18:00; We, Sa 07:30-12:00
+website: https://www.nahundfrisch.at/de/kaufmann/roseneder

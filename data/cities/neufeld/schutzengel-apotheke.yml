@@ -1,11 +1,11 @@
 id: 291570068
-type: way
+type: node
 latitude: 47.86769
 longitude: 16.37631
 postcode: "2491"
 city: Neufeld
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "www.schutzengel-apo.at"
+website: www.schutzengel-apo.at

@@ -1,11 +1,11 @@
 id: 221771121
-type: way
+type: node
 latitude: 47.06881
 longitude: 15.39174
 postcode: "8020"
 city: Graz
-street: "Eckertstraße"
-housenumber: 126
+street: Eckertstraße
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.23338
 longitude: 16.32825
 postcode: "1180"
 city: Wien
-street: "Gersthofer Straße"
-housenumber: 16
-phone: "+43 66285830"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.dm.at"
+street: Gersthofer Straße
+housenumber: "16"
+phone: +43 66285830
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.dm.at

@@ -4,8 +4,8 @@ latitude: 48.19952
 longitude: 16.3876
 postcode: "1030"
 city: Wien
-street: "Ungargasse"
-housenumber: 45
+street: Ungargasse
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Su 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:30; Su 09:00-13:00
 website: ""

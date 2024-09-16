@@ -4,8 +4,8 @@ latitude: 47.79686
 longitude: 13.04651
 postcode: "5020"
 city: Salzburg
-street: "Kapitelplatz"
-housenumber: 6
+street: Kapitelplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "https://dombuchhandlung.buchkatalog.at/"
+opening_hours: Tu-Sa 10:00-17:00
+website: https://dombuchhandlung.buchkatalog.at/

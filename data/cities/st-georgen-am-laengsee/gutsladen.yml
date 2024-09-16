@@ -1,11 +1,11 @@
 id: 103130367
-type: way
+type: node
 latitude: 46.76926
 longitude: 14.38801
 postcode: "9300"
 city: St. Georgen am Längsee
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Su 07:00-19:00"
+opening_hours: Mo-Su 07:00-19:00
 website: ""

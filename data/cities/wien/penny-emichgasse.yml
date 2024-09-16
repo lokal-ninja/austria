@@ -1,11 +1,11 @@
 id: 494649603
-type: way
+type: node
 latitude: 48.23483
 longitude: 16.47276
 postcode: "1220"
 city: Wien
-street: "Emichgasse"
-housenumber: 6
+street: Emichgasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

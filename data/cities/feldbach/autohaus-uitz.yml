@@ -1,11 +1,11 @@
 id: 150766248
-type: way
+type: node
 latitude: 46.95351
 longitude: 15.87063
 postcode: "8330"
 city: Feldbach
-street: "Gnaser Straße"
-housenumber: 24
+street: Gnaser Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

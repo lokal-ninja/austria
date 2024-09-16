@@ -1,11 +1,11 @@
 id: 37047176
-type: way
+type: node
 latitude: 48.18309
 longitude: 14.0155
 postcode: "4600"
 city: Wels
-street: "Oberfeldstraße"
-housenumber: 97
-phone: "+43 5 0780 3452"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30"
-website: "https://www.oeag.at/bad-energie/"
+street: Oberfeldstraße
+housenumber: "97"
+phone: +43 5 0780 3452
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30
+website: https://www.oeag.at/bad-energie/

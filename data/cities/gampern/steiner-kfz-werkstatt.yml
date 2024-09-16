@@ -1,11 +1,11 @@
 id: 638529821
-type: way
+type: node
 latitude: 48.00226
 longitude: 13.5573
 postcode: "4851"
 city: Gampern
-street: "Gewerbepark"
-housenumber: 15
+street: Gewerbepark
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1165180029
-type: way
+type: node
 latitude: 48.13755
 longitude: 16.27778
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
+street: Breitenfurter Straße
 housenumber: 372/24
-phone: "+43 1 865 39 17"
-opening_hours: "Mo-Th 08:00-19:00; Fr 07:30-19:00; Sa 07:30-18:00; Su,PH off"
+phone: +43 1 865 39 17
+opening_hours: Mo-Th 08:00-19:00; Fr 07:30-19:00; Sa 07:30-18:00; Su,PH off
 website: ""

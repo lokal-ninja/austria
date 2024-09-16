@@ -4,8 +4,8 @@ latitude: 48.21682
 longitude: 16.36954
 postcode: "1010"
 city: Wien
-street: "Schottenring"
-housenumber: 28
+street: Schottenring
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-17:00"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 736651334
-type: way
+type: node
 latitude: 48.24854
 longitude: 16.63859
 postcode: "2280"
 city: Glinzendorf
-street: "Kornweg"
-housenumber: 8
+street: Kornweg
+housenumber: "8"
 phone: ""
-opening_hours: "Fr 08:00-12:00, 13:00-18:00; Sa 08:00-13:00"
-website: "http://www.marchfeldrind.at"
+opening_hours: Fr 08:00-12:00, 13:00-18:00; Sa 08:00-13:00
+website: http://www.marchfeldrind.at

@@ -1,11 +1,11 @@
 id: 71234037
-type: way
+type: node
 latitude: 48.04758
 longitude: 16.30168
 postcode: "2353"
 city: Guntramsdorf
-street: "Gumpoldskirchner Straße"
-housenumber: 13
+street: Gumpoldskirchner Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa,Su 08:00-18:00"
-website: "https://www.blumenludwig.at/"
+opening_hours: Mo-Fr 08:00-18:30; Sa,Su 08:00-18:00
+website: https://www.blumenludwig.at/

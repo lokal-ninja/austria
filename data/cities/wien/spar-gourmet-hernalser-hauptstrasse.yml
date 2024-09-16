@@ -4,8 +4,8 @@ latitude: 48.22531
 longitude: 16.31111
 postcode: "1170"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 214
-phone: "+43 1 4813926"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.spar.at/standorte/spar-gourmet-wien-1170-hernalser-hauptstrasse-214"
+street: Hernalser Hauptstraße
+housenumber: "214"
+phone: +43 1 4813926
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.spar.at/standorte/spar-gourmet-wien-1170-hernalser-hauptstrasse-214

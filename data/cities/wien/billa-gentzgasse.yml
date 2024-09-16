@@ -4,8 +4,8 @@ latitude: 48.23155
 longitude: 16.32953
 postcode: "1180"
 city: Wien
-street: "Gentzgasse"
-housenumber: 164
+street: Gentzgasse
+housenumber: "164"
 phone: "+4314701813"
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00"
-website: "https://billa.at"
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00
+website: https://billa.at

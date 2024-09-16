@@ -1,11 +1,11 @@
 id: 159152224
-type: way
+type: node
 latitude: 48.57043
 longitude: 16.08043
 postcode: "2020"
 city: Hollabrunn
-street: "Kaplanstraße"
-housenumber: 6
+street: Kaplanstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

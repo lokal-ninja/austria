@@ -1,11 +1,11 @@
 id: 29155640
-type: way
+type: node
 latitude: 48.12296
 longitude: 16.28882
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Mühlgasse"
-housenumber: 92
-phone: "+43 1 8651650"
-opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
-website: "https://www.spar.at/de_AT/index/standorte/23/perchtoldsdorf_1253.html"
+street: Mühlgasse
+housenumber: "92"
+phone: +43 1 8651650
+opening_hours: Mo-Fr 07:30-19:50; Sa 07:40-18:00
+website: https://www.spar.at/de_AT/index/standorte/23/perchtoldsdorf_1253.html

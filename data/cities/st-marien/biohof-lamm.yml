@@ -5,7 +5,7 @@ longitude: 14.27384
 postcode: "4502"
 city: St. Marien
 street: ""
-housenumber: 8
-phone: "+43-7227-8281"
-opening_hours: "Tu,We,Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.biohof-lamm.at/"
+housenumber: "8"
+phone: +43-7227-8281
+opening_hours: Tu,We,Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.biohof-lamm.at/

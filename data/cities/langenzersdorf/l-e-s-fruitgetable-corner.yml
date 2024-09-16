@@ -1,11 +1,11 @@
 id: 76920801
-type: way
+type: node
 latitude: 48.30362
 longitude: 16.3689
 postcode: "2103"
 city: Langenzersdorf
-street: "Wiener Straße"
-housenumber: 122
+street: Wiener Straße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

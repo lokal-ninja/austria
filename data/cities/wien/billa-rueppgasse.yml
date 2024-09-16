@@ -4,8 +4,8 @@ latitude: 48.2213
 longitude: 16.3863
 postcode: "1020"
 city: Wien
-street: "Rueppgasse"
-housenumber: 11
-phone: "+43 1 9612535"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Rueppgasse
+housenumber: "11"
+phone: +43 1 9612535
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

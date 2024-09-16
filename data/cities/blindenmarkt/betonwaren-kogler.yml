@@ -1,11 +1,11 @@
 id: 300190043
-type: way
+type: node
 latitude: 48.12784
 longitude: 14.98243
 postcode: "3372"
 city: Blindenmarkt
-street: "St. Georgenerstraße"
-housenumber: 7
-phone: "+43 664 405 908 0"
+street: St. Georgenerstraße
+housenumber: "7"
+phone: +43 664 405 908 0
 opening_hours: ""
 website: ""

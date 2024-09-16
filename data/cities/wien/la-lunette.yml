@@ -4,8 +4,8 @@ latitude: 48.19314
 longitude: 16.36092
 postcode: "1050"
 city: Wien
-street: "Wehrgasse"
-housenumber: 2
-phone: "+43 1 5856874"
-opening_hours: "Mo-Fr 09:30-18:30"
+street: Wehrgasse
+housenumber: "2"
+phone: +43 1 5856874
+opening_hours: Mo-Fr 09:30-18:30
 website: ""

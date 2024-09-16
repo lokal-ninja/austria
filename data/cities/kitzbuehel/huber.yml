@@ -4,8 +4,8 @@ latitude: 47.44513
 longitude: 12.39212
 postcode: "6370"
 city: Kitzbühel
-street: "Bichlstraße"
-housenumber: 14
-phone: "+43 5356 62480"
-opening_hours: "Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; We,Sa 08:00-13:00"
-website: "https://huber-metzger.at"
+street: Bichlstraße
+housenumber: "14"
+phone: +43 5356 62480
+opening_hours: Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; We,Sa 08:00-13:00
+website: https://huber-metzger.at

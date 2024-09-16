@@ -1,11 +1,11 @@
 id: 1084170102
-type: way
+type: node
 latitude: 47.89948
 longitude: 13.94917
 postcode: "4644"
 city: Scharnstein
-street: "Kalkofen"
-housenumber: 15
+street: Kalkofen
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

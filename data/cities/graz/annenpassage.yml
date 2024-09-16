@@ -1,11 +1,11 @@
 id: 93471195
-type: way
+type: node
 latitude: 47.07161
 longitude: 15.41953
 postcode: "8020"
 city: Graz
-street: "Bahnhofgürtel"
-housenumber: 89
+street: Bahnhofgürtel
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

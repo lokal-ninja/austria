@@ -1,11 +1,11 @@
 id: 645179337
-type: way
+type: node
 latitude: 48.50228
 longitude: 14.08641
 postcode: "4171"
 city: St. Peter am Wimberg
-street: "Haslacher Straße"
-housenumber: 1
+street: Haslacher Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

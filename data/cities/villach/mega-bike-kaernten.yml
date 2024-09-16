@@ -1,11 +1,11 @@
 id: 135425879
-type: way
+type: node
 latitude: 46.60426
 longitude: 13.86748
 postcode: "9500"
 city: Villach
-street: "Maria-Gailer-Straße"
+street: Maria-Gailer-Straße
 housenumber: 38a
-phone: "+43 4242 377 33"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"
-website: "https://www.megabike.at/"
+phone: +43 4242 377 33
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00
+website: https://www.megabike.at/

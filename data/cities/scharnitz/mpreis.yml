@@ -4,8 +4,8 @@ latitude: 47.38685
 longitude: 11.25911
 postcode: "6108"
 city: Scharnitz
-street: "Innsbruckerstraße"
-housenumber: 195
-phone: "+43 5213 20296"
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:00-20:00; PH 07:00-20:00"
+street: Innsbruckerstraße
+housenumber: "195"
+phone: +43 5213 20296
+opening_hours: Mo-Sa 06:00-20:00; Su 07:00-20:00; PH 07:00-20:00
 website: ""

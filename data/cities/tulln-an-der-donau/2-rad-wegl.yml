@@ -1,11 +1,11 @@
 id: 189268451
-type: way
+type: node
 latitude: 48.33058
 longitude: 16.05138
 postcode: "3430"
 city: Tulln an der Donau
-street: "Jasomirgottgasse"
-housenumber: 4
+street: Jasomirgottgasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.2rad-wegl.at/"
+website: http://www.2rad-wegl.at/

@@ -1,11 +1,11 @@
 id: 275173913
-type: way
+type: node
 latitude: 47.55756
 longitude: 16.09312
 postcode: "2870"
 city: Aspang-Markt
-street: "Bahnstraße"
+street: Bahnstraße
 housenumber: 16a
-phone: "+43 2642 51672"
-opening_hours: "Mo-Th 07:00-19:00; Fr 06:30-19:00; Sa 06:30-18:00"
-website: "https://www.j-plank.at/eurospar-aspang"
+phone: +43 2642 51672
+opening_hours: Mo-Th 07:00-19:00; Fr 06:30-19:00; Sa 06:30-18:00
+website: https://www.j-plank.at/eurospar-aspang

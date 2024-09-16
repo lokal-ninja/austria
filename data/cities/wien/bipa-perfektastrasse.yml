@@ -4,8 +4,8 @@ latitude: 48.13772
 longitude: 16.29967
 postcode: "1230"
 city: Wien
-street: "Perfektastraße"
-housenumber: 106
+street: Perfektastraße
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off"
-website: "https://www.bipa.at/"
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00; PH off
+website: https://www.bipa.at/

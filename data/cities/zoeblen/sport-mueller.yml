@@ -4,8 +4,8 @@ latitude: 47.50802
 longitude: 10.47429
 postcode: "6677"
 city: Zöblen
-street: "Zöblen"
-housenumber: 31
+street: Zöblen
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 13:00-18:00; Sa-Su 09:00-12:00, 13:30-16:30"
-website: "https://sport-mueller.at/"
+opening_hours: Mo-Fr 08:30-12:00, 13:00-18:00; Sa-Su 09:00-12:00, 13:30-16:30
+website: https://sport-mueller.at/

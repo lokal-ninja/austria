@@ -1,11 +1,11 @@
 id: 67599985
-type: way
+type: node
 latitude: 47.48613
 longitude: 9.70156
 postcode: "6971"
 city: Hard
-street: "Quellenstraße"
-housenumber: 18
+street: Quellenstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

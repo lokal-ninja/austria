@@ -1,11 +1,11 @@
 id: 1254911921
-type: way
+type: node
 latitude: 47.17031
 longitude: 16.1615
 postcode: "7551"
 city: Stegersbach
-street: "Wiesenstraße"
-housenumber: 2
+street: Wiesenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:15; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:15; Sa 07:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 214474083
-type: way
+type: node
 latitude: 46.68302
 longitude: 15.98687
 postcode: "9250"
 city: Gornja Radgona
-street: "Jurkovičeva ulica"
-housenumber: 25
+street: Jurkovičeva ulica
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

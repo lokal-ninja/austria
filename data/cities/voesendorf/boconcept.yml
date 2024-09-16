@@ -1,11 +1,11 @@
 id: 112226353
-type: way
+type: node
 latitude: 48.1165
 longitude: 16.3185
 postcode: "2334"
 city: Vösendorf
-street: "Autoallee"
-housenumber: 4
+street: Autoallee
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

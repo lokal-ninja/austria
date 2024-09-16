@@ -1,11 +1,11 @@
 id: 85580293
-type: way
+type: node
 latitude: 47.02228
 longitude: 15.43604
 postcode: ""
 city: Graz
-street: "Triester Straße"
-housenumber: 430
+street: Triester Straße
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

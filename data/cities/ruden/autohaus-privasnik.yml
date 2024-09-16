@@ -1,11 +1,11 @@
 id: 395776232
-type: way
+type: node
 latitude: 46.65688
 longitude: 14.76555
 postcode: "9113"
 city: Ruden
 street: ""
-housenumber: 40
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

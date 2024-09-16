@@ -1,11 +1,11 @@
 id: 44866623
-type: way
+type: node
 latitude: 48.02228
 longitude: 16.29823
 postcode: "2514"
 city: Traiskirchen
-street: "Karl Adlitzer-Straße"
-housenumber: 5
+street: Karl Adlitzer-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

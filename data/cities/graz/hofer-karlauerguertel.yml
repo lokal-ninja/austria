@@ -1,11 +1,11 @@
 id: 153029134
-type: way
+type: node
 latitude: 47.05624
 longitude: 15.42791
 postcode: "8020"
 city: Graz
-street: "Karlauergürtel"
-housenumber: 4
+street: Karlauergürtel
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

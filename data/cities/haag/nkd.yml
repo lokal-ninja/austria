@@ -1,11 +1,11 @@
 id: 316137702
-type: way
+type: node
 latitude: 48.11301
 longitude: 14.56312
 postcode: "3350"
 city: Haag
-street: "Mozartstraße"
-housenumber: 1
+street: Mozartstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:30"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:30
 website: ""

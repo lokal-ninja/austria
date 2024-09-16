@@ -1,11 +1,11 @@
 id: 134897158
-type: way
+type: node
 latitude: 46.60495
 longitude: 13.86124
 postcode: "9500"
 city: Villach
-street: "Bruno-Kreisky-Straße"
-housenumber: 27
-phone: "+43 4242 35977"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at"
+street: Bruno-Kreisky-Straße
+housenumber: "27"
+phone: +43 4242 35977
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at

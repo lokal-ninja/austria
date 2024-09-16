@@ -4,8 +4,8 @@ latitude: 48.21474
 longitude: 16.35699
 postcode: "1090"
 city: Wien
-street: "Universitätsstraße"
-housenumber: 8
+street: Universitätsstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00, 12:30-17:30; Fr 09:00-15:00; PH off; Sa, Su off"
-website: "https://diekopie.at/diekopie-09-uni-wien/"
+opening_hours: Mo-Th 09:00-12:00, 12:30-17:30; Fr 09:00-15:00; PH off; Sa, Su off
+website: https://diekopie.at/diekopie-09-uni-wien/

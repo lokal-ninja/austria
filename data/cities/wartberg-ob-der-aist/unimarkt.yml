@@ -1,11 +1,11 @@
 id: 34602847
-type: way
+type: node
 latitude: 48.34784
 longitude: 14.50936
 postcode: "4224"
 city: Wartberg ob der Aist
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:00"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-17:00
 website: ""

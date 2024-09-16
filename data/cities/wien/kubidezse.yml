@@ -4,8 +4,8 @@ latitude: 48.18504
 longitude: 16.30065
 postcode: "1130"
 city: Wien
-street: "Maxingstraße"
-housenumber: 4
+street: Maxingstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-14:30"
-website: "https://kubidezse.com/"
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-14:30
+website: https://kubidezse.com/

@@ -1,11 +1,11 @@
 id: 457607914
-type: way
+type: node
 latitude: 48.07316
 longitude: 13.17944
 postcode: "5222"
 city: Munderfing
-street: "Hauptstraße"
-housenumber: 100
+street: Hauptstraße
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "http://www.spatzenegger.com"
+website: http://www.spatzenegger.com

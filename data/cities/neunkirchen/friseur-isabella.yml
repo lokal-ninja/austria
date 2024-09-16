@@ -4,8 +4,8 @@ latitude: 47.72122
 longitude: 16.07973
 postcode: "2620"
 city: Neunkirchen
-street: "Kirchengasse"
-housenumber: 5
+street: Kirchengasse
+housenumber: "5"
 phone: ""
-opening_hours: "Th,Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:30"
+opening_hours: Th,Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:30
 website: ""

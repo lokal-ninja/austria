@@ -1,11 +1,11 @@
 id: 123618120
-type: way
+type: node
 latitude: 47.40286
 longitude: 10.92264
 postcode: "6632"
 city: Ehrwald
-street: "Lähngraben Umgebung"
+street: Lähngraben Umgebung
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Su 17:00-19:00"
+opening_hours: Mo-Su 17:00-19:00
 website: ""

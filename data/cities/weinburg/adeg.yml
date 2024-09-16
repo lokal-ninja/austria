@@ -4,8 +4,8 @@ latitude: 48.11589
 longitude: 15.535
 postcode: "3205"
 city: Weinburg
-street: "Mariazeller Straße"
-housenumber: 4
+street: Mariazeller Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-We,Fr 06:30-12:30,15:00-18:00; Th 06:30-12:30; Sa 07:00-13:00"
-website: "www.adeg.at"
+opening_hours: Mo-We,Fr 06:30-12:30,15:00-18:00; Th 06:30-12:30; Sa 07:00-13:00
+website: www.adeg.at

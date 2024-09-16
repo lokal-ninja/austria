@@ -1,11 +1,11 @@
 id: 99002639
-type: way
+type: node
 latitude: 48.25987
 longitude: 13.85067
 postcode: "4710"
 city: Pollham
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: ""
-opening_hours: "Fr 15:00-17:00"
+opening_hours: Fr 15:00-17:00
 website: ""

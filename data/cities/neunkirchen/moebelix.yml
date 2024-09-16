@@ -1,11 +1,11 @@
 id: 447686009
-type: way
+type: node
 latitude: 47.72522
 longitude: 16.0764
 postcode: "2620"
 city: Neunkirchen
-street: "Schraubenwerkstraße"
-housenumber: 10
+street: Schraubenwerkstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

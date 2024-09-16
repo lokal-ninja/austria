@@ -4,8 +4,8 @@ latitude: 48.19079
 longitude: 16.27159
 postcode: "1130"
 city: Wien
-street: "Auhofstraße"
-housenumber: 134
-phone: "+43 59915 01339"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Auhofstraße
+housenumber: "134"
+phone: +43 59915 01339
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

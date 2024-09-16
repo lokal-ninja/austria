@@ -4,8 +4,8 @@ latitude: 48.30588
 longitude: 14.2849
 postcode: "4020"
 city: Linz
-street: "Hofgasse"
-housenumber: 12
-phone: "+43 664 38 25 345"
-opening_hours: "Tu-Fr 16:00-18:00, Th,Fr 11:00-13:00"
-website: "https://www.hofkabinett.at/"
+street: Hofgasse
+housenumber: "12"
+phone: +43 664 38 25 345
+opening_hours: Tu-Fr 16:00-18:00, Th,Fr 11:00-13:00
+website: https://www.hofkabinett.at/

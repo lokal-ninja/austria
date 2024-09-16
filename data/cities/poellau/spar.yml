@@ -1,11 +1,11 @@
 id: 149564289
-type: way
+type: node
 latitude: 47.30375
 longitude: 15.83889
 postcode: "8225"
 city: Pöllau
-street: "Schloffereckstraße"
-housenumber: 556
+street: Schloffereckstraße
+housenumber: "556"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

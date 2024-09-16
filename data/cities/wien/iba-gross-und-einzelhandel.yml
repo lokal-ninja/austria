@@ -1,11 +1,11 @@
 id: 239127564
-type: way
+type: node
 latitude: 48.25232
 longitude: 16.42715
 postcode: "1220"
 city: Wien
-street: "Donaufelder Straße"
-housenumber: 139
+street: Donaufelder Straße
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
+opening_hours: Mo-Sa 09:30-18:00
 website: ""

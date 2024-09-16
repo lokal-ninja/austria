@@ -1,11 +1,11 @@
 id: 231842424
-type: way
+type: node
 latitude: 47.71046
 longitude: 13.4562
 postcode: "5350"
 city: Strobl
-street: "Wolfgangseestraße"
-housenumber: 
+street: Wolfgangseestraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

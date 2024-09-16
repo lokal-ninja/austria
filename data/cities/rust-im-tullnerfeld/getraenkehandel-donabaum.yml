@@ -1,11 +1,11 @@
 id: 546199035
-type: way
+type: node
 latitude: 48.3031
 longitude: 15.92776
 postcode: "3451"
 city: Rust im Tullnerfeld
-street: "Mühlgasse"
-housenumber: 1
+street: Mühlgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

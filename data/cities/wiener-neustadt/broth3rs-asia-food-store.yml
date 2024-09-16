@@ -4,8 +4,8 @@ latitude: 47.82226
 longitude: 16.21894
 postcode: "2700"
 city: Wiener Neustadt
-street: "Fischauer Gasse"
-housenumber: 209
-phone: "+43 677 67702591"
-opening_hours: "Mo-Fr 09:30-18:15; Sa 08:30-17:15; PH off"
-website: "https://www.broth3rs.at"
+street: Fischauer Gasse
+housenumber: "209"
+phone: +43 677 67702591
+opening_hours: Mo-Fr 09:30-18:15; Sa 08:30-17:15; PH off
+website: https://www.broth3rs.at

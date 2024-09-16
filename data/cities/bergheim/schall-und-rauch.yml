@@ -4,8 +4,8 @@ latitude: 47.8424
 longitude: 13.0445
 postcode: "5101"
 city: Bergheim
-street: "Plainbachstraße"
-housenumber: 8
-phone: "+43 662 276215"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-17:00"
-website: "https://schall-rauch.at/"
+street: Plainbachstraße
+housenumber: "8"
+phone: +43 662 276215
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-17:00
+website: https://schall-rauch.at/

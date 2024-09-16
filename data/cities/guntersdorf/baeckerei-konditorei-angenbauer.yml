@@ -1,11 +1,11 @@
 id: 380560536
-type: way
+type: node
 latitude: 48.64833
 longitude: 16.04673
 postcode: "2042"
 city: Guntersdorf
-street: "Kirchengasse"
-housenumber: 219
-phone: "02951 2665"
+street: Kirchengasse
+housenumber: "219"
+phone: 02951 2665
 opening_hours: ""
 website: ""

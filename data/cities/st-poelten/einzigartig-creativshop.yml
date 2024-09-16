@@ -1,11 +1,12 @@
 id: 451849925
-type: way
+type: node
 latitude: 48.15642
 longitude: 15.61328
 postcode: "3100"
 city: St. Pölten
-street: "Kortenstraße"
-housenumber: 1
+street: Kortenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Jan-Sep: Mo-Fr 08:30-18:00; Jan-Sep: Sa 08:30-13:00; Oct-Dec: Mo-Sa 08:30-18:00"
-website: "https://www.einzigartig-creativ.at/"
+opening_hours: 'Jan-Sep: Mo-Fr 08:30-18:00; Jan-Sep: Sa 08:30-13:00; Oct-Dec: Mo-Sa
+    08:30-18:00'
+website: https://www.einzigartig-creativ.at/

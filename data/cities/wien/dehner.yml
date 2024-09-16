@@ -1,11 +1,11 @@
 id: 29300918
-type: way
+type: node
 latitude: 48.23639
 longitude: 16.45948
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 62
+street: Hirschstettner Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://www.dehner.at/home.html"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://www.dehner.at/home.html

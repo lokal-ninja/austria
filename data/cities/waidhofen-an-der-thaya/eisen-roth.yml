@@ -1,11 +1,11 @@
 id: 30082468
-type: way
+type: node
 latitude: 48.81821
 longitude: 15.27675
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Heidenreichsteinerstraße"
-housenumber: 27
+street: Heidenreichsteinerstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137713155
-type: way
+type: node
 latitude: 47.03478
 longitude: 15.47891
 postcode: "8042"
 city: Graz
-street: "Messendorfer Straße"
-housenumber: 99
-phone: "+43 316 819 400"
-opening_hours: "Mo-Fr 08:00-15:00"
-website: "https://www.bestattung-himmelblau.at/ueber-uns/standorte-graz/"
+street: Messendorfer Straße
+housenumber: "99"
+phone: +43 316 819 400
+opening_hours: Mo-Fr 08:00-15:00
+website: https://www.bestattung-himmelblau.at/ueber-uns/standorte-graz/

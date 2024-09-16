@@ -1,11 +1,11 @@
 id: 239315293
-type: way
+type: node
 latitude: 46.90196
 longitude: 15.71329
 postcode: "8083"
 city: Sankt Stefan im Rosental
-street: "Gleichenbergerstraße"
-housenumber: 1
+street: Gleichenbergerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

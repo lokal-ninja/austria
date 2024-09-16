@@ -1,11 +1,11 @@
 id: 131409572
-type: way
+type: node
 latitude: 47.51003
 longitude: 11.70225
 postcode: "6215"
 city: Achenkirch
-street: "Christlumsiedlung"
+street: Christlumsiedlung
 housenumber: 75a
-phone: "+43 5246 6406"
-opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00; Sa 08:00-14:00; Anmeldung wird gebeten."
+phone: +43 5246 6406
+opening_hours: Tu-Fr 08:00-12:00,13:00-18:00; Sa 08:00-14:00; "Anmeldung wird gebeten."
 website: ""

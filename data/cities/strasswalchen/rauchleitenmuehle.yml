@@ -1,11 +1,11 @@
 id: 116736674
-type: way
+type: node
 latitude: 47.97714
 longitude: 13.25743
 postcode: "5204"
 city: Straßwalchen
-street: "Schwemmstraße"
-housenumber: 17
+street: Schwemmstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

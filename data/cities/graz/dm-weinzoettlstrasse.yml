@@ -4,8 +4,8 @@ latitude: 47.10091
 longitude: 15.417
 postcode: "8045"
 city: Graz
-street: "Weinzöttlstraße"
-housenumber: 14
+street: Weinzöttlstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.meindm.at"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.meindm.at

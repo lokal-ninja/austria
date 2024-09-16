@@ -1,11 +1,11 @@
 id: 1192595097
-type: way
+type: node
 latitude: 48.19393
 longitude: 16.1411
 postcode: "3011"
 city: Neu Purkersdorf
-street: "Tullnerbachstraße"
-housenumber: 77
+street: Tullnerbachstraße
+housenumber: "77"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

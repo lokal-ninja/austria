@@ -1,11 +1,11 @@
 id: 52495764
-type: way
+type: node
 latitude: 48.19604
 longitude: 16.33785
 postcode: "1150"
 city: Wien
-street: "Europaplatz"
-housenumber: 1
+street: Europaplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
-website: "https://www.ikea.com/at/de/stores/wien-westbahnhof/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
+website: https://www.ikea.com/at/de/stores/wien-westbahnhof/

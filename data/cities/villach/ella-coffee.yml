@@ -1,11 +1,11 @@
 id: 1161082335
-type: way
+type: node
 latitude: 46.60804
 longitude: 13.87082
 postcode: "9500"
 city: Villach
-street: "Chromstraße"
-housenumber: 7
-phone: "+4,424244800"
+street: Chromstraße
+housenumber: "7"
+phone: +4,424244800
 opening_hours: ""
-website: "https://www.ellacoffee.at/"
+website: https://www.ellacoffee.at/

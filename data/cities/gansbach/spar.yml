@@ -4,8 +4,8 @@ latitude: 48.3065
 longitude: 15.47245
 postcode: "3122"
 city: Gansbach
-street: "Marktplatz"
-housenumber: 9
-phone: "+43 2753 256"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-13:00"
-website: "https://www.spar.at/"
+street: Marktplatz
+housenumber: "9"
+phone: +43 2753 256
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-13:00
+website: https://www.spar.at/

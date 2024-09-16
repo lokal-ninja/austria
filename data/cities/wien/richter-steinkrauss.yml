@@ -4,8 +4,8 @@ latitude: 48.17349
 longitude: 16.35969
 postcode: "1100"
 city: Wien
-street: "Inzersdorfer Straße"
-housenumber: 82
+street: Inzersdorfer Straße
+housenumber: "82"
 phone: "+4316003972"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"
-website: "https://www.richter-steinkrauss.at/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-14:00
+website: https://www.richter-steinkrauss.at/

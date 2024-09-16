@@ -5,7 +5,7 @@ longitude: 16.43511
 postcode: "1220"
 city: Wien
 street: ""
-housenumber: 
-phone: "+43 1 2037133"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+housenumber: ""
+phone: +43 1 2037133
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.dm.at

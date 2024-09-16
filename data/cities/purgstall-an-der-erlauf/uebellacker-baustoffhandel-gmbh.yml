@@ -1,11 +1,11 @@
 id: 305644623
-type: way
+type: node
 latitude: 48.05855
 longitude: 15.14252
 postcode: "3251"
 city: Purgstall an der Erlauf
-street: "Oberndorfer Straße"
-housenumber: 16
+street: Oberndorfer Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00"
-website: "https://www.uebellacker.at/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00
+website: https://www.uebellacker.at/

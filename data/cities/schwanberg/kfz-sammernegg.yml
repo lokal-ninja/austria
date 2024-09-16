@@ -1,11 +1,11 @@
 id: 364111597
-type: way
+type: node
 latitude: 46.75106
 longitude: 15.22541
 postcode: "8541"
 city: Schwanberg
-street: "Wieser Straße"
-housenumber: 117
-phone: "+43 664 3427082"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-17:00; PH off"
-website: "https://www.kfz-sammernegg.at"
+street: Wieser Straße
+housenumber: "117"
+phone: +43 664 3427082
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-17:00; PH off
+website: https://www.kfz-sammernegg.at

@@ -4,8 +4,8 @@ latitude: 48.20553
 longitude: 16.38592
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 4
-phone: "+43 1 7102881"
-opening_hours: "Mo-Fr 07:30-19:00; Su 08:00-16:00; Sa 08:00-18:00"
-website: "https://www.joseph.co.at/"
+street: Landstraßer Hauptstraße
+housenumber: "4"
+phone: +43 1 7102881
+opening_hours: Mo-Fr 07:30-19:00; Su 08:00-16:00; Sa 08:00-18:00
+website: https://www.joseph.co.at/

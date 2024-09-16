@@ -4,8 +4,8 @@ latitude: 48.19222
 longitude: 16.3596
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 80
-phone: "+43 1 5337534"
-opening_hours: "Tu-Th 11:00-17:00; Sa 11:00-18:00; Fr 11:00-19:00"
-website: "http://www.botanicus-vienna.at/"
+street: Margaretenstraße
+housenumber: "80"
+phone: +43 1 5337534
+opening_hours: Tu-Th 11:00-17:00; Sa 11:00-18:00; Fr 11:00-19:00
+website: http://www.botanicus-vienna.at/

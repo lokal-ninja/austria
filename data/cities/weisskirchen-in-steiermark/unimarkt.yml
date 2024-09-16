@@ -1,11 +1,11 @@
 id: 27521552
-type: way
+type: node
 latitude: 47.15517
 longitude: 14.74107
 postcode: "8741"
 city: Weißkirchen in Steiermark
-street: "Stubalpenstraße"
-housenumber: 10
+street: Stubalpenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.unimarkt.at/"
+website: https://www.unimarkt.at/

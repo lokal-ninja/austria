@@ -4,8 +4,8 @@ latitude: 48.2165
 longitude: 16.34166
 postcode: "1090"
 city: Wien
-street: "U-Bahn-Bogen"
-housenumber: 88
+street: U-Bahn-Bogen
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Su 12:00-23:00"
+opening_hours: Mo-Su 12:00-23:00
 website: ""

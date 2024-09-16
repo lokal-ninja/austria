@@ -1,11 +1,11 @@
 id: 37791377
-type: way
+type: node
 latitude: 47.8074
 longitude: 14.93429
 postcode: "3345"
 city: Göstling an der Ybbs
 street: ""
-housenumber: 170
-phone: "+43 7484 5008"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-18:00; Su,PH off"
-website: "https://www.spar.at"
+housenumber: "170"
+phone: +43 7484 5008
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-18:00; Su,PH off
+website: https://www.spar.at

@@ -1,11 +1,11 @@
 id: 110126081
-type: way
+type: node
 latitude: 47.69114
 longitude: 13.62233
 postcode: "4820"
 city: Bad Ischl
-street: "Sulzbacherstraße"
-housenumber: 76
+street: Sulzbacherstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

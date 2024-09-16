@@ -4,8 +4,8 @@ latitude: 48.17883
 longitude: 16.36765
 postcode: "1100"
 city: Wien
-street: "Gudrunstraße"
-housenumber: 160
-phone: "++43 1 890 78 78"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "www.printshop-gudrunstrasse.at"
+street: Gudrunstraße
+housenumber: "160"
+phone: ++43 1 890 78 78
+opening_hours: Mo-Fr 09:00-18:00
+website: www.printshop-gudrunstrasse.at

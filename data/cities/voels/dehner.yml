@@ -1,11 +1,11 @@
 id: 109241660
-type: way
+type: node
 latitude: 47.25696
 longitude: 11.32371
 postcode: "6176"
 city: Völs
-street: "Cytastraße"
-housenumber: 3
-phone: "+43 512 302300"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"
-website: "https://www.dehner.at/market/dehner-gartencenter-voels-cyta/"
+street: Cytastraße
+housenumber: "3"
+phone: +43 512 302300
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off
+website: https://www.dehner.at/market/dehner-gartencenter-voels-cyta/

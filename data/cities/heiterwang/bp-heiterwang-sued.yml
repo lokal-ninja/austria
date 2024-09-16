@@ -5,7 +5,7 @@ longitude: 10.76637
 postcode: "6611"
 city: Heiterwang
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

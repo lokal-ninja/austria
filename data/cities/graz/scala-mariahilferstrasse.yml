@@ -4,8 +4,8 @@ latitude: 47.07133
 longitude: 15.4337
 postcode: "8020"
 city: Graz
-street: "Mariahilferstraße"
-housenumber: 4
-phone: "+43316 712985"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.scala-messer.at/"
+street: Mariahilferstraße
+housenumber: "4"
+phone: +43316 712985
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:00
+website: https://www.scala-messer.at/

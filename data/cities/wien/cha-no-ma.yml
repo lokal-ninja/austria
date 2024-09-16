@@ -4,8 +4,8 @@ latitude: 48.19888
 longitude: 16.36513
 postcode: "1040"
 city: Wien
-street: "Faulmanngasse"
-housenumber: 7
+street: Faulmanngasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su off"
-website: "https://www.chanomavienna.at/"
+opening_hours: Mo-Sa 10:00-18:00; Su off
+website: https://www.chanomavienna.at/

@@ -1,11 +1,11 @@
 id: 803192214
-type: way
+type: node
 latitude: 47.80446
 longitude: 16.26479
 postcode: "2700"
 city: Wiener Neustadt
-street: "Grete Bialonczyk Gasse"
-housenumber: 7
-phone: "+43 2622 25050"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.reginaplaza.at/"
+street: Grete Bialonczyk Gasse
+housenumber: "7"
+phone: +43 2622 25050
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.reginaplaza.at/

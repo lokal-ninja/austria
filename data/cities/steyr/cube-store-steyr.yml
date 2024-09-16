@@ -1,11 +1,11 @@
 id: 109986053
-type: way
+type: node
 latitude: 48.07089
 longitude: 14.43124
 postcode: "4407"
 city: Steyr
-street: "Im Stadtgut Zone A"
-housenumber: 5
+street: Im Stadtgut Zone A
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00, 13:00-18:00; We 09:00-12:00; PH off"
-website: "https://www.cube-store-steyr.at/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00, 13:00-18:00; We 09:00-12:00; PH off
+website: https://www.cube-store-steyr.at/

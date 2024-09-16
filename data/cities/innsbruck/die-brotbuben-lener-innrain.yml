@@ -4,8 +4,8 @@ latitude: 47.26669
 longitude: 11.39062
 postcode: "6020"
 city: Innsbruck
-street: "Innrain"
-housenumber: 9
-phone: "+43 512 580331"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; PH off"
-website: "http://www.brotbuben.at/#backstuben_slider"
+street: Innrain
+housenumber: "9"
+phone: +43 512 580331
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00; PH off
+website: http://www.brotbuben.at/#backstuben_slider

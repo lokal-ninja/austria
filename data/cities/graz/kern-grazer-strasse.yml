@@ -1,11 +1,11 @@
 id: 193362888
-type: way
+type: node
 latitude: 47.10262
 longitude: 15.42052
 postcode: "8045"
 city: Graz
-street: "Grazer Straße"
-housenumber: 35
-phone: "+43 316 695533"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-12:30"
+street: Grazer Straße
+housenumber: "35"
+phone: +43 316 695533
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-12:30
 website: ""

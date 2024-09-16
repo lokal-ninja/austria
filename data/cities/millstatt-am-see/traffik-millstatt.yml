@@ -1,11 +1,11 @@
 id: 301044671
-type: way
+type: node
 latitude: 46.80291
 longitude: 13.57198
 postcode: "9872"
 city: Millstatt am See
-street: "Georgsritterplatz"
-housenumber: 129
+street: Georgsritterplatz
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

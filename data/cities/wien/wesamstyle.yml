@@ -4,8 +4,8 @@ latitude: 48.19769
 longitude: 16.33075
 postcode: "1150"
 city: Wien
-street: "Goldschlagstraße"
-housenumber: 36
-phone: "+43 699 11918051"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.wesamstyle.at"
+street: Goldschlagstraße
+housenumber: "36"
+phone: +43 699 11918051
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.wesamstyle.at

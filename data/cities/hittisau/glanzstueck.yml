@@ -1,11 +1,11 @@
 id: 180155474
-type: way
+type: node
 latitude: 47.4582
 longitude: 9.9591
 postcode: "6952"
 city: Hittisau
-street: "Platz"
-housenumber: 348
+street: Platz
+housenumber: "348"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, Mo-Fr 14:00-18:00"
+opening_hours: Mo-Sa 09:00-12:00, Mo-Fr 14:00-18:00
 website: ""

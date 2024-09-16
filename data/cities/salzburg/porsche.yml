@@ -1,11 +1,11 @@
 id: 644748813
-type: way
+type: node
 latitude: 47.76085
 longitude: 13.07285
 postcode: "5020"
 city: Salzburg
-street: "Alpenstraße"
-housenumber: 177
+street: Alpenstraße
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

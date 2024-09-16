@@ -1,11 +1,11 @@
 id: 148506778
-type: way
+type: node
 latitude: 46.6085
 longitude: 13.85188
 postcode: "9500"
 city: Villach
-street: "Ludwig-Walter-Straße"
-housenumber: 19
+street: Ludwig-Walter-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-13:00"
-website: "https://dexis.at/de/Standorte/villach.html"
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-13:00
+website: https://dexis.at/de/Standorte/villach.html

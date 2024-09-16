@@ -1,11 +1,11 @@
 id: 156988596
-type: way
+type: node
 latitude: 46.81862
 longitude: 15.2231
 postcode: "8530"
 city: Deutschlandsberg
-street: "Frauentaler Straße"
-housenumber: 57
-phone: "+43 3462 2840"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://www.porschedeutschlandsberg.at"
+street: Frauentaler Straße
+housenumber: "57"
+phone: +43 3462 2840
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00; Su,PH off
+website: https://www.porschedeutschlandsberg.at

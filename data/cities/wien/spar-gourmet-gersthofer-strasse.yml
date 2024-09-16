@@ -1,11 +1,11 @@
 id: 120411128
-type: way
+type: node
 latitude: 48.23778
 longitude: 16.32057
 postcode: "1180"
 city: Wien
-street: "Gersthofer Straße"
-housenumber: 121
+street: Gersthofer Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

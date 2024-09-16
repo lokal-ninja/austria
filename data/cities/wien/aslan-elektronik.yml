@@ -4,8 +4,8 @@ latitude: 48.21347
 longitude: 16.32799
 postcode: "1160"
 city: Wien
-street: "Ottakringer Straße"
-housenumber: 73
-phone: "+43-1-924 4402;+43-699 1924 4402"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "www.aslan-elektronik.at"
+street: Ottakringer Straße
+housenumber: "73"
+phone: +43-1-924 4402;+43-699 1924 4402
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: www.aslan-elektronik.at

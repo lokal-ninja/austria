@@ -5,7 +5,7 @@ longitude: 15.349
 postcode: "8443"
 city: Gleinstätten
 street: ""
-housenumber: 80
-phone: "+43 3457 26 978"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30; PH off"
-website: "https://www.auto-poelzl.at"
+housenumber: "80"
+phone: +43 3457 26 978
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30; PH off
+website: https://www.auto-poelzl.at

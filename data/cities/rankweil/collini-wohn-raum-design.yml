@@ -1,11 +1,11 @@
 id: 78255309
-type: way
+type: node
 latitude: 47.2718
 longitude: 9.64585
 postcode: "6830"
 city: Rankweil
-street: "Ringstraße"
-housenumber: 40
+street: Ringstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; PH off || nach Vereinbarung"
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00; PH off || "nach Vereinbarung"
 website: ""

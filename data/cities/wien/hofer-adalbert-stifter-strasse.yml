@@ -1,11 +1,11 @@
 id: 47034018
-type: way
+type: node
 latitude: 48.2415
 longitude: 16.37311
 postcode: "1200"
 city: Wien
-street: "Adalbert-Stifter-Straße"
-housenumber: 40
+street: Adalbert-Stifter-Straße
+housenumber: "40"
 phone: "+435703034075"
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00
+website: https://www.hofer.at/

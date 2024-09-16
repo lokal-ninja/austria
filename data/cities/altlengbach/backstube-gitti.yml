@@ -1,11 +1,11 @@
 id: 196923871
-type: way
+type: node
 latitude: 48.14688
 longitude: 15.99884
 postcode: "3033"
 city: Altlengbach
-street: "Gschaidstraße"
-housenumber: 29
+street: Gschaidstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Fr 10:00-17:00; Sa 09:00-12:00"
-website: "https://www.backstubegitti.at/"
+opening_hours: Fr 10:00-17:00; Sa 09:00-12:00
+website: https://www.backstubegitti.at/

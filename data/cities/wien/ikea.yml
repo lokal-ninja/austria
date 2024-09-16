@@ -1,11 +1,11 @@
 id: 23046551
-type: way
+type: node
 latitude: 48.2534
 longitude: 16.47036
 postcode: "1220"
 city: Wien
-street: "Sverigestraße"
+street: Sverigestraße
 housenumber: 1a
-phone: "+43 800 081100"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.ikea.com/at/de/store/wiennord"
+phone: +43 800 081100
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.ikea.com/at/de/store/wiennord

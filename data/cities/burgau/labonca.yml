@@ -4,8 +4,9 @@ latitude: 47.14319
 longitude: 16.09804
 postcode: "8291"
 city: Burgau
-street: "Hauptplatz"
-housenumber: 6
+street: Hauptplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Tu,Fr 09:00-18:00; We,Th 09:00-13:00; Apr-Oct Sa 09:00-18:00; Nov-Mar Sa 09:00-14:00"
+opening_hours: Tu,Fr 09:00-18:00; We,Th 09:00-13:00; Apr-Oct Sa 09:00-18:00; Nov-Mar
+    Sa 09:00-14:00
 website: ""

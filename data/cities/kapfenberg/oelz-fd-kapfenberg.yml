@@ -1,11 +1,11 @@
 id: 509145881
-type: way
+type: node
 latitude: 47.45881
 longitude: 15.34428
 postcode: "8605"
 city: Kapfenberg
-street: "Industriestraße Ost"
-housenumber: 5
+street: Industriestraße Ost
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.oelz.com/de/kontakt/standorte"
+website: https://www.oelz.com/de/kontakt/standorte

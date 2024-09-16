@@ -4,8 +4,8 @@ latitude: 48.2162
 longitude: 16.37478
 postcode: "1020"
 city: Wien
-street: "Floßgasse"
-housenumber: 2
+street: Floßgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 10:30-18:30; Fr 08:00-13:00"
+opening_hours: Mo-Th 10:30-18:30; Fr 08:00-13:00
 website: ""

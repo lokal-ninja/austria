@@ -1,11 +1,11 @@
 id: 250519782
-type: way
+type: node
 latitude: 48.45114
 longitude: 14.77553
 postcode: "4273"
 city: Kaltenberg
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

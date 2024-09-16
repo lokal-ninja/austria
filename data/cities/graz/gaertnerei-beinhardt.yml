@@ -1,11 +1,11 @@
 id: 83481245
-type: way
+type: node
 latitude: 47.06221
 longitude: 15.45753
 postcode: "8010"
 city: Graz
-street: "Petersgasse"
-housenumber: 66
+street: Petersgasse
+housenumber: "66"
 phone: ""
-opening_hours: "Sa 08:00-17:00; Mo-Fr 07:40-18:00"
-website: "http://www.blumen-beinhardt.at/"
+opening_hours: Sa 08:00-17:00; Mo-Fr 07:40-18:00
+website: http://www.blumen-beinhardt.at/

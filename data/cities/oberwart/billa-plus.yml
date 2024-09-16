@@ -1,11 +1,11 @@
 id: 86068467
-type: way
+type: node
 latitude: 47.28488
 longitude: 16.18733
 postcode: "7400"
 city: Oberwart
-street: "Grazerstraße"
-housenumber: 128
-phone: "+43 59915 07251"
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+street: Grazerstraße
+housenumber: "128"
+phone: +43 59915 07251
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

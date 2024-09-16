@@ -1,11 +1,11 @@
 id: 971628781
-type: way
+type: node
 latitude: 46.61787
 longitude: 13.8634
 postcode: "9500"
 city: Villach
-street: "Friedensstraße"
-housenumber: 11
+street: Friedensstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

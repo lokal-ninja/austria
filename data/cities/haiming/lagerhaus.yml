@@ -1,11 +1,11 @@
 id: 143046096
-type: way
+type: node
 latitude: 47.23801
 longitude: 10.85579
 postcode: "6430"
 city: Haiming
-street: "Handelsweg"
-housenumber: 8
+street: Handelsweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

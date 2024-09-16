@@ -4,8 +4,8 @@ latitude: 47.81282
 longitude: 13.05614
 postcode: "5020"
 city: Salzburg
-street: "Röcklbrunnstraße"
-housenumber: 43
-phone: "+43 662909011"
-opening_hours: "Mo-So 11:00-21:30"
+street: Röcklbrunnstraße
+housenumber: "43"
+phone: +43 662909011
+opening_hours: Mo-So 11:00-21:30
 website: ""

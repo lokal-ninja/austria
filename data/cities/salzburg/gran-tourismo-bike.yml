@@ -4,8 +4,8 @@ latitude: 47.81333
 longitude: 13.05068
 postcode: "5020"
 city: Salzburg
-street: "Bayerhamerstraße"
+street: Bayerhamerstraße
 housenumber: 20a
-phone: "+43 660 8390600;+43 660 2301074"
-opening_hours: "Tu-We 9:00-18:00; Th-Fr 9:00-19:00; Sa 9:00-13:00 || nach Vereinbarung"
-website: "https://www.gt2.bike/"
+phone: +43 660 8390600;+43 660 2301074
+opening_hours: Tu-We 9:00-18:00; Th-Fr 9:00-19:00; Sa 9:00-13:00 || "nach Vereinbarung"
+website: https://www.gt2.bike/

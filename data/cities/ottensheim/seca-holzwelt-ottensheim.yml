@@ -4,8 +4,8 @@ latitude: 48.335
 longitude: 14.18431
 postcode: "4100"
 city: Ottensheim
-street: "Linzer Straße"
-housenumber: 60
-phone: "+43 7234 83195-0"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.seca.at/"
+street: Linzer Straße
+housenumber: "60"
+phone: +43 7234 83195-0
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.seca.at/

@@ -1,11 +1,11 @@
 id: 133497279
-type: way
+type: node
 latitude: 48.04204
 longitude: 14.42738
 postcode: "4400"
 city: Steyr
-street: "Pachergasse"
-housenumber: 19
+street: Pachergasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

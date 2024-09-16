@@ -1,11 +1,11 @@
 id: 159895733
-type: way
+type: node
 latitude: 48.13339
 longitude: 15.14199
 postcode: "3250"
 city: Wieselburg
-street: "Wiener Straße"
-housenumber: 6
+street: Wiener Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

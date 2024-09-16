@@ -1,11 +1,11 @@
 id: 57776365
-type: way
+type: node
 latitude: 48.03475
 longitude: 14.21083
 postcode: "4540"
 city: Bad Hall
-street: "Ing. Pesendorfer Straße"
-housenumber: 4
+street: Ing. Pesendorfer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

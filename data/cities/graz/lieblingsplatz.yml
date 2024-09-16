@@ -4,8 +4,8 @@ latitude: 47.07276
 longitude: 15.43923
 postcode: "8010"
 city: Graz
-street: "Sporgasse"
-housenumber: 23
+street: Sporgasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,13:00-18:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-12:30,13:00-18:00; Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 570569684
-type: way
+type: node
 latitude: 47.53141
 longitude: 14.10021
 postcode: "8950"
 city: Stainach-Pürgg
-street: "Salzburgerstraße"
-housenumber: 430
+street: Salzburgerstraße
+housenumber: "430"
 phone: ""
 opening_hours: ""
 website: ""

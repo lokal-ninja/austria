@@ -1,11 +1,11 @@
 id: 294042911
-type: way
+type: node
 latitude: 47.14698
 longitude: 9.82899
 postcode: "6700"
 city: Bludenz
-street: "Sankt-Peter-Straße"
-housenumber: 43
+street: Sankt-Peter-Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 184011304
-type: way
+type: node
 latitude: 48.24299
 longitude: 16.32182
 postcode: "1190"
 city: Wien
-street: "Krottenbachstraße"
-housenumber: 173
+street: Krottenbachstraße
+housenumber: "173"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
 website: ""

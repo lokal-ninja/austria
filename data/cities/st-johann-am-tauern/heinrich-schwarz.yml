@@ -5,7 +5,7 @@ longitude: 14.47102
 postcode: "8765"
 city: St. Johann am Tauern
 street: ""
-housenumber: 73
-phone: "+43 3575 217"
-opening_hours: "Tu-Fr 08:00-12:00, 15:00-18:00"
-website: "http://www.derschuhmacher.at/"
+housenumber: "73"
+phone: +43 3575 217
+opening_hours: Tu-Fr 08:00-12:00, 15:00-18:00
+website: http://www.derschuhmacher.at/

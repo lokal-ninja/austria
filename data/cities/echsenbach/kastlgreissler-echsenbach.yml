@@ -5,7 +5,7 @@ longitude: 15.21804
 postcode: "3903"
 city: Echsenbach
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00, 15:00-20:00; Sa 06:00-18:00"
-website: "https://www.kastlgreissler.com/standorte/echsenbach/"
+opening_hours: Mo-Fr 06:00-13:00, 15:00-20:00; Sa 06:00-18:00
+website: https://www.kastlgreissler.com/standorte/echsenbach/

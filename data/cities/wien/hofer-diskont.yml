@@ -4,8 +4,8 @@ latitude: 48.15102
 longitude: 16.30065
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 261
+street: Breitenfurter Straße
+housenumber: "261"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.diskonttanken.at"
+opening_hours: 24/7
+website: https://www.diskonttanken.at

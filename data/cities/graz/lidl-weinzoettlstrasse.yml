@@ -1,11 +1,11 @@
 id: 797733755
-type: way
+type: node
 latitude: 47.09977
 longitude: 15.41788
 postcode: "8045"
 city: Graz
-street: "Weinzöttlstraße"
-housenumber: 8
+street: Weinzöttlstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

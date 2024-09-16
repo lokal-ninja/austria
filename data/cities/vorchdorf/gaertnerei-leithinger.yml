@@ -1,11 +1,11 @@
 id: 88011723
-type: way
+type: node
 latitude: 48.02191
 longitude: 13.9115
 postcode: "4655"
 city: Vorchdorf
-street: "Feldhamer Straße"
-housenumber: 28
+street: Feldhamer Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

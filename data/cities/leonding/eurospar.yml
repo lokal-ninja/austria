@@ -1,11 +1,11 @@
 id: 127521013
-type: way
+type: node
 latitude: 48.26848
 longitude: 14.26248
 postcode: "4060"
 city: Leonding
-street: "Poststraße"
-housenumber: 10
+street: Poststraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 604054326
-type: way
+type: node
 latitude: 46.97014
 longitude: 15.48081
 postcode: "8401"
 city: Kalsdorf bei Graz
-street: "Mühlgangweg"
-housenumber: 45
+street: Mühlgangweg
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://zeremonium.at/"
+website: https://zeremonium.at/

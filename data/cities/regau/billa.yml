@@ -1,11 +1,11 @@
 id: 588787049
-type: way
+type: node
 latitude: 47.98814
 longitude: 13.69282
 postcode: "4844"
 city: Regau
-street: "Am Unterfeld"
-housenumber: 3
+street: Am Unterfeld
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

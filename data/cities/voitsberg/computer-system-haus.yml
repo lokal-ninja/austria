@@ -4,8 +4,8 @@ latitude: 47.04964
 longitude: 15.14908
 postcode: "8570"
 city: Voitsberg
-street: "Hauptplatz"
-housenumber: 4
-phone: "+43 3142 252 55"
-opening_hours: "Mo-Th 08:30-12:30, 13:00-18:00; Fr 08:30-14:00"
-website: "https://www.system-haus.at"
+street: Hauptplatz
+housenumber: "4"
+phone: +43 3142 252 55
+opening_hours: Mo-Th 08:30-12:30, 13:00-18:00; Fr 08:30-14:00
+website: https://www.system-haus.at

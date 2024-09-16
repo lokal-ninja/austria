@@ -4,8 +4,8 @@ latitude: 47.07221
 longitude: 15.45162
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 24
-phone: "+43 650 65 20 111"
-opening_hours: "Tu-Fr 12:00-19:00"
-website: "https://www.toastedthermic.at/"
+street: Leonhardstraße
+housenumber: "24"
+phone: +43 650 65 20 111
+opening_hours: Tu-Fr 12:00-19:00
+website: https://www.toastedthermic.at/

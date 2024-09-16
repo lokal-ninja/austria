@@ -1,11 +1,11 @@
 id: 122832460
-type: way
+type: node
 latitude: 47.22292
 longitude: 10.74477
 postcode: "6460"
 city: Imst
-street: "Brennbichl"
-housenumber: 56
-phone: "+43 57030 32005"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
-website: "https://www.hofer.at"
+street: Brennbichl
+housenumber: "56"
+phone: +43 57030 32005
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+website: https://www.hofer.at

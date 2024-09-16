@@ -1,11 +1,11 @@
 id: 231121983
-type: way
+type: node
 latitude: 47.60192
 longitude: 15.71941
 postcode: "8684"
 city: Spital am Semmering
 street: ""
-housenumber: 35
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

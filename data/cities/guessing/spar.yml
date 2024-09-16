@@ -1,11 +1,11 @@
 id: 156711307
-type: way
+type: node
 latitude: 47.04928
 longitude: 16.32109
 postcode: "7540"
 city: Güssing
-street: "Grazer Straße"
-housenumber: 17
+street: Grazer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 148705735
-type: way
+type: node
 latitude: 47.70794
 longitude: 16.04108
 postcode: "2630"
 city: Ternitz
-street: "Triester Straße"
-housenumber: 63
+street: Triester Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

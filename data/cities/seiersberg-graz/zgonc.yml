@@ -1,11 +1,11 @@
 id: 117342317
-type: way
+type: node
 latitude: 47.00923
 longitude: 15.41118
 postcode: "8054"
 city: Seiersberg/Graz
-street: "Werschweg"
-housenumber: 3
-phone: "+43 316 297272"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.zgonc.at/filialen/steiermark.html"
+street: Werschweg
+housenumber: "3"
+phone: +43 316 297272
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.zgonc.at/filialen/steiermark.html

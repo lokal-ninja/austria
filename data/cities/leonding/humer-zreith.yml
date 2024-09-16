@@ -1,11 +1,11 @@
 id: 51753712
-type: way
+type: node
 latitude: 48.26608
 longitude: 14.2427
 postcode: "4060"
 city: Leonding
-street: "Limesstraße"
-housenumber: 34
-phone: "+43 732 674874"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-18:00; We off"
-website: "https://www.humer-z-reith.at/"
+street: Limesstraße
+housenumber: "34"
+phone: +43 732 674874
+opening_hours: Mo-Fr 07:00-12:00, 13:00-18:00; We off
+website: https://www.humer-z-reith.at/

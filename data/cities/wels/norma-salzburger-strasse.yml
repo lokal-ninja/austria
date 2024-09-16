@@ -1,11 +1,11 @@
 id: 217396421
-type: way
+type: node
 latitude: 48.1597
 longitude: 14.01737
 postcode: "4600"
 city: Wels
-street: "Salzburger Straße"
-housenumber: 27
+street: Salzburger Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

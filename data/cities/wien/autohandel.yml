@@ -1,11 +1,11 @@
 id: 354945981
-type: way
+type: node
 latitude: 48.15455
 longitude: 16.44355
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 345
+street: Simmeringer Hauptstraße
+housenumber: "345"
 phone: ""
 opening_hours: ""
 website: ""

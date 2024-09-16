@@ -4,8 +4,8 @@ latitude: 48.2078
 longitude: 16.37267
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 5
+street: Singerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
+opening_hours: Mo-Sa 09:30-18:00
 website: ""

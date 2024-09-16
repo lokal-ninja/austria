@@ -4,8 +4,8 @@ latitude: 48.21937
 longitude: 16.48694
 postcode: "1220"
 city: Wien
-street: "Haberlandtgasse"
-housenumber: 34
-phone: "+43 1 7280160"
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.fotoknoll.at/"
+street: Haberlandtgasse
+housenumber: "34"
+phone: +43 1 7280160
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.fotoknoll.at/

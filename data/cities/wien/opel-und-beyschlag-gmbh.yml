@@ -1,11 +1,11 @@
 id: 84986927
-type: way
+type: node
 latitude: 48.25238
 longitude: 16.4606
 postcode: "1220"
 city: Wien
-street: "Breitenleer Straße"
-housenumber: 33
-phone: "+43 1 2572140"
+street: Breitenleer Straße
+housenumber: "33"
+phone: +43 1 2572140
 opening_hours: ""
-website: "https://www.opel-beyschlag.at/"
+website: https://www.opel-beyschlag.at/

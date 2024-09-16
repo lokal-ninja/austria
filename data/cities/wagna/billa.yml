@@ -1,11 +1,11 @@
 id: 795271284
-type: way
+type: node
 latitude: 46.77165
 longitude: 15.56163
 postcode: "8435"
 city: Wagna
-street: "Marburgerstraße"
-housenumber: 79
+street: Marburgerstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
 website: ""

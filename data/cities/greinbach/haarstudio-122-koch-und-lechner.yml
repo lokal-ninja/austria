@@ -1,11 +1,11 @@
 id: 105568333
-type: way
+type: node
 latitude: 47.30247
 longitude: 15.97301
 postcode: "8230"
 city: Greinbach
 street: ""
-housenumber: 271
-phone: "+433332 661 22"
+housenumber: "271"
+phone: +433332 661 22
 opening_hours: ""
 website: ""

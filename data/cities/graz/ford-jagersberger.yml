@@ -1,11 +1,11 @@
 id: 82222037
-type: way
+type: node
 latitude: 47.04082
 longitude: 15.45665
 postcode: "8041"
 city: Graz
-street: "Raiffeisenstraße"
-housenumber: 200
+street: Raiffeisenstraße
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 228346225
-type: way
+type: node
 latitude: 48.22046
 longitude: 14.23701
 postcode: "4050"
 city: Traun
-street: "Hauptplatz"
-housenumber: 5
+street: Hauptplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

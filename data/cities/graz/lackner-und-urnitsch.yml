@@ -4,8 +4,8 @@ latitude: 47.0795
 longitude: 15.41675
 postcode: "8020"
 city: Graz
-street: "Bahnhofgürtel"
-housenumber: 37
-phone: "+43 316 711480-0"
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-15:00"
-website: "https://www.urnitsch.at"
+street: Bahnhofgürtel
+housenumber: "37"
+phone: +43 316 711480-0
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-15:00
+website: https://www.urnitsch.at

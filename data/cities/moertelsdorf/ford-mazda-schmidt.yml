@@ -1,11 +1,11 @@
 id: 223555745
-type: way
+type: node
 latitude: 47.13259
 longitude: 13.79551
 postcode: "5580"
 city: Mörtelsdorf
-street: "Gewerbepark Litzelsdorf"
-housenumber: 249
+street: Gewerbepark Litzelsdorf
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

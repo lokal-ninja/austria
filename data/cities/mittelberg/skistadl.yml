@@ -1,11 +1,11 @@
 id: 134416679
-type: way
+type: node
 latitude: 47.32521
 longitude: 10.15629
 postcode: "6993"
 city: Mittelberg
-street: "Walserstraße"
-housenumber: 371
+street: Walserstraße
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

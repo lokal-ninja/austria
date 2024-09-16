@@ -4,8 +4,8 @@ latitude: 48.20525
 longitude: 15.6241
 postcode: "3100"
 city: St. Pölten
-street: "Marktgasse"
-housenumber: 4
+street: Marktgasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.kreps.at/"
+website: http://www.kreps.at/

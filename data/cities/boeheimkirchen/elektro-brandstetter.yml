@@ -1,11 +1,11 @@
 id: 302428543
-type: way
+type: node
 latitude: 48.19868
 longitude: 15.75946
 postcode: "3071"
 city: Böheimkirchen
-street: "Obere Hauptstraße"
-housenumber: 15
+street: Obere Hauptstraße
+housenumber: "15"
 phone: ""
-opening_hours: "08:30-12:00,15:00-18:00"
-website: "http://www.elektro-brandstetter.at/"
+opening_hours: 08:30-12:00,15:00-18:00
+website: http://www.elektro-brandstetter.at/

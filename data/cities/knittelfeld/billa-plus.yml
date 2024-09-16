@@ -1,11 +1,11 @@
 id: 582228853
-type: way
+type: node
 latitude: 47.20941
 longitude: 14.80929
 postcode: "8720"
 city: Knittelfeld
-street: "Kärntnerstraße"
-housenumber: 75
-phone: "+43 3512 71511"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+street: Kärntnerstraße
+housenumber: "75"
+phone: +43 3512 71511
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

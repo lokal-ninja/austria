@@ -4,8 +4,9 @@ latitude: 47.12816
 longitude: 13.80871
 postcode: "5580"
 city: Tamsweg
-street: "Obere Postgasse"
-housenumber: 6
+street: Obere Postgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 08:00-12:00, 14:00-19:00, Tu 08:00-19:00, We 08:00-12:00, 14:00-19:00, Th 08:00-19:00, Fr 08:00-19:00"
-website: "https://www.kosmetik-lungau.at/"
+opening_hours: Mo 08:00-12:00, 14:00-19:00, Tu 08:00-19:00, We 08:00-12:00, 14:00-19:00,
+    Th 08:00-19:00, Fr 08:00-19:00
+website: https://www.kosmetik-lungau.at/

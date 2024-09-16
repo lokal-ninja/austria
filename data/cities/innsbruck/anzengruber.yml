@@ -1,11 +1,11 @@
 id: 95264870
-type: way
+type: node
 latitude: 47.27152
 longitude: 11.43531
 postcode: "6020"
 city: Innsbruck
-street: "Roßaugasse"
-housenumber: 11
+street: Roßaugasse
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

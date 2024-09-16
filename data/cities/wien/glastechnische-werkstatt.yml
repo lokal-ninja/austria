@@ -4,8 +4,8 @@ latitude: 48.2184
 longitude: 16.34194
 postcode: "1180"
 city: Wien
-street: "Währinger Gürtel"
-housenumber: 11
+street: Währinger Gürtel
+housenumber: "11"
 phone: ""
-opening_hours: "Tu,Th 09:00-12:00,14:00-16:00"
-website: "https://gtw-glas.at/"
+opening_hours: Tu,Th 09:00-12:00,14:00-16:00
+website: https://gtw-glas.at/

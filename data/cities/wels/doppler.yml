@@ -1,11 +1,11 @@
 id: 130386206
-type: way
+type: node
 latitude: 48.17579
 longitude: 14.05144
 postcode: "4600"
 city: Wels
-street: "Kamerlweg"
-housenumber: 35
-phone: "+43-7242-43953"
+street: Kamerlweg
+housenumber: "35"
+phone: +43-7242-43953
 opening_hours: ""
-website: "https://www.doppler-siebdruckfachhandel.com/"
+website: https://www.doppler-siebdruckfachhandel.com/

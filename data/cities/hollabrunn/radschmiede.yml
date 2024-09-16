@@ -1,11 +1,11 @@
 id: 159975213
-type: way
+type: node
 latitude: 48.56318
 longitude: 16.07548
 postcode: "2020"
 city: Hollabrunn
-street: "Bahnstraße"
-housenumber: 24
+street: Bahnstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

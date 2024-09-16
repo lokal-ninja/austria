@@ -4,8 +4,8 @@ latitude: 48.16084
 longitude: 14.02689
 postcode: "4600"
 city: Wels
-street: "Stelzhamerstraße"
-housenumber: 13
-phone: "+43-7242-890165"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 9:00-13:00"
-website: "http://w4tler.at/"
+street: Stelzhamerstraße
+housenumber: "13"
+phone: +43-7242-890165
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 9:00-13:00
+website: http://w4tler.at/

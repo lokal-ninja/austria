@@ -4,8 +4,8 @@ latitude: 47.80512
 longitude: 13.04413
 postcode: "5020"
 city: Salzburg
-street: "Schrannengasse"
-housenumber: 2
-phone: "+43 662 872248"
-opening_hours: "Th 08:00-12:00, Mo-Th 13:00-16:00, Fr 13:00-14:30"
-website: "https://www.elektro-florian.at/"
+street: Schrannengasse
+housenumber: "2"
+phone: +43 662 872248
+opening_hours: Th 08:00-12:00, Mo-Th 13:00-16:00, Fr 13:00-14:30
+website: https://www.elektro-florian.at/

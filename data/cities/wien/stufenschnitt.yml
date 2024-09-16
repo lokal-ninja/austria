@@ -4,8 +4,8 @@ latitude: 48.20004
 longitude: 16.35946
 postcode: "1060"
 city: Wien
-street: "Theobaldgasse"
-housenumber: 13
+street: Theobaldgasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-20:00; We 11:00-20:00"
-website: "http://www.stufenschnitt.com"
+opening_hours: Mo,Tu,Th,Fr 09:30-20:00; We 11:00-20:00
+website: http://www.stufenschnitt.com

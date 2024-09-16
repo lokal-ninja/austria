@@ -1,11 +1,11 @@
 id: 1161451855
-type: way
+type: node
 latitude: 47.47934
 longitude: 9.61712
 postcode: "6973"
 city: Höchst
-street: "Birnbaumstraße"
-housenumber: 20
+street: Birnbaumstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.mahlerhof.com/"
+website: https://www.mahlerhof.com/

@@ -1,11 +1,11 @@
 id: 369050784
-type: way
+type: node
 latitude: 46.947
 longitude: 15.91486
 postcode: "8330"
 city: Feldbach
-street: "Industriepark"
-housenumber: 12
+street: Industriepark
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.elektro-a-markt.at/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.elektro-a-markt.at/

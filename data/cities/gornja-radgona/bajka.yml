@@ -4,8 +4,8 @@ latitude: 46.67714
 longitude: 15.99206
 postcode: "9250"
 city: Gornja Radgona
-street: "Panonska ulica"
-housenumber: 8
+street: Panonska ulica
+housenumber: "8"
 phone: "+38625648858"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:00"
-website: "https://biobajka.si"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:00
+website: https://biobajka.si

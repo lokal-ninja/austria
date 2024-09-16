@@ -4,8 +4,8 @@ latitude: 47.26478
 longitude: 11.39554
 postcode: "6020"
 city: Innsbruck
-street: "Meraner Straße"
-housenumber: 2
-phone: "+43 512 582383"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.tirolerbienenladen.at/"
+street: Meraner Straße
+housenumber: "2"
+phone: +43 512 582383
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.tirolerbienenladen.at/

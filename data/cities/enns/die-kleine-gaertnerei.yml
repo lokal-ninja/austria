@@ -1,11 +1,11 @@
 id: 308562883
-type: way
+type: node
 latitude: 48.21734
 longitude: 14.46765
 postcode: "4470"
 city: Enns
-street: "Lauriacumstraße"
-housenumber: 5
+street: Lauriacumstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.kleine-gaertnerei.at/"
+website: https://www.kleine-gaertnerei.at/

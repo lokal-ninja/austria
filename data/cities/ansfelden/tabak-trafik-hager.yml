@@ -1,11 +1,11 @@
 id: 75488462
-type: way
+type: node
 latitude: 48.21119
 longitude: 14.2879
 postcode: "4052"
 city: Ansfelden
-street: "Anton-Bruckner-Straße"
-housenumber: 12
+street: Anton-Bruckner-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

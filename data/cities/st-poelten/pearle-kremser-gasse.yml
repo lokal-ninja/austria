@@ -4,8 +4,8 @@ latitude: 48.2052
 longitude: 15.62446
 postcode: "3100"
 city: St. Pölten
-street: "Kremser Gasse"
-housenumber: 15
+street: Kremser Gasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.pearle.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.pearle.at/

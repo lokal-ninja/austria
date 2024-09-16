@@ -4,8 +4,8 @@ latitude: 47.28315
 longitude: 12.4829
 postcode: "5730"
 city: Mittersill
-street: "Zeller Straße"
-housenumber: 6
-phone: "+43 6562 6227"
-opening_hours: "Mo-Fr 05:00-18:00, Sa 05:00-12:00, Su 06:00-10:30"
-website: "https://www.baeckerei-ensmann.at/"
+street: Zeller Straße
+housenumber: "6"
+phone: +43 6562 6227
+opening_hours: Mo-Fr 05:00-18:00, Sa 05:00-12:00, Su 06:00-10:30
+website: https://www.baeckerei-ensmann.at/

@@ -1,11 +1,11 @@
 id: 86923188
-type: way
+type: node
 latitude: 48.21516
 longitude: 14.2778
 postcode: "4052"
 city: Ansfelden
-street: "Auweg"
-housenumber: 2
+street: Auweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

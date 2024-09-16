@@ -1,11 +1,11 @@
 id: 184793124
-type: way
+type: node
 latitude: 47.85402
 longitude: 13.77594
 postcode: "4801"
 city: Traunkirchen
-street: "Mitterndorf"
-housenumber: 21
-phone: "+43 664 4402442;+43 669 11205570"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "http://chrissistudio.wix.com/beauty4style"
+street: Mitterndorf
+housenumber: "21"
+phone: +43 664 4402442;+43 669 11205570
+opening_hours: Mo-Fr 10:00-18:00
+website: http://chrissistudio.wix.com/beauty4style

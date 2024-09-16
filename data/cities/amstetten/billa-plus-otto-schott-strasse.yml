@@ -1,11 +1,11 @@
 id: 25727083
-type: way
+type: node
 latitude: 48.11723
 longitude: 14.91112
 postcode: "3300"
 city: Amstetten
-street: "Otto-Schott-Straße"
-housenumber: 2
+street: Otto-Schott-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.billa.at

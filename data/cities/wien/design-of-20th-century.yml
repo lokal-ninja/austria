@@ -4,8 +4,8 @@ latitude: 48.19149
 longitude: 16.35847
 postcode: "1050"
 city: Wien
-street: "Margaretenplatz"
-housenumber: 3
+street: Margaretenplatz
+housenumber: "3"
 phone: ""
-opening_hours: "für Anfragen 0699 17128511"
+opening_hours: '"für Anfragen 0699 17128511"'
 website: ""

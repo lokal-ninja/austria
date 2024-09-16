@@ -1,11 +1,11 @@
 id: 436645843
-type: way
+type: node
 latitude: 47.58535
 longitude: 14.46528
 postcode: "8911"
 city: Admont
 street: ""
-housenumber: 264
+housenumber: "264"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://poerl-sport-shop.at/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://poerl-sport-shop.at/

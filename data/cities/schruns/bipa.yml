@@ -4,8 +4,8 @@ latitude: 47.08025
 longitude: 9.91851
 postcode: "6780"
 city: Schruns
-street: "Kirchplatz"
-housenumber: 17
+street: Kirchplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+website: https://www.bipa.at/

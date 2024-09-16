@@ -4,8 +4,8 @@ latitude: 48.18339
 longitude: 16.32261
 postcode: "1120"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 254
+street: Schönbrunner Straße
+housenumber: "254"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 14:00-18:30; Sa 09:00-13:30"
-website: "https://www.modell-hubschrauber.at/"
+opening_hours: Mo,Tu,Th,Fr 14:00-18:30; Sa 09:00-13:30
+website: https://www.modell-hubschrauber.at/

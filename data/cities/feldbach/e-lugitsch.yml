@@ -1,5 +1,5 @@
 id: 362887108
-type: way
+type: node
 latitude: 46.96015
 longitude: 15.85194
 postcode: "8330"
@@ -8,4 +8,4 @@ street: ""
 housenumber: 52a
 phone: ""
 opening_hours: ""
-website: "http://www.elugitsch.at"
+website: http://www.elugitsch.at

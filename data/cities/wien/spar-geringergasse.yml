@@ -1,11 +1,11 @@
 id: 31255704
-type: way
+type: node
 latitude: 48.16956
 longitude: 16.42854
 postcode: "1110"
 city: Wien
-street: "Geringergasse"
-housenumber: 20
+street: Geringergasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

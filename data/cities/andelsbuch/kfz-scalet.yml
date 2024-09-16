@@ -1,11 +1,11 @@
 id: 334837650
-type: way
+type: node
 latitude: 47.40288
 longitude: 9.87937
 postcode: "6866"
 city: Andelsbuch
-street: "Bühel"
-housenumber: 703
-phone: "+43 5512 6110"
+street: Bühel
+housenumber: "703"
+phone: +43 5512 6110
 opening_hours: ""
-website: "https://kfz-scalet.at/"
+website: https://kfz-scalet.at/

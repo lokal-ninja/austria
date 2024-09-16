@@ -4,8 +4,8 @@ latitude: 48.01318
 longitude: 16.29426
 postcode: "2514"
 city: Traiskirchen
-street: "Hauptplatz"
-housenumber: 17
+street: Hauptplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.bimini.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.bimini.at/

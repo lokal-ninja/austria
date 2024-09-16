@@ -4,8 +4,8 @@ latitude: 48.30327
 longitude: 14.28905
 postcode: "4040"
 city: Linz
-street: "Landstraße"
-housenumber: 15
-phone: "+43 732 34006700"
-opening_hours: "Mo-Fr 08:30-17:00; Sa,Su,PH 08:30-12:00"
-website: "https://www.linzag.at/portal/de/privatkunden/trauer/bestattung#"
+street: Landstraße
+housenumber: "15"
+phone: +43 732 34006700
+opening_hours: Mo-Fr 08:30-17:00; Sa,Su,PH 08:30-12:00
+website: https://www.linzag.at/portal/de/privatkunden/trauer/bestattung#

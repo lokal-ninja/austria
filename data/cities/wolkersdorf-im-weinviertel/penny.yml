@@ -1,11 +1,11 @@
 id: 700877602
-type: way
+type: node
 latitude: 48.37884
 longitude: 16.51146
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Wiener Straße"
-housenumber: 28
+street: Wiener Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

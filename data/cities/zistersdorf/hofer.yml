@@ -1,11 +1,11 @@
 id: 111610594
-type: way
+type: node
 latitude: 48.545
 longitude: 16.75445
 postcode: "2225"
 city: Zistersdorf
-street: "Umfahrungsstraße"
-housenumber: 14
-phone: "+43 2532 80139"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off"
+street: Umfahrungsstraße
+housenumber: "14"
+phone: +43 2532 80139
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off
 website: ""

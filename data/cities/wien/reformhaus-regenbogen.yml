@@ -4,8 +4,8 @@ latitude: 48.21604
 longitude: 16.35698
 postcode: "1090"
 city: Wien
-street: "Garnisongasse"
-housenumber: 12
-phone: "+43 1 961 71 68"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "http://www.regenbogenreform.at/"
+street: Garnisongasse
+housenumber: "12"
+phone: +43 1 961 71 68
+opening_hours: Mo-Fr 10:00-19:00
+website: http://www.regenbogenreform.at/

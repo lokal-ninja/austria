@@ -1,11 +1,11 @@
 id: 721587582
-type: way
+type: node
 latitude: 47.15291
 longitude: 10.58163
 postcode: "6511"
 city: Zams
-street: "Hauptstraße"
-housenumber: 5
+street: Hauptstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

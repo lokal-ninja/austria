@@ -1,11 +1,11 @@
 id: 138322526
-type: way
+type: node
 latitude: 48.0678
 longitude: 15.04937
 postcode: "3261"
 city: Steinakirchen am Forst
-street: "Marktplatz"
-housenumber: 9
+street: Marktplatz
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

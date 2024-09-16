@@ -4,8 +4,8 @@ latitude: 48.19335
 longitude: 16.36108
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 64
-phone: "+43 1 9167257"
-opening_hours: "Mo-Th 09:30-18:00; Fr 09:30-14:00"
-website: "https://www.sicherheitstechnik-margareten.at/"
+street: Margaretenstraße
+housenumber: "64"
+phone: +43 1 9167257
+opening_hours: Mo-Th 09:30-18:00; Fr 09:30-14:00
+website: https://www.sicherheitstechnik-margareten.at/

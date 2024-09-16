@@ -4,8 +4,8 @@ latitude: 48.2
 longitude: 16.35252
 postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 3
+street: Kirchengasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.rattlesnake.co.at/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.rattlesnake.co.at/

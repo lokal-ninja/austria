@@ -4,8 +4,8 @@ latitude: 48.2067
 longitude: 16.37337
 postcode: "1010"
 city: Wien
-street: "Weihburggasse"
-housenumber: 8
+street: Weihburggasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.breisach.co.at/"
+website: https://www.breisach.co.at/

@@ -1,11 +1,11 @@
 id: 41970695
-type: way
+type: node
 latitude: 46.78312
 longitude: 15.54102
 postcode: "8430"
 city: Leibnitz
-street: "Kaspar Harb-Gasse"
-housenumber: 2
+street: Kaspar Harb-Gasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

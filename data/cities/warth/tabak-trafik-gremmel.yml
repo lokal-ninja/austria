@@ -4,8 +4,8 @@ latitude: 47.65298
 longitude: 16.12767
 postcode: "2831"
 city: Warth
-street: "Marktplatz"
-housenumber: 1
+street: Marktplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.warth-noe.gv.at/Gremmel_Robert"
+website: https://www.warth-noe.gv.at/Gremmel_Robert

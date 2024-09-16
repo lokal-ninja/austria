@@ -1,11 +1,11 @@
 id: 415266321
-type: way
+type: node
 latitude: 48.54768
 longitude: 15.08686
 postcode: "3911"
 city: Zwettl-Niederösterreich
 street: ""
-housenumber: 66
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-18:00"
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-18:00
 website: ""

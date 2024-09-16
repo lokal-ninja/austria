@@ -1,11 +1,11 @@
 id: 1103295882
-type: way
+type: node
 latitude: 48.34935
 longitude: 16.72527
 postcode: "2230"
 city: Gänserndorf
-street: "Protteser Straße"
-housenumber: 55
+street: Protteser Straße
+housenumber: "55"
 phone: "+43228220115"
 opening_hours: ""
 website: ""

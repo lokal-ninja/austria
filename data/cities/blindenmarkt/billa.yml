@@ -1,11 +1,11 @@
 id: 238052997
-type: way
+type: node
 latitude: 48.12682
 longitude: 14.98124
 postcode: "3372"
 city: Blindenmarkt
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:15; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:15; Sa 07:15-18:00
 website: ""

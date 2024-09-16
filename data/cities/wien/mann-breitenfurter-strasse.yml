@@ -1,11 +1,11 @@
 id: 1165180047
-type: way
+type: node
 latitude: 48.13705
 longitude: 16.27951
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
+street: Breitenfurter Straße
 housenumber: 372/2
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:30-18:00; Su,PH off"
-website: "https://www.dermann.at/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:30-18:00; Su,PH off
+website: https://www.dermann.at/

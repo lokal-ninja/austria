@@ -4,8 +4,8 @@ latitude: 47.06676
 longitude: 15.43957
 postcode: "8010"
 city: Graz
-street: "Joanneumring"
-housenumber: 13
+street: Joanneumring
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.weinco.at/filialen/steiermark"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.weinco.at/filialen/steiermark

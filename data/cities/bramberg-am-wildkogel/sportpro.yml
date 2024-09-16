@@ -1,11 +1,11 @@
 id: 151855992
-type: way
+type: node
 latitude: 47.27171
 longitude: 12.34035
 postcode: "5733"
 city: Bramberg am Wildkogel
-street: "Senningerfeld"
-housenumber: 25
-phone: "+43-6566-20425"
-opening_hours: "Mo-Fr 09:00-12:00,16:00-18:00"
-website: "https://www.sportpro.at/"
+street: Senningerfeld
+housenumber: "25"
+phone: +43-6566-20425
+opening_hours: Mo-Fr 09:00-12:00,16:00-18:00
+website: https://www.sportpro.at/

@@ -1,11 +1,11 @@
 id: 168829777
-type: way
+type: node
 latitude: 47.68237
 longitude: 13.09271
 postcode: "5400"
 city: Hallein
-street: "Kornsteinplatz"
-housenumber: 4
+street: Kornsteinplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:30"
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:30
 website: ""

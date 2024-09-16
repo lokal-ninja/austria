@@ -1,11 +1,11 @@
 id: 658600504
-type: way
+type: node
 latitude: 48.05362
 longitude: 14.41823
 postcode: "4400"
 city: Steyr
-street: "Prof.-Anton-Neumann-Straße"
-housenumber: 6
+street: Prof.-Anton-Neumann-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

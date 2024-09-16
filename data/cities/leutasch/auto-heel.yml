@@ -1,11 +1,11 @@
 id: 168655970
-type: way
+type: node
 latitude: 47.37182
 longitude: 11.23182
 postcode: "6105"
 city: Leutasch
 street: ""
-housenumber: 2
-phone: "+43 676 4078892"
+housenumber: "2"
+phone: +43 676 4078892
 opening_hours: ""
-website: "http://www.auto-heel.at"
+website: http://www.auto-heel.at

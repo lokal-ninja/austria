@@ -1,11 +1,11 @@
 id: 629060300
-type: way
+type: node
 latitude: 48.14914
 longitude: 16.28804
 postcode: "1230"
 city: Wien
-street: "Taglieberstraße"
-housenumber: 4
-phone: "+43 1 888 79 42 0"
+street: Taglieberstraße
+housenumber: "4"
+phone: +43 1 888 79 42 0
 opening_hours: ""
-website: "https://www.esser.at/"
+website: https://www.esser.at/

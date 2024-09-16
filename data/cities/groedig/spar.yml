@@ -1,11 +1,11 @@
 id: 323460154
-type: way
+type: node
 latitude: 47.73879
 longitude: 13.03988
 postcode: "5082"
 city: Grödig
-street: "Dr.-Richard-Hartmann-Straße"
+street: Dr.-Richard-Hartmann-Straße
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.spar.at/de_AT/index/standorte/50/spar_supermarkt_groedig_4043.html"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.spar.at/de_AT/index/standorte/50/spar_supermarkt_groedig_4043.html

@@ -4,8 +4,8 @@ latitude: 48.18311
 longitude: 16.37518
 postcode: "1100"
 city: Wien
-street: "Reisingergasse"
-housenumber: 8
+street: Reisingergasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

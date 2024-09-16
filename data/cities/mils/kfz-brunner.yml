@@ -1,11 +1,11 @@
 id: 99368398
-type: way
+type: node
 latitude: 47.28377
 longitude: 11.55071
 postcode: "6068"
 city: Mils
-street: "Gewerbepark Süd"
-housenumber: 11
+street: Gewerbepark Süd
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

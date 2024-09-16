@@ -1,11 +1,11 @@
 id: 266828686
-type: way
+type: node
 latitude: 47.75732
 longitude: 16.66713
 postcode: "7072"
 city: Mörbisch am See
-street: "Kinogasse"
-housenumber: 10
-phone: "+43 2685 8392"
+street: Kinogasse
+housenumber: "10"
+phone: +43 2685 8392
 opening_hours: ""
 website: ""

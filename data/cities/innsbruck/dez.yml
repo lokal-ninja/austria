@@ -1,11 +1,11 @@
 id: 47127560
-type: way
+type: node
 latitude: 47.26294
 longitude: 11.43203
 postcode: "6020"
 city: Innsbruck
-street: "Amraser-See-Straße"
+street: Amraser-See-Straße
 housenumber: 56a
-phone: "+43 512 3250"
-opening_hours: "Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 08:00-18:00"
-website: "https://www.dez.at/"
+phone: +43 512 3250
+opening_hours: Mo-We 09:00-19:00; Th,Fr 09:00-20:00; Sa 08:00-18:00
+website: https://www.dez.at/

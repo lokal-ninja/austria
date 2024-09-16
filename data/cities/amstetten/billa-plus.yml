@@ -4,8 +4,8 @@ latitude: 48.11703
 longitude: 14.87462
 postcode: "3300"
 city: Amstetten
-street: "Josef-Seidl-Straße"
-housenumber: 11
+street: Josef-Seidl-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.billa.at

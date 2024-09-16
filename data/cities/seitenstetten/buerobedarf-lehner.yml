@@ -4,8 +4,8 @@ latitude: 48.03648
 longitude: 14.65264
 postcode: "3353"
 city: Seitenstetten
-street: "Steyrer Straße"
-housenumber: 2
+street: Steyrer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:00"
-website: "https://www.bueroprofi.at/BPAT-lehner/start"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-12:00
+website: https://www.bueroprofi.at/BPAT-lehner/start

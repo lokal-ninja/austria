@@ -1,11 +1,11 @@
 id: 983612543
-type: way
+type: node
 latitude: 47.31454
 longitude: 11.01815
 postcode: "6413"
 city: Wildermieming
-street: "Unterfeld"
-housenumber: 2
+street: Unterfeld
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

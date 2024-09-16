@@ -1,11 +1,11 @@
 id: 412783569
-type: way
+type: node
 latitude: 48.78927
 longitude: 15.06902
 postcode: "3943"
 city: Schrems
-street: "Teichgasse"
-housenumber: 1
+street: Teichgasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 722727142
-type: way
+type: node
 latitude: 47.06702
 longitude: 15.46973
 postcode: "8010"
 city: Graz
-street: "Waltendorfer Hauptstraße"
+street: Waltendorfer Hauptstraße
 housenumber: 31b
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-graz-8010-waltendorfer-hauptstrasse-31b-eg"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-graz-8010-waltendorfer-hauptstrasse-31b-eg

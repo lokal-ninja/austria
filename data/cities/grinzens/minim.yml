@@ -4,8 +4,8 @@ latitude: 47.22881
 longitude: 11.25431
 postcode: "6095"
 city: Grinzens
-street: "Anger"
-housenumber: 12
-phone: "+43 50321 923302"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.mpreis.at/sp/standorte"
+street: Anger
+housenumber: "12"
+phone: +43 50321 923302
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
+website: https://www.mpreis.at/sp/standorte

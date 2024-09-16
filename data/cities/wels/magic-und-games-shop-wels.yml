@@ -4,8 +4,8 @@ latitude: 48.16147
 longitude: 14.02258
 postcode: "4600"
 city: Wels
-street: "Rainerstraße"
-housenumber: 8
+street: Rainerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "We-Fr 15:00-19:00; Sa 13:00-17:00; PH off"
-website: "https://www.magic-games.at/"
+opening_hours: We-Fr 15:00-19:00; Sa 13:00-17:00; PH off
+website: https://www.magic-games.at/

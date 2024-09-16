@@ -1,11 +1,11 @@
 id: 130374629
-type: way
+type: node
 latitude: 47.3306
 longitude: 11.86291
 postcode: "6263"
 city: Fügen
-street: "Kapfingerstraße"
-housenumber: 10
+street: Kapfingerstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

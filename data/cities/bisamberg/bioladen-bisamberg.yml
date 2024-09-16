@@ -4,8 +4,9 @@ latitude: 48.3307
 longitude: 16.36031
 postcode: "2102"
 city: Bisamberg
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-We 08:00-12:00, Th 08:00-12:00,15:00-18:00, Fr 08:00-13:00,15:00-18:00, Sa 08:00-12:00"
-website: "https://www.bioladen-bisamberg.at"
+opening_hours: Tu-We 08:00-12:00, Th 08:00-12:00,15:00-18:00, Fr 08:00-13:00,15:00-18:00,
+    Sa 08:00-12:00
+website: https://www.bioladen-bisamberg.at

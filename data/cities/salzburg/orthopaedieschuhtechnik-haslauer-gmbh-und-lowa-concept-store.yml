@@ -4,8 +4,8 @@ latitude: 47.7983
 longitude: 13.03094
 postcode: "5020"
 city: Salzburg
-street: "Eduard-Baumgartner-Straße"
-housenumber: 4
-phone: "+43 662 833 610"
+street: Eduard-Baumgartner-Straße
+housenumber: "4"
+phone: +43 662 833 610
 opening_hours: ""
-website: "https://www.ost-haslauer.at/"
+website: https://www.ost-haslauer.at/

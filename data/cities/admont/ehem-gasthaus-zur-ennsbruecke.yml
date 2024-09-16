@@ -1,11 +1,11 @@
 id: 119137534
-type: way
+type: node
 latitude: 47.58293
 longitude: 14.45932
 postcode: "8911"
 city: Admont
 street: ""
-housenumber: 300
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.pirafelner.at"
+website: https://www.pirafelner.at

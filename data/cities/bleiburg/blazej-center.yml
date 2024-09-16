@@ -1,11 +1,11 @@
 id: 590666473
-type: way
+type: node
 latitude: 46.58798
 longitude: 14.79913
 postcode: "9150"
 city: Bleiburg
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.blazej-center.at/"
+website: http://www.blazej-center.at/

@@ -4,8 +4,8 @@ latitude: 47.50332
 longitude: 9.74775
 postcode: "6900"
 city: Bregenz
-street: "Anton-Schneider-Straße"
-housenumber: 10
+street: Anton-Schneider-Straße
+housenumber: "10"
 phone: "+43557458129"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.buongustaio.at/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.buongustaio.at/

@@ -4,8 +4,8 @@ latitude: 48.19457
 longitude: 16.38691
 postcode: "1030"
 city: Wien
-street: "Rennweg"
-housenumber: 35
-phone: "+43 (0)1 / 945 50 05"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00"
-website: "https://juwelier-leihhaus.at/"
+street: Rennweg
+housenumber: "35"
+phone: +43 (0)1 / 945 50 05
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:30-14:00
+website: https://juwelier-leihhaus.at/

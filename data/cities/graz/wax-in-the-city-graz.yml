@@ -4,8 +4,8 @@ latitude: 47.06803
 longitude: 15.4372
 postcode: "8010"
 city: Graz
-street: "Neutorgasse"
-housenumber: 44
+street: Neutorgasse
+housenumber: "44"
 phone: "+43316813336"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-16:00"
-website: "https://wax-in-the-city.com/studios-preise/waxing-graz/"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-16:00
+website: https://wax-in-the-city.com/studios-preise/waxing-graz/

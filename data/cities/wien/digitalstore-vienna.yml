@@ -4,8 +4,8 @@ latitude: 48.20223
 longitude: 16.35443
 postcode: "1070"
 city: Wien
-street: "Stiftgasse"
-housenumber: 21
-phone: "+43-1-523-5333-0"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-12:00"
-website: "https://digitalstore.at/"
+street: Stiftgasse
+housenumber: "21"
+phone: +43-1-523-5333-0
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-12:00
+website: https://digitalstore.at/

@@ -1,11 +1,11 @@
 id: 480617796
-type: way
+type: node
 latitude: 47.49243
 longitude: 9.95342
 postcode: "6943"
 city: Riefensberg
-street: "Latschenbühl"
-housenumber: 88
+street: Latschenbühl
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

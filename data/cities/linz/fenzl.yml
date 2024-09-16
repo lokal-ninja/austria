@@ -4,8 +4,8 @@ latitude: 48.31381
 longitude: 14.28156
 postcode: "4040"
 city: Linz
-street: "Hauptstraße"
-housenumber: 52
-phone: "+43 732 947297"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.baeckereifenzl.at/filialen/filiale-lentia.html"
+street: Hauptstraße
+housenumber: "52"
+phone: +43 732 947297
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://www.baeckereifenzl.at/filialen/filiale-lentia.html

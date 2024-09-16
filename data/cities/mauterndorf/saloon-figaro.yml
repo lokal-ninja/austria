@@ -1,11 +1,11 @@
 id: 243827652
-type: way
+type: node
 latitude: 47.13343
 longitude: 13.6779
 postcode: "5570"
 city: Mauterndorf
 street: ""
-housenumber: 61
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

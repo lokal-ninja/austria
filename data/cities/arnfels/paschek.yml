@@ -1,11 +1,11 @@
 id: 217120914
-type: way
+type: node
 latitude: 46.69058
 longitude: 15.42117
 postcode: "8454"
 city: Arnfels
 street: ""
-housenumber: 57
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-paschek.at/"
+website: https://www.weingut-paschek.at/

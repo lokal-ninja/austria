@@ -4,8 +4,8 @@ latitude: 48.24526
 longitude: 14.2601
 postcode: "4050"
 city: Traun
-street: "Wiener Bundesstraße"
-housenumber: 15
-phone: "+43 732 384467"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.peller-optik.at"
+street: Wiener Bundesstraße
+housenumber: "15"
+phone: +43 732 384467
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.peller-optik.at

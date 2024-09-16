@@ -1,11 +1,11 @@
 id: 382399699
-type: way
+type: node
 latitude: 48.05513
 longitude: 14.42388
 postcode: "4400"
 city: Steyr
-street: "Resthofstraße"
-housenumber: 26
+street: Resthofstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-stummer.at/"
+website: https://www.reifen-stummer.at/

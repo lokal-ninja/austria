@@ -1,11 +1,11 @@
 id: 208562323
-type: way
+type: node
 latitude: 46.68583
 longitude: 15.55053
 postcode: "8461"
 city: Sulztal an der Weinstraße
 street: ""
-housenumber: 24
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.kuerbiskerne.at/"
+website: https://www.kuerbiskerne.at/

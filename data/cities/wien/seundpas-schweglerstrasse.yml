@@ -4,8 +4,8 @@ latitude: 48.19916
 longitude: 16.3279
 postcode: "1150"
 city: Wien
-street: "Schweglerstraße"
-housenumber: 32
+street: Schweglerstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; PH off; Sa 08:00-18:00"
-website: "https://se-pas.at/"
+opening_hours: Mo-Fr 08:00-19:00; PH off; Sa 08:00-18:00
+website: https://se-pas.at/

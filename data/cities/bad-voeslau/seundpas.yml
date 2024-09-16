@@ -1,11 +1,11 @@
 id: 279101125
-type: way
+type: node
 latitude: 47.96458
 longitude: 16.21398
 postcode: "2540"
 city: Bad Vöslau
-street: "Wiener Neustädter Straße"
-housenumber: 4
+street: Wiener Neustädter Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

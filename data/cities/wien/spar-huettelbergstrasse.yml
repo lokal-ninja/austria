@@ -1,11 +1,11 @@
 id: 1184813986
-type: way
+type: node
 latitude: 48.21669
 longitude: 16.24914
 postcode: "1140"
 city: Wien
-street: "Hüttelbergstraße"
-housenumber: 92
-phone: "+43 1 3303947"
-opening_hours: "Mo-Fr 07:30-19:50; Sa 7:40-18:00"
+street: Hüttelbergstraße
+housenumber: "92"
+phone: +43 1 3303947
+opening_hours: Mo-Fr 07:30-19:50; Sa 7:40-18:00
 website: ""

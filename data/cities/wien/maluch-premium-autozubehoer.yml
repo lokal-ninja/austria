@@ -4,8 +4,8 @@ latitude: 48.21525
 longitude: 16.52293
 postcode: "1220"
 city: Wien
-street: "Simonsgasse"
-housenumber: 12
-phone: "+43 660 789 555 6"
+street: Simonsgasse
+housenumber: "12"
+phone: +43 660 789 555 6
 opening_hours: ""
-website: "https://www.maluch.at/"
+website: https://www.maluch.at/

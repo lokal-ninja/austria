@@ -1,11 +1,11 @@
 id: 92319224
-type: way
+type: node
 latitude: 46.62683
 longitude: 14.30867
 postcode: ""
 city: Klagenfurt am Wörthersee
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:00"
-website: "https://www.city-arkaden-klagenfurt.at/kontakt/"
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-18:00
+website: https://www.city-arkaden-klagenfurt.at/kontakt/

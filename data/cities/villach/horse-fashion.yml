@@ -4,8 +4,8 @@ latitude: 46.60533
 longitude: 13.87135
 postcode: "9500"
 city: Villach
-street: "Gewerbezeile"
-housenumber: 6
+street: Gewerbezeile
+housenumber: "6"
 phone: "+436767091771"
 opening_hours: ""
-website: "https://horse-fashion.at/"
+website: https://horse-fashion.at/

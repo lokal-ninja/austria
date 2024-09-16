@@ -1,11 +1,11 @@
 id: 299298915
-type: way
+type: node
 latitude: 48.58001
 longitude: 16.07421
 postcode: "2020"
 city: Hollabrunn
-street: "Fachleutnerstraße"
-housenumber: 1
+street: Fachleutnerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

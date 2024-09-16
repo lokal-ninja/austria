@@ -4,8 +4,8 @@ latitude: 47.26741
 longitude: 11.39251
 postcode: "6020"
 city: Innsbruck
-street: "Kiebachgasse"
-housenumber: 12
-phone: "+43 512 552514"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.tirolstein.eu"
+street: Kiebachgasse
+housenumber: "12"
+phone: +43 512 552514
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.tirolstein.eu

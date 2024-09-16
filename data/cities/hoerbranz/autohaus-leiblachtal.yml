@@ -1,11 +1,11 @@
 id: 86351836
-type: way
+type: node
 latitude: 47.53982
 longitude: 9.75118
 postcode: "6912"
 city: Hörbranz
-street: "Allgäustraße"
-housenumber: 2
-phone: "+43 5573 822450"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30; Sa 08:30-12:00"
-website: "https://www.autohaus-leiblachtal.at/"
+street: Allgäustraße
+housenumber: "2"
+phone: +43 5573 822450
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30; Sa 08:30-12:00
+website: https://www.autohaus-leiblachtal.at/

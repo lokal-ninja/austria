@@ -1,11 +1,11 @@
 id: 129641066
-type: way
+type: node
 latitude: 48.45645
 longitude: 15.73433
 postcode: "3492"
 city: Walkersdorf am Kamp
-street: "Gewerbestraße"
-housenumber: 19
+street: Gewerbestraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

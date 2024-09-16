@@ -1,11 +1,11 @@
 id: 136451747
-type: way
+type: node
 latitude: 47.07038
 longitude: 15.41906
 postcode: "8020"
 city: Graz
-street: "Eggenberger Gürtel"
-housenumber: 14
+street: Eggenberger Gürtel
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.profi-reifen.at/"
+website: https://www.profi-reifen.at/

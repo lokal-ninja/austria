@@ -4,8 +4,8 @@ latitude: 48.17914
 longitude: 15.61685
 postcode: "3100"
 city: St. Pölten
-street: "Porschestraße"
-housenumber: 23
+street: Porschestraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:30"
-website: "https://www.acp.at/standorte/detail/st-poelten-acp-it-solutions-gmbh"
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:30
+website: https://www.acp.at/standorte/detail/st-poelten-acp-it-solutions-gmbh

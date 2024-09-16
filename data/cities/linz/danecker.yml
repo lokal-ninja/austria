@@ -4,8 +4,8 @@ latitude: 48.30401
 longitude: 14.28767
 postcode: "4020"
 city: Linz
-street: "Promenade"
-housenumber: 3
+street: Promenade
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:30; PH,Su 07:00-18:30"
-website: "http://www.danecker.at/standorte"
+opening_hours: Mo-Sa 06:30-18:30; PH,Su 07:00-18:30
+website: http://www.danecker.at/standorte

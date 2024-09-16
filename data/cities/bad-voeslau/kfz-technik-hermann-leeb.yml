@@ -1,11 +1,11 @@
 id: 272100672
-type: way
+type: node
 latitude: 47.96563
 longitude: 16.24251
 postcode: "2540"
 city: Bad Vöslau
-street: "Flugfeldstraße"
-housenumber: 63
+street: Flugfeldstraße
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

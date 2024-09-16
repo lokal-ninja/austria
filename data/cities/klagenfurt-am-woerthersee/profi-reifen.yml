@@ -1,11 +1,11 @@
 id: 83055776
-type: way
+type: node
 latitude: 46.607
 longitude: 14.30815
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Flatschacher Straße"
-housenumber: 205
+street: Flatschacher Straße
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

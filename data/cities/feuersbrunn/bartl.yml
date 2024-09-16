@@ -1,11 +1,11 @@
 id: 200744378
-type: way
+type: node
 latitude: 48.43996
 longitude: 15.78867
 postcode: "3483"
 city: Feuersbrunn
-street: "Neufang"
-housenumber: 2
+street: Neufang
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.cafe-bartl.com"
+website: www.cafe-bartl.com

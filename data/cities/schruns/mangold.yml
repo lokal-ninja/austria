@@ -4,8 +4,8 @@ latitude: 47.08161
 longitude: 9.90263
 postcode: "6780"
 city: Schruns
-street: "Gantschierstraße"
-housenumber: 2
+street: Gantschierstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-17:00; PH,Su 07:00-17:00"
-website: "https://www.bäckerei-mangold.at/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-17:00; PH,Su 07:00-17:00
+website: https://www.bäckerei-mangold.at/

@@ -1,11 +1,11 @@
 id: 1126683573
-type: way
+type: node
 latitude: 48.18088
 longitude: 15.61468
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 180
-phone: "+43 2742 73600"
+street: Mariazeller Straße
+housenumber: "180"
+phone: +43 2742 73600
 opening_hours: ""
 website: ""

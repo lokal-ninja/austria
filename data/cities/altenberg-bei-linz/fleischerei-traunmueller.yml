@@ -1,11 +1,12 @@
 id: 156095919
-type: way
+type: node
 latitude: 48.37353
 longitude: 14.3493
 postcode: "4203"
 city: Altenberg bei Linz
-street: "Schmiedgasse"
-housenumber: 2
+street: Schmiedgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu 07:00-12:00, 15:00 - 18:00, We 07:00-12:00, Th 07:00-12:00, 15:00-18:00. Fr 07:00-18:00, Sa 07:00-12:00"
+opening_hours: Mo-Tu 07:00-12:00, 15:00 - 18:00, We 07:00-12:00, Th 07:00-12:00, 15:00-18:00.
+    Fr 07:00-18:00, Sa 07:00-12:00
 website: ""

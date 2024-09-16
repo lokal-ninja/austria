@@ -1,11 +1,11 @@
 id: 192241715
-type: way
+type: node
 latitude: 48.35435
 longitude: 14.52643
 postcode: "4230"
 city: Pregarten
-street: "Bahnhofstraße"
-housenumber: 31
+street: Bahnhofstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:15-07:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-07:30; Sa 07:15-18:00
 website: ""

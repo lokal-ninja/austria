@@ -4,8 +4,8 @@ latitude: 48.21158
 longitude: 16.36361
 postcode: "1010"
 city: Wien
-street: "Freyung"
-housenumber: 4
-phone: "+43 1 89 00 392"
-opening_hours: "Tu-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-15:00"
-website: "https://www.frisurenwerkstatt.at"
+street: Freyung
+housenumber: "4"
+phone: +43 1 89 00 392
+opening_hours: Tu-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-15:00
+website: https://www.frisurenwerkstatt.at

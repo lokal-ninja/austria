@@ -4,8 +4,8 @@ latitude: 48.21142
 longitude: 16.36962
 postcode: "1010"
 city: Wien
-street: "Judenplatz"
-housenumber: 5
+street: Judenplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 13:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 13:00-19:00
 website: ""

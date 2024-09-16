@@ -1,11 +1,11 @@
 id: 124786085
-type: way
+type: node
 latitude: 47.05873
 longitude: 16.06976
 postcode: "8280"
 city: Fürstenfeld
-street: "Grazerstraße"
-housenumber: 12
+street: Grazerstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

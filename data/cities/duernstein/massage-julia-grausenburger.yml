@@ -5,7 +5,7 @@ longitude: 15.5405
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 102
-phone: "+43 676 431 01 03"
+housenumber: "102"
+phone: +43 676 431 01 03
 opening_hours: ""
-website: "https://www.massagetimer.at"
+website: https://www.massagetimer.at

@@ -4,8 +4,8 @@ latitude: 47.26188
 longitude: 11.39477
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
+street: Leopoldstraße
 housenumber: 10a
-phone: "+43 512 257212"
-opening_hours: "Tu-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00; PH off || nach Vereinbarung"
-website: "https://hubert-feldkircher.at"
+phone: +43 512 257212
+opening_hours: Tu-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00; PH off || "nach Vereinbarung"
+website: https://hubert-feldkircher.at

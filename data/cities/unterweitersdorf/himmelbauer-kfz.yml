@@ -1,11 +1,11 @@
 id: 180302785
-type: way
+type: node
 latitude: 48.35786
 longitude: 14.47364
 postcode: "4213"
 city: Unterweitersdorf
-street: "Betriebsstraße"
-housenumber: 2
+street: Betriebsstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.himmelbauer.at/"
+website: https://www.himmelbauer.at/

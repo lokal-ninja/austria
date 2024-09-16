@@ -4,8 +4,8 @@ latitude: 47.25365
 longitude: 12.28737
 postcode: "5741"
 city: Neukirchen
-street: "Marktstrasse"
-housenumber: 521
+street: Marktstrasse
+housenumber: "521"
 phone: "+4365656840"
-opening_hours: "08:30-12:00 14:30-18:00"
+opening_hours: 08:30-12:00 14:30-18:00
 website: ""

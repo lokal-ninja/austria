@@ -1,11 +1,11 @@
 id: 321548466
-type: way
+type: node
 latitude: 47.96922
 longitude: 16.83597
 postcode: "7100"
 city: Neusiedl am See
-street: "Äußeres Hirschfeld"
-housenumber: 3
-phone: "+43 699 12366180"
+street: Äußeres Hirschfeld
+housenumber: "3"
+phone: +43 699 12366180
 opening_hours: ""
-website: "https://thellmachts.at/"
+website: https://thellmachts.at/

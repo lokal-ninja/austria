@@ -4,8 +4,8 @@ latitude: 47.05918
 longitude: 15.44035
 postcode: "8010"
 city: Graz
-street: "Schönaugasse"
-housenumber: 72
+street: Schönaugasse
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,We,Fr 08:30-15:00; Tu,Th 08:30-18:00"
+opening_hours: Mo,We,Fr 08:30-15:00; Tu,Th 08:30-18:00
 website: ""

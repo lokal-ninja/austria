@@ -1,11 +1,11 @@
 id: 256998641
-type: way
+type: node
 latitude: 48.71903
 longitude: 16.38307
 postcode: "2136"
 city: Laa an der Thaya
-street: "Nordbahnstraße"
-housenumber: 18
-phone: "+43 2522/2315"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-15:00"
-website: "https://www.blumen-gartler.at/%C3%BCber-uns/laa-thaya/"
+street: Nordbahnstraße
+housenumber: "18"
+phone: +43 2522/2315
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-15:00
+website: https://www.blumen-gartler.at/%C3%BCber-uns/laa-thaya/

@@ -4,8 +4,8 @@ latitude: 48.2237
 longitude: 16.33479
 postcode: "1170"
 city: Wien
-street: "Weidmanngasse"
-housenumber: 44
+street: Weidmanngasse
+housenumber: "44"
 phone: "+436643763739"
 opening_hours: ""
-website: "https://www.bluestyle.at/"
+website: https://www.bluestyle.at/

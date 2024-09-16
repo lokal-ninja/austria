@@ -1,11 +1,11 @@
 id: 1003261751
-type: way
+type: node
 latitude: 48.14247
 longitude: 16.29268
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
+street: Breitenfurter Straße
 housenumber: 333-335
 phone: ""
-opening_hours: "Mo-Th 06:30-16:00; Fr 06:30-15:00; PH off"
-website: "https://www.sochor.at/"
+opening_hours: Mo-Th 06:30-16:00; Fr 06:30-15:00; PH off
+website: https://www.sochor.at/

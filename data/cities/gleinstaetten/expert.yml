@@ -1,11 +1,11 @@
 id: 179177701
-type: way
+type: node
 latitude: 46.75497
 longitude: 15.36815
 postcode: "8443"
 city: Gleinstätten
 street: ""
-housenumber: 68
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.expert-ully.at/"
+opening_hours: Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00; Su,PH off
+website: https://www.expert-ully.at/

@@ -4,8 +4,8 @@ latitude: 48.41151
 longitude: 15.6019
 postcode: "3500"
 city: Krems an der Donau
-street: "Untere Landstraße"
-housenumber: 23
+street: Untere Landstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Su 09:30-13:30,13:30-18:00"
-website: "https://www.wachauexplorer.at/"
+opening_hours: Mo-Su 09:30-13:30,13:30-18:00
+website: https://www.wachauexplorer.at/

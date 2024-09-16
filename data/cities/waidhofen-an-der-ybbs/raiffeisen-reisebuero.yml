@@ -4,8 +4,8 @@ latitude: 47.96078
 longitude: 14.77367
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Unterer Stadtplatz"
-housenumber: 8
+street: Unterer Stadtplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-18:00"
-website: "https://www.raiffeisen-reisen.at/kontakt/"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-18:00
+website: https://www.raiffeisen-reisen.at/kontakt/

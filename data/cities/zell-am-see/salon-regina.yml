@@ -1,11 +1,11 @@
 id: 259104960
-type: way
+type: node
 latitude: 47.30606
 longitude: 12.79927
 postcode: "5700"
 city: Zell am See
-street: "Karl-Vogt-Straße"
-housenumber: 33
+street: Karl-Vogt-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Th 08:00-16:30; Fr 08:00-17:00; Sa 08:00-14:00"
-website: "http://www.friseursalon-regina.at/"
+opening_hours: Tu-Th 08:00-16:30; Fr 08:00-17:00; Sa 08:00-14:00
+website: http://www.friseursalon-regina.at/

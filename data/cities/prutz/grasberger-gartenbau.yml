@@ -1,11 +1,11 @@
 id: 207694779
-type: way
+type: node
 latitude: 47.09253
 longitude: 10.6673
 postcode: "6522"
 city: Prutz
-street: "Gießenstraße"
-housenumber: 3
+street: Gießenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

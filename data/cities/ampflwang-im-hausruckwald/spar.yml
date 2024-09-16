@@ -1,11 +1,11 @@
 id: 148893246
-type: way
+type: node
 latitude: 48.08223
 longitude: 13.56486
 postcode: "4843"
 city: Ampflwang im Hausruckwald
 street: ""
-housenumber: 66
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

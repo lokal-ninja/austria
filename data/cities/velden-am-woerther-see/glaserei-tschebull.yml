@@ -1,11 +1,11 @@
 id: 149405023
-type: way
+type: node
 latitude: 46.60536
 longitude: 14.03916
 postcode: "9220"
 city: Velden am Wörther See
-street: "Unterjeserzer Straße"
-housenumber: 14
+street: Unterjeserzer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.glas-tschebull.at/"
+website: https://www.glas-tschebull.at/

@@ -1,11 +1,11 @@
 id: 135850757
-type: way
+type: node
 latitude: 47.33349
 longitude: 10.16176
 postcode: "6993"
 city: Mittelberg
-street: "Walserstraße"
-housenumber: 313
-phone: "+43 5517 562412"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-17:30"
-website: "http://sport-rief.at"
+street: Walserstraße
+housenumber: "313"
+phone: +43 5517 562412
+opening_hours: Mo-Fr 09:30-12:00,14:00-17:30
+website: http://sport-rief.at

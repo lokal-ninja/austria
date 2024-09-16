@@ -4,8 +4,8 @@ latitude: 48.17207
 longitude: 16.4129
 postcode: "1110"
 city: Wien
-street: "Grillgasse"
-housenumber: 28
+street: Grillgasse
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr 9:00-18:00, Sa 9:00-13:00"
+opening_hours: Tu-Fr 9:00-18:00, Sa 9:00-13:00
 website: ""

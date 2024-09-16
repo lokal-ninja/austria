@@ -1,11 +1,11 @@
 id: 193500209
-type: way
+type: node
 latitude: 47.97058
 longitude: 13.70553
 postcode: "4845"
 city: Regau
-street: "Traunsteinstraße"
-housenumber: 21
+street: Traunsteinstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

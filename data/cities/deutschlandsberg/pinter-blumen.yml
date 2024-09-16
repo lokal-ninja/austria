@@ -4,8 +4,8 @@ latitude: 46.81552
 longitude: 15.23243
 postcode: "8530"
 city: Deutschlandsberg
-street: "Nelkengasse"
-housenumber: 1
-phone: "+43 3462 2907"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00; Sa 08:00-12:30; Su,PH off"
-website: "https://www.kreativ-blumen.at/"
+street: Nelkengasse
+housenumber: "1"
+phone: +43 3462 2907
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00; Sa 08:00-12:30; Su,PH off
+website: https://www.kreativ-blumen.at/

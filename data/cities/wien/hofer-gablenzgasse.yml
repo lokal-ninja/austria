@@ -4,8 +4,8 @@ latitude: 48.20706
 longitude: 16.31281
 postcode: "1150"
 city: Wien
-street: "Gablenzgasse"
-housenumber: 111
+street: Gablenzgasse
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
+website: https://www.hofer.at/

@@ -1,11 +1,11 @@
 id: 112206135
-type: way
+type: node
 latitude: 48.11912
 longitude: 16.31757
 postcode: "2334"
 city: Vösendorf
-street: "Europaring"
-housenumber: 1
+street: Europaring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.00485
 longitude: 15.26287
 postcode: "8561"
 city: Söding-Sankt Johann
-street: "Packerstraße"
-housenumber: 171
+street: Packerstraße
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Fr 04:30-14:00; Sa 04:30-12:00"
-website: "https://www.baeckerei-kogler.at/"
+opening_hours: Mo-Fr 04:30-14:00; Sa 04:30-12:00
+website: https://www.baeckerei-kogler.at/

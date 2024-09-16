@@ -4,8 +4,8 @@ latitude: 48.15931
 longitude: 14.02471
 postcode: "4600"
 city: Wels
-street: "Bäckergasse"
-housenumber: 12
-phone: "+43 7242 65555"
-opening_hours: "Mo-Fr 8:30-18:00; Sa 08:30-17:00"
-website: "https://www.hartlauer.at/"
+street: Bäckergasse
+housenumber: "12"
+phone: +43 7242 65555
+opening_hours: Mo-Fr 8:30-18:00; Sa 08:30-17:00
+website: https://www.hartlauer.at/

@@ -1,11 +1,11 @@
 id: 101761338
-type: way
+type: node
 latitude: 48.3755
 longitude: 16.51091
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Johann Galler-Straße"
-housenumber: 8
-phone: "+43 2245 6611"
+street: Johann Galler-Straße
+housenumber: "8"
+phone: +43 2245 6611
 opening_hours: ""
 website: ""

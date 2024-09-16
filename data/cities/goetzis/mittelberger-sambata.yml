@@ -1,11 +1,11 @@
 id: 123764985
-type: way
+type: node
 latitude: 47.33353
 longitude: 9.64102
 postcode: "6840"
 city: Götzis
-street: "Ringstraße"
-housenumber: 32
+street: Ringstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 235798140
-type: way
+type: node
 latitude: 46.88591
 longitude: 15.50578
 postcode: "8410"
 city: Wildon
-street: "Oberer Markt"
-housenumber: 105
+street: Oberer Markt
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

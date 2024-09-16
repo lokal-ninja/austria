@@ -4,8 +4,8 @@ latitude: 48.20829
 longitude: 16.36942
 postcode: "1010"
 city: Wien
-street: "Bräunerstraße"
-housenumber: 1
+street: Bräunerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

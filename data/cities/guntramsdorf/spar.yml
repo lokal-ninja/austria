@@ -1,11 +1,11 @@
 id: 179563963
-type: way
+type: node
 latitude: 48.04563
 longitude: 16.3058
 postcode: "2353"
 city: Guntramsdorf
-street: "Triesterstraße"
-housenumber: 15
+street: Triesterstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa07:15-18:00
 website: ""

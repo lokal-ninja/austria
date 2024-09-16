@@ -4,8 +4,8 @@ latitude: 47.23483
 longitude: 11.29609
 postcode: "6092"
 city: Birgitz
-street: "Dorfstraße"
-housenumber: 44
-phone: "+43 5234 33077"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
-website: "https://www.billa.at/filialfinder"
+street: Dorfstraße
+housenumber: "44"
+phone: +43 5234 33077
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+website: https://www.billa.at/filialfinder

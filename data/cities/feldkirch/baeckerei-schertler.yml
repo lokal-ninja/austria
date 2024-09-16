@@ -4,8 +4,8 @@ latitude: 47.25797
 longitude: 9.58801
 postcode: "6800"
 city: Feldkirch
-street: "Nofler Straße"
-housenumber: 20
+street: Nofler Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30 ; Sa 06:00-17:00"
-website: "https://www.schertlerbrot.at/"
+opening_hours: Mo-Fr 06:00-18:30 ; Sa 06:00-17:00
+website: https://www.schertlerbrot.at/

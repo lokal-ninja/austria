@@ -1,11 +1,11 @@
 id: 1238172067
-type: way
+type: node
 latitude: 47.26313
 longitude: 11.43214
 postcode: "6020"
 city: Innsbruck
-street: "Amraser-See-Straße"
+street: Amraser-See-Straße
 housenumber: 56a
-phone: "+43 57030 32016"
-opening_hours: "Mo-Fr 08:00-19:30; Sa 08:00-18:00"
-website: "https://www.hofer.at/de/filialen.html"
+phone: +43 57030 32016
+opening_hours: Mo-Fr 08:00-19:30; Sa 08:00-18:00
+website: https://www.hofer.at/de/filialen.html

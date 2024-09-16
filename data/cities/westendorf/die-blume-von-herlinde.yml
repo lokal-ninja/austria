@@ -1,11 +1,11 @@
 id: 156888817
-type: way
+type: node
 latitude: 47.43157
 longitude: 12.21376
 postcode: "6363"
 city: Westendorf
-street: "Dorfstraße"
-housenumber: 103
+street: Dorfstraße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

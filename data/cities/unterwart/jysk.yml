@@ -4,8 +4,8 @@ latitude: 47.27193
 longitude: 16.23549
 postcode: "7502"
 city: Unterwart
-street: "Gewerbepark"
-housenumber: 12
+street: Gewerbepark
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5136"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5136

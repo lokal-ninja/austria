@@ -1,11 +1,11 @@
 id: 87162664
-type: way
+type: node
 latitude: 48.6971
 longitude: 14.88913
 postcode: "3970"
 city: Weitra
-street: "Gansberg"
-housenumber: 53
+street: Gansberg
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

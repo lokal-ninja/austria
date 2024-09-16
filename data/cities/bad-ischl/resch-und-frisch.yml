@@ -4,8 +4,8 @@ latitude: 47.71227
 longitude: 13.62716
 postcode: "4820"
 city: Bad Ischl
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00"
-website: "https://www.resch-frisch.com/baeckerei-cafe/filialen/bad-ischl-bahnhof"
+opening_hours: Mo-Fr 05:30-18:00
+website: https://www.resch-frisch.com/baeckerei-cafe/filialen/bad-ischl-bahnhof

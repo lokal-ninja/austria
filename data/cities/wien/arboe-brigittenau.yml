@@ -1,11 +1,11 @@
 id: 106324024
-type: way
+type: node
 latitude: 48.23546
 longitude: 16.38299
 postcode: "1200"
 city: Wien
-street: "Pasettistraße"
-housenumber: 58
-phone: "+43 5 0123 2905"
-opening_hours: "Mo-Fr 07:30-18:00"
+street: Pasettistraße
+housenumber: "58"
+phone: +43 5 0123 2905
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

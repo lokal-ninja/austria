@@ -1,11 +1,12 @@
 id: 138402027
-type: way
+type: node
 latitude: 48.236
 longitude: 14.27782
 postcode: "4050"
 city: Traun
-street: "Zaunermühlstraße"
-housenumber: 2
-phone: "+43 732 651259"
-opening_hours: "Mo-Fr 07:30-16:00 open Büro || Mo-Th 08:00-14:00, Fr 08:00-12:00 open Warenaufnahme"
-website: "https://www.linzomatic.at/"
+street: Zaunermühlstraße
+housenumber: "2"
+phone: +43 732 651259
+opening_hours: Mo-Fr 07:30-16:00 open "Büro" || Mo-Th 08:00-14:00, Fr 08:00-12:00
+    open "Warenaufnahme"
+website: https://www.linzomatic.at/

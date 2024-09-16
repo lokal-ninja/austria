@@ -5,7 +5,7 @@ longitude: 15.44228
 postcode: "8452"
 city: Großklein
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:45-12:15,14:45-18:00; Sa 06:45-12:30; PH off"
-website: "https://www.nahundfrisch.at/de/kaufmann/keller"
+opening_hours: Mo-Fr 06:45-12:15,14:45-18:00; Sa 06:45-12:30; PH off
+website: https://www.nahundfrisch.at/de/kaufmann/keller

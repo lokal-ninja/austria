@@ -4,8 +4,8 @@ latitude: 48.24831
 longitude: 16.44371
 postcode: "1220"
 city: Wien
-street: "Komzakgasse"
-housenumber: 21
+street: Komzakgasse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
-website: "https://www.wirkaufendeinauto.at/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-14:00
+website: https://www.wirkaufendeinauto.at/

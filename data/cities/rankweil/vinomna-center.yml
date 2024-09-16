@@ -1,11 +1,11 @@
 id: 272930032
-type: way
+type: node
 latitude: 47.27095
 longitude: 9.64087
 postcode: "6830"
 city: Rankweil
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.vinomnacenter.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.vinomnacenter.at/

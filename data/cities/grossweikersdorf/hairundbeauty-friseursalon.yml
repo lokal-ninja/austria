@@ -4,8 +4,8 @@ latitude: 48.47157
 longitude: 15.98315
 postcode: "3701"
 city: Großweikersdorf
-street: "Wiener Straße"
-housenumber: 6
+street: Wiener Straße
+housenumber: "6"
 phone: "0295570458"
-opening_hours: "Mo,Tu 08:00-14:00, We-Fr 08:00-18:00, Sa 08:00-12:00"
+opening_hours: Mo,Tu 08:00-14:00, We-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

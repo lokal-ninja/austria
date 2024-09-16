@@ -4,8 +4,8 @@ latitude: 48.2252
 longitude: 16.35595
 postcode: "1090"
 city: Wien
-street: "Alserbachstraße"
-housenumber: 5
+street: Alserbachstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off
 website: ""

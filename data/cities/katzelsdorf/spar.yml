@@ -1,11 +1,11 @@
 id: 502714818
-type: way
+type: node
 latitude: 47.77759
 longitude: 16.26922
 postcode: "2801"
 city: Katzelsdorf
-street: "Hauptstraße"
-housenumber: 73
+street: Hauptstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

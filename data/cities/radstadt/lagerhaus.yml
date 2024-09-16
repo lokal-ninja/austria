@@ -1,11 +1,11 @@
 id: 71499835
-type: way
+type: node
 latitude: 47.38541
 longitude: 13.47013
 postcode: "5550"
 city: Radstadt
-street: "Judenbühel"
-housenumber: 21
+street: Judenbühel
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

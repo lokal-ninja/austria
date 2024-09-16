@@ -4,8 +4,8 @@ latitude: 47.37364
 longitude: 15.09081
 postcode: "8700"
 city: Leoben
-street: "Josef Heißl-Straße"
-housenumber: 5
+street: Josef Heißl-Straße
+housenumber: "5"
 phone: "+436642381788"
-opening_hours: "Mo-Su,PH Termin nach Vereinbarung"
-website: "https://www.einrichtungsstudio-etschmaier.at"
+opening_hours: Mo-Su,PH "Termin nach Vereinbarung"
+website: https://www.einrichtungsstudio-etschmaier.at

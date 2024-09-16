@@ -4,8 +4,8 @@ latitude: 47.50535
 longitude: 14.09797
 postcode: "8952"
 city: Irdning-Donnersbachtal
-street: "Montessoristraße"
-housenumber: 263
+street: Montessoristraße
+housenumber: "263"
 phone: ""
-opening_hours: "Tu,We 09:00-18:00;Th 09:00-20:00;Fr 09:00-18:00;Sa 08:00-12:00"
-website: "https://www.friseur-haargenau.at/"
+opening_hours: Tu,We 09:00-18:00;Th 09:00-20:00;Fr 09:00-18:00;Sa 08:00-12:00
+website: https://www.friseur-haargenau.at/

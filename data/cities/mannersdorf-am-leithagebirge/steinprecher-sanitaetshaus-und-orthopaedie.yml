@@ -4,8 +4,8 @@ latitude: 47.97325
 longitude: 16.60176
 postcode: "2452"
 city: Mannersdorf am Leithagebirge
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-We 09:00-12:00, 15:00-18:00; Th-Fr 09:00-12:00"
-website: "https://www.steinprecher.at/"
+opening_hours: Mo-We 09:00-12:00, 15:00-18:00; Th-Fr 09:00-12:00
+website: https://www.steinprecher.at/

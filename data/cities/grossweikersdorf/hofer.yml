@@ -1,11 +1,11 @@
 id: 171942452
-type: way
+type: node
 latitude: 48.47743
 longitude: 15.97974
 postcode: "3701"
 city: Großweikersdorf
-street: "DDr. Maier Straße"
-housenumber: 1
+street: DDr. Maier Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

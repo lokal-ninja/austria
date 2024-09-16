@@ -1,11 +1,11 @@
 id: 257438832
-type: way
+type: node
 latitude: 48.34962
 longitude: 15.62078
 postcode: "3508"
 city: Paudorf
-street: "Gewerbestraße"
-housenumber: 2
-phone: "+43 676 73 12 227"
+street: Gewerbestraße
+housenumber: "2"
+phone: +43 676 73 12 227
 opening_hours: ""
-website: "https://www.auto-nuri.at/"
+website: https://www.auto-nuri.at/

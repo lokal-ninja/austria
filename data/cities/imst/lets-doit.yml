@@ -4,8 +4,8 @@ latitude: 47.22548
 longitude: 10.74871
 postcode: "6460"
 city: Imst
-street: "Langgasse"
-housenumber: 121
-phone: "+43 5412 22288"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00"
-website: "https://toolpark-imst.at/de/toolpark-imst"
+street: Langgasse
+housenumber: "121"
+phone: +43 5412 22288
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00
+website: https://toolpark-imst.at/de/toolpark-imst

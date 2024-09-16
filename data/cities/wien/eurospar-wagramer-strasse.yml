@@ -1,11 +1,11 @@
 id: 213140642
-type: way
+type: node
 latitude: 48.25675
 longitude: 16.4475
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 171
+street: Wagramer Straße
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.spar.at/de_AT/index.html"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.spar.at/de_AT/index.html

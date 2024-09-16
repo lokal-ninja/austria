@@ -1,11 +1,11 @@
 id: 85604768
-type: way
+type: node
 latitude: 48.18241
 longitude: 16.08836
 postcode: "3021"
 city: Pressbaum
-street: "Hauptstraße"
-housenumber: 19
-phone: "+43 2233 52346"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-17:00; Sa 07:00-12:00"
-website: "http://www.baustoffegrasl.at"
+street: Hauptstraße
+housenumber: "19"
+phone: +43 2233 52346
+opening_hours: Mo-Fr 07:00-12:00, 13:00-17:00; Sa 07:00-12:00
+website: http://www.baustoffegrasl.at

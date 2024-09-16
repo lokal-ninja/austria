@@ -4,8 +4,8 @@ latitude: 48.21065
 longitude: 16.34258
 postcode: "1080"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 87
+street: Josefstädter Straße
+housenumber: "87"
 phone: "+44140325730"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.bueroprofikoch.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.bueroprofikoch.at/

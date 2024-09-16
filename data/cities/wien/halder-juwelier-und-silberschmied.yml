@@ -4,8 +4,8 @@ latitude: 48.20756
 longitude: 16.36718
 postcode: "1010"
 city: Wien
-street: "Reitschulgasse"
-housenumber: 4
-phone: "+43 67799037655"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:30-17:00"
-website: "https://www.halder.at/"
+street: Reitschulgasse
+housenumber: "4"
+phone: +43 67799037655
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:30-17:00
+website: https://www.halder.at/

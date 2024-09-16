@@ -5,7 +5,7 @@ longitude: 15.54605
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 36
-phone: "+43 2732 870 50"
+housenumber: "36"
+phone: +43 2732 870 50
 opening_hours: ""
-website: "https://www.weingutfink.at/"
+website: https://www.weingutfink.at/

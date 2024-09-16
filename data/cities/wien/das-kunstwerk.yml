@@ -4,8 +4,8 @@ latitude: 48.19955
 longitude: 16.36651
 postcode: "1040"
 city: Wien
-street: "Operngasse"
-housenumber: 20
+street: Operngasse
+housenumber: "20"
 phone: "+436502309994"
-opening_hours: "Tu-Fr 13:00-19:00; Mo off; Sa 11:00-15:00"
-website: "https://daskunstwerk.at/"
+opening_hours: Tu-Fr 13:00-19:00; Mo off; Sa 11:00-15:00
+website: https://daskunstwerk.at/

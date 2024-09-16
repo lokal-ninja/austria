@@ -4,8 +4,8 @@ latitude: 47.41065
 longitude: 9.71835
 postcode: "6850"
 city: Dornbirn
-street: "Lustenauer Straße"
-housenumber: 66
+street: Lustenauer Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 07:45-12:00,13:15-18:00;Sa 08:00-12:00"
-website: "https://www.farbenmorscher.at/"
+opening_hours: Mo-Fr 07:45-12:00,13:15-18:00;Sa 08:00-12:00
+website: https://www.farbenmorscher.at/

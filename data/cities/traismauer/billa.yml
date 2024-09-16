@@ -1,11 +1,11 @@
 id: 541389119
-type: way
+type: node
 latitude: 48.34946
 longitude: 15.74792
 postcode: "3133"
 city: Traismauer
-street: "Wiener Straße"
-housenumber: 29
-phone: "+43 59915 03688"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Wiener Straße
+housenumber: "29"
+phone: +43 59915 03688
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

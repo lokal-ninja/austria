@@ -1,11 +1,11 @@
 id: 249900512
-type: way
+type: node
 latitude: 48.41589
 longitude: 14.04201
 postcode: "4113"
 city: St. Martin im Mühlkreis
-street: "Am Wimberg"
-housenumber: 2
+street: Am Wimberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

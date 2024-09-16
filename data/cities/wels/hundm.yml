@@ -4,8 +4,8 @@ latitude: 48.15878
 longitude: 14.02489
 postcode: "4600"
 city: Wels
-street: "Ringstraße"
-housenumber: 35
-phone: "+43 810909090"
-opening_hours: "Mo-Fr 09:00-18:30;Sa 09:00-17:00"
+street: Ringstraße
+housenumber: "35"
+phone: +43 810909090
+opening_hours: Mo-Fr 09:00-18:30;Sa 09:00-17:00
 website: ""

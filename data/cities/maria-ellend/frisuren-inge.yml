@@ -1,11 +1,11 @@
 id: 178617403
-type: way
+type: node
 latitude: 48.10954
 longitude: 16.68775
 postcode: "2402"
 city: Maria Ellend
-street: "Bahnhofplatz"
-housenumber: 10
+street: Bahnhofplatz
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

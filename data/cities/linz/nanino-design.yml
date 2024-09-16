@@ -4,8 +4,8 @@ latitude: 48.2574
 longitude: 14.36073
 postcode: "4030"
 city: Linz
-street: "Lunaplatz"
-housenumber: 7
+street: Lunaplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-16:00; Tu,Th 09:00-18:00"
-website: "https://nanino-design.at/"
+opening_hours: Mo,We,Fr 09:00-16:00; Tu,Th 09:00-18:00
+website: https://nanino-design.at/

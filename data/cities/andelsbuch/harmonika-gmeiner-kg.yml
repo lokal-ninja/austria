@@ -1,11 +1,11 @@
 id: 150959131
-type: way
+type: node
 latitude: 47.40174
 longitude: 9.86087
 postcode: "6866"
 city: Andelsbuch
-street: "Bersbuch"
-housenumber: 572
-phone: "+43 664 2430 778"
+street: Bersbuch
+housenumber: "572"
+phone: +43 664 2430 778
 opening_hours: ""
-website: "https://harmonika-gmeiner.at/"
+website: https://harmonika-gmeiner.at/

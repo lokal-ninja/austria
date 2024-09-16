@@ -1,11 +1,11 @@
 id: 740338007
-type: way
+type: node
 latitude: 48.00015
 longitude: 16.8714
 postcode: "7111"
 city: Parndorf
-street: "Neudorferstraße"
-housenumber: 83
+street: Neudorferstraße
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "http://www.auto-dikovits.at/"
+website: http://www.auto-dikovits.at/

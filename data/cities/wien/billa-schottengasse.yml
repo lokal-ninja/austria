@@ -4,8 +4,8 @@ latitude: 48.21204
 longitude: 16.36392
 postcode: "1010"
 city: Wien
-street: "Schottengasse"
-housenumber: 1
-phone: "+43 1 5333845"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+street: Schottengasse
+housenumber: "1"
+phone: +43 1 5333845
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

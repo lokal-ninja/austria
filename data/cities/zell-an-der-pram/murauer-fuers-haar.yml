@@ -1,11 +1,11 @@
 id: 235278086
-type: way
+type: node
 latitude: 48.31709
 longitude: 13.62868
 postcode: "4755"
 city: Zell an der Pram
-street: "Bahnstraße"
-housenumber: 2
+street: Bahnstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.murauerfuershaar.com"
+website: http://www.murauerfuershaar.com

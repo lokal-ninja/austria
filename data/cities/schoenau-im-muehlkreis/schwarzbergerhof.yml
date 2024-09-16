@@ -4,8 +4,8 @@ latitude: 48.38421
 longitude: 14.7469
 postcode: "4274"
 city: Schönau im Mühlkreis
-street: "Mühlenweg"
-housenumber: 26
-phone: "+43 7261 20 800"
-opening_hours: "Fr 12:00-17:00; Sa 10:00-15:00"
-website: "https://www.schwarzbergerhof.at/"
+street: Mühlenweg
+housenumber: "26"
+phone: +43 7261 20 800
+opening_hours: Fr 12:00-17:00; Sa 10:00-15:00
+website: https://www.schwarzbergerhof.at/

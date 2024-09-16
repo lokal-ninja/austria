@@ -1,11 +1,11 @@
 id: 208705820
-type: way
+type: node
 latitude: 46.68461
 longitude: 15.56777
 postcode: "8461"
 city: Ratsch an der Weinstraße
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-rzweytick.at/"
+website: https://www.weingut-rzweytick.at/

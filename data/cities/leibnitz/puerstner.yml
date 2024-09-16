@@ -1,11 +1,11 @@
 id: 282547446
-type: way
+type: node
 latitude: 46.79709
 longitude: 15.53815
 postcode: "8430"
 city: Leibnitz
-street: "Grazer Straße"
-housenumber: 170
+street: Grazer Straße
+housenumber: "170"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
-website: "https://www.blumenversand.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30
+website: https://www.blumenversand.at/

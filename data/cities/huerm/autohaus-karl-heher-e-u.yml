@@ -1,11 +1,11 @@
 id: 559255586
-type: way
+type: node
 latitude: 48.15551
 longitude: 15.41649
 postcode: "3383"
 city: Hürm
-street: "Kaiserfeldstraße"
-housenumber: 7
+street: Kaiserfeldstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

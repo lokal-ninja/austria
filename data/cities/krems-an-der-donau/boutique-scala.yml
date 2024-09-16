@@ -4,8 +4,8 @@ latitude: 48.41026
 longitude: 15.59775
 postcode: "3500"
 city: Krems an der Donau
-street: "Obere Landstraße"
-housenumber: 
-phone: "+43 2732 82 22 9"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://www.boutique-scala.at/"
+street: Obere Landstraße
+housenumber: ""
+phone: +43 2732 82 22 9
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://www.boutique-scala.at/

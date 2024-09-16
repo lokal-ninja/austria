@@ -1,11 +1,11 @@
 id: 114458572
-type: way
+type: node
 latitude: 47.27605
 longitude: 11.46902
 postcode: "6065"
 city: Thaur
-street: "Bert-Köllensperger-Straße"
-housenumber: 4
+street: Bert-Köllensperger-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

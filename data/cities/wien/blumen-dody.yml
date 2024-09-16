@@ -1,11 +1,11 @@
 id: 356549456
-type: way
+type: node
 latitude: 48.19738
 longitude: 16.29512
 postcode: "1140"
 city: Wien
-street: "Hütteldorfer Straße"
-housenumber: 
+street: Hütteldorfer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

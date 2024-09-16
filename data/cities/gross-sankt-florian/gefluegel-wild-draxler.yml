@@ -4,8 +4,8 @@ latitude: 46.82101
 longitude: 15.31623
 postcode: "8522"
 city: Groß Sankt Florian
-street: "Marktstraße"
-housenumber: 20
+street: Marktstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,We,Fr 07:00-15:00; Tu,Sa 07:00-12:00; Th 07:00-17:00; PH off"
-website: "https://www.gefluegel-wild-draxler.at/unternehmen/"
+opening_hours: Mo,We,Fr 07:00-15:00; Tu,Sa 07:00-12:00; Th 07:00-17:00; PH off
+website: https://www.gefluegel-wild-draxler.at/unternehmen/

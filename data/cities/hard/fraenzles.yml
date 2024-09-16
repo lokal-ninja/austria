@@ -1,11 +1,11 @@
 id: 81153656
-type: way
+type: node
 latitude: 47.4875
 longitude: 9.66554
 postcode: "6971"
 city: Hard
-street: "In der Schanz"
+street: In der Schanz
 housenumber: 40a
 phone: ""
-opening_hours: "We-Su,Mo 10:00-21:00"
-website: "https://www.fraenzles.at/"
+opening_hours: We-Su,Mo 10:00-21:00
+website: https://www.fraenzles.at/

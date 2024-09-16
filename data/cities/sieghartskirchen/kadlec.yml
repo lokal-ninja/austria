@@ -1,11 +1,11 @@
 id: 235966395
-type: way
+type: node
 latitude: 48.25348
 longitude: 16.01442
 postcode: "3443"
 city: Sieghartskirchen
-street: "Karl-Berger Platz"
+street: Karl-Berger Platz
 housenumber: 3a
 phone: ""
-opening_hours: "Tu-Sa 07:00-19:00; Su, PH 08:00-19:00; Mo off"
-website: "https://kadlec.co.at/"
+opening_hours: Tu-Sa 07:00-19:00; Su, PH 08:00-19:00; Mo off
+website: https://kadlec.co.at/

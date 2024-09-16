@@ -1,11 +1,11 @@
 id: 139715962
-type: way
+type: node
 latitude: 47.48412
 longitude: 9.73155
 postcode: "6923"
 city: Lauterach
-street: "Bundesstraße"
-housenumber: 2
+street: Bundesstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.13898
 longitude: 15.52418
 postcode: "8044"
 city: Weinitzen
-street: "Weizerstraße"
-housenumber: 7
+street: Weizerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.nahundfrisch.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.nahundfrisch.at/

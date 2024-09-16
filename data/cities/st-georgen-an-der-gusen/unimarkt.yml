@@ -1,11 +1,11 @@
 id: 244963550
-type: way
+type: node
 latitude: 48.27587
 longitude: 14.44647
 postcode: "4222"
 city: St. Georgen an der Gusen
-street: "Gusentalstraße"
-housenumber: 37
+street: Gusentalstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

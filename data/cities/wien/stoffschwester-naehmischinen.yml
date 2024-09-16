@@ -4,8 +4,8 @@ latitude: 48.20396
 longitude: 16.38656
 postcode: "1030"
 city: Wien
-street: "Beatrixgasse"
+street: Beatrixgasse
 housenumber: 3A
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

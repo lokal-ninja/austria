@@ -1,11 +1,11 @@
 id: 99182619
-type: way
+type: node
 latitude: 47.42354
 longitude: 11.75168
 postcode: "6212"
 city: Eben am Achensee
-street: "Achenseestraße"
-housenumber: 3
-phone: "+43 5242 5132"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.jet-tankstellen.at/"
+street: Achenseestraße
+housenumber: "3"
+phone: +43 5242 5132
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.jet-tankstellen.at/

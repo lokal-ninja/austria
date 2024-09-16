@@ -1,11 +1,11 @@
 id: 243574897
-type: way
+type: node
 latitude: 48.12407
 longitude: 14.99141
 postcode: "3372"
 city: Blindenmarkt
-street: "Heizwerkstraße"
-housenumber: 3
-phone: "+43 7473 30300"
+street: Heizwerkstraße
+housenumber: "3"
+phone: +43 7473 30300
 opening_hours: ""
-website: "https://figl-nutzfahrzeuge.at/"
+website: https://figl-nutzfahrzeuge.at/

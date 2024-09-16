@@ -1,11 +1,11 @@
 id: 165171658
-type: way
+type: node
 latitude: 47.97182
 longitude: 16.85383
 postcode: "7100"
 city: Neusiedl am See
-street: "Josef-Kamper-Straße"
-housenumber: 1
-phone: "+43-2167-8100-0"
+street: Josef-Kamper-Straße
+housenumber: "1"
+phone: +43-2167-8100-0
 opening_hours: ""
-website: "https://www.autohaus-kamper.at/"
+website: https://www.autohaus-kamper.at/

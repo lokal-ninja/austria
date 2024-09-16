@@ -1,11 +1,11 @@
 id: 239315321
-type: way
+type: node
 latitude: 46.90225
 longitude: 15.71293
 postcode: "8083"
 city: Sankt Stefan im Rosental
-street: "Mureckerstraße"
-housenumber: 15
+street: Mureckerstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

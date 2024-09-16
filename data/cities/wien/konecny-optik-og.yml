@@ -4,8 +4,8 @@ latitude: 48.18937
 longitude: 16.30438
 postcode: "1140"
 city: Wien
-street: "Nisselgasse"
-housenumber: 17
+street: Nisselgasse
+housenumber: "17"
 phone: "+4318946215"
-opening_hours: "Mo - Fr 09:00 - 12:00, 14:00 - 18:00; Sa 09:00 - 12:00"
-website: "http://www.optik-konecny.at/"
+opening_hours: Mo - Fr 09:00 - 12:00, 14:00 - 18:00; Sa 09:00 - 12:00
+website: http://www.optik-konecny.at/

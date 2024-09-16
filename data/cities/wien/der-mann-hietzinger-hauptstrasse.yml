@@ -4,8 +4,8 @@ latitude: 48.1864
 longitude: 16.30055
 postcode: "1130"
 city: Wien
-street: "Hietzinger Hauptstraße"
+street: Hietzinger Hauptstraße
 housenumber: 22/2
-phone: "+43 1 866 99 9102"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:00-13:00; Su 08:00-12:00"
-website: "https://www.dermann.at/"
+phone: +43 1 866 99 9102
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:00-13:00; Su 08:00-12:00
+website: https://www.dermann.at/

@@ -1,11 +1,11 @@
 id: 122921914
-type: way
+type: node
 latitude: 48.29094
 longitude: 14.12964
 postcode: "4072"
 city: Alkoven
-street: "Gewerbestraße"
-housenumber: 12
-phone: "+43 7274 20225"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
-website: "https://www.reifen-mueller.at/"
+street: Gewerbestraße
+housenumber: "12"
+phone: +43 7274 20225
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
+website: https://www.reifen-mueller.at/

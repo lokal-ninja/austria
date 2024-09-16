@@ -1,11 +1,11 @@
 id: 375806838
-type: way
+type: node
 latitude: 48.17418
 longitude: 15.63847
 postcode: "3104"
 city: St. Pölten
-street: "Mathilde Beyerknecht-Straße"
-housenumber: 6
+street: Mathilde Beyerknecht-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 13:00-17:30"
+opening_hours: Mo-Fr 08:30-12:00, 13:00-17:30
 website: ""

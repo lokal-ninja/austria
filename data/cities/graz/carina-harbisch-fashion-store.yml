@@ -4,8 +4,8 @@ latitude: 47.06849
 longitude: 15.44002
 postcode: "8010"
 city: Graz
-street: "Stubenberggasse"
-housenumber: 8
+street: Stubenberggasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 11:00-16:00"
-website: "http://www.carinaharbisch.com"
+opening_hours: Mo-Sa 11:00-16:00
+website: http://www.carinaharbisch.com

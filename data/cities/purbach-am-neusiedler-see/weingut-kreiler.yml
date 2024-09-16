@@ -1,11 +1,11 @@
 id: 196762781
-type: way
+type: node
 latitude: 47.91217
 longitude: 16.6985
 postcode: "7083"
 city: Purbach am Neusiedler See
-street: "Kirchengasse"
-housenumber: 53
+street: Kirchengasse
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.kreiler.at/"
+website: https://www.kreiler.at/

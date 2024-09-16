@@ -1,11 +1,11 @@
 id: 1188738974
-type: way
+type: node
 latitude: 48.13482
 longitude: 16.34245
 postcode: "1230"
 city: Wien
-street: "Vorarlberger Allee"
-housenumber: 27
+street: Vorarlberger Allee
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

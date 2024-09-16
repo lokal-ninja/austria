@@ -4,8 +4,8 @@ latitude: 48.20078
 longitude: 16.25679
 postcode: "1140"
 city: Wien
-street: "Bergmillergasse"
-housenumber: 5
+street: Bergmillergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

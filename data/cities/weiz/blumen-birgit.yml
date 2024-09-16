@@ -4,8 +4,8 @@ latitude: 47.22335
 longitude: 15.63729
 postcode: "8160"
 city: Weiz
-street: "Weizbergstraße"
-housenumber: 38
+street: Weizbergstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00; Su 09:00-11:30"
-website: "http://www.gaertnerei-fassel.at/Kontakt.html"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 08:00-12:00; Su 09:00-11:30
+website: http://www.gaertnerei-fassel.at/Kontakt.html

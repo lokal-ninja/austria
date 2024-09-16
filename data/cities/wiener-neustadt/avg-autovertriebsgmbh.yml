@@ -1,11 +1,11 @@
 id: 143199239
-type: way
+type: node
 latitude: 47.83299
 longitude: 16.24375
 postcode: "2700"
 city: Wiener Neustadt
-street: "Josef Mohr-Gasse"
-housenumber: 3
+street: Josef Mohr-Gasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

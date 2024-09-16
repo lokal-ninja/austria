@@ -4,8 +4,9 @@ latitude: 48.20526
 longitude: 16.33352
 postcode: "1160"
 city: Wien
-street: "Herbststraße"
-housenumber: 11
-phone: "+43 1 494 40 70"
-opening_hours: "Mo-Th 07:00-13:00; Mo-Tu 15:00-18:00; We-Th 16:00-18:00, Fr 07:00-18:00; Sa 07:00-12:00"
+street: Herbststraße
+housenumber: "11"
+phone: +43 1 494 40 70
+opening_hours: Mo-Th 07:00-13:00; Mo-Tu 15:00-18:00; We-Th 16:00-18:00, Fr 07:00-18:00;
+    Sa 07:00-12:00
 website: ""

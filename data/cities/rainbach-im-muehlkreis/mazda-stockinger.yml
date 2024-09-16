@@ -1,11 +1,11 @@
 id: 435094760
-type: way
+type: node
 latitude: 48.55465
 longitude: 14.48028
 postcode: "4261"
 city: Rainbach im Mühlkreis
-street: "Freistädter Straße"
-housenumber: 8
+street: Freistädter Straße
+housenumber: "8"
 phone: ""
-opening_hours: "07:30-12:00,12:30-16:30"
+opening_hours: 07:30-12:00,12:30-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 220316127
-type: way
+type: node
 latitude: 47.5883
 longitude: 12.69382
 postcode: "5090"
 city: Lofer
 street: ""
-housenumber: 142
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
 website: ""

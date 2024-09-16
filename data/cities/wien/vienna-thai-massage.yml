@@ -4,8 +4,8 @@ latitude: 48.20171
 longitude: 16.3909
 postcode: "1030"
 city: Wien
-street: "Rochusgasse"
-housenumber: 2
+street: Rochusgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:30; PH,Sa,Su 12:00-20:00"
-website: "http://www.vienna-thaimassage.wien"
+opening_hours: Mo-Fr 10:00-21:30; PH,Sa,Su 12:00-20:00
+website: http://www.vienna-thaimassage.wien

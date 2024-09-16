@@ -1,11 +1,11 @@
 id: 295692929
-type: way
+type: node
 latitude: 48.37402
 longitude: 16.28751
 postcode: ""
 city: Spillern
-street: "Wiener Straße"
-housenumber: 214
+street: Wiener Straße
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

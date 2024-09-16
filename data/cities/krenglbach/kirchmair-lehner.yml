@@ -4,8 +4,8 @@ latitude: 48.204
 longitude: 13.95547
 postcode: "4631"
 city: Krenglbach
-street: "Krenglbacher Straße"
-housenumber: 8
-phone: "+43-7249-46007;+43-699-11980652"
-opening_hours: "Sa 08:00-11:30"
-website: "https://www.mukuh.at/"
+street: Krenglbacher Straße
+housenumber: "8"
+phone: +43-7249-46007;+43-699-11980652
+opening_hours: Sa 08:00-11:30
+website: https://www.mukuh.at/

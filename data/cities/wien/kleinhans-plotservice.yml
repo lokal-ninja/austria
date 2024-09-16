@@ -4,8 +4,8 @@ latitude: 48.1959
 longitude: 16.36176
 postcode: "1040"
 city: Wien
-street: "Heumühlgasse"
-housenumber: 9
+street: Heumühlgasse
+housenumber: "9"
 phone: "+4315879004"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://plotservice.at/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://plotservice.at/

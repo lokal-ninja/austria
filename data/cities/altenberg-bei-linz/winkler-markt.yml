@@ -1,11 +1,11 @@
 id: 159694338
-type: way
+type: node
 latitude: 48.37408
 longitude: 14.34965
 postcode: "4203"
 city: Altenberg bei Linz
-street: "Gallneukirchner Straße"
-housenumber: 1
+street: Gallneukirchner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 322717888
-type: way
+type: node
 latitude: 47.15174
 longitude: 14.41216
 postcode: "8811"
 city: Scheifling
-street: "Murauer Straße"
-housenumber: 1
+street: Murauer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

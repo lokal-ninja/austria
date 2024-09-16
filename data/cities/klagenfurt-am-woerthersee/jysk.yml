@@ -1,11 +1,11 @@
 id: 89147480
-type: way
+type: node
 latitude: 46.63078
 longitude: 14.35674
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Völkermarkter Straße"
-housenumber: 271
+street: Völkermarkter Straße
+housenumber: "271"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5132"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5132

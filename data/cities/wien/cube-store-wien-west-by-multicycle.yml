@@ -4,8 +4,8 @@ latitude: 48.20711
 longitude: 16.21905
 postcode: "1140"
 city: Wien
-street: "Albert-Schweitzer-Gasse"
-housenumber: 7
-phone: "+43 720 779900030"
-opening_hours: "tu-Fr 10:00-18:30; Sa 09:00-16:00; Su,Mo,PH off"
+street: Albert-Schweitzer-Gasse
+housenumber: "7"
+phone: +43 720 779900030
+opening_hours: tu-Fr 10:00-18:30; Sa 09:00-16:00; Su,Mo,PH off
 website: ""

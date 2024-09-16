@@ -1,11 +1,11 @@
 id: 143854241
-type: way
+type: node
 latitude: 46.69109
 longitude: 15.98855
 postcode: "8490"
 city: Bad Radkersburg
-street: "Stadtgrabenstraße"
-housenumber: 1
+street: Stadtgrabenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

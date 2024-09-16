@@ -1,11 +1,11 @@
 id: 390448334
-type: way
+type: node
 latitude: 48.20583
 longitude: 13.31529
 postcode: "4933"
 city: Aspach
-street: "Georgiplatz"
-housenumber: 14
+street: Georgiplatz
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 255507620
-type: way
+type: node
 latitude: 47.85582
 longitude: 13.10789
 postcode: "5300"
 city: Hallwang
-street: "Wiener Bundesstraße"
-housenumber: 85
+street: Wiener Bundesstraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
-website: "https://www.geze.at"
+website: https://www.geze.at

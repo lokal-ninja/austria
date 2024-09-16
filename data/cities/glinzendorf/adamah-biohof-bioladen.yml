@@ -4,8 +4,8 @@ latitude: 48.24663
 longitude: 16.64279
 postcode: "2280"
 city: Glinzendorf
-street: "Sonnenweg"
-housenumber: 11
-phone: "+43 2248 2224 21"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.adamah.at/"
+street: Sonnenweg
+housenumber: "11"
+phone: +43 2248 2224 21
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.adamah.at/

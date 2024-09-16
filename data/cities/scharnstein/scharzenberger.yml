@@ -1,11 +1,11 @@
 id: 473492057
-type: way
+type: node
 latitude: 47.90678
 longitude: 13.93186
 postcode: "4644"
 city: Scharnstein
-street: "In der Thann"
-housenumber: 7
+street: In der Thann
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

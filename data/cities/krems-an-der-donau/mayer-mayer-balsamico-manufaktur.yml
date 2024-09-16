@@ -1,11 +1,11 @@
 id: 276458700
-type: way
+type: node
 latitude: 48.41867
 longitude: 15.61727
 postcode: "3500"
 city: Krems an der Donau
-street: "Weinzierlbergstraße"
-housenumber: 9
-phone: "+43 664 8517 234"
-opening_hours: "Mo-Fr 09:00-12:00; PH off"
-website: "https://www.mayer-mayer.at/"
+street: Weinzierlbergstraße
+housenumber: "9"
+phone: +43 664 8517 234
+opening_hours: Mo-Fr 09:00-12:00; PH off
+website: https://www.mayer-mayer.at/

@@ -1,11 +1,11 @@
 id: 141974265
-type: way
+type: node
 latitude: 48.41226
 longitude: 15.77753
 postcode: "3484"
 city: Grafenwörth
-street: "Gewerbepark"
-housenumber: 3
-phone: "+43 59915 03713"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Gewerbepark
+housenumber: "3"
+phone: +43 59915 03713
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

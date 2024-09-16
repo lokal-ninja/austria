@@ -1,11 +1,11 @@
 id: 203375209
-type: way
+type: node
 latitude: 48.25096
 longitude: 14.62476
 postcode: "4320"
 city: Perg
-street: "Linzerstraße"
-housenumber: 58
+street: Linzerstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:00-18:00; Fr 08:00-12:00, 13:00-17:30; Sa 09:00-12:00"
-website: "https://www.toyotalinz.at/Standorte/Perg"
+opening_hours: Mo-Th 08:00-12:00, 13:00-18:00; Fr 08:00-12:00, 13:00-17:30; Sa 09:00-12:00
+website: https://www.toyotalinz.at/Standorte/Perg

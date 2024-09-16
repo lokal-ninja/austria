@@ -4,8 +4,8 @@ latitude: 48.29692
 longitude: 14.29046
 postcode: "4020"
 city: Linz
-street: "Rainerstraße"
-housenumber: 13
+street: Rainerstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "http://moschi.org"
+opening_hours: Mo-Fr 14:00-18:00
+website: http://moschi.org

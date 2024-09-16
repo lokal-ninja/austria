@@ -1,11 +1,11 @@
 id: 184255794
-type: way
+type: node
 latitude: 48.36121
 longitude: 14.0343
 postcode: "4101"
 city: Feldkirchen an der Donau
-street: "Aschacher Straße"
-housenumber: 125
+street: Aschacher Straße
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "https://www.moebelhaider.com/"
+opening_hours: Mo-Fr 09:00-12:00, 13:00-18:00; Sa 09:00-12:00
+website: https://www.moebelhaider.com/

@@ -4,8 +4,8 @@ latitude: 48.26276
 longitude: 16.45479
 postcode: "1220"
 city: Wien
-street: "Maculangasse"
-housenumber: 1
-phone: "+43 50 483 6940"
-opening_hours: "Mo - Fr 09:00 - 18:00"
-website: "https://www.beinkofer.at/fliesenschauraum-wien-1220.htm"
+street: Maculangasse
+housenumber: "1"
+phone: +43 50 483 6940
+opening_hours: Mo - Fr 09:00 - 18:00
+website: https://www.beinkofer.at/fliesenschauraum-wien-1220.htm

@@ -1,11 +1,11 @@
 id: 122822415
-type: way
+type: node
 latitude: 47.71729
 longitude: 16.18208
 postcode: "2823"
 city: Pitten
-street: "Untere Feldstraße"
-housenumber: 270
+street: Untere Feldstraße
+housenumber: "270"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165772712
-type: way
+type: node
 latitude: 48.06207
 longitude: 15.13922
 postcode: "3251"
 city: Purgstall an der Erlauf
-street: "Erlauftalstraße"
-housenumber: 34
-phone: "+43 7489 29044"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:30-15:00; Su 07:00-12:00"
-website: "https://fuerst-brot.at/"
+street: Erlauftalstraße
+housenumber: "34"
+phone: +43 7489 29044
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:30-15:00; Su 07:00-12:00
+website: https://fuerst-brot.at/

@@ -1,11 +1,11 @@
 id: 226311656
-type: way
+type: node
 latitude: 46.71321
 longitude: 15.78945
 postcode: "8480"
 city: Mureck
 street: ""
-housenumber: 50
-phone: "03472/2585"
+housenumber: "50"
+phone: 03472/2585
 opening_hours: ""
-website: "https://zweiradcenter-fuchs.at/"
+website: https://zweiradcenter-fuchs.at/

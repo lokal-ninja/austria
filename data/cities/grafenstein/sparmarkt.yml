@@ -1,11 +1,11 @@
 id: 567034130
-type: way
+type: node
 latitude: 46.62119
 longitude: 14.45065
 postcode: "9131"
 city: Grafenstein
-street: "10.-Oktober-Straße"
-housenumber: 5
+street: 10.-Oktober-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

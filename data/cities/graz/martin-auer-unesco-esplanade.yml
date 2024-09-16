@@ -4,8 +4,8 @@ latitude: 47.06307
 longitude: 15.41096
 postcode: "8020"
 city: Graz
-street: "UNESCO-Esplanade"
-housenumber: 12
-phone: "+43 316 80 40 146"
-opening_hours: "Mo-Fr 06:30-19:00; Sa-Su 07:00-18:00"
-website: "https://www.martinauer.at/"
+street: UNESCO-Esplanade
+housenumber: "12"
+phone: +43 316 80 40 146
+opening_hours: Mo-Fr 06:30-19:00; Sa-Su 07:00-18:00
+website: https://www.martinauer.at/

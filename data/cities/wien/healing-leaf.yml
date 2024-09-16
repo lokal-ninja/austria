@@ -4,8 +4,8 @@ latitude: 48.23753
 longitude: 16.38753
 postcode: "1200"
 city: Wien
-street: "Engerthstraße"
-housenumber: 108
+street: Engerthstraße
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-17:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-17:00
 website: ""

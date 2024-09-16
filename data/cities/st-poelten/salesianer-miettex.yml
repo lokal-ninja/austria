@@ -1,11 +1,11 @@
 id: 136917189
-type: way
+type: node
 latitude: 48.16008
 longitude: 15.61789
 postcode: "3100"
 city: St. Pölten
-street: "Zdarskystraße"
-housenumber: 12
+street: Zdarskystraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.salesianer.at/"
+website: https://www.salesianer.at/

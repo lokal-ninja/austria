@@ -4,8 +4,8 @@ latitude: 48.20159
 longitude: 16.38723
 postcode: "1030"
 city: Wien
-street: "Ungargasse"
-housenumber: 28
-phone: "+43 1 7124207"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-18:30"
-website: "http://www.putzerei-gottschalk.at/"
+street: Ungargasse
+housenumber: "28"
+phone: +43 1 7124207
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-18:30
+website: http://www.putzerei-gottschalk.at/

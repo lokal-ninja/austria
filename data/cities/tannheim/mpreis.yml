@@ -1,11 +1,11 @@
 id: 155795247
-type: way
+type: node
 latitude: 47.50074
 longitude: 10.51719
 postcode: "6675"
 city: Tannheim
-street: "Sennweg"
-housenumber: 32
+street: Sennweg
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.mpreis.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.mpreis.at/

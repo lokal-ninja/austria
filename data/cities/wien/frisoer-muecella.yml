@@ -4,8 +4,8 @@ latitude: 48.25229
 longitude: 16.3637
 postcode: "1190"
 city: Wien
-street: "Heiligenstädter Straße"
-housenumber: 141
-phone: "+43 1 370 32 33"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-14:00"
+street: Heiligenstädter Straße
+housenumber: "141"
+phone: +43 1 370 32 33
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:30-14:00
 website: ""

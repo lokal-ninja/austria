@@ -1,11 +1,11 @@
 id: 72577867
-type: way
+type: node
 latitude: 46.79911
 longitude: 15.75924
 postcode: "8093"
 city: Sankt Peter am Ottersbach
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

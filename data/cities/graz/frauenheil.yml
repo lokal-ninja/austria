@@ -4,8 +4,8 @@ latitude: 47.06951
 longitude: 15.43664
 postcode: "8010"
 city: Graz
-street: "Albrechtgasse"
-housenumber: 9
+street: Albrechtgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.frauenheil.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.frauenheil.at/

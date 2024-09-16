@@ -1,11 +1,11 @@
 id: 86412501
-type: way
+type: node
 latitude: 47.27765
 longitude: 11.44023
 postcode: "6020"
 city: Innsbruck
-street: "Haller Straße"
-housenumber: 233
+street: Haller Straße
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.22277
 longitude: 16.34158
 postcode: "1180"
 city: Wien
-street: "Martinstraße"
-housenumber: 53
+street: Martinstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

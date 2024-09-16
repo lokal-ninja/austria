@@ -4,8 +4,8 @@ latitude: 48.17456
 longitude: 16.41634
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 107
-phone: "+43 664 443 1004"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Simmeringer Hauptstraße
+housenumber: "107"
+phone: +43 664 443 1004
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

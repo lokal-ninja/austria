@@ -1,11 +1,11 @@
 id: 314325255
-type: way
+type: node
 latitude: 47.43941
 longitude: 11.87753
 postcode: "6233"
 city: Kramsach
 street: ""
-housenumber: 148
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

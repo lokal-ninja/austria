@@ -1,11 +1,11 @@
 id: 529723847
-type: way
+type: node
 latitude: 48.4137
 longitude: 13.56679
 postcode: "4776"
 city: Diersbach
 street: ""
-housenumber: 14
-phone: "+43 7719 86 888"
+housenumber: "14"
+phone: +43 7719 86 888
 opening_hours: ""
-website: "https://www.gsund-und-schoen.at/"
+website: https://www.gsund-und-schoen.at/

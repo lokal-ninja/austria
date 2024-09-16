@@ -5,7 +5,7 @@ longitude: 16.24147
 postcode: "2063"
 city: Zwingendorf
 street: ""
-housenumber: 39
-phone: "+43 2527 324"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.garten-haas.at/"
+housenumber: "39"
+phone: +43 2527 324
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su,PH off
+website: https://www.garten-haas.at/

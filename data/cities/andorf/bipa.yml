@@ -1,11 +1,11 @@
 id: 271413824
-type: way
+type: node
 latitude: 48.36583
 longitude: 13.56777
 postcode: "4770"
 city: Andorf
-street: "Wilhelm-Redl-Straße"
-housenumber: 2
+street: Wilhelm-Redl-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

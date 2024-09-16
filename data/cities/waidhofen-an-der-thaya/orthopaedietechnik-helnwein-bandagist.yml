@@ -1,11 +1,11 @@
 id: 1145934413
-type: way
+type: node
 latitude: 48.80817
 longitude: 15.30324
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Franz Steurer-Straße"
-housenumber: 3
-phone: "+43 2842 525 71"
+street: Franz Steurer-Straße
+housenumber: "3"
+phone: +43 2842 525 71
 opening_hours: ""
-website: "https://www.helnwein.at/"
+website: https://www.helnwein.at/

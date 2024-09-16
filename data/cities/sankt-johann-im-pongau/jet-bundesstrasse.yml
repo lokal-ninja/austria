@@ -1,11 +1,11 @@
 id: 363730792
-type: way
+type: node
 latitude: 47.34345
 longitude: 13.1915
 postcode: "5600"
 city: Sankt Johann im Pongau
-street: "Bundesstraße"
-housenumber: 13
+street: Bundesstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

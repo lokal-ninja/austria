@@ -4,8 +4,8 @@ latitude: 48.2023
 longitude: 16.38985
 postcode: "1030"
 city: Wien
-street: "Sechskrügelgasse"
-housenumber: 2
+street: Sechskrügelgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 11:00-15:00"
+opening_hours: Tu-Fr 12:00-19:00; Sa 11:00-15:00
 website: ""

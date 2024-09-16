@@ -1,11 +1,11 @@
 id: 402386651
-type: way
+type: node
 latitude: 47.16692
 longitude: 9.7921
 postcode: "6714"
 city: Nüziders
-street: "Sägebachstraße"
-housenumber: 20
+street: Sägebachstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

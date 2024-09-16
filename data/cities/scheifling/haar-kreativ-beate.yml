@@ -4,8 +4,8 @@ latitude: 47.15007
 longitude: 14.41326
 postcode: "8811"
 city: Scheifling
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 07:45-18:00; Sa 07:00-12:00"
-website: "https://www.haarkreativ-beate.at"
+opening_hours: Tu-Fr 07:45-18:00; Sa 07:00-12:00
+website: https://www.haarkreativ-beate.at

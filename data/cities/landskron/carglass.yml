@@ -1,11 +1,11 @@
 id: 486243719
-type: way
+type: node
 latitude: 46.62717
 longitude: 13.88068
 postcode: "9523"
 city: Landskron
-street: "Triester Straße"
-housenumber: 50
+street: Triester Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

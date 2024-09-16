@@ -4,8 +4,8 @@ latitude: 46.95337
 longitude: 15.88898
 postcode: "8330"
 city: Feldbach
-street: "Hauptplatz"
-housenumber: 6
-phone: "+43 664 9655500"
-opening_hours: "Mo-Sa 09:00-13:00, 13:30-18:00"
-website: "https://www.roma.at/"
+street: Hauptplatz
+housenumber: "6"
+phone: +43 664 9655500
+opening_hours: Mo-Sa 09:00-13:00, 13:30-18:00
+website: https://www.roma.at/

@@ -1,11 +1,11 @@
 id: 47054113
-type: way
+type: node
 latitude: 48.19331
 longitude: 16.27729
 postcode: "1140"
 city: Wien
-street: "Kefergasse"
-housenumber: 3
-phone: "050-123-2903"
+street: Kefergasse
+housenumber: "3"
+phone: 050-123-2903
 opening_hours: ""
 website: ""

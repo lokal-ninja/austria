@@ -1,11 +1,11 @@
 id: 422661295
-type: way
+type: node
 latitude: 48.23344
 longitude: 15.92114
 postcode: "3041"
 city: Asperhofen
-street: "Am Platz"
-housenumber: 1
+street: Am Platz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

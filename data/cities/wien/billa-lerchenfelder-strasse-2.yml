@@ -4,8 +4,8 @@ latitude: 48.2065
 longitude: 16.34953
 postcode: "1080"
 city: Wien
-street: "Lerchenfelder Straße"
-housenumber: 40
+street: Lerchenfelder Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:30-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:30-18:00; Su off; PH off
+website: https://www.billa.at/

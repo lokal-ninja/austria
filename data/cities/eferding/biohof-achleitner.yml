@@ -1,11 +1,11 @@
 id: 127725358
-type: way
+type: node
 latitude: 48.29608
 longitude: 14.01115
 postcode: "4070"
 city: Eferding
-street: "Unterm Regenbogen"
-housenumber: 1
+street: Unterm Regenbogen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

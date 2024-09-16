@@ -4,8 +4,8 @@ latitude: 48.20859
 longitude: 15.62491
 postcode: "3100"
 city: St. Pölten
-street: "Bahnhofplatz"
-housenumber: 1
-phone: "+43 2742 37719"
-opening_hours: "Mo-Fr 05:30-19:00; Sa 07:00-14:00; Su 07:00-19:00"
+street: Bahnhofplatz
+housenumber: "1"
+phone: +43 2742 37719
+opening_hours: Mo-Fr 05:30-19:00; Sa 07:00-14:00; Su 07:00-19:00
 website: ""

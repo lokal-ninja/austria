@@ -4,8 +4,8 @@ latitude: 47.06983
 longitude: 15.40842
 postcode: "8020"
 city: Graz
-street: "Eggenberger Allee"
-housenumber: 3
+street: Eggenberger Allee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

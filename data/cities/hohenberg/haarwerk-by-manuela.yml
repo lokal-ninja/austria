@@ -4,8 +4,9 @@ latitude: 47.91118
 longitude: 15.61854
 postcode: "3192"
 city: Hohenberg
-street: "Alte Hauptstraße"
-housenumber: 4
-phone: "+43 2767 8302"
-opening_hours: "Tu 08:00-12:00,14:00-18:00, We 08:00-12:00, Th-Fr 08:00-12:00,14:00-18:00, Sa 08:00-12:00"
-website: "https://www.haarwerk-hohenberg.at"
+street: Alte Hauptstraße
+housenumber: "4"
+phone: +43 2767 8302
+opening_hours: Tu 08:00-12:00,14:00-18:00, We 08:00-12:00, Th-Fr 08:00-12:00,14:00-18:00,
+    Sa 08:00-12:00
+website: https://www.haarwerk-hohenberg.at

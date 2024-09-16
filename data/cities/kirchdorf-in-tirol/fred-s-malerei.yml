@@ -1,11 +1,11 @@
 id: 183436329
-type: way
+type: node
 latitude: 47.56762
 longitude: 12.46828
 postcode: "6383"
 city: Kirchdorf in Tirol
-street: "Fabrik"
-housenumber: 4
-phone: "+43-5352-8333"
+street: Fabrik
+housenumber: "4"
+phone: +43-5352-8333
 opening_hours: ""
-website: "https://www.freds-malerei.at/"
+website: https://www.freds-malerei.at/

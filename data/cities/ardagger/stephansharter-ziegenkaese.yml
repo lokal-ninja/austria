@@ -5,7 +5,7 @@ longitude: 14.80761
 postcode: "3321"
 city: Ardagger
 street: ""
-housenumber: 61
+housenumber: "61"
 phone: ""
-opening_hours: "Mo, We, Th 08:00-14:00; Sa 08:00-12:00"
-website: "https://ab-hof-kalender.at/project/stephansharter-ziegenkaese/"
+opening_hours: Mo, We, Th 08:00-14:00; Sa 08:00-12:00
+website: https://ab-hof-kalender.at/project/stephansharter-ziegenkaese/

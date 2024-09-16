@@ -1,11 +1,11 @@
 id: 24557720
-type: way
+type: node
 latitude: 47.82861
 longitude: 16.53208
 postcode: "7000"
 city: Eisenstadt
-street: "Handelsstraße"
-housenumber: 4
+street: Handelsstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://weintritt.at/"
+website: https://weintritt.at/

@@ -4,8 +4,8 @@ latitude: 47.92887
 longitude: 16.21639
 postcode: "2544"
 city: Leobersdorf
-street: "Hauptstraße"
-housenumber: 12
-phone: "+43 59913 03848"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bipa.at"
+street: Hauptstraße
+housenumber: "12"
+phone: +43 59913 03848
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bipa.at

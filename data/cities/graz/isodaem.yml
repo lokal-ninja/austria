@@ -1,11 +1,11 @@
 id: 206508016
-type: way
+type: node
 latitude: 47.04289
 longitude: 15.41751
 postcode: "8053"
 city: Graz
-street: "Ulmgasse"
-housenumber: 31
-phone: "+43 664 407 60 02"
+street: Ulmgasse
+housenumber: "31"
+phone: +43 664 407 60 02
 opening_hours: ""
-website: "https://www.isodaem.at/standorte/graz"
+website: https://www.isodaem.at/standorte/graz

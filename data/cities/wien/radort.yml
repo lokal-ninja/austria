@@ -4,8 +4,8 @@ latitude: 48.21726
 longitude: 16.37924
 postcode: "1020"
 city: Wien
-street: "Tandelmarktgasse"
-housenumber: 9
+street: Tandelmarktgasse
+housenumber: "9"
 phone: "+4318906437"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "http://radort.at"
+opening_hours: Mo-Fr 09:00-17:00
+website: http://radort.at

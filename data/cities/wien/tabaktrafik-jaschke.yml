@@ -4,8 +4,8 @@ latitude: 48.20794
 longitude: 16.38765
 postcode: "1030"
 city: Wien
-street: "Untere Viaduktgasse"
-housenumber: 4
-phone: "+43 1 713 04 91"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-14:00"
+street: Untere Viaduktgasse
+housenumber: "4"
+phone: +43 1 713 04 91
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-14:00
 website: ""

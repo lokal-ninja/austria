@@ -4,8 +4,8 @@ latitude: 46.96455
 longitude: 11.00787
 postcode: "6450"
 city: Sölden
-street: "Dorfstraße"
-housenumber: 67
+street: Dorfstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:30-18:30; Su 07:30-18:00"
-website: "https://www.spar.at/standorte/spar-soelden-6450-dorfstrasse-67"
+opening_hours: Mo-Sa 07:30-18:30; Su 07:30-18:00
+website: https://www.spar.at/standorte/spar-soelden-6450-dorfstrasse-67

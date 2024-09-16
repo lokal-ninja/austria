@@ -1,11 +1,11 @@
 id: 489293326
-type: way
+type: node
 latitude: 47.71826
 longitude: 16.94323
 postcode: "7151"
 city: Wallern im Burgenland
-street: "Huldenweg"
-housenumber: 11
+street: Huldenweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://www.perlinger-gemuese.at/"
+website: http://www.perlinger-gemuese.at/

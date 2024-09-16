@@ -1,11 +1,11 @@
 id: 169143056
-type: way
+type: node
 latitude: 47.45745
 longitude: 9.64947
 postcode: "6973"
 city: Höchst
-street: "Brugger Straße"
-housenumber: 24
+street: Brugger Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

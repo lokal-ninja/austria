@@ -1,11 +1,11 @@
 id: 186121255
-type: way
+type: node
 latitude: 48.13859
 longitude: 14.57921
 postcode: "3350"
 city: Haag
 street: ""
-housenumber: 41
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

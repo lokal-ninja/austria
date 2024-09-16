@@ -4,8 +4,8 @@ latitude: 47.26123
 longitude: 11.39749
 postcode: "6020"
 city: Innsbruck
-street: "Heiliggeiststraße"
-housenumber: 10
-phone: "+43 512 5844930"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-12:00"
-website: "https://www.gottardi.at"
+street: Heiliggeiststraße
+housenumber: "10"
+phone: +43 512 5844930
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-12:00
+website: https://www.gottardi.at

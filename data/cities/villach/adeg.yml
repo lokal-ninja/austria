@@ -1,11 +1,11 @@
 id: 127417041
-type: way
+type: node
 latitude: 46.58888
 longitude: 13.91995
 postcode: "9580"
 city: Villach
-street: "Seeblickstraße"
-housenumber: 95
+street: Seeblickstraße
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.18252
 longitude: 16.35836
 postcode: "1050"
 city: Vienna
-street: "Stauraczgasse"
-housenumber: 6
-phone: "+43 1 544 12 46"
-opening_hours: "Mo-Do 10:00-18:00"
-website: "https://www.akkordeonhaus.at/"
+street: Stauraczgasse
+housenumber: "6"
+phone: +43 1 544 12 46
+opening_hours: Mo-Do 10:00-18:00
+website: https://www.akkordeonhaus.at/

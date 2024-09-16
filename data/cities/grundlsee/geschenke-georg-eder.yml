@@ -5,7 +5,7 @@ longitude: 13.8295
 postcode: "8993"
 city: Grundlsee
 street: ""
-housenumber: 21
-phone: "+43 3622 8318"
-opening_hours: "Tu-Fr 10:00-24:00,15:00-18:00; Sa 10:00-12:00"
-website: "http://waidsack.at"
+housenumber: "21"
+phone: +43 3622 8318
+opening_hours: Tu-Fr 10:00-24:00,15:00-18:00; Sa 10:00-12:00
+website: http://waidsack.at

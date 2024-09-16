@@ -1,11 +1,11 @@
 id: 93940386
-type: way
+type: node
 latitude: 46.64667
 longitude: 14.31422
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "St. Veiter Straße"
-housenumber: 151
+street: St. Veiter Straße
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

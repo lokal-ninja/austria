@@ -4,8 +4,8 @@ latitude: 47.80528
 longitude: 13.04411
 postcode: "5020"
 city: Salzburg
-street: "Schrannengasse"
-housenumber: 2
-phone: "+43 662 87 36 68"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.asiamarkt-salzburg.com"
+street: Schrannengasse
+housenumber: "2"
+phone: +43 662 87 36 68
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.asiamarkt-salzburg.com

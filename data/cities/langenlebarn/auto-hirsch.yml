@@ -1,11 +1,11 @@
 id: 45746332
-type: way
+type: node
 latitude: 48.33302
 longitude: 16.13154
 postcode: "3425"
 city: Langenlebarn
-street: "Schiffmühlstraße"
-housenumber: 7
-phone: "+43 2272 61700"
+street: Schiffmühlstraße
+housenumber: "7"
+phone: +43 2272 61700
 opening_hours: ""
 website: ""

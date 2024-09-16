@@ -4,8 +4,8 @@ latitude: 48.17493
 longitude: 16.37814
 postcode: "1100"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 115
+street: Favoritenstraße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-12:00"
-website: "https://www.felberbrot.at/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-12:00
+website: https://www.felberbrot.at/

@@ -1,11 +1,11 @@
 id: 165508128
-type: way
+type: node
 latitude: 47.39791
 longitude: 10.88568
 postcode: "6631"
 city: Lermoos
-street: "Oberdorf"
-housenumber: 9
+street: Oberdorf
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

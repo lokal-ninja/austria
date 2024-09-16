@@ -4,8 +4,8 @@ latitude: 47.06663
 longitude: 15.44344
 postcode: "8010"
 city: Graz
-street: "Klosterwiesgasse"
-housenumber: 3
-phone: "+43 664 75 00 6299"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 11:00-19:00"
+street: Klosterwiesgasse
+housenumber: "3"
+phone: +43 664 75 00 6299
+opening_hours: Mo-Fr 10:00-20:00, Sa 11:00-19:00
 website: ""

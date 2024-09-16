@@ -1,11 +1,11 @@
 id: 133825082
-type: way
+type: node
 latitude: 46.72183
 longitude: 15.94728
 postcode: "8492"
 city: Halbenrain
 street: ""
-housenumber: 15
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 14:30-18:00; Mo-Sa 07:00-12:15"
+opening_hours: Mo-Fr 14:30-18:00; Mo-Sa 07:00-12:15
 website: ""

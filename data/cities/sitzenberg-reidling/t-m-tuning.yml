@@ -1,11 +1,11 @@
 id: 684965198
-type: way
+type: node
 latitude: 48.33334
 longitude: 15.82384
 postcode: "3454"
 city: Sitzenberg-Reidling
-street: "Fassbinderstraße"
-housenumber: 1
+street: Fassbinderstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.tm-tuning.at/"
+website: http://www.tm-tuning.at/

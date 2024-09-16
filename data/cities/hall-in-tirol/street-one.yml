@@ -4,8 +4,9 @@ latitude: 47.28135
 longitude: 11.50737
 postcode: "6060"
 city: Hall in Tirol
-street: "Langer Graben"
-housenumber: 8
+street: Langer Graben
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:30,14:00-18:00; Sa 09:00-16:00; Fr 09:00-18:00; Su,PH off"
-website: "https://www.street-one.at/shopfinder/Hall/Kapferer-Textil-GmbH/"
+opening_hours: Mo-Th 09:00-12:30,14:00-18:00; Sa 09:00-16:00; Fr 09:00-18:00; Su,PH
+    off
+website: https://www.street-one.at/shopfinder/Hall/Kapferer-Textil-GmbH/

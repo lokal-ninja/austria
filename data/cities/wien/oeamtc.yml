@@ -1,11 +1,11 @@
 id: 28053380
-type: way
+type: node
 latitude: 48.1642
 longitude: 16.37497
 postcode: "1100"
 city: Wien
-street: "Grenzackerstraße"
-housenumber: 16
+street: Grenzackerstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

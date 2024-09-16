@@ -1,11 +1,11 @@
 id: 586100020
-type: way
+type: node
 latitude: 48.20649
 longitude: 16.38429
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
+street: Landstraßer Hauptstraße
 housenumber: 1B
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.biotechusa.at/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.biotechusa.at/

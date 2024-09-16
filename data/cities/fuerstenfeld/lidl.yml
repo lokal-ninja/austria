@@ -1,11 +1,11 @@
 id: 195007944
-type: way
+type: node
 latitude: 47.05679
 longitude: 16.07168
 postcode: "8280"
 city: Fürstenfeld
-street: "Ledergasse"
-housenumber: 17
+street: Ledergasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

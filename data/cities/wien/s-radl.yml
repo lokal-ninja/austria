@@ -4,8 +4,8 @@ latitude: 48.25225
 longitude: 16.31983
 postcode: "1190"
 city: Wien
-street: "Sieveringer Straße"
-housenumber: 140
+street: Sieveringer Straße
+housenumber: "140"
 phone: "+436764402520"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00; Sa 09:00-12:00; PH off"
-website: "https://www.sradl.at"
+opening_hours: Mo-Fr 09:00-12:00,13:00-16:00; Sa 09:00-12:00; PH off
+website: https://www.sradl.at

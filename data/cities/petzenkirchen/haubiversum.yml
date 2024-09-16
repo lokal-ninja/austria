@@ -1,11 +1,11 @@
 id: 423265651
-type: way
+type: node
 latitude: 48.14497
 longitude: 15.15037
 postcode: "3252"
 city: Petzenkirchen
-street: "Kaiserstraße"
-housenumber: 8
+street: Kaiserstraße
+housenumber: "8"
 phone: ""
-opening_hours: "07:00-18:30"
-website: "https://www.haubiversum.at/"
+opening_hours: 07:00-18:30
+website: https://www.haubiversum.at/

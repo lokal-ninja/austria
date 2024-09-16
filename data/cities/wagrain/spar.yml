@@ -1,11 +1,11 @@
 id: 125762805
-type: way
+type: node
 latitude: 47.33299
 longitude: 13.30009
 postcode: "5602"
 city: Wagrain
-street: "Kirchboden"
-housenumber: 6
+street: Kirchboden
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

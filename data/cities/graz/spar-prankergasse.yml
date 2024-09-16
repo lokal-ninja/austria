@@ -1,11 +1,11 @@
 id: 108608540
-type: way
+type: node
 latitude: 47.06862
 longitude: 15.42255
 postcode: "8020"
 city: Graz
-street: "Prankergasse"
-housenumber: 28
+street: Prankergasse
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

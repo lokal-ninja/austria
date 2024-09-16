@@ -4,8 +4,8 @@ latitude: 48.23004
 longitude: 16.34946
 postcode: "1180"
 city: Wien
-street: "Anastasius-Grün-Gasse"
-housenumber: 4
+street: Anastasius-Grün-Gasse
+housenumber: "4"
 phone: "+43677618343"
-opening_hours: "24/7"
-website: "https://www.yourstorebox.com/storebox-dach"
+opening_hours: 24/7
+website: https://www.yourstorebox.com/storebox-dach

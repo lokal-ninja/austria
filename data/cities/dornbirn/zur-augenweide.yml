@@ -1,11 +1,11 @@
 id: 243682709
-type: way
+type: node
 latitude: 47.40112
 longitude: 9.73291
 postcode: "6850"
 city: Dornbirn
-street: "Bäumlegasse"
-housenumber: 47
+street: Bäumlegasse
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.zur-augenweide.at/"
+website: https://www.zur-augenweide.at/

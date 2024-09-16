@@ -1,11 +1,11 @@
 id: 324152668
-type: way
+type: node
 latitude: 47.65668
 longitude: 13.60995
 postcode: "4822"
 city: Bad Goisern am Hallstättersee
-street: "Bundesstraße"
-housenumber: 47
+street: Bundesstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

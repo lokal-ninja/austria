@@ -1,11 +1,11 @@
 id: 152195748
-type: way
+type: node
 latitude: 47.99802
 longitude: 16.29966
 postcode: "2514"
 city: Traiskirchen
-street: "Wiener Neustädter Straße"
-housenumber: 130
+street: Wiener Neustädter Straße
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

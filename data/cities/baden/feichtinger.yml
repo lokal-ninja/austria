@@ -4,8 +4,8 @@ latitude: 48.00739
 longitude: 16.23267
 postcode: "2500"
 city: Baden
-street: "Rathausgasse"
-housenumber: 9
+street: Rathausgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.feichtinger-shop.com"
+opening_hours: Tu-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.feichtinger-shop.com

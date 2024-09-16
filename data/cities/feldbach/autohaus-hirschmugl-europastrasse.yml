@@ -1,11 +1,11 @@
 id: 358320394
-type: way
+type: node
 latitude: 46.95365
 longitude: 15.90796
 postcode: "8330"
 city: Feldbach
-street: "Europastraße"
-housenumber: 19
+street: Europastraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; PH closed"
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; PH closed
 website: ""

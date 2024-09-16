@@ -1,11 +1,11 @@
 id: 291441531
-type: way
+type: node
 latitude: 47.15732
 longitude: 9.82155
 postcode: "6700"
 city: Bludenz
-street: "Untersteinstraße"
-housenumber: 11
+street: Untersteinstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:00
 website: ""

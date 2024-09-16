@@ -4,8 +4,8 @@ latitude: 48.20191
 longitude: 16.3445
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 26
+street: Westbahnstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00
 website: ""

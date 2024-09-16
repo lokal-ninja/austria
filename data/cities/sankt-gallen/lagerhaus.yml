@@ -1,11 +1,11 @@
 id: 467610149
-type: way
+type: node
 latitude: 47.69092
 longitude: 14.61725
 postcode: "8933"
 city: Sankt Gallen
 street: ""
-housenumber: 52
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

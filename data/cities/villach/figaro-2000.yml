@@ -4,8 +4,8 @@ latitude: 46.61179
 longitude: 13.83934
 postcode: "9500"
 city: Villach
-street: "Völkendorfer Straße"
-housenumber: 6
-phone: "+43 4242 55050"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00"
+street: Völkendorfer Straße
+housenumber: "6"
+phone: +43 4242 55050
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00
 website: ""

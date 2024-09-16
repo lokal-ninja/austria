@@ -1,11 +1,11 @@
 id: 399695108
-type: way
+type: node
 latitude: 48.21059
 longitude: 14.08801
 postcode: "4615"
 city: Holzhausen
-street: "Gewerbepark Straße"
-housenumber: 5
-phone: "+43-7243-52001"
+street: Gewerbepark Straße
+housenumber: "5"
+phone: +43-7243-52001
 opening_hours: ""
-website: "https://www.planb-tech.at/"
+website: https://www.planb-tech.at/

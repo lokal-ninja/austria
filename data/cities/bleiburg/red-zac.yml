@@ -1,11 +1,11 @@
 id: 576856225
-type: way
+type: node
 latitude: 46.59238
 longitude: 14.79463
 postcode: "9150"
 city: Bleiburg
-street: "Völkermarkter Straße"
-housenumber: 6
+street: Völkermarkter Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 101593325
-type: way
+type: node
 latitude: 48.43374
 longitude: 14.04323
 postcode: "4113"
 city: St. Martin im Mühlkreis
 street: ""
-housenumber: 13
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

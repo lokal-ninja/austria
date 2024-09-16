@@ -1,11 +1,11 @@
 id: 156528611
-type: way
+type: node
 latitude: 46.802
 longitude: 13.57486
 postcode: "9872"
 city: Millstatt am See
-street: "Kaiser-Franz-Josef-Straße"
-housenumber: 240
+street: Kaiser-Franz-Josef-Straße
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.2151
 longitude: 16.36269
 postcode: "1090"
 city: Wien
-street: "Maria-Theresien-Straße"
-housenumber: 5
-phone: "+43 1 3993313"
-opening_hours: "Mo-Fr 08:00-19:00; Sa, Su, PH 10:00-15:00"
-website: "https://www.superfooddeli.at/"
+street: Maria-Theresien-Straße
+housenumber: "5"
+phone: +43 1 3993313
+opening_hours: Mo-Fr 08:00-19:00; Sa, Su, PH 10:00-15:00
+website: https://www.superfooddeli.at/

@@ -1,11 +1,11 @@
 id: 431709540
-type: way
+type: node
 latitude: 48.62832
 longitude: 16.1872
 postcode: "2023"
 city: Nappersdorf-Kammersdorf
 street: ""
-housenumber: 103
-phone: "+43 2953 2225"
-opening_hours: "Mo-Fr 06:30-18:30 Sa 06:30-15:00"
+housenumber: "103"
+phone: +43 2953 2225
+opening_hours: Mo-Fr 06:30-18:30 Sa 06:30-15:00
 website: ""

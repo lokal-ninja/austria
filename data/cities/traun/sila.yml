@@ -1,11 +1,11 @@
 id: 228350493
-type: way
+type: node
 latitude: 48.22165
 longitude: 14.24329
 postcode: "4050"
 city: Traun
-street: "Bahnhofstraße"
-housenumber: 29
+street: Bahnhofstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

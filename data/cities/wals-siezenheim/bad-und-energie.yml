@@ -4,8 +4,8 @@ latitude: 47.78605
 longitude: 12.9774
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Bundesstraße"
-housenumber: 35
+street: Bundesstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 13:00-17:30; Sa off"
-website: "https://www.badundenergie.at"
+opening_hours: Mo-Fr 08:30-12:00, 13:00-17:30; Sa off
+website: https://www.badundenergie.at

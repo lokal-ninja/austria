@@ -4,8 +4,8 @@ latitude: 48.2181
 longitude: 16.47281
 postcode: "1220"
 city: Wien
-street: "Langobardenstraße"
-housenumber: 126
+street: Langobardenstraße
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Th 06:00-12:00, 14:30-18:00; Sa 06:00-12:00; Su 06:00-16:00"
-website: "http://www.adel-brot.at/"
+opening_hours: Mo-Th 06:00-12:00, 14:30-18:00; Sa 06:00-12:00; Su 06:00-16:00
+website: http://www.adel-brot.at/

@@ -4,8 +4,8 @@ latitude: 48.18862
 longitude: 16.35156
 postcode: "1050"
 city: Wien
-street: "Reinprechtsdorfer Straße"
-housenumber: 59
-phone: "+43 1 204 39 99 83 098"
-opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 07:00-19:00"
+street: Reinprechtsdorfer Straße
+housenumber: "59"
+phone: +43 1 204 39 99 83 098
+opening_hours: Mo-Fr 06:00-19:00; Sa,Su 07:00-19:00
 website: ""

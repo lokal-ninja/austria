@@ -1,11 +1,11 @@
 id: 180427357
-type: way
+type: node
 latitude: 46.94114
 longitude: 15.33472
 postcode: "8502"
 city: Lannach
-street: "Schwarzwiesenstraße"
-housenumber: 15
+street: Schwarzwiesenstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

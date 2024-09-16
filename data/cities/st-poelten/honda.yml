@@ -1,11 +1,11 @@
 id: 183274525
-type: way
+type: node
 latitude: 48.21834
 longitude: 15.62651
 postcode: "3100"
 city: St. Pölten
-street: "Kremser Landstraße"
-housenumber: 67
+street: Kremser Landstraße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

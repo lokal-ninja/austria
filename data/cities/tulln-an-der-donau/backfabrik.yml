@@ -1,11 +1,11 @@
 id: 168298389
-type: way
+type: node
 latitude: 48.32951
 longitude: 16.05395
 postcode: "3430"
 city: Tulln an der Donau
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

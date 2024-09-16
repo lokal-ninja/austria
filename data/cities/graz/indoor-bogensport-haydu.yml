@@ -4,8 +4,9 @@ latitude: 47.05501
 longitude: 15.43324
 postcode: "8020"
 city: Graz
-street: "Großmarktstraße"
+street: Großmarktstraße
 housenumber: 8a
 phone: ""
-opening_hours: "Th 17:00-20:00; Fr 09:30-12:00; Fr 16:00-18:00 || by appointment; PH off"
+opening_hours: Th 17:00-20:00; Fr 09:30-12:00; Fr 16:00-18:00 || "by appointment";
+    PH off
 website: ""

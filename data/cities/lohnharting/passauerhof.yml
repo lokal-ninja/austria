@@ -4,8 +4,8 @@ latitude: 48.28072
 longitude: 14.19122
 postcode: "4073"
 city: Lohnharting
-street: "Lohnharting"
-housenumber: 4
+street: Lohnharting
+housenumber: "4"
 phone: "0722188877"
-opening_hours: "Tu 08:00-12:30,13:30-19:00; Th-Sa 08:00-12:30,13:30-19:00"
-website: "https://passauerhof-hofladen.at/"
+opening_hours: Tu 08:00-12:30,13:30-19:00; Th-Sa 08:00-12:30,13:30-19:00
+website: https://passauerhof-hofladen.at/

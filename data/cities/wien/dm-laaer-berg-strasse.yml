@@ -4,8 +4,8 @@ latitude: 48.16604
 longitude: 16.39111
 postcode: "1100"
 city: Wien
-street: "Laaer-Berg-Straße"
-housenumber: 49
+street: Laaer-Berg-Straße
+housenumber: "49"
 phone: "+4316005579"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

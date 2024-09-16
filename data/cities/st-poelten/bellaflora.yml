@@ -1,11 +1,11 @@
 id: 119773155
-type: way
+type: node
 latitude: 48.16721
 longitude: 15.61423
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 232
+street: Mariazeller Straße
+housenumber: "232"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.bellaflora.at/unternehmen/standorte/filiale/st-poelten/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.bellaflora.at/unternehmen/standorte/filiale/st-poelten/

@@ -1,11 +1,11 @@
 id: 23037095
-type: way
+type: node
 latitude: 48.34472
 longitude: 16.46711
 postcode: "2201"
 city: Gerasdorf bei Wien
-street: "Wilhelm Hornbach Straße"
-housenumber: 4
+street: Wilhelm Hornbach Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

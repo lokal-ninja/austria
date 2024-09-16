@@ -1,11 +1,11 @@
 id: 1164139676
-type: way
+type: node
 latitude: 48.22888
 longitude: 15.6791
 postcode: "3100"
 city: Sankt Pölten
-street: "Mostviertelstraße"
-housenumber: 5
-phone: "+43 720 779900020"
-opening_hours: "Tu-Fr 10:00-19:00; Feb 01-Oct 31: Sa 10:00-16:00; Su,Mo,PH off"
+street: Mostviertelstraße
+housenumber: "5"
+phone: +43 720 779900020
+opening_hours: 'Tu-Fr 10:00-19:00; Feb 01-Oct 31: Sa 10:00-16:00; Su,Mo,PH off'
 website: ""

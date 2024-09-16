@@ -4,8 +4,8 @@ latitude: 48.21486
 longitude: 16.35048
 postcode: "1080"
 city: Wien
-street: "Alser Straße"
-housenumber: 23
-phone: "+43 1 4063781"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Alser Straße
+housenumber: "23"
+phone: +43 1 4063781
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

@@ -1,11 +1,11 @@
 id: 369565891
-type: way
+type: node
 latitude: 46.62578
 longitude: 14.33922
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Völkermarkter Straße"
-housenumber: 145
+street: Völkermarkter Straße
+housenumber: "145"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota-kinzel.at/"
+website: https://www.toyota-kinzel.at/

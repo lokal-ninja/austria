@@ -1,11 +1,11 @@
 id: 344327786
-type: way
+type: node
 latitude: 47.91266
 longitude: 16.7001
 postcode: "7083"
 city: Purbach am Neusiedler See
-street: "Angergasse"
-housenumber: 13
+street: Angergasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.weingut-gmeiner.at/"
+website: https://www.weingut-gmeiner.at/

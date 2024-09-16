@@ -4,8 +4,8 @@ latitude: 47.77399
 longitude: 15.31804
 postcode: "8630"
 city: Mariazell
-street: "Wiener Straße"
-housenumber: 4
+street: Wiener Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

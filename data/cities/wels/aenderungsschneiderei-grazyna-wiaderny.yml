@@ -1,11 +1,11 @@
 id: 93262654
-type: way
+type: node
 latitude: 48.17213
 longitude: 14.01894
 postcode: "4600"
 city: Wels
-street: "Wallerer Straße"
-housenumber: 53
+street: Wallerer Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 14:00-17:00"
+opening_hours: Mo-Fr 14:00-17:00
 website: ""

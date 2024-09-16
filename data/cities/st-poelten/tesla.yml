@@ -1,11 +1,11 @@
 id: 1241754375
-type: way
+type: node
 latitude: 48.15673
 longitude: 15.61364
 postcode: "3100"
 city: St. Pölten
-street: "Teslastraße"
-housenumber: 5
+street: Teslastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

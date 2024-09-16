@@ -4,8 +4,8 @@ latitude: 48.41014
 longitude: 15.59742
 postcode: "3500"
 city: Krems an der Donau
-street: "Obere Landstraße"
-housenumber: 25
-phone: "+43 2732 77 123"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://www.marionnaud.at/filiale/krems-obere-landstrasse"
+street: Obere Landstraße
+housenumber: "25"
+phone: +43 2732 77 123
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://www.marionnaud.at/filiale/krems-obere-landstrasse

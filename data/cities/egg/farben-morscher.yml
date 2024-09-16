@@ -5,7 +5,7 @@ longitude: 9.89468
 postcode: "6863"
 city: Egg
 street: ""
-housenumber: 1039
+housenumber: "1039"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.farbenmorscher.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.farbenmorscher.at/

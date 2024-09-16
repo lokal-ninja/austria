@@ -1,11 +1,11 @@
 id: 178582494
-type: way
+type: node
 latitude: 48.11136
 longitude: 16.36314
 postcode: "2332"
 city: Hennersdorf
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-16:30; Sa 09:00-12:00"
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-16:30; Sa 09:00-12:00
 website: ""

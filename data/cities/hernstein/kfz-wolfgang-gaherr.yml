@@ -1,11 +1,11 @@
 id: 397475007
-type: way
+type: node
 latitude: 47.89459
 longitude: 16.10272
 postcode: "2561"
 city: Hernstein
-street: "Berndorfer Straße"
-housenumber: 29
+street: Berndorfer Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

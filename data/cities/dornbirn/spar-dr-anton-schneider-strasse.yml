@@ -1,11 +1,11 @@
 id: 151525530
-type: way
+type: node
 latitude: 47.42403
 longitude: 9.74932
-postcode: "6860;6850"
+postcode: 6860;6850
 city: Dornbirn
-street: "Dr.-Anton-Schneider-Straße"
+street: Dr.-Anton-Schneider-Straße
 housenumber: 15b
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

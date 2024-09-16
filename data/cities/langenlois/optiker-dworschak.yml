@@ -1,11 +1,11 @@
 id: 126978427
-type: way
+type: node
 latitude: 48.47305
 longitude: 15.677
 postcode: "3550"
 city: Langenlois
-street: "Rathausstraße"
-housenumber: 12
+street: Rathausstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

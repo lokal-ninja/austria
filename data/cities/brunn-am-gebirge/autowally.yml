@@ -1,11 +1,11 @@
 id: 193697190
-type: way
+type: node
 latitude: 48.10793
 longitude: 16.28686
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Wiener Straße"
-housenumber: 32
+street: Wiener Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-13:00
 website: ""

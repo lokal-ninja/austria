@@ -1,11 +1,11 @@
 id: 124638094
-type: way
+type: node
 latitude: 47.41686
 longitude: 9.67278
 postcode: "6890"
 city: Lustenau
-street: "Glaserweg"
-housenumber: 33
+street: Glaserweg
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.riewa.at/"
+website: https://www.riewa.at/

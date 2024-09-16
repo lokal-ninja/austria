@@ -4,8 +4,8 @@ latitude: 47.278
 longitude: 12.48411
 postcode: "5730"
 city: Mittersill
-street: "Klausgasse"
-housenumber: 16
+street: Klausgasse
+housenumber: "16"
 phone: "+43656220769"
-opening_hours: "Tu-We 08:30-18:00, Th-Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://www.nindls-friseur.at/"
+opening_hours: Tu-We 08:30-18:00, Th-Fr 08:00-18:00, Sa 08:00-13:00
+website: https://www.nindls-friseur.at/

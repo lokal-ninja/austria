@@ -1,11 +1,11 @@
 id: 86641803
-type: way
+type: node
 latitude: 48.60112
 longitude: 15.18501
 postcode: "3910"
 city: Zwettl
-street: "Franz Eigl-Straße"
-housenumber: 11
+street: Franz Eigl-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/

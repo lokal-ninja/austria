@@ -1,11 +1,11 @@
 id: 92871591
-type: way
+type: node
 latitude: 48.23784
 longitude: 15.69482
 postcode: "3140"
 city: Pottenbrunn
-street: "Pottenbrunner Hauptstraße"
-housenumber: 75
+street: Pottenbrunner Hauptstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa  07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa  07:00-18:00
 website: ""

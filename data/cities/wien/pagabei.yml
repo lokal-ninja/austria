@@ -4,8 +4,8 @@ latitude: 48.20949
 longitude: 16.35171
 postcode: "1080"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 20
-phone: "+43 1 4030935"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://pagabei.at"
+street: Josefstädter Straße
+housenumber: "20"
+phone: +43 1 4030935
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-15:00
+website: https://pagabei.at

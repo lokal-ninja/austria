@@ -1,11 +1,11 @@
 id: 60038849
-type: way
+type: node
 latitude: 46.59593
 longitude: 13.84839
 postcode: "9500"
 city: Villach
-street: "Handwerkstraße"
-housenumber: 20
-phone: "+43 4242 34502 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.wiegele.at/"
+street: Handwerkstraße
+housenumber: "20"
+phone: +43 4242 34502 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.wiegele.at/

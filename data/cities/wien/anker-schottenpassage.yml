@@ -1,11 +1,11 @@
 id: 407676239
-type: way
+type: node
 latitude: 48.21382
 longitude: 16.36215
 postcode: "1010"
 city: Wien
-street: "Schottenpassage"
-housenumber: 
-phone: "+43 1 9043701"
-opening_hours: "Mo-Fr 05:30-19:00; Sa, Su, PH 07:00-18:00"
-website: "https://www.ankerbrot.at/"
+street: Schottenpassage
+housenumber: ""
+phone: +43 1 9043701
+opening_hours: Mo-Fr 05:30-19:00; Sa, Su, PH 07:00-18:00
+website: https://www.ankerbrot.at/

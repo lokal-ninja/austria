@@ -1,11 +1,11 @@
 id: 313130279
-type: way
+type: node
 latitude: 48.25575
 longitude: 16.01451
 postcode: "3443"
 city: Sieghartskirchen
-street: "Wiener Straße"
-housenumber: 9
+street: Wiener Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.le-feuerloeschtechnik.at/"
+website: https://www.le-feuerloeschtechnik.at/

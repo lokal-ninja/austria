@@ -1,11 +1,11 @@
 id: 300266164
-type: way
+type: node
 latitude: 47.42416
 longitude: 9.72832
 postcode: "6850"
 city: Dornbirn
-street: "Rohrbach"
-housenumber: 61
+street: Rohrbach
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

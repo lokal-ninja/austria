@@ -4,8 +4,8 @@ latitude: 48.20665
 longitude: 16.54754
 postcode: "2301"
 city: Groß-Enzersdorf
-street: "Wiener Straße"
-housenumber: 12
+street: Wiener Straße
+housenumber: "12"
 phone: "+43224928234"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-18:00
+website: https://www.dm.at

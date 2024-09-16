@@ -1,11 +1,11 @@
 id: 1221711152
-type: way
+type: node
 latitude: 47.25176
 longitude: 15.86914
 postcode: "8225"
 city: Pöllau
-street: "Schnönau"
-housenumber: 5
-phone: "+43 664 3146103"
-opening_hours: "24/7"
+street: Schnönau
+housenumber: "5"
+phone: +43 664 3146103
+opening_hours: 24/7
 website: ""

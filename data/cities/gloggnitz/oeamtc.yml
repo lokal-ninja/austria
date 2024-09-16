@@ -1,11 +1,11 @@
 id: 493999729
-type: way
+type: node
 latitude: 47.65934
 longitude: 15.90976
 postcode: "2640"
 city: Gloggnitz
-street: "Obere Weißenbachstraße"
-housenumber: 15
-phone: "+43 2662 42328"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-18:00"
-website: "https://www.oeamtc.at/standorte/niederoesterreich/gloggnitz-16192406/"
+street: Obere Weißenbachstraße
+housenumber: "15"
+phone: +43 2662 42328
+opening_hours: Mo-Fr 07:00-12:00,13:00-18:00
+website: https://www.oeamtc.at/standorte/niederoesterreich/gloggnitz-16192406/

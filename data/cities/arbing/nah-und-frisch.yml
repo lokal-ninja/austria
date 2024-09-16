@@ -1,11 +1,11 @@
 id: 219119073
-type: way
+type: node
 latitude: 48.22901
 longitude: 14.70008
 postcode: "4341"
 city: Arbing
-street: "Bundesstraße"
-housenumber: 7
+street: Bundesstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

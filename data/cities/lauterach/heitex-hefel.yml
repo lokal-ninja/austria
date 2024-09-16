@@ -1,11 +1,11 @@
 id: 129495048
-type: way
+type: node
 latitude: 47.48422
 longitude: 9.71628
 postcode: "6923"
 city: Lauterach
-street: "Harderstraße"
-housenumber: 74
+street: Harderstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Tu-Fr 14:00-17:00"
-website: "https://www.heitex.at/"
+opening_hours: Tu-Fr 14:00-17:00
+website: https://www.heitex.at/

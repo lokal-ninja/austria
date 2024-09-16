@@ -1,11 +1,11 @@
 id: 112980222
-type: way
+type: node
 latitude: 46.82013
 longitude: 15.23141
 postcode: "8530"
 city: Deutschlandsberg
-street: "Frauentaler Straße"
-housenumber: 96
+street: Frauentaler Straße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off
 website: ""

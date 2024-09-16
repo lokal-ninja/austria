@@ -4,8 +4,8 @@ latitude: 46.6319
 longitude: 14.31195
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Morogasse"
-housenumber: 12
-phone: "+43 463 511 873 12"
-opening_hours: "Mo-Mi 07:30-16:00; Do-Fr 07:30-12:00"
-website: "https://www.promente-kaernten.at/unsere-angebote/arbeit/unsere-leistungen-in-ihrer-region"
+street: Morogasse
+housenumber: "12"
+phone: +43 463 511 873 12
+opening_hours: Mo-Mi 07:30-16:00; Do-Fr 07:30-12:00
+website: https://www.promente-kaernten.at/unsere-angebote/arbeit/unsere-leistungen-in-ihrer-region

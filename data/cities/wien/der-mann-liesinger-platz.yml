@@ -4,8 +4,8 @@ latitude: 48.13537
 longitude: 16.28356
 postcode: "1230"
 city: Wien
-street: "Liesinger Platz"
-housenumber: 1
-phone: "+43 1 866999112"
-opening_hours: "Mo-Fr 05:30-18:00; Sa,Su 06:00-13:00"
-website: "https://www.dermann.at/"
+street: Liesinger Platz
+housenumber: "1"
+phone: +43 1 866999112
+opening_hours: Mo-Fr 05:30-18:00; Sa,Su 06:00-13:00
+website: https://www.dermann.at/

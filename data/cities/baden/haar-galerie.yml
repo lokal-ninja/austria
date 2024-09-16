@@ -4,8 +4,8 @@ latitude: 48.00484
 longitude: 16.23862
 postcode: "2500"
 city: Baden
-street: "Bahngasse"
-housenumber: 11
+street: Bahngasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "http://projekt.yrubner.hla-moedling.schulwebspace.at/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: http://projekt.yrubner.hla-moedling.schulwebspace.at/

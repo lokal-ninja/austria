@@ -1,11 +1,11 @@
 id: 217292564
-type: way
+type: node
 latitude: 47.55773
 longitude: 14.86967
 postcode: "8790"
 city: Eisenerz
-street: "Hieflauer Straße"
-housenumber: 82
+street: Hieflauer Straße
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://auto-klapfer.at/"
+website: https://auto-klapfer.at/

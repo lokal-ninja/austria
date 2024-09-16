@@ -4,8 +4,8 @@ latitude: 47.90635
 longitude: 14.12335
 postcode: "4560"
 city: Kirchdorf an der Krems
-street: "Schiedermayrstraße"
-housenumber: 5
+street: Schiedermayrstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-12:30"
-website: "https://www.dahoarschneida.at/kontakt"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-12:30
+website: https://www.dahoarschneida.at/kontakt

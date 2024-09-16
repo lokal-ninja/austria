@@ -1,11 +1,11 @@
 id: 167248002
-type: way
+type: node
 latitude: 48.0876
 longitude: 16.31606
 postcode: "2351"
 city: Wiener Neudorf
-street: "Eumigweg"
-housenumber: 10
+street: Eumigweg
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "http://www.autogratz.at"
+website: http://www.autogratz.at

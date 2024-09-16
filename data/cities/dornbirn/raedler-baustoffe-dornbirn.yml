@@ -1,11 +1,11 @@
 id: 104677276
-type: way
+type: node
 latitude: 47.41251
 longitude: 9.7149
 postcode: "6850"
 city: Dornbirn
-street: "Lustenauerstraße"
-housenumber: 90
+street: Lustenauerstraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://www.raedler-baustoffe.at/"
+website: https://www.raedler-baustoffe.at/

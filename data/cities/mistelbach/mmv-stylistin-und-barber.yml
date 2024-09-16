@@ -1,11 +1,11 @@
 id: 200355801
-type: way
+type: node
 latitude: 48.57137
 longitude: 16.56919
 postcode: "2130"
 city: Mistelbach
-street: "Bahnzeile"
-housenumber: 14
+street: Bahnzeile
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

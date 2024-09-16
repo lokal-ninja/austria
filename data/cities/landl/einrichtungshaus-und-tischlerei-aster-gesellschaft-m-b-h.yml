@@ -1,11 +1,11 @@
 id: 474049752
-type: way
+type: node
 latitude: 47.65141
 longitude: 14.75936
 postcode: "8921"
 city: Landl
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.aster-wohnen.at/"
+website: https://www.aster-wohnen.at/

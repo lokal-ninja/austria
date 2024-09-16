@@ -1,11 +1,11 @@
 id: 103623073
-type: way
+type: node
 latitude: 47.3894
 longitude: 13.59723
 postcode: "8973"
 city: Schladming
-street: "Gleiming"
-housenumber: 35
-phone: "+43 6454 7457"
+street: Gleiming
+housenumber: "35"
+phone: +43 6454 7457
 opening_hours: ""
-website: "https://www.sport-gerhardter.at/"
+website: https://www.sport-gerhardter.at/

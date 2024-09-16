@@ -4,8 +4,8 @@ latitude: 48.19418
 longitude: 16.36214
 postcode: "1040"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 47
+street: Margaretenstraße
+housenumber: "47"
 phone: ""
-opening_hours: "We-Fr 14:00-19:00; Sa 11:00-16:00"
-website: "https://art-postal.com/"
+opening_hours: We-Fr 14:00-19:00; Sa 11:00-16:00
+website: https://art-postal.com/

@@ -1,11 +1,11 @@
 id: 108320632
-type: way
+type: node
 latitude: 47.38405
 longitude: 12.30678
 postcode: "6365"
 city: Kirchberg in Tirol
-street: "Falkensteinweg"
-housenumber: 4
+street: Falkensteinweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:15-12:30,15:00-18:00"
+opening_hours: Mo-Sa 07:15-12:30,15:00-18:00
 website: ""

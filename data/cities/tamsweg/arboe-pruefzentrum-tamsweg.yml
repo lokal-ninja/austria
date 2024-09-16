@@ -1,11 +1,11 @@
 id: 219776012
-type: way
+type: node
 latitude: 47.13146
 longitude: 13.80475
 postcode: "5580"
 city: Tamsweg
-street: "Bröllsteig"
-housenumber: 6
-phone: "050-123-2505"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-19:00"
+street: Bröllsteig
+housenumber: "6"
+phone: 050-123-2505
+opening_hours: Mo-Fr 08:00-12:00, 13:00-19:00
 website: ""

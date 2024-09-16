@@ -4,8 +4,8 @@ latitude: 46.77202
 longitude: 15.5622
 postcode: "8435"
 city: Wagna
-street: "Marburger Straße"
-housenumber: 81
-phone: "+43 650 84 93 566"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.bikee.at"
+street: Marburger Straße
+housenumber: "81"
+phone: +43 650 84 93 566
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.bikee.at

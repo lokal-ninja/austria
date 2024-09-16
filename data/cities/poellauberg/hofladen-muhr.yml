@@ -1,11 +1,11 @@
 id: 403667113
-type: way
+type: node
 latitude: 47.31197
 longitude: 15.83664
 postcode: "8225"
 city: Pöllauberg
 street: ""
-housenumber: 14
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
-website: "https://hofladen-muhr.at/hofladen-kontakt"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
+website: https://hofladen-muhr.at/hofladen-kontakt

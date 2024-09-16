@@ -4,8 +4,8 @@ latitude: 48.08385
 longitude: 16.28155
 postcode: "2340"
 city: Mödling
-street: "Brühler Straße"
-housenumber: 12
+street: Brühler Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.breddys.com"
+opening_hours: Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.breddys.com

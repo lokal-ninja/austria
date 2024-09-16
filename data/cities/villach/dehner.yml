@@ -1,11 +1,11 @@
 id: 685831918
-type: way
+type: node
 latitude: 46.60334
 longitude: 13.86717
 postcode: "9500"
 city: Villach
-street: "Bruno-Kreisky-Straße"
-housenumber: 37
-phone: "+43 4242 3 36 31"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.dehner.at"
+street: Bruno-Kreisky-Straße
+housenumber: "37"
+phone: +43 4242 3 36 31
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.dehner.at

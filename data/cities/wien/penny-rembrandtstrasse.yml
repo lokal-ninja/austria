@@ -4,8 +4,8 @@ latitude: 48.22256
 longitude: 16.37253
 postcode: "1020"
 city: Wien
-street: "Rembrandtstraße"
-housenumber: 29
+street: Rembrandtstraße
+housenumber: "29"
 phone: "004313325075"
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00, Su off"
-website: "https://www.penny.at/"
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00, Su off
+website: https://www.penny.at/

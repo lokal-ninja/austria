@@ -1,11 +1,11 @@
 id: 142285676
-type: way
+type: node
 latitude: 47.48178
 longitude: 16.48933
 postcode: "7453"
 city: Steinberg-Dörfl
-street: "Steinriegel"
-housenumber: 1
+street: Steinriegel
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

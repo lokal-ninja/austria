@@ -4,8 +4,8 @@ latitude: 48.0478
 longitude: 17.03497
 postcode: "2422"
 city: Pama
-street: "Untere Hauptstraße"
-housenumber: 1
+street: Untere Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 06:30-12:00,15:30-18:00; Th 06:30-12:00; Su off"
+opening_hours: Mo-We,Fr,Sa 06:30-12:00,15:30-18:00; Th 06:30-12:00; Su off
 website: ""

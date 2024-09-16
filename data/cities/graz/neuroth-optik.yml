@@ -4,8 +4,8 @@ latitude: 47.06866
 longitude: 15.44199
 postcode: "8010"
 city: Graz
-street: "Am Eisernen Tor"
-housenumber: 2
+street: Am Eisernen Tor
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.optikneuroth.at/kontakt/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.optikneuroth.at/kontakt/

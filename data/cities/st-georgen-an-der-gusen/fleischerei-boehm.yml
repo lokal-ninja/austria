@@ -1,11 +1,11 @@
 id: 406493284
-type: way
+type: node
 latitude: 48.27229
 longitude: 14.44741
 postcode: "4222"
 city: St. Georgen an der Gusen
-street: "Marktplatz"
-housenumber: 1
+street: Marktplatz
+housenumber: "1"
 phone: "+437237220915"
-opening_hours: "Mo-Th 07:00-12:30,14:45-18:00; Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00"
-website: "https://fleischerei-boehm.at"
+opening_hours: Mo-Th 07:00-12:30,14:45-18:00; Fr 07:00-12:30,14:00-18:00; Sa 07:00-12:00
+website: https://fleischerei-boehm.at

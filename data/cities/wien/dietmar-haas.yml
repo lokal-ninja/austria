@@ -4,8 +4,8 @@ latitude: 48.20816
 longitude: 16.37651
 postcode: "1010"
 city: Wien
-street: "Wollzeile"
-housenumber: 20
+street: Wollzeile
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://dietmarhaas.com/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://dietmarhaas.com/

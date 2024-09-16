@@ -4,8 +4,8 @@ latitude: 48.00658
 longitude: 15.1671
 postcode: "3270"
 city: Scheibbs
-street: "Flecknertorgasse"
-housenumber: 3
+street: Flecknertorgasse
+housenumber: "3"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

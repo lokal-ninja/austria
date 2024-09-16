@@ -4,8 +4,8 @@ latitude: 47.2647
 longitude: 11.41146
 postcode: "6020"
 city: Innsbruck
-street: "Gumppstraße"
-housenumber: 25
-phone: "+43 512 342675"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off"
-website: "https://www.spar.at/de_AT/index/standorte/60/innsbruck_gumppstr241.html"
+street: Gumppstraße
+housenumber: "25"
+phone: +43 512 342675
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00; PH off
+website: https://www.spar.at/de_AT/index/standorte/60/innsbruck_gumppstr241.html

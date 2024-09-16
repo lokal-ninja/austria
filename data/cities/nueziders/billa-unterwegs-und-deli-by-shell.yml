@@ -1,11 +1,11 @@
 id: 1008848847
-type: way
+type: node
 latitude: 47.16542
 longitude: 9.79483
 postcode: "6714"
 city: Nüziders
-street: "Bundesstraße"
-housenumber: 3
+street: Bundesstraße
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

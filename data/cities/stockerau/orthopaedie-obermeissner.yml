@@ -1,11 +1,11 @@
 id: 96333412
-type: way
+type: node
 latitude: 48.38606
 longitude: 16.21614
 postcode: "2000"
 city: Stockerau
-street: "Hauptstraße"
-housenumber: 56
+street: Hauptstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-18:00"
+opening_hours: Mo-Th 08:00-12:00,13:00-18:00
 website: ""

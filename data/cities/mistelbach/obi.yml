@@ -1,11 +1,11 @@
 id: 80526253
-type: way
+type: node
 latitude: 48.56862
 longitude: 16.59478
 postcode: "2130"
 city: Mistelbach
-street: "Herzog Albrecht-Straße"
-housenumber: 5
+street: Herzog Albrecht-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

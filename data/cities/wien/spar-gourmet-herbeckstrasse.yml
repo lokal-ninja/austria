@@ -4,8 +4,8 @@ latitude: 48.23193
 longitude: 16.32471
 postcode: "1180"
 city: Wien
-street: "Herbeckstraße"
-housenumber: 30
-phone: "+43 1 4701220"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-gourmet-wien-1180-herbeckstrasse-30"
+street: Herbeckstraße
+housenumber: "30"
+phone: +43 1 4701220
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-gourmet-wien-1180-herbeckstrasse-30

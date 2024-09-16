@@ -4,8 +4,8 @@ latitude: 47.07137
 longitude: 15.43686
 postcode: "8010"
 city: Graz
-street: "Murgasse"
-housenumber: 8
+street: Murgasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
-website: "http://www.sattler-optik.at/#kontakt"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
+website: http://www.sattler-optik.at/#kontakt

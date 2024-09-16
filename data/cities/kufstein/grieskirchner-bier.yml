@@ -4,8 +4,8 @@ latitude: 47.58844
 longitude: 12.16355
 postcode: "6330"
 city: Kufstein
-street: "Münchner Straße"
-housenumber: 17
-phone: "+43 5372 67652"
-opening_hours: "Mo-Th 07:00-12:00, 12:30-15:30; Fr 07:00-12:00, 12:30-14:00"
-website: "https://www.grieskirchner.at/"
+street: Münchner Straße
+housenumber: "17"
+phone: +43 5372 67652
+opening_hours: Mo-Th 07:00-12:00, 12:30-15:30; Fr 07:00-12:00, 12:30-14:00
+website: https://www.grieskirchner.at/

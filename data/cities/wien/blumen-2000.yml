@@ -1,11 +1,11 @@
 id: 80760521
-type: way
+type: node
 latitude: 48.17913
 longitude: 16.35889
 postcode: "1100"
 city: Wien
-street: "Triester Straße"
+street: Triester Straße
 housenumber: 1c
-phone: "+43 1 604 34 74"
-opening_hours: "Mo-Sa 07:30-19:00; Su,PH 08:00-18:00"
-website: "https://www.blumen2000.at/"
+phone: +43 1 604 34 74
+opening_hours: Mo-Sa 07:30-19:00; Su,PH 08:00-18:00
+website: https://www.blumen2000.at/

@@ -1,11 +1,11 @@
 id: 353291884
-type: way
+type: node
 latitude: 47.24859
 longitude: 9.58808
 postcode: "6800"
 city: Feldkirch
-street: "Hämmerlestraße"
-housenumber: 24
+street: Hämmerlestraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:45; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:30-19:45; Sa 07:15-18:00
 website: ""

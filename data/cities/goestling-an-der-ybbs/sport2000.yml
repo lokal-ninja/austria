@@ -1,11 +1,11 @@
 id: 135330196
-type: way
+type: node
 latitude: 47.71905
 longitude: 14.91729
 postcode: "3345"
 city: Göstling an der Ybbs
-street: "Lassing"
-housenumber: 51
+street: Lassing
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

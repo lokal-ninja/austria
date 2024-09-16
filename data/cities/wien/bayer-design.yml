@@ -4,8 +4,8 @@ latitude: 48.20391
 longitude: 16.35652
 postcode: "1070"
 city: Wien
-street: "Breite Gasse"
-housenumber: 13
-phone: "+43 699 10998030"
-opening_hours: "Mo 14:00-18:00, Tu-Fr 12:00-18:00, Sa 12:00-16:00"
-website: "https://bayerhome.at"
+street: Breite Gasse
+housenumber: "13"
+phone: +43 699 10998030
+opening_hours: Mo 14:00-18:00, Tu-Fr 12:00-18:00, Sa 12:00-16:00
+website: https://bayerhome.at

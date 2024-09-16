@@ -4,8 +4,8 @@ latitude: 48.24169
 longitude: 16.35574
 postcode: "1190"
 city: Wien
-street: "Döblinger Hauptstraße"
-housenumber: 88
-phone: "+43 1 3683379"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-17:00"
-website: "http://ssb.at/"
+street: Döblinger Hauptstraße
+housenumber: "88"
+phone: +43 1 3683379
+opening_hours: Mo-Fr 08:30-12:00,14:00-17:00
+website: http://ssb.at/

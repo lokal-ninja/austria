@@ -4,8 +4,8 @@ latitude: 48.17874
 longitude: 16.37356
 postcode: "1100"
 city: Wien
-street: "Laxenburger Straße"
-housenumber: 24
-phone: "+43 1 361 5000 11"
-opening_hours: "Mo-Do 08:30-16:30 Fr 08:30-13:00"
+street: Laxenburger Straße
+housenumber: "24"
+phone: +43 1 361 5000 11
+opening_hours: Mo-Do 08:30-16:30 Fr 08:30-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.26798
 longitude: 11.43155
 postcode: "6020"
 city: Innsbruck
-street: "Valiergasse"
-housenumber: 20
+street: Valiergasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.hilti.at/stores/innsbruck"
+website: https://www.hilti.at/stores/innsbruck

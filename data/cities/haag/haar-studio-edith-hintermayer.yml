@@ -1,11 +1,11 @@
 id: 317082250
-type: way
+type: node
 latitude: 48.10763
 longitude: 14.57522
 postcode: "3350"
 city: Haag
-street: "Ziegelgasse"
-housenumber: 12
-phone: "+43 699 14447696"
-opening_hours: "Mo; We-Sa"
-website: "https://edith-hintermayer.at/"
+street: Ziegelgasse
+housenumber: "12"
+phone: +43 699 14447696
+opening_hours: Mo; We-Sa
+website: https://edith-hintermayer.at/

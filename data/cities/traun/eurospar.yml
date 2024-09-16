@@ -1,11 +1,11 @@
 id: 62280505
-type: way
+type: node
 latitude: 48.22619
 longitude: 14.23626
 postcode: "4050"
 city: Traun
-street: "Weidfeldstraße"
-housenumber: 2
+street: Weidfeldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

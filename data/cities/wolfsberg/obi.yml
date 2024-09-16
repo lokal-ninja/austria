@@ -1,11 +1,11 @@
 id: 180305576
-type: way
+type: node
 latitude: 46.81845
 longitude: 14.835
 postcode: "9400"
 city: Wolfsberg
-street: "Tatzerschachtweg"
-housenumber: 2
+street: Tatzerschachtweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

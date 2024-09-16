@@ -4,8 +4,8 @@ latitude: 48.20045
 longitude: 16.34129
 postcode: "1070"
 city: Wien
-street: "Seidengasse"
-housenumber: 32
-phone: "+43 1 522 08 24"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://www.mani.bio"
+street: Seidengasse
+housenumber: "32"
+phone: +43 1 522 08 24
+opening_hours: Mo-Fr 09:00-16:30
+website: https://www.mani.bio

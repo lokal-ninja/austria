@@ -4,8 +4,8 @@ latitude: 48.20464
 longitude: 16.37521
 postcode: "1010"
 city: Wien
-street: "Himmelpfortgasse"
-housenumber: 22
+street: Himmelpfortgasse
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://kunstundhandel.com/"
+website: http://kunstundhandel.com/

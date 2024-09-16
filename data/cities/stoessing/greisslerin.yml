@@ -1,11 +1,11 @@
 id: 321594621
-type: way
+type: node
 latitude: 48.12286
 longitude: 15.81357
 postcode: "3073"
 city: Stössing
 street: ""
-housenumber: 37
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 06:30-12:30"
+opening_hours: Mo-Sa 06:30-12:30
 website: ""

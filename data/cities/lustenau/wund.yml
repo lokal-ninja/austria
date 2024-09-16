@@ -1,11 +1,11 @@
 id: 328807514
-type: way
+type: node
 latitude: 47.43525
 longitude: 9.65947
 postcode: "6890"
 city: Lustenau
-street: "Steinackerstraße"
-housenumber: 27
+street: Steinackerstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 330106338
-type: way
+type: node
 latitude: 46.95323
 longitude: 15.8792
 postcode: "8330"
 city: Feldbach
-street: "Schillerstraße"
-housenumber: 60
+street: Schillerstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.birner.at/filialen/?cn-reloaded=1"
+opening_hours: Mo-Sa 08:00-18:00; Sa 08:00-12:00
+website: https://www.birner.at/filialen/?cn-reloaded=1

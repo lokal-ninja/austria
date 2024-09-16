@@ -5,7 +5,7 @@ longitude: 12.76794
 postcode: "9900"
 city: Lienz
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-15:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-15:00; Sa 08:00-13:00
 website: ""

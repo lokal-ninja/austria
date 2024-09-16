@@ -1,11 +1,11 @@
 id: 191993091
-type: way
+type: node
 latitude: 47.19829
 longitude: 14.66258
 postcode: "8753"
 city: Fohnsdorf
-street: "Montessori-Weg"
-housenumber: 10
-phone: "+43 (0) 3573 / 2132"
+street: Montessori-Weg
+housenumber: "10"
+phone: +43 (0) 3573 / 2132
 opening_hours: ""
-website: "https://www.stv-bau.at/"
+website: https://www.stv-bau.at/

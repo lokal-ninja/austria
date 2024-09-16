@@ -4,8 +4,8 @@ latitude: 47.0676
 longitude: 15.44159
 postcode: "8010"
 city: Graz
-street: "Jakominiplatz"
-housenumber: 25
+street: Jakominiplatz
+housenumber: "25"
 phone: "+43316828559"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.stylinglounge.at/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.stylinglounge.at/

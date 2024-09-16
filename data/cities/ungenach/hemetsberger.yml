@@ -1,11 +1,11 @@
 id: 98865772
-type: way
+type: node
 latitude: 48.04641
 longitude: 13.61201
 postcode: "4841"
 city: Ungenach
-street: "Ungenach"
-housenumber: 17
+street: Ungenach
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

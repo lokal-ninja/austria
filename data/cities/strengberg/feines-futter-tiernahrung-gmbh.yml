@@ -1,11 +1,11 @@
 id: 409348027
-type: way
+type: node
 latitude: 48.14681
 longitude: 14.6292
 postcode: "3314"
 city: Strengberg
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: "+436602525370"
 opening_hours: ""
-website: "https://www.feinesfutter.at"
+website: https://www.feinesfutter.at

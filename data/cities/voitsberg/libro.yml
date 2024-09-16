@@ -4,8 +4,8 @@ latitude: 47.0495
 longitude: 15.15052
 postcode: "8570"
 city: Voitsberg
-street: "Hauptplatz"
-housenumber: 35
+street: Hauptplatz
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.libro.at/fillialfinder/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.libro.at/fillialfinder/

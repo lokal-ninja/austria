@@ -1,11 +1,11 @@
 id: 188676191
-type: way
+type: node
 latitude: 48.32368
 longitude: 16.0577
 postcode: "3430"
 city: Tulln an der Donau
-street: "Staasdorfer Straße"
-housenumber: 16
+street: Staasdorfer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.hofer.at/"
+website: https://www.hofer.at/

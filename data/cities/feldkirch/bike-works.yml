@@ -1,11 +1,11 @@
 id: 326807718
-type: way
+type: node
 latitude: 47.25072
 longitude: 9.61252
 postcode: "6800"
 city: Feldkirch
-street: "Reichsstraße"
-housenumber: 104
+street: Reichsstraße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, Mo-We,Fr 14:00-18:00"
-website: "https://bikeworks.at/"
+opening_hours: Mo-Fr 09:00-12:00, Mo-We,Fr 14:00-18:00
+website: https://bikeworks.at/

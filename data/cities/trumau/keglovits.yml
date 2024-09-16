@@ -1,11 +1,11 @@
 id: 460583530
-type: way
+type: node
 latitude: 47.99404
 longitude: 16.35797
 postcode: "2521"
 city: Trumau
-street: "Lüßstraße"
-housenumber: 1
-phone: "+43 2253 6267"
+street: Lüßstraße
+housenumber: "1"
+phone: +43 2253 6267
 opening_hours: ""
-website: "https://seat.keglovits.at/"
+website: https://seat.keglovits.at/

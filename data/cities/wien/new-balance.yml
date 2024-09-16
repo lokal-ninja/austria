@@ -1,11 +1,11 @@
 id: 1160527390
-type: way
+type: node
 latitude: 48.20736
 longitude: 16.38563
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
+street: Landstraßer Hauptstraße
 housenumber: 1b
 phone: ""
-opening_hours: "Mo-We 09:00-20:00; Th,Fr 09:00-21:00; Sa 09:00-18:00"
+opening_hours: Mo-We 09:00-20:00; Th,Fr 09:00-21:00; Sa 09:00-18:00
 website: ""

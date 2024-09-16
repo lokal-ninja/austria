@@ -1,11 +1,11 @@
 id: 1112017105
-type: way
+type: node
 latitude: 47.83528
 longitude: 16.46896
 postcode: "7051"
 city: Großhöflein
-street: "Innovationsplatz"
-housenumber: 2
+street: Innovationsplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

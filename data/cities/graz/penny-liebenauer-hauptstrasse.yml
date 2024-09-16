@@ -1,11 +1,11 @@
 id: 137003306
-type: way
+type: node
 latitude: 47.03545
 longitude: 15.46325
 postcode: "8041"
 city: Graz
-street: "Liebenauer Hauptstraße"
-housenumber: 139
+street: Liebenauer Hauptstraße
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://penny.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://penny.at/

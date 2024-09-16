@@ -1,11 +1,11 @@
 id: 296504222
-type: way
+type: node
 latitude: 48.19098
 longitude: 16.269
 postcode: "1130"
 city: Wien
-street: "Auhofstraße"
-housenumber: 151
+street: Auhofstraße
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-forstner.at/"
+website: https://www.kfz-forstner.at/

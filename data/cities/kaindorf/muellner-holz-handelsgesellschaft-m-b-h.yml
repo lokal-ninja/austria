@@ -1,11 +1,11 @@
 id: 371083440
-type: way
+type: node
 latitude: 47.22244
 longitude: 15.9082
 postcode: "8224"
 city: Kaindorf
 street: ""
-housenumber: 30
-phone: "+43 3334 2257"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa,Su off"
-website: "http://www.waldlogistik.at/"
+housenumber: "30"
+phone: +43 3334 2257
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa,Su off
+website: http://www.waldlogistik.at/

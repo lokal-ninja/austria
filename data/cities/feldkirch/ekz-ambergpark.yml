@@ -1,11 +1,11 @@
 id: 25211312
-type: way
+type: node
 latitude: 47.24882
 longitude: 9.60931
 postcode: "6800"
 city: Feldkirch
-street: "Reichsstraße"
-housenumber: 126
+street: Reichsstraße
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

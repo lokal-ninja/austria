@@ -4,8 +4,8 @@ latitude: 48.21753
 longitude: 16.33652
 postcode: "1170"
 city: Wien
-street: "Jörgerstraße"
-housenumber: 31
-phone: "+43 1 403015112"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-13:00"
-website: "https://www.pbike.at/"
+street: Jörgerstraße
+housenumber: "31"
+phone: +43 1 403015112
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-13:00
+website: https://www.pbike.at/

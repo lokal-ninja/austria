@@ -1,11 +1,11 @@
 id: 488504852
-type: way
+type: node
 latitude: 47.49041
 longitude: 14.47492
 postcode: "8784"
 city: Trieben
-street: "Schoberpaß Bundesstraße"
-housenumber: 6
+street: Schoberpaß Bundesstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

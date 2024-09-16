@@ -4,8 +4,8 @@ latitude: 47.50683
 longitude: 12.08573
 postcode: "6322"
 city: Kirchbichl
-street: "Sonnbichlstraße"
-housenumber: 4
-phone: "+43 5332 76167"
-opening_hours: "Mo; Di; Do; Fr von 9:00 bis 12:00 und 14:00 bis 17:00 Uhr Mi: geschlossen"
-website: "https://www.olina.com/standorte/tirol/kirchbichl"
+street: Sonnbichlstraße
+housenumber: "4"
+phone: +43 5332 76167
+opening_hours: 'Mo; Di; Do; Fr von 9:00 bis 12:00 und 14:00 bis 17:00 Uhr Mi: geschlossen'
+website: https://www.olina.com/standorte/tirol/kirchbichl

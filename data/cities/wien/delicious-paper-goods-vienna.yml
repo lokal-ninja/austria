@@ -4,8 +4,9 @@ latitude: 48.19115
 longitude: 16.35822
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 79
-phone: "+43 676 9669096"
-opening_hours: "Mo 14:00-18:00, Tu-Fr 10:00-13:00, Tu-Th 14:00-19:00, Sa 10:00-14:00; PH off, Fr 14:00-18:00"
-website: "http://www.lapapeteria.at/"
+street: Margaretenstraße
+housenumber: "79"
+phone: +43 676 9669096
+opening_hours: Mo 14:00-18:00, Tu-Fr 10:00-13:00, Tu-Th 14:00-19:00, Sa 10:00-14:00;
+    PH off, Fr 14:00-18:00
+website: http://www.lapapeteria.at/

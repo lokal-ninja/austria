@@ -4,8 +4,8 @@ latitude: 48.21848
 longitude: 16.36161
 postcode: "1090"
 city: Wien
-street: "Liechtensteinstraße"
-housenumber: 20
+street: Liechtensteinstraße
+housenumber: "20"
 phone: "+4313173442"
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-14:00"
-website: "https://www.goodshoes.at/"
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-14:00
+website: https://www.goodshoes.at/

@@ -1,11 +1,11 @@
 id: 157372394
-type: way
+type: node
 latitude: 48.38727
 longitude: 16.18466
 postcode: "2000"
 city: Stockerau
-street: "Hornerstraße"
-housenumber: 89
+street: Hornerstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

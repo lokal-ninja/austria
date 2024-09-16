@@ -1,11 +1,11 @@
 id: 168171799
-type: way
+type: node
 latitude: 48.05531
 longitude: 15.60784
 postcode: "3160"
 city: Traisen
-street: "Mariazeller Straße"
-housenumber: 7
-phone: "050 123 2319"
+street: Mariazeller Straße
+housenumber: "7"
+phone: 050 123 2319
 opening_hours: ""
 website: ""

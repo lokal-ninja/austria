@@ -5,7 +5,7 @@ longitude: 15.55969
 postcode: "3512"
 city: Mauternbach
 street: ""
-housenumber: 11
-phone: "+43 2732 72 848"
+housenumber: "11"
+phone: +43 2732 72 848
 opening_hours: ""
-website: "https://www.duerauer.at/"
+website: https://www.duerauer.at/

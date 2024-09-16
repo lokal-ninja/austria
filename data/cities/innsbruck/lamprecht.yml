@@ -4,8 +4,8 @@ latitude: 47.26887
 longitude: 11.40053
 postcode: "6020"
 city: Innsbruck
-street: "Universitätsstraße"
-housenumber: 24
-phone: "+43 512 571631"
-opening_hours: "Tu-Fr 08:00-17:00; Sa 08:00-12:00; PH off"
-website: "https://www.friseur-lamprecht.at/universitaetsstrasse.htm"
+street: Universitätsstraße
+housenumber: "24"
+phone: +43 512 571631
+opening_hours: Tu-Fr 08:00-17:00; Sa 08:00-12:00; PH off
+website: https://www.friseur-lamprecht.at/universitaetsstrasse.htm

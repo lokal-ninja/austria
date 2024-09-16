@@ -1,11 +1,11 @@
 id: 302545892
-type: way
+type: node
 latitude: 48.09355
 longitude: 16.2845
 postcode: "2344"
 city: Maria Enzersdorf
-street: "Grenzgasse"
-housenumber: 7
-phone: "+43 2236 304 338"
-opening_hours: "Mo,Th,Fr 08:30-18:00; Tu 10:00-19:45; We,Sa 08:30-13:00; PH off"
-website: "https://www.friendly.bio/"
+street: Grenzgasse
+housenumber: "7"
+phone: +43 2236 304 338
+opening_hours: Mo,Th,Fr 08:30-18:00; Tu 10:00-19:45; We,Sa 08:30-13:00; PH off
+website: https://www.friendly.bio/

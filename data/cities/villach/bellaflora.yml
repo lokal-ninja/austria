@@ -1,11 +1,11 @@
 id: 134897105
-type: way
+type: node
 latitude: 46.60639
 longitude: 13.86487
 postcode: "9500"
 city: Villach
-street: "Maria-Gailer-Straße"
-housenumber: 33
-phone: "+43 501018 81000"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00"
-website: "https://www.bellaflora.at"
+street: Maria-Gailer-Straße
+housenumber: "33"
+phone: +43 501018 81000
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
+website: https://www.bellaflora.at

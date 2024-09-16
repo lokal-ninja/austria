@@ -1,11 +1,11 @@
 id: 548193979
-type: way
+type: node
 latitude: 48.2089
 longitude: 15.64323
 postcode: "3100"
 city: St. Pölten
-street: "Wiener Straße"
-housenumber: 129
-phone: "+43-2742-252238"
+street: Wiener Straße
+housenumber: "129"
+phone: +43-2742-252238
 opening_hours: ""
-website: "https://www.citroen-partner.at/blab"
+website: https://www.citroen-partner.at/blab

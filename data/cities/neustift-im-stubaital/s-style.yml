@@ -4,8 +4,8 @@ latitude: 47.11249
 longitude: 11.31061
 postcode: "6167"
 city: Neustift im Stubaital
-street: "Stubaitalstraße"
-housenumber: 69
-phone: "+43 5226 30550"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 08:00-12:30"
-website: "https://www.s-style.tirol"
+street: Stubaitalstraße
+housenumber: "69"
+phone: +43 5226 30550
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 08:00-12:30
+website: https://www.s-style.tirol

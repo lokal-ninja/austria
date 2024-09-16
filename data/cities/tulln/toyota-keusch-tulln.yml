@@ -1,11 +1,11 @@
 id: 124669179
-type: way
+type: node
 latitude: 48.31804
 longitude: 16.08561
 postcode: "3430"
 city: Tulln
-street: "Landstraße"
-housenumber: 50
+street: Landstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.keusch.com/tulln/"
+website: https://www.keusch.com/tulln/

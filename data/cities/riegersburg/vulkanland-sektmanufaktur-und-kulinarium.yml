@@ -5,7 +5,7 @@ longitude: 15.90406
 postcode: "8333"
 city: Riegersburg
 street: ""
-housenumber: 147
-phone: "+43 680 5052912"
-opening_hours: "Mo-Sa 10:30-18:00"
-website: "http://www.das-kulinarium.at/"
+housenumber: "147"
+phone: +43 680 5052912
+opening_hours: Mo-Sa 10:30-18:00
+website: http://www.das-kulinarium.at/

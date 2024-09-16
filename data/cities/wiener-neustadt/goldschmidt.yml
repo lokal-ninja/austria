@@ -4,8 +4,9 @@ latitude: 47.81094
 longitude: 16.23034
 postcode: "2700"
 city: Wiener Neustadt
-street: "Sonnwendgasse"
-housenumber: 9
+street: Sonnwendgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 05:45-12:00,15:00-18:00; Sa 05:45-12:00; Su 07:30-11:00; PH Mo-Sa off"
+opening_hours: Mo-Fr 05:45-12:00,15:00-18:00; Sa 05:45-12:00; Su 07:30-11:00; PH Mo-Sa
+    off
 website: ""

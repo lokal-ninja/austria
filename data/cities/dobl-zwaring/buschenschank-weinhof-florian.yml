@@ -1,11 +1,11 @@
 id: 225781178
-type: way
+type: node
 latitude: 46.94632
 longitude: 15.37742
 postcode: "8143"
 city: Dobl-Zwaring
-street: "Unterberg"
-housenumber: 54
-phone: "+43 (0)3136 52626"
+street: Unterberg
+housenumber: "54"
+phone: +43 (0)3136 52626
 opening_hours: ""
-website: "https://www.florianwein.at/"
+website: https://www.florianwein.at/

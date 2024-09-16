@@ -4,8 +4,8 @@ latitude: 48.21744
 longitude: 16.37718
 postcode: "1020"
 city: Wien
-street: "Karmelitermarkt"
-housenumber: 
-phone: "+43 1 2124757"
-opening_hours: "Tu,Th,Fr 07:00-18:00; Sa 07:00-13:00; Mo 07:00-14:00; We off"
-website: "http://www.pferdefleisch.at/"
+street: Karmelitermarkt
+housenumber: ""
+phone: +43 1 2124757
+opening_hours: Tu,Th,Fr 07:00-18:00; Sa 07:00-13:00; Mo 07:00-14:00; We off
+website: http://www.pferdefleisch.at/

@@ -4,8 +4,8 @@ latitude: 47.52066
 longitude: 12.42591
 postcode: "6380"
 city: St. Johann in Tirol
-street: "Speckbacherstraße"
-housenumber: 16
+street: Speckbacherstraße
+housenumber: "16"
 phone: "+43535261890"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00"
-website: "https://www.weltlaeden.at/de/st-johann-i-tirol.html"
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-12:00
+website: https://www.weltlaeden.at/de/st-johann-i-tirol.html

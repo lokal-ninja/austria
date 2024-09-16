@@ -1,11 +1,11 @@
 id: 592404462
-type: way
+type: node
 latitude: 48.75607
 longitude: 15.19903
 postcode: "3902"
 city: Vitis
-street: "Europastraße"
-housenumber: 22
+street: Europastraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

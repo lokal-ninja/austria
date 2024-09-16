@@ -1,11 +1,11 @@
 id: 114004146
-type: way
+type: node
 latitude: 48.22471
 longitude: 14.23976
 postcode: "4050"
 city: Traun
-street: "Schulstraße"
-housenumber: 17
-phone: "+43-7229-72243"
+street: Schulstraße
+housenumber: "17"
+phone: +43-7229-72243
 opening_hours: ""
-website: "http://www.elektro-tiefenbacher.at/"
+website: http://www.elektro-tiefenbacher.at/

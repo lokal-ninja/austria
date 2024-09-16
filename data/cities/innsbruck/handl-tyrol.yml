@@ -4,8 +4,8 @@ latitude: 47.26833
 longitude: 11.39307
 postcode: "6020"
 city: Innsbruck
-street: "Herzog-Friedrich-Straße"
-housenumber: 12
-phone: "+43 512 563886"
-opening_hours: "Mo-Su 09:00-13:30,14:00-18:00"
-website: "https://www.handltyrol.at/"
+street: Herzog-Friedrich-Straße
+housenumber: "12"
+phone: +43 512 563886
+opening_hours: Mo-Su 09:00-13:30,14:00-18:00
+website: https://www.handltyrol.at/

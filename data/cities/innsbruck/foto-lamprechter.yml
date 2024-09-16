@@ -4,8 +4,8 @@ latitude: 47.26523
 longitude: 11.39694
 postcode: "6020"
 city: Innsbruck
-street: "Wilhelm-Greil-Straße"
-housenumber: 18
-phone: "+43 512 585 898"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00; PH off"
-website: "http://www.lamprechter.info/de/kontakt/index.php"
+street: Wilhelm-Greil-Straße
+housenumber: "18"
+phone: +43 512 585 898
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00; PH off
+website: http://www.lamprechter.info/de/kontakt/index.php

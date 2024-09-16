@@ -4,8 +4,8 @@ latitude: 46.99321
 longitude: 15.51656
 postcode: "8071"
 city: Hausmannstätten
-street: "Schemmerlstraße"
-housenumber: 9
-phone: "+43 59915 06871"
-opening_hours: "Mo-Fr 06:45-19:00; Sa 07:15-18:00"
+street: Schemmerlstraße
+housenumber: "9"
+phone: +43 59915 06871
+opening_hours: Mo-Fr 06:45-19:00; Sa 07:15-18:00
 website: ""

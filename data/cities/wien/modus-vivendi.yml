@@ -4,8 +4,8 @@ latitude: 48.20171
 longitude: 16.3466
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 7
+street: Westbahnstraße
+housenumber: "7"
 phone: ""
-opening_hours: "We- Fr 12:00-19:00, Sa 12:00-17:00"
-website: "https://www.modusvivendi.at/"
+opening_hours: We- Fr 12:00-19:00, Sa 12:00-17:00
+website: https://www.modusvivendi.at/

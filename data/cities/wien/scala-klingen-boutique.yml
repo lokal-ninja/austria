@@ -4,8 +4,8 @@ latitude: 48.18553
 longitude: 16.3009
 postcode: "1130"
 city: Wien
-street: "Am Platz"
-housenumber: 4
-phone: "+43 1 9346027"
-opening_hours: "Mo-Fr 10:00-12:45, 13:30-18:00, Sa 10:00-14:00"
-website: "http://www.klingen-boutique.at/"
+street: Am Platz
+housenumber: "4"
+phone: +43 1 9346027
+opening_hours: Mo-Fr 10:00-12:45, 13:30-18:00, Sa 10:00-14:00
+website: http://www.klingen-boutique.at/

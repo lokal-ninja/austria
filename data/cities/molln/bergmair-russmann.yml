@@ -1,11 +1,11 @@
 id: 81038900
-type: way
+type: node
 latitude: 47.88582
 longitude: 14.25822
 postcode: "4591"
 city: Molln
-street: "Kirchenplatz"
-housenumber: 2
+street: Kirchenplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

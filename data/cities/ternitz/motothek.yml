@@ -1,11 +1,11 @@
 id: 297173080
-type: way
+type: node
 latitude: 47.72721
 longitude: 16.05763
 postcode: "2620"
 city: Ternitz
-street: "Rechengasse"
-housenumber: 25
+street: Rechengasse
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.motothek.at/"
+website: https://www.motothek.at/

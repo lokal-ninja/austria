@@ -1,11 +1,11 @@
 id: 242367672
-type: way
+type: node
 latitude: 47.8229
 longitude: 16.24724
 postcode: "2700"
 city: Wiener Neustadt
-street: "Pottendorfer Straße"
-housenumber: 3
-phone: "+43 2622 23045"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00, Sa 8:30-12:30, Sa[1] 14:00-17:00"
+street: Pottendorfer Straße
+housenumber: "3"
+phone: +43 2622 23045
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00, Sa 8:30-12:30, Sa[1] 14:00-17:00
 website: ""

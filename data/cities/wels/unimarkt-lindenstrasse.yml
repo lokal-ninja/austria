@@ -1,11 +1,11 @@
 id: 86344019
-type: way
+type: node
 latitude: 48.15386
 longitude: 14.00039
 postcode: "4600"
 city: Wels
-street: "Lindenstraße"
-housenumber: 9
-phone: "+43-7242-46044"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+street: Lindenstraße
+housenumber: "9"
+phone: +43-7242-46044
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

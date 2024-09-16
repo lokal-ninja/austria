@@ -4,8 +4,8 @@ latitude: 47.7997
 longitude: 16.67092
 postcode: "7071"
 city: Rust
-street: "Raiffeisenstraße"
-housenumber: 9
+street: Raiffeisenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.triebaumer.com/"
+website: https://www.triebaumer.com/

@@ -1,11 +1,11 @@
 id: 288909643
-type: way
+type: node
 latitude: 47.15154
 longitude: 9.82813
 postcode: "6700"
 city: Bludenz
-street: "Schillerstraße"
-housenumber: 20
+street: Schillerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00
 website: ""

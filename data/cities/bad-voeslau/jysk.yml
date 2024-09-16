@@ -1,11 +1,11 @@
 id: 122918624
-type: way
+type: node
 latitude: 47.97658
 longitude: 16.2207
 postcode: "2540"
 city: Bad Vöslau
-street: "Industriestraße"
-housenumber: 17
+street: Industriestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5130"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5130

@@ -1,11 +1,11 @@
 id: 41885634
-type: way
+type: node
 latitude: 48.26896
 longitude: 14.26449
 postcode: "4060"
 city: Leonding
-street: "Poststraße"
-housenumber: 2
-phone: "+43 50306244"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.atu.de/filialen/244-linz-leonding/"
+street: Poststraße
+housenumber: "2"
+phone: +43 50306244
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.atu.de/filialen/244-linz-leonding/

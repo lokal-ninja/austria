@@ -4,8 +4,8 @@ latitude: 48.58721
 longitude: 16.49343
 postcode: "2151"
 city: Asparn an der Zaya
-street: "Schulgasse"
-housenumber: 17
+street: Schulgasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
-website: "http://www.fleischerei-hiess.at/kontakt/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00
+website: http://www.fleischerei-hiess.at/kontakt/

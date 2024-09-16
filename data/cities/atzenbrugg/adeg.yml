@@ -1,11 +1,11 @@
 id: 431083546
-type: way
+type: node
 latitude: 48.29332
 longitude: 15.90271
 postcode: "3452"
 city: Atzenbrugg
-street: "Bgm.-Haferl-Gasse"
-housenumber: 2
+street: Bgm.-Haferl-Gasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

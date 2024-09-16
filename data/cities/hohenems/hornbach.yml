@@ -1,11 +1,11 @@
 id: 119686598
-type: way
+type: node
 latitude: 47.37614
 longitude: 9.67908
 postcode: "6845"
 city: Hohenems
-street: "Lustenauer Straße"
-housenumber: 116
+street: Lustenauer Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 07:10-19:24; Sa 07:10-18:00"
+opening_hours: Mo-Fr 07:10-19:24; Sa 07:10-18:00
 website: ""

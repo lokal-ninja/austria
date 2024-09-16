@@ -4,8 +4,8 @@ latitude: 47.3647
 longitude: 9.68943
 postcode: "6845"
 city: Hohenems
-street: "Marktstraße"
-housenumber: 7
+street: Marktstraße
+housenumber: "7"
 phone: ""
-opening_hours: "We-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.weltladen.at/verkaufsstellehohenems/"
+opening_hours: We-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.weltladen.at/verkaufsstellehohenems/

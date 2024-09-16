@@ -1,11 +1,11 @@
 id: 137004874
-type: way
+type: node
 latitude: 47.94946
 longitude: 16.28687
 postcode: "2524"
 city: Teesdorf
-street: "Wiener Neustädter Straße"
-housenumber: 81
+street: Wiener Neustädter Straße
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

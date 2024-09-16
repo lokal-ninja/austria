@@ -1,11 +1,11 @@
 id: 180728842
-type: way
+type: node
 latitude: 46.82898
 longitude: 12.76018
 postcode: "9900"
 city: Lienz
-street: "Franz von Defregger-Straße"
-housenumber: 10
+street: Franz von Defregger-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

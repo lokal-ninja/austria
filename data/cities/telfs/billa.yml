@@ -1,11 +1,11 @@
 id: 40882070
-type: way
+type: node
 latitude: 47.30662
 longitude: 11.07463
 postcode: "6410"
 city: Telfs
-street: "Anton-Auer-Straße"
-housenumber: 14
+street: Anton-Auer-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.billa.at/"
+website: https://www.billa.at/

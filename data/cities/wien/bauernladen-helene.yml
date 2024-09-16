@@ -4,8 +4,8 @@ latitude: 48.21703
 longitude: 16.33562
 postcode: "1170"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 45
-phone: "+43 660 666 28 22"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://bauernladenhelene.at/geschaeft-im-17ten/"
+street: Hernalser Hauptstraße
+housenumber: "45"
+phone: +43 660 666 28 22
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://bauernladenhelene.at/geschaeft-im-17ten/

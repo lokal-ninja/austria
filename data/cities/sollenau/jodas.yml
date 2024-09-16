@@ -1,11 +1,11 @@
 id: 1070576977
-type: way
+type: node
 latitude: 47.88146
 longitude: 16.25036
 postcode: "2601"
 city: Sollenau
-street: "Wiener Neustädter Straße"
-housenumber: 99
+street: Wiener Neustädter Straße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

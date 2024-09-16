@@ -4,8 +4,8 @@ latitude: 47.34922
 longitude: 11.70584
 postcode: "6130"
 city: Schwaz
-street: "Münchner Straße"
-housenumber: 3
-phone: "+43 50321 927829"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://www.tundg.at/wo-du-uns-findest/"
+street: Münchner Straße
+housenumber: "3"
+phone: +43 50321 927829
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off
+website: https://www.tundg.at/wo-du-uns-findest/

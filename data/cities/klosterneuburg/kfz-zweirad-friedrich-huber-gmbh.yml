@@ -1,11 +1,11 @@
 id: 307893206
-type: way
+type: node
 latitude: 48.28957
 longitude: 16.34228
 postcode: "3400"
 city: Klosterneuburg
-street: "Inkustraße"
-housenumber: 11
+street: Inkustraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 07:45-12:00,12:45-17:00; Fr 07:45-12:15"
-website: "https://www.friedrich-huber.at/"
+opening_hours: Mo-Th 07:45-12:00,12:45-17:00; Fr 07:45-12:15
+website: https://www.friedrich-huber.at/

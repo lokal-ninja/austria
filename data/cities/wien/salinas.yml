@@ -4,8 +4,8 @@ latitude: 48.25937
 longitude: 16.3627
 postcode: "1190"
 city: Wien
-street: "Zahnradbahnstraße"
-housenumber: 11
+street: Zahnradbahnstraße
+housenumber: "11"
 phone: ""
-opening_hours: "We-Sa 16:00-24:00; Su 15:00-23:00"
+opening_hours: We-Sa 16:00-24:00; Su 15:00-23:00
 website: ""

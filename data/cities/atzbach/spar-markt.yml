@@ -1,11 +1,11 @@
 id: 243568594
-type: way
+type: node
 latitude: 48.08598
 longitude: 13.70228
 postcode: "4904"
 city: Atzbach
-street: "Wufinger Straße"
-housenumber: 8
+street: Wufinger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.at/"
+website: https://www.spar.at/

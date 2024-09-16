@@ -1,11 +1,11 @@
 id: 102039508
-type: way
+type: node
 latitude: 47.38112
 longitude: 15.10855
 postcode: "8700"
 city: Leoben
-street: "Kärntner Straße"
-housenumber: 89
+street: Kärntner Straße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

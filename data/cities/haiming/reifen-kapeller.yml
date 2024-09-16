@@ -1,11 +1,11 @@
 id: 174673305
-type: way
+type: node
 latitude: 47.25796
 longitude: 10.87782
 postcode: "6425"
 city: Haiming
-street: "Alte Bundesstraße"
-housenumber: 39
+street: Alte Bundesstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

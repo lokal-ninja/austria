@@ -1,11 +1,11 @@
 id: 159075712
-type: way
+type: node
 latitude: 47.26046
 longitude: 12.74323
 postcode: "5710"
 city: Kaprun
-street: "Freiluftstraße"
-housenumber: 1
+street: Freiluftstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

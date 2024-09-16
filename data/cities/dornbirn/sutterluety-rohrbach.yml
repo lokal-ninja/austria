@@ -1,11 +1,11 @@
 id: 135727425
-type: way
+type: node
 latitude: 47.42061
 longitude: 9.73782
 postcode: "6850"
 city: Dornbirn
-street: "Rohrbach"
-housenumber: 20
+street: Rohrbach
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su off"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su off
 website: ""

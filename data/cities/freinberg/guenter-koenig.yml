@@ -1,11 +1,11 @@
 id: 222015902
-type: way
+type: node
 latitude: 48.54553
 longitude: 13.52659
 postcode: "4785"
 city: Freinberg
 street: ""
-housenumber: 26
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

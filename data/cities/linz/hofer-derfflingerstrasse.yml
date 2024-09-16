@@ -1,11 +1,11 @@
 id: 88119316
-type: way
+type: node
 latitude: 48.30865
 longitude: 14.30967
 postcode: "4020"
 city: Linz
-street: "Derfflingerstraße"
-housenumber: 21
+street: Derfflingerstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

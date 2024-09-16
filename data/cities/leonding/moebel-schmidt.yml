@@ -1,11 +1,11 @@
 id: 51354839
-type: way
+type: node
 latitude: 48.25075
 longitude: 14.26506
 postcode: "4060"
 city: Leonding
-street: "Traunfellnerstraße"
-housenumber: 34
+street: Traunfellnerstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00
 website: ""

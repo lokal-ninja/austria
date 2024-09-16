@@ -4,8 +4,8 @@ latitude: 47.27611
 longitude: 11.45616
 postcode: "6063"
 city: Rum
-street: "Siemensstraße"
-housenumber: 2
-phone: "+43-512-263253"
-opening_hours: "Mo-Th 07:30-12:30,13:30-17:00; Fr 07:30-12:00; PH off"
-website: "https://www.gewi.at/"
+street: Siemensstraße
+housenumber: "2"
+phone: +43-512-263253
+opening_hours: Mo-Th 07:30-12:30,13:30-17:00; Fr 07:30-12:00; PH off
+website: https://www.gewi.at/

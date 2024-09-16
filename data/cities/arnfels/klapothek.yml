@@ -1,11 +1,11 @@
 id: 178126410
-type: way
+type: node
 latitude: 46.6766
 longitude: 15.40283
 postcode: "8454"
 city: Arnfels
-street: "Leutschacher Straße"
-housenumber: 37
+street: Leutschacher Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo, Tu, Sa 08:00-12:00; We, Th, Fr 08:00-12:00, 15:00-18:00"
-website: "https://www.klapothek.at/kontakt/"
+opening_hours: Mo, Tu, Sa 08:00-12:00; We, Th, Fr 08:00-12:00, 15:00-18:00
+website: https://www.klapothek.at/kontakt/

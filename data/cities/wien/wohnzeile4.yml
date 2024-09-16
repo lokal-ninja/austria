@@ -4,8 +4,8 @@ latitude: 48.19977
 longitude: 16.36494
 postcode: "1060"
 city: Wien
-street: "Linke Wienzeile"
-housenumber: 4
+street: Linke Wienzeile
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://wohnzeile4.at/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://wohnzeile4.at/

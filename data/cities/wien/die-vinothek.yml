@@ -4,8 +4,8 @@ latitude: 48.21028
 longitude: 16.34469
 postcode: "1080"
 city: Wien
-street: "Tigergasse"
-housenumber: 33
+street: Tigergasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 17:00-12:30; Sa 18:00-12:30"
-website: "https://www.dievinothek.net/"
+opening_hours: Mo-Fr 17:00-12:30; Sa 18:00-12:30
+website: https://www.dievinothek.net/

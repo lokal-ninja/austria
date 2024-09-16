@@ -4,8 +4,8 @@ latitude: 47.2989
 longitude: 12.79469
 postcode: "5700"
 city: Zell am See
-street: "Kitzsteinhornstraße"
-housenumber: 40
-phone: "+43 1 54699"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Zell-am-See-PEZZ,10752,-15.html"
+street: Kitzsteinhornstraße
+housenumber: "40"
+phone: +43 1 54699
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Zell-am-See-PEZZ,10752,-15.html

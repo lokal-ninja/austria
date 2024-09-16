@@ -1,11 +1,11 @@
 id: 88705100
-type: way
+type: node
 latitude: 48.11955
 longitude: 13.16046
 postcode: "5231"
 city: Schalchen
-street: "Hauptstraße"
-housenumber: 56
-phone: "07742 2629"
+street: Hauptstraße
+housenumber: "56"
+phone: 07742 2629
 opening_hours: ""
-website: "http://dorfmetzgerei-dreher.at"
+website: http://dorfmetzgerei-dreher.at

@@ -1,11 +1,11 @@
 id: 117691848
-type: way
+type: node
 latitude: 48.50058
 longitude: 15.16594
 postcode: "3912"
 city: Grafenschlag
 street: ""
-housenumber: 45
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

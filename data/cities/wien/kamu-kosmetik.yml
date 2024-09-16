@@ -4,8 +4,8 @@ latitude: 48.2277
 longitude: 16.42118
 postcode: "1220"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 46
-phone: "+43 1 5411340"
-opening_hours: "nach telefonischer Vereinbarung"
-website: "https://kamu-kosmetik.at"
+street: Schüttaustraße
+housenumber: "46"
+phone: +43 1 5411340
+opening_hours: '"nach telefonischer Vereinbarung"'
+website: https://kamu-kosmetik.at

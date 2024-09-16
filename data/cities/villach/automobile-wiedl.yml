@@ -1,11 +1,11 @@
 id: 154021433
-type: way
+type: node
 latitude: 46.60967
 longitude: 13.84135
 postcode: "9500"
 city: Villach
-street: "Steinwenderstraße"
-housenumber: 21
-phone: "+43 664 25 13 280"
+street: Steinwenderstraße
+housenumber: "21"
+phone: +43 664 25 13 280
 opening_hours: ""
-website: "https://automobile-wiedl.at/"
+website: https://automobile-wiedl.at/

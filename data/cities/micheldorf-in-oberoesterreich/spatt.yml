@@ -1,11 +1,11 @@
 id: 93311274
-type: way
+type: node
 latitude: 47.89409
 longitude: 14.12872
 postcode: "4563"
 city: Micheldorf in Oberösterreich
-street: "Weinzierler Brücke"
-housenumber: 73
+street: Weinzierler Brücke
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

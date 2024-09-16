@@ -1,11 +1,11 @@
 id: 30836767
-type: way
+type: node
 latitude: 47.22524
 longitude: 9.66593
 postcode: "6822"
 city: Satteins
-street: "Frastanzerstraße"
-housenumber: 52
+street: Frastanzerstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

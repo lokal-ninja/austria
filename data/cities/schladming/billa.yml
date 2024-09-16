@@ -1,11 +1,11 @@
 id: 98880528
-type: way
+type: node
 latitude: 47.39295
 longitude: 13.68351
 postcode: "8970"
 city: Schladming
-street: "Bahnhofstraße"
-housenumber: 377
-phone: ""
-opening_hours: "Mo-Fr 07:15-19:30, Sa 07:15-18:00, Su off"
-website: ""
+street: Bahnhofstraße
+housenumber: "377"
+phone: "+435991506502"
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00; Su off
+website: https://www.billa.at/

@@ -4,8 +4,8 @@ latitude: 48.23937
 longitude: 16.35469
 postcode: "1190"
 city: Wien
-street: "Döblinger Hauptstraße"
-housenumber: 55
-phone: "+43 1 610440"
-opening_hours: "Tu-Fr 09:30-13:00"
-website: "https://slach.at/"
+street: Döblinger Hauptstraße
+housenumber: "55"
+phone: +43 1 610440
+opening_hours: Tu-Fr 09:30-13:00
+website: https://slach.at/

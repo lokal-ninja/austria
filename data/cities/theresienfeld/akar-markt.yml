@@ -1,11 +1,11 @@
 id: 168141854
-type: way
+type: node
 latitude: 47.86099
 longitude: 16.24728
 postcode: "2604"
 city: Theresienfeld
-street: "Hauptplatz"
-housenumber: 10
+street: Hauptplatz
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

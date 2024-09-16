@@ -4,8 +4,8 @@ latitude: 48.2939
 longitude: 16.37781
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 267
-phone: "+43 1 3692244-0"
-opening_hours: "Mo-Th 07:30-14:00, Fr 07:30-12:00"
-website: "https://www.tucon.eu/"
+street: Prager Straße
+housenumber: "267"
+phone: +43 1 3692244-0
+opening_hours: Mo-Th 07:30-14:00, Fr 07:30-12:00
+website: https://www.tucon.eu/

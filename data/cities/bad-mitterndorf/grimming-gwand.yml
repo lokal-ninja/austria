@@ -1,11 +1,11 @@
 id: 133630582
-type: way
+type: node
 latitude: 47.55403
 longitude: 13.93908
 postcode: "8983"
 city: Bad Mitterndorf
 street: ""
-housenumber: 327
-phone: "+43 3623 220551"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00"
-website: "https://grimming-gwand.at"
+housenumber: "327"
+phone: +43 3623 220551
+opening_hours: Tu-Fr 10:00-12:00,14:00-17:00; Sa 10:00-12:00
+website: https://grimming-gwand.at

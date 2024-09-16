@@ -1,11 +1,11 @@
 id: 1255582241
-type: way
+type: node
 latitude: 48.57055
 longitude: 13.99358
 postcode: "4150"
 city: Rohrbach-Berg
-street: "Ehrenreiterweg"
-housenumber: 5
+street: Ehrenreiterweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

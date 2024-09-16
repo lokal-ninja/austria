@@ -4,8 +4,8 @@ latitude: 48.22366
 longitude: 16.45412
 postcode: "1220"
 city: Wien
-street: "Konstanziagasse"
-housenumber: 28
-phone: "+43 1 2827429"
-opening_hours: "Mo-Th 08:00-16:00"
-website: "https://www.juric.at/"
+street: Konstanziagasse
+housenumber: "28"
+phone: +43 1 2827429
+opening_hours: Mo-Th 08:00-16:00
+website: https://www.juric.at/

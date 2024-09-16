@@ -1,11 +1,11 @@
 id: 127682341
-type: way
+type: node
 latitude: 47.41102
 longitude: 15.25769
 postcode: "8600"
 city: Bruck an der Mur
-street: "Oberdorfer Straße"
-housenumber: 16
+street: Oberdorfer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.28124
 longitude: 12.48344
 postcode: "5730"
 city: Mittersill
-street: "Hintergasse"
-housenumber: 13
+street: Hintergasse
+housenumber: "13"
 phone: "+4365626209"
-opening_hours: "Mo-Fr 08:15-18:00, Sa 08:15-12:00"
-website: "https://www.florian-huber.at/"
+opening_hours: Mo-Fr 08:15-18:00, Sa 08:15-12:00
+website: https://www.florian-huber.at/

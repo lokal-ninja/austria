@@ -1,11 +1,11 @@
 id: 342320594
-type: way
+type: node
 latitude: 47.11563
 longitude: 16.34778
 postcode: "7540"
 city: Güssing
-street: "Punitz"
-housenumber: 57
+street: Punitz
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

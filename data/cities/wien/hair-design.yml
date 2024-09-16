@@ -4,8 +4,8 @@ latitude: 48.19539
 longitude: 16.39904
 postcode: "1030"
 city: Wien
-street: "Rabengasse"
+street: Rabengasse
 housenumber: 11a
-phone: "+43 (0)1 / 920 02 53"
-opening_hours: "Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-15:00; Sa 09:00-13:00"
+phone: +43 (0)1 / 920 02 53
+opening_hours: Tu,Th,Fr 09:00-13:00,14:00-18:00; We 09:00-15:00; Sa 09:00-13:00
 website: ""

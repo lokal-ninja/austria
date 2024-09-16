@@ -1,11 +1,11 @@
 id: 87971500
-type: way
+type: node
 latitude: 47.06586
 longitude: 15.44526
 postcode: "8010"
 city: Graz
-street: "Grazbachgasse"
-housenumber: 17
+street: Grazbachgasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30,13:30-17:00"
+opening_hours: Mo-Fr 08:00-12:30,13:30-17:00
 website: ""

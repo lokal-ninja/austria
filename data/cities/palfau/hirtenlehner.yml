@@ -1,11 +1,11 @@
 id: 137054092
-type: way
+type: node
 latitude: 47.7206
 longitude: 14.84219
 postcode: "8923"
 city: Palfau
-street: "Palfau"
-housenumber: 47
+street: Palfau
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

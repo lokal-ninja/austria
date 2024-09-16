@@ -1,11 +1,11 @@
 id: 40261279
-type: way
+type: node
 latitude: 48.21175
 longitude: 16.17352
 postcode: "3002"
 city: Purkersdorf
-street: "Linzer Straße"
-housenumber: 26
+street: Linzer Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

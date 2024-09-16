@@ -1,11 +1,11 @@
 id: 237999345
-type: way
+type: node
 latitude: 48.26059
 longitude: 16.3658
 postcode: "1190"
 city: Wien
-street: "Nußdorfer Platz"
-housenumber: 7
-phone: "+43 59915 01913"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+street: Nußdorfer Platz
+housenumber: "7"
+phone: +43 59915 01913
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

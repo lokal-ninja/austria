@@ -1,11 +1,11 @@
 id: 90764388
-type: way
+type: node
 latitude: 47.5684
 longitude: 14.23094
 postcode: "8940"
 city: Liezen
-street: "Salzburger Straße"
-housenumber: 26
+street: Salzburger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.geomix.at/"
+website: https://www.geomix.at/

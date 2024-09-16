@@ -4,8 +4,8 @@ latitude: 48.18449
 longitude: 16.35808
 postcode: "1050"
 city: Wien
-street: "Vogelsanggasse"
-housenumber: 
+street: Vogelsanggasse
+housenumber: ""
 phone: ""
-opening_hours: "Nach telefonischer Vereinbarung"
+opening_hours: '"Nach telefonischer Vereinbarung"'
 website: ""

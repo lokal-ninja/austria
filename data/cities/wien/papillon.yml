@@ -4,8 +4,8 @@ latitude: 48.24904
 longitude: 16.42983
 postcode: "1220"
 city: Wien
-street: "Tokiostraße"
-housenumber: 7
+street: Tokiostraße
+housenumber: "7"
 phone: ""
-opening_hours: "summer: Mo,Tu,Th,Fr,Sa 09:00-12:00; We 09:00-12:00,15:00-18:00"
-website: "http://www.papillon22.at/"
+opening_hours: 'summer: Mo,Tu,Th,Fr,Sa 09:00-12:00; We 09:00-12:00,15:00-18:00'
+website: http://www.papillon22.at/

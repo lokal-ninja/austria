@@ -1,11 +1,11 @@
 id: 869870698
-type: way
+type: node
 latitude: 48.14827
 longitude: 14.85164
 postcode: "3300"
 city: Ardagger
-street: "Betriebsgebiet Nord"
-housenumber: 4
+street: Betriebsgebiet Nord
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.kuechen-center-amstetten.at/kontakt"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.kuechen-center-amstetten.at/kontakt

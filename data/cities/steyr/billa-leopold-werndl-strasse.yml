@@ -1,11 +1,11 @@
 id: 137380796
-type: way
+type: node
 latitude: 48.02918
 longitude: 14.40984
 postcode: "4400"
 city: Steyr
-street: "Leopold-Werndl-Straße"
-housenumber: 29
+street: Leopold-Werndl-Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

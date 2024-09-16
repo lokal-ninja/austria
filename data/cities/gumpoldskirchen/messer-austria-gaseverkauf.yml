@@ -1,11 +1,11 @@
 id: 288009793
-type: way
+type: node
 latitude: 48.03313
 longitude: 16.28935
 postcode: "2352"
 city: Gumpoldskirchen
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

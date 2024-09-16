@@ -1,11 +1,11 @@
 id: 82761914
-type: way
+type: node
 latitude: 47.39311
 longitude: 15.99094
 postcode: "8234"
 city: Rohrbach an der Lafnitz
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

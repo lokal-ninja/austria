@@ -1,11 +1,11 @@
 id: 216729662
-type: way
+type: node
 latitude: 46.67131
 longitude: 15.49955
 postcode: "8463"
 city: Glanz an der Weinstraße
 street: ""
-housenumber: 40
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "http://www.ferienhof-pronegg.at"
+website: http://www.ferienhof-pronegg.at

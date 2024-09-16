@@ -1,11 +1,11 @@
 id: 378177812
-type: way
+type: node
 latitude: 47.98232
 longitude: 15.07865
 postcode: "3264"
 city: Reinsberg
-street: "Reinsberg"
-housenumber: 63
+street: Reinsberg
+housenumber: "63"
 phone: "+436802152648"
 opening_hours: ""
-website: "https://naehstube-medusa.business.site/"
+website: https://naehstube-medusa.business.site/

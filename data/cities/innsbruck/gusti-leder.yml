@@ -4,8 +4,8 @@ latitude: 47.26676
 longitude: 11.39398
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 5
+street: Maria-Theresien-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 10:00-13:00,14:00-16:00; Fr,Sa 10:00-18:00; PH off"
-website: "https://www.gusti-leder.de"
+opening_hours: Mo-Th 10:00-13:00,14:00-16:00; Fr,Sa 10:00-18:00; PH off
+website: https://www.gusti-leder.de

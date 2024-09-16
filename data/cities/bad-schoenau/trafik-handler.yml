@@ -1,11 +1,11 @@
 id: 246816777
-type: way
+type: node
 latitude: 47.49602
 longitude: 16.23425
 postcode: "2853"
 city: Bad Schönau
-street: "Hauptstraße"
-housenumber: 21
+street: Hauptstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

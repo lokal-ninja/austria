@@ -1,11 +1,11 @@
 id: 153339390
-type: way
+type: node
 latitude: 48.31292
 longitude: 16.1789
 postcode: "3424"
 city: Zeiselmauer-Wolfpassing
-street: "Tullner Straße"
-housenumber: 4
+street: Tullner Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

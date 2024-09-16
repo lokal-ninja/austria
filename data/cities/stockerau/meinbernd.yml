@@ -4,8 +4,8 @@ latitude: 48.39097
 longitude: 16.21831
 postcode: "2000"
 city: Stockerau
-street: "Petzoldgasse"
-housenumber: 12
+street: Petzoldgasse
+housenumber: "12"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

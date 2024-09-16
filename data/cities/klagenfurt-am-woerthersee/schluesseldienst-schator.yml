@@ -4,8 +4,8 @@ latitude: 46.62214
 longitude: 14.30151
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Sponheimerstraße"
-housenumber: 11
+street: Sponheimerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:30,13:30-17:00; Fr 08:00-12:30,13:30-15:30"
-website: "https://www.schator.at"
+opening_hours: Mo-Th 08:00-12:30,13:30-17:00; Fr 08:00-12:30,13:30-15:30
+website: https://www.schator.at

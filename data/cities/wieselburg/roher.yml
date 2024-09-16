@@ -1,11 +1,11 @@
 id: 423227953
-type: way
+type: node
 latitude: 48.11777
 longitude: 15.13665
 postcode: "3250"
 city: Wieselburg
-street: "Gewerbepark Haag"
-housenumber: 1
+street: Gewerbepark Haag
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.roher.at/"
+website: https://www.roher.at/

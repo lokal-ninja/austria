@@ -1,11 +1,11 @@
 id: 176332682
-type: way
+type: node
 latitude: 47.05352
 longitude: 15.12668
 postcode: "8582"
 city: Rosental an der Kainach
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.06409
 longitude: 15.43153
 postcode: "8020"
 city: Graz
-street: "Griesplatz"
-housenumber: 15
+street: Griesplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.etsan.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.etsan.at/

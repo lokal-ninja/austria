@@ -1,11 +1,11 @@
 id: 528286800
-type: way
+type: node
 latitude: 48.25823
 longitude: 15.75607
 postcode: "3141"
 city: Kapelln
-street: "Hauptstraße"
-housenumber: 8
-phone: "+43 2784 77111"
+street: Hauptstraße
+housenumber: "8"
+phone: +43 2784 77111
 opening_hours: ""
 website: ""

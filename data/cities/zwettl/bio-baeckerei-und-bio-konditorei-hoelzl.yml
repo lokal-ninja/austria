@@ -4,8 +4,8 @@ latitude: 48.60427
 longitude: 15.16698
 postcode: "3910"
 city: Zwettl
-street: "Dreifaltigkeitsplatz"
-housenumber: 1
+street: Dreifaltigkeitsplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 06:30-18:30; Su 07:00-18:30"
-website: "https://www.bio-baeckerei.at"
+opening_hours: Tu-Sa 06:30-18:30; Su 07:00-18:30
+website: https://www.bio-baeckerei.at

@@ -1,11 +1,11 @@
 id: 158064733
-type: way
+type: node
 latitude: 47.42155
 longitude: 12.83434
 postcode: "5760"
 city: Saalfelden am Steinernen Meer
-street: "Otto-Gruber-Straße"
-housenumber: 1
+street: Otto-Gruber-Straße
+housenumber: "1"
 phone: "+43658270015"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.bruendl.at/en/locations/saalfelden/saalfelden"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.bruendl.at/en/locations/saalfelden/saalfelden

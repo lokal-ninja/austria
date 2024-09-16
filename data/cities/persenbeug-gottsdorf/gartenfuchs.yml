@@ -1,11 +1,11 @@
 id: 132571975
-type: way
+type: node
 latitude: 48.19654
 longitude: 15.10585
 postcode: "3680"
 city: Persenbeug-Gottsdorf
-street: "Wachaustraße"
-housenumber: 26
+street: Wachaustraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

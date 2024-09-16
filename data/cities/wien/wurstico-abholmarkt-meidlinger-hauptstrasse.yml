@@ -4,8 +4,8 @@ latitude: 48.17467
 longitude: 16.33011
 postcode: "1120"
 city: Wien
-street: "Meidlinger Hauptstraße"
-housenumber: 80
+street: Meidlinger Hauptstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.wurstico.at"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.wurstico.at

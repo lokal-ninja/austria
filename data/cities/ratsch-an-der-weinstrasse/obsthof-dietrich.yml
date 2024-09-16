@@ -1,11 +1,11 @@
 id: 208830147
-type: way
+type: node
 latitude: 46.71113
 longitude: 15.57691
 postcode: "8461"
 city: Ratsch an der Weinstraße
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.obsthof-dietrich.at/"
+website: https://www.obsthof-dietrich.at/

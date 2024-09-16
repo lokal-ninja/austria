@@ -1,11 +1,11 @@
 id: 86641789
-type: way
+type: node
 latitude: 48.60249
 longitude: 15.18219
 postcode: "3910"
 city: Zwettl
-street: "Kremser Straße"
-housenumber: 50
+street: Kremser Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

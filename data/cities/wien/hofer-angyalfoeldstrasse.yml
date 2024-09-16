@@ -1,11 +1,11 @@
 id: 89982144
-type: way
+type: node
 latitude: 48.25285
 longitude: 16.42683
 postcode: "1210"
 city: Wien
-street: "Angyalföldstraße"
-housenumber: 137
+street: Angyalföldstraße
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

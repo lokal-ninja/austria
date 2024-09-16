@@ -5,7 +5,7 @@ longitude: 16.34762
 postcode: "1070"
 city: Wien
 street: ""
-housenumber: 59
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

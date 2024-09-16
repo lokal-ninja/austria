@@ -4,8 +4,8 @@ latitude: 47.26596
 longitude: 11.39429
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 21
-phone: "+43 50884 2950"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off"
-website: "https://www.tui.at/reisebuero/tirol/innsbruck/tui-das-reisebuero-innsbruck"
+street: Maria-Theresien-Straße
+housenumber: "21"
+phone: +43 50884 2950
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00; PH off
+website: https://www.tui.at/reisebuero/tirol/innsbruck/tui-das-reisebuero-innsbruck

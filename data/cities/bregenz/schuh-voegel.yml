@@ -4,8 +4,8 @@ latitude: 47.50253
 longitude: 9.74669
 postcode: "6900"
 city: Bregenz
-street: "Kaiserstraße"
-housenumber: 3
-phone: "+43 5574 42846"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.schuhvoegel.at/"
+street: Kaiserstraße
+housenumber: "3"
+phone: +43 5574 42846
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.schuhvoegel.at/

@@ -1,11 +1,11 @@
 id: 127789567
-type: way
+type: node
 latitude: 47.16551
 longitude: 11.86255
 postcode: "6290"
 city: Mayrhofen
-street: "Hauptstraße"
-housenumber: 
+street: Hauptstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

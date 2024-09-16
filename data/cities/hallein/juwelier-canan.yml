@@ -1,11 +1,11 @@
 id: 258490428
-type: way
+type: node
 latitude: 47.68293
 longitude: 13.09198
 postcode: "5400"
 city: Hallein
-street: "Wichtlhuberstraße"
-housenumber: 8
+street: Wichtlhuberstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "http://www.juwelier-canan.at/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: http://www.juwelier-canan.at/

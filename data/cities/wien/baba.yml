@@ -4,8 +4,8 @@ latitude: 48.20022
 longitude: 16.39304
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 84
-phone: "+43 800 500 610"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://baba.wien"
+street: Landstraßer Hauptstraße
+housenumber: "84"
+phone: +43 800 500 610
+opening_hours: Mo-Fr 08:00-16:00
+website: https://baba.wien

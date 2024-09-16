@@ -4,8 +4,8 @@ latitude: 48.19682
 longitude: 16.34965
 postcode: "1060"
 city: Wien
-street: "Esterházygasse"
-housenumber: 26
-phone: "+43 1 595 52 55"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.liebens-wert.at/"
+street: Esterházygasse
+housenumber: "26"
+phone: +43 1 595 52 55
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.liebens-wert.at/

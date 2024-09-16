@@ -4,8 +4,8 @@ latitude: 48.31111
 longitude: 16.60758
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-17:00"
-website: "https://www.freizeitmobile.at"
+opening_hours: Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-17:00
+website: https://www.freizeitmobile.at

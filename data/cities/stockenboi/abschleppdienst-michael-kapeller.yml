@@ -1,11 +1,11 @@
 id: 517090487
-type: way
+type: node
 latitude: 46.74803
 longitude: 13.56343
 postcode: "9713"
 city: Stockenboi
 street: ""
-housenumber: 27
-phone: "+43 4761 387"
+housenumber: "27"
+phone: +43 4761 387
 opening_hours: ""
 website: ""

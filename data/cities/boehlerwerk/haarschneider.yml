@@ -4,8 +4,8 @@ latitude: 47.98696
 longitude: 14.74453
 postcode: "3333"
 city: Böhlerwerk
-street: "Dr.-Theodor-Körner-Hof"
-housenumber: 7
+street: Dr.-Theodor-Körner-Hof
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 08:30-19:00; Sa 07:30-13:00"
-website: "http://www.haarschneider-mostviertel.at/Boehlerwerk/"
+opening_hours: Tu-Fr 08:30-19:00; Sa 07:30-13:00
+website: http://www.haarschneider-mostviertel.at/Boehlerwerk/

@@ -4,8 +4,8 @@ latitude: 48.21291
 longitude: 16.36405
 postcode: "1010"
 city: Wien
-street: "Helferstorferstraße"
-housenumber: 2
+street: Helferstorferstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.aerztezentrale.co.at/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.aerztezentrale.co.at/

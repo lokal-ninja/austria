@@ -4,8 +4,8 @@ latitude: 48.17302
 longitude: 16.37726
 postcode: "1100"
 city: Wien
-street: "Reumannplatz"
-housenumber: 9
+street: Reumannplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-15:00"
-website: "dasdruckhaus.at"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-15:00
+website: dasdruckhaus.at

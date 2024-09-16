@@ -4,8 +4,8 @@ latitude: 48.21483
 longitude: 16.34827
 postcode: "1080"
 city: Wien
-street: "Skodagasse"
-housenumber: 25
-phone: "+1 40 55 927"
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-12:00, 14:00-18:00; Sa 09:00-14:00"
-website: "https://www.schneiderservice.at/"
+street: Skodagasse
+housenumber: "25"
+phone: +1 40 55 927
+opening_hours: Mo-Th 08:30-18:00; Fr 08:30-12:00, 14:00-18:00; Sa 09:00-14:00
+website: https://www.schneiderservice.at/

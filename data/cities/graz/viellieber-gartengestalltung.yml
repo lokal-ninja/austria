@@ -1,11 +1,11 @@
 id: 143014427
-type: way
+type: node
 latitude: 47.05238
 longitude: 15.47518
 postcode: "8042"
 city: Graz
-street: "Dr.-Pfaff-Gasse"
-housenumber: 5
+street: Dr.-Pfaff-Gasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

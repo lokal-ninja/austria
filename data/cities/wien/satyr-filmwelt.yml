@@ -4,8 +4,8 @@ latitude: 48.20498
 longitude: 16.37195
 postcode: "1010"
 city: Wien
-street: "Johannesgasse"
-housenumber: 4
+street: Johannesgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 14:00-21:00"
+opening_hours: Mo-Su 14:00-21:00
 website: ""

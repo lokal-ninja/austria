@@ -1,11 +1,11 @@
 id: 204582104
-type: way
+type: node
 latitude: 48.01422
 longitude: 15.15534
 postcode: "3270"
 city: Scheibbs
-street: "Punzenauweg"
-housenumber: 11
+street: Punzenauweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:45-12:00, 13:30-18:00; Sa 08:00-12:00"
-website: "http://www.griessler.com/"
+opening_hours: Mo-Fr 07:45-12:00, 13:30-18:00; Sa 08:00-12:00
+website: http://www.griessler.com/

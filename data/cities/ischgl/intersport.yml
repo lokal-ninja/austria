@@ -1,11 +1,11 @@
 id: 246634729
-type: way
+type: node
 latitude: 47.01085
 longitude: 10.2907
 postcode: "6561"
 city: Ischgl
-street: "Dorfstraße"
-housenumber: 64
+street: Dorfstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00; PH,Su 08:30-18:00"
+opening_hours: Mo-Sa 08:30-19:00; PH,Su 08:30-18:00
 website: ""

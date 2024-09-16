@@ -4,8 +4,8 @@ latitude: 48.226
 longitude: 16.34534
 postcode: "1180"
 city: Wien
-street: "Währinger Straße"
-housenumber: 106
-phone: "+43 664 4796363"
-opening_hours: "nach Vereinbarung"
+street: Währinger Straße
+housenumber: "106"
+phone: +43 664 4796363
+opening_hours: '"nach Vereinbarung"'
 website: ""

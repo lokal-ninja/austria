@@ -4,8 +4,8 @@ latitude: 48.25345
 longitude: 16.4219
 postcode: "1210"
 city: Wien
-street: "Donaufelder Straße"
-housenumber: 101
-phone: "+43-699 1083 4962"
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:00-13:00"
+street: Donaufelder Straße
+housenumber: "101"
+phone: +43-699 1083 4962
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:00-13:00
 website: ""

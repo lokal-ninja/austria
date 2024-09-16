@@ -1,11 +1,11 @@
 id: 338819904
-type: way
+type: node
 latitude: 47.89535
 longitude: 16.64879
 postcode: "7082"
 city: Donnerskirchen
-street: "Neusiedler Straße"
-housenumber: 15
+street: Neusiedler Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

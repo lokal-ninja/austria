@@ -1,11 +1,11 @@
 id: 93913535
-type: way
+type: node
 latitude: 47.15491
 longitude: 11.72602
 postcode: "6293"
 city: Tux
 street: ""
-housenumber: 439
-phone: "+43 5287 87245"
-opening_hours: "Mo-Fr 07:15-18:15; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-lanersbach-tux-6293-nr-439"
+housenumber: "439"
+phone: +43 5287 87245
+opening_hours: Mo-Fr 07:15-18:15; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-lanersbach-tux-6293-nr-439

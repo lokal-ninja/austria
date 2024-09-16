@@ -1,11 +1,11 @@
 id: 331677386
-type: way
+type: node
 latitude: 48.15112
 longitude: 15.53926
 postcode: "3200"
 city: Ober-Grafendorf
-street: "Manker Straße"
-housenumber: 10
+street: Manker Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

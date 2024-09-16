@@ -1,11 +1,11 @@
 id: 202522318
-type: way
+type: node
 latitude: 47.04229
 longitude: 15.43072
 postcode: "8055"
 city: Graz
-street: "Eyslergasse"
-housenumber: 11
-phone: "+43 316 292470"
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-14:00"
-website: "http://www.lackierung-design.at/"
+street: Eyslergasse
+housenumber: "11"
+phone: +43 316 292470
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-14:00
+website: http://www.lackierung-design.at/

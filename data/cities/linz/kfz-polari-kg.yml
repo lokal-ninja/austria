@@ -1,11 +1,11 @@
 id: 78256419
-type: way
+type: node
 latitude: 48.3447
 longitude: 14.29416
 postcode: "4040"
 city: Linz
-street: "Leonfeldner Straße"
-housenumber: 274
+street: Leonfeldner Straße
+housenumber: "274"
 phone: "+436604424550"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.kfzpolari.at/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.kfzpolari.at/

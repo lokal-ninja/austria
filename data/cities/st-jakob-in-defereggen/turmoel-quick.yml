@@ -1,11 +1,11 @@
 id: 477778366
-type: way
+type: node
 latitude: 46.9152
 longitude: 12.33369
 postcode: "9963"
 city: St. Jakob in Defereggen
 street: ""
-housenumber: 50
+housenumber: "50"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

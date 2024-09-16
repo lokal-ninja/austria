@@ -1,11 +1,11 @@
 id: 141523561
-type: way
+type: node
 latitude: 48.15943
 longitude: 15.10568
 postcode: "3254"
 city: Bergland
-street: "Bergland Center"
-housenumber: 1
+street: Bergland Center
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

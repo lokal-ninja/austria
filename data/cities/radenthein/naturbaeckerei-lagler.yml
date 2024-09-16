@@ -4,8 +4,8 @@ latitude: 46.80024
 longitude: 13.70267
 postcode: "9545"
 city: Radenthein
-street: "Hauptstraße"
-housenumber: 53
+street: Hauptstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-12:00"
-website: "https://www.lagler.at/shop/?L=0"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-12:00
+website: https://www.lagler.at/shop/?L=0

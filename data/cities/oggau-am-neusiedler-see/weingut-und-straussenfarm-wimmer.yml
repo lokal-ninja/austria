@@ -1,11 +1,11 @@
 id: 616117490
-type: way
+type: node
 latitude: 47.83149
 longitude: 16.66443
 postcode: "7063"
 city: Oggau am Neusiedler See
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

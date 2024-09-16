@@ -1,11 +1,11 @@
 id: 128088497
-type: way
+type: node
 latitude: 47.93264
 longitude: 16.22788
 postcode: "2544"
 city: Schönau a. d. Triesting
-street: "Auerspergstraße"
-housenumber: 17
-phone: "+43 2256 62474"
+street: Auerspergstraße
+housenumber: "17"
+phone: +43 2256 62474
 opening_hours: ""
-website: "https://garden-plank.at/"
+website: https://garden-plank.at/

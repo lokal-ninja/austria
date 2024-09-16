@@ -1,11 +1,11 @@
 id: 288192572
-type: way
+type: node
 latitude: 48.10457
 longitude: 14.82745
 postcode: "3362"
 city: Amstetten
-street: "Dieselstraße"
-housenumber: 10
+street: Dieselstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

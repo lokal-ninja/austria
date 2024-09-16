@@ -1,11 +1,11 @@
 id: 127551112
-type: way
+type: node
 latitude: 47.23571
 longitude: 9.62993
 postcode: "6811"
 city: Göfis
-street: "Oberdorf"
-housenumber: 3
+street: Oberdorf
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
 website: ""

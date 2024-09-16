@@ -4,8 +4,8 @@ latitude: 48.2063
 longitude: 15.62451
 postcode: "3100"
 city: St. Pölten
-street: "Kremser Gasse"
-housenumber: 
+street: Kremser Gasse
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 09:00-13:00"
-website: "http://www.oeckher.com"
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 09:00-13:00
+website: http://www.oeckher.com

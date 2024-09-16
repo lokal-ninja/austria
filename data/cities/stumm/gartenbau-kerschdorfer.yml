@@ -1,11 +1,11 @@
 id: 132537313
-type: way
+type: node
 latitude: 47.27935
 longitude: 11.89674
 postcode: "6275"
 city: Stumm
-street: "Wäscherweg"
-housenumber: 7
+street: Wäscherweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

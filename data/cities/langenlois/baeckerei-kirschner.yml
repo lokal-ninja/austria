@@ -1,11 +1,11 @@
 id: 122941802
-type: way
+type: node
 latitude: 48.47192
 longitude: 15.67689
 postcode: "3550"
 city: Langenlois
-street: "Kirchenplatz"
-housenumber: 6
+street: Kirchenplatz
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

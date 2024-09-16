@@ -1,11 +1,11 @@
 id: 443833530
-type: way
+type: node
 latitude: 47.78703
 longitude: 16.25676
 postcode: "2801"
 city: Katzelsdorf
-street: "Gewerbepark"
-housenumber: 2
-phone: "+43 2622 78333"
+street: Gewerbepark
+housenumber: "2"
+phone: +43 2622 78333
 opening_hours: ""
-website: "https://www.hanika.at/"
+website: https://www.hanika.at/

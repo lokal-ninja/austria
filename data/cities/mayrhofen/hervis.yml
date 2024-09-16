@@ -1,11 +1,11 @@
 id: 129024435
-type: way
+type: node
 latitude: 47.16691
 longitude: 11.86119
 postcode: "6290"
 city: Mayrhofen
-street: "Einfahrt Mitte"
-housenumber: 433
+street: Einfahrt Mitte
+housenumber: "433"
 phone: ""
 opening_hours: ""
 website: ""

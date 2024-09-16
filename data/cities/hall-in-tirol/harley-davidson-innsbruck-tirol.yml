@@ -4,8 +4,9 @@ latitude: 47.27826
 longitude: 11.49754
 postcode: "6060"
 city: Hall in Tirol
-street: "Innsbrucker Straße"
-housenumber: 11
-phone: "+43 5223 21410"
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:30-13:00; Su,PH off || Samstag Werkstatt geschlossen"
-website: "https://www.harley-tirol.at/"
+street: Innsbrucker Straße
+housenumber: "11"
+phone: +43 5223 21410
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:30-13:00; Su,PH off || "Samstag
+    Werkstatt geschlossen"
+website: https://www.harley-tirol.at/

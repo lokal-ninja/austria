@@ -4,8 +4,8 @@ latitude: 48.08635
 longitude: 16.29289
 postcode: "2340"
 city: Mödling
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

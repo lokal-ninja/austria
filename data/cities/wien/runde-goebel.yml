@@ -1,11 +1,11 @@
 id: 311585354
-type: way
+type: node
 latitude: 48.14065
 longitude: 16.43848
 postcode: "1110"
 city: Wien
-street: "Sofie-Lazarsfeld-Straße"
-housenumber: 9
+street: Sofie-Lazarsfeld-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.putzereigoebel.at/"
+website: https://www.putzereigoebel.at/

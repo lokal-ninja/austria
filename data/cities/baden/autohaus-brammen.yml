@@ -1,11 +1,11 @@
 id: 44921258
-type: way
+type: node
 latitude: 47.99575
 longitude: 16.2275
 postcode: "2500"
 city: Baden
-street: "Vöslauer Straße"
-housenumber: 97
+street: Vöslauer Straße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-11:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-11:00
 website: ""

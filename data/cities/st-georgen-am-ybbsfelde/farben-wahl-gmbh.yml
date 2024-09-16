@@ -1,11 +1,11 @@
 id: 241886277
-type: way
+type: node
 latitude: 48.11401
 longitude: 14.9214
 postcode: "3304"
 city: St. Georgen am Ybbsfelde
-street: "Wadsakstraße"
-housenumber: 11
+street: Wadsakstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.farbenwahl.at/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.farbenwahl.at/

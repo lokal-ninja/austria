@@ -4,8 +4,8 @@ latitude: 47.31239
 longitude: 10.01637
 postcode: "6886"
 city: Schoppernau
-street: "Unterdorf"
-housenumber: 248
+street: Unterdorf
+housenumber: "248"
 phone: ""
-opening_hours: "Mo-Sa 08:30-11:30, Mo-Fr 15:00-18:00, Sa 15:00-17:00"
-website: "https://www.bergkaeserei.at/"
+opening_hours: Mo-Sa 08:30-11:30, Mo-Fr 15:00-18:00, Sa 15:00-17:00
+website: https://www.bergkaeserei.at/

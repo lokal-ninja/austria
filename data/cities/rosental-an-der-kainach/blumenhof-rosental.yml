@@ -1,11 +1,11 @@
 id: 328456188
-type: way
+type: node
 latitude: 47.05206
 longitude: 15.12994
 postcode: "8582"
 city: Rosental an der Kainach
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.koelblumen.at/de/standorte/blumen/graz-umgebung/leibnitz/voitsberg/rosental/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.koelblumen.at/de/standorte/blumen/graz-umgebung/leibnitz/voitsberg/rosental/

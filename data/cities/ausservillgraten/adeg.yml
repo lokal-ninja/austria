@@ -5,7 +5,7 @@ longitude: 12.43006
 postcode: "9931"
 city: Außervillgraten
 street: ""
-housenumber: 143
-phone: "+43 4843 5202"
-opening_hours: "Mo-Fr 07:45-12:00,15:00-18:00; Sa 07:45-12:00; PH off"
-website: "https://www.adeg.at"
+housenumber: "143"
+phone: +43 4843 5202
+opening_hours: Mo-Fr 07:45-12:00,15:00-18:00; Sa 07:45-12:00; PH off
+website: https://www.adeg.at

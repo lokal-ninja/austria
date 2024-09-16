@@ -4,8 +4,8 @@ latitude: 47.06631
 longitude: 15.0804
 postcode: "8580"
 city: Köflach
-street: "Griesgasse"
-housenumber: 15
+street: Griesgasse
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:30"
-website: "https://www.ellersdorfer-wein.at/startseite-1"
+opening_hours: Mo-Sa 10:00-22:30
+website: https://www.ellersdorfer-wein.at/startseite-1

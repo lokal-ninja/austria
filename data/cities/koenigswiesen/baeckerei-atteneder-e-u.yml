@@ -1,11 +1,11 @@
 id: 220728770
-type: way
+type: node
 latitude: 48.35987
 longitude: 14.79424
 postcode: "4281"
 city: Königswiesen
-street: "Hauptstraße"
-housenumber: 29
+street: Hauptstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

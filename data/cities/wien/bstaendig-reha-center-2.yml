@@ -4,8 +4,8 @@ latitude: 48.21733
 longitude: 16.33924
 postcode: "1170"
 city: Wien
-street: "Theresiengasse"
-housenumber: 48
+street: Theresiengasse
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "https://www.bstaendig.at"
+website: https://www.bstaendig.at

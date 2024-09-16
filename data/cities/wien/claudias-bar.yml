@@ -1,11 +1,11 @@
 id: 66984957
-type: way
+type: node
 latitude: 48.18311
 longitude: 16.37385
 postcode: "1100"
 city: Wien
-street: "Laxenburger Straße"
-housenumber: 11
+street: Laxenburger Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

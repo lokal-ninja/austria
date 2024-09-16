@@ -1,11 +1,11 @@
 id: 268276649
-type: way
+type: node
 latitude: 48.31609
 longitude: 15.19973
 postcode: "3650"
 city: Pöggstall
-street: "Sparkassenstraße"
-housenumber: 2
-phone: "+432758/2216"
+street: Sparkassenstraße
+housenumber: "2"
+phone: +432758/2216
 opening_hours: ""
 website: ""

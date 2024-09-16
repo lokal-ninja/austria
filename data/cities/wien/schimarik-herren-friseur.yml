@@ -1,11 +1,12 @@
 id: 98230549
-type: way
+type: node
 latitude: 48.23574
 longitude: 16.46327
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 79
-phone: "+43 1 2520756"
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-12:00; ,14:00-20:00; Sa 09:00-18:00"
-website: "schimarik.at"
+street: Hirschstettner Straße
+housenumber: "79"
+phone: +43 1 2520756
+opening_hours: Mo-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-12:00; ,14:00-20:00; Sa
+    09:00-18:00
+website: schimarik.at

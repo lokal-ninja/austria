@@ -1,11 +1,11 @@
 id: 164176718
-type: way
+type: node
 latitude: 47.17089
 longitude: 14.64002
 postcode: "8750"
 city: Judenburg
-street: "Burggasse"
-housenumber: 110
-phone: "+43 3572 85333"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://bmw-neuper-judenburg.at/"
+street: Burggasse
+housenumber: "110"
+phone: +43 3572 85333
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://bmw-neuper-judenburg.at/

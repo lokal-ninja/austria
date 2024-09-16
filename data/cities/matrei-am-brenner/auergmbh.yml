@@ -1,11 +1,11 @@
 id: 136141398
-type: way
+type: node
 latitude: 47.11917
 longitude: 11.45018
 postcode: "6143"
 city: Matrei am Brenner
-street: "Statz"
-housenumber: 92
+street: Statz
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

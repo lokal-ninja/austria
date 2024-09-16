@@ -1,11 +1,11 @@
 id: 826500659
-type: way
+type: node
 latitude: 48.13231
 longitude: 16.35204
 postcode: "1230"
 city: Wien
-street: "Vorarlberger Allee"
-housenumber: 5
+street: Vorarlberger Allee
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.birdy.at/"
+website: https://www.birdy.at/

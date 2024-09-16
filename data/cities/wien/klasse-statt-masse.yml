@@ -4,8 +4,8 @@ latitude: 48.2101
 longitude: 16.3468
 postcode: "1080"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 50
-phone: "+43 1 405 27 51"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.klassestattmasse.at/"
+street: Josefstädter Straße
+housenumber: "50"
+phone: +43 1 405 27 51
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.klassestattmasse.at/

@@ -1,11 +1,11 @@
 id: 88519406
-type: way
+type: node
 latitude: 48.35094
 longitude: 15.7458
 postcode: "3133"
 city: Traismauer
-street: "Gartenring"
-housenumber: 8
+street: Gartenring
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

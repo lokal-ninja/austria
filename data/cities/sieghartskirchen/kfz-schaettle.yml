@@ -1,11 +1,11 @@
 id: 1005039803
-type: way
+type: node
 latitude: 48.2572
 longitude: 16.00509
 postcode: "3443"
 city: Sieghartskirchen
-street: "Ziegelofenstraße"
-housenumber: 2
-phone: "+43 2274 468 43"
+street: Ziegelofenstraße
+housenumber: "2"
+phone: +43 2274 468 43
 opening_hours: ""
-website: "https://www.kfz-schaettle.at/"
+website: https://www.kfz-schaettle.at/

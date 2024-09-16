@@ -4,8 +4,8 @@ latitude: 47.49263
 longitude: 9.72512
 postcode: "6900"
 city: Bregenz
-street: "Michael-Gaismayr-Straße"
-housenumber: 31
+street: Michael-Gaismayr-Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:15-13:00,14:30-18:30; Sa 07:15-13:00; Su 08:30-10:30"
-website: "https://www.spar.at/content/website_spar_at/de_AT/index/standorte/69/spar_markt_salihciftci_4177.html"
+opening_hours: Mo-Fr 07:15-13:00,14:30-18:30; Sa 07:15-13:00; Su 08:30-10:30
+website: https://www.spar.at/content/website_spar_at/de_AT/index/standorte/69/spar_markt_salihciftci_4177.html

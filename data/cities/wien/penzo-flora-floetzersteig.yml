@@ -1,11 +1,11 @@
 id: 336130495
-type: way
+type: node
 latitude: 48.20481
 longitude: 16.2817
 postcode: "1140"
 city: Wien
-street: "Flötzersteig"
-housenumber: 182
-phone: "+43 1 911 79 69"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-18:00"
-website: "https://www.penzo-flora.at/"
+street: Flötzersteig
+housenumber: "182"
+phone: +43 1 911 79 69
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-18:00
+website: https://www.penzo-flora.at/

@@ -1,11 +1,11 @@
 id: 617516314
-type: way
+type: node
 latitude: 48.20215
 longitude: 15.51337
 postcode: "3385"
 city: Prinzersdorf
-street: "Linzerstraße"
-housenumber: 16
-phone: "+43 2749 2318"
-opening_hours: "Mo-Fr 06:15-18:30; Sa 07:15-18:00; Su off"
-website: "https://www.spar.at/"
+street: Linzerstraße
+housenumber: "16"
+phone: +43 2749 2318
+opening_hours: Mo-Fr 06:15-18:30; Sa 07:15-18:00; Su off
+website: https://www.spar.at/

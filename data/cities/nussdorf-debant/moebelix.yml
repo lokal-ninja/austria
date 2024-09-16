@@ -1,11 +1,11 @@
 id: 992205233
-type: way
+type: node
 latitude: 46.82832
 longitude: 12.80945
 postcode: "9990"
 city: Nussdorf-Debant
-street: "Drautal Bundesstraße"
-housenumber: 5
+street: Drautal Bundesstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

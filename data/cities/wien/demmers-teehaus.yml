@@ -4,8 +4,8 @@ latitude: 48.19973
 longitude: 16.36485
 postcode: "1060"
 city: Wien
-street: "Linke Wienzeile"
-housenumber: 4
+street: Linke Wienzeile
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00, Sa 09:00-14:00; Su,PH off, Mo-Sa 14:30-18:00"
-website: "https://www.tee.at/"
+opening_hours: Mo-Fr 10:00-14:00, Sa 09:00-14:00; Su,PH off, Mo-Sa 14:30-18:00
+website: https://www.tee.at/

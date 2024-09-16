@@ -1,11 +1,11 @@
 id: 167297439
-type: way
+type: node
 latitude: 46.7212
 longitude: 15.55522
 postcode: "8462"
 city: Gamlitz
-street: "Untere Hauptstraße"
-housenumber: 369
+street: Untere Hauptstraße
+housenumber: "369"
 phone: ""
-opening_hours: "Mo-Fr 07:40-19:00; Sa 07:40-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:40-19:00; Sa 07:40-18:00; Su,PH off
 website: ""

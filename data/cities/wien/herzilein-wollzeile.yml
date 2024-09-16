@@ -4,8 +4,8 @@ latitude: 48.20857
 longitude: 16.37608
 postcode: "1010"
 city: Wien
-street: "Wollzeile"
-housenumber: 17
+street: Wollzeile
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.herzilein-wien.at/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.herzilein-wien.at/

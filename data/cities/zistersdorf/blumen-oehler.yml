@@ -1,11 +1,11 @@
 id: 299424058
-type: way
+type: node
 latitude: 48.54496
 longitude: 16.76261
 postcode: "2225"
 city: Zistersdorf
-street: "Kirchenplatz"
-housenumber: 13
+street: Kirchenplatz
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.blumen-oehler.at/"
+website: https://www.blumen-oehler.at/

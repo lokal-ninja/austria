@@ -4,8 +4,9 @@ latitude: 47.00085
 longitude: 12.53978
 postcode: "9971"
 city: Matrei in Osttirol
-street: "Pattergasse"
-housenumber: 5
-phone: "+43-4875-6711"
-opening_hours: "Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-18:00; Su,PH 08:00-12:00, 15:30-17:30"
-website: "https://www.sportsteiner.at/"
+street: Pattergasse
+housenumber: "5"
+phone: +43-4875-6711
+opening_hours: Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-18:00; Su,PH 08:00-12:00,
+    15:30-17:30
+website: https://www.sportsteiner.at/

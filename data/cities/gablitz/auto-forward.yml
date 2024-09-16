@@ -1,11 +1,11 @@
 id: 884070894
-type: way
+type: node
 latitude: 48.23625
 longitude: 16.14066
 postcode: "3003"
 city: Gablitz
-street: "Linzer Straße"
-housenumber: 165
-phone: "+43 660 6622068"
-opening_hours: "Mo-Th 10:00-17:00; Fr 10:00-16:00"
-website: "www.auto-forward.at"
+street: Linzer Straße
+housenumber: "165"
+phone: +43 660 6622068
+opening_hours: Mo-Th 10:00-17:00; Fr 10:00-16:00
+website: www.auto-forward.at

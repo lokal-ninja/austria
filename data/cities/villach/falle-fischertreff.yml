@@ -4,8 +4,8 @@ latitude: 46.60417
 longitude: 13.87424
 postcode: "9500"
 city: Villach
-street: "Maria-Gailer-Straße"
-housenumber: 59
+street: Maria-Gailer-Straße
+housenumber: "59"
 phone: "+43424232540"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.falle.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.falle.at/

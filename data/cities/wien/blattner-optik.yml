@@ -4,8 +4,8 @@ latitude: 48.21703
 longitude: 16.48844
 postcode: "1220"
 city: Wien
-street: "Groß-Enzersdorfer Straße"
-housenumber: 2
-phone: "+43 1 283 91 77"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "http://www.optik-blattner.at/"
+street: Groß-Enzersdorfer Straße
+housenumber: "2"
+phone: +43 1 283 91 77
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: http://www.optik-blattner.at/

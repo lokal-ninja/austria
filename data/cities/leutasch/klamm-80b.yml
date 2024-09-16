@@ -1,11 +1,11 @@
 id: 168358613
-type: way
+type: node
 latitude: 47.3612
 longitude: 11.12387
 postcode: "6105"
 city: Leutasch
 street: ""
 housenumber: 80b
-phone: "+43 5214 20368"
-opening_hours: "We 14:00-18:00; Fr,Sa 08:30-12:00"
-website: "https://www.klamm80b.at/"
+phone: +43 5214 20368
+opening_hours: We 14:00-18:00; Fr,Sa 08:30-12:00
+website: https://www.klamm80b.at/

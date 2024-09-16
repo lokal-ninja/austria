@@ -1,11 +1,11 @@
 id: 267665281
-type: way
+type: node
 latitude: 46.79377
 longitude: 15.53506
 postcode: "8430"
 city: Leibnitz
-street: "Frauengasse"
-housenumber: 6
+street: Frauengasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.klein.cc/"
+website: https://www.klein.cc/

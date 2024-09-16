@@ -1,11 +1,11 @@
 id: 216729891
-type: way
+type: node
 latitude: 46.65946
 longitude: 15.48676
 postcode: "8463"
 city: Glanz an der Weinstraße
 street: ""
-housenumber: 97
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "http://www.weinbau-bernhard.at"
+website: http://www.weinbau-bernhard.at

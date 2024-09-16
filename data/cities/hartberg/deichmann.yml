@@ -4,8 +4,8 @@ latitude: 47.28119
 longitude: 15.99475
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 12
-phone: "+43 3332 63075"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.deichmann.com/AT/de/shop"
+street: Im Hatric
+housenumber: "12"
+phone: +43 3332 63075
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.deichmann.com/AT/de/shop

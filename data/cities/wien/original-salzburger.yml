@@ -4,8 +4,8 @@ latitude: 48.20677
 longitude: 16.37324
 postcode: "1010"
 city: Wien
-street: "Weihburggasse"
-housenumber: 8
-phone: "+43 1 5131673"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.originalsalzburger.at/"
+street: Weihburggasse
+housenumber: "8"
+phone: +43 1 5131673
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.originalsalzburger.at/

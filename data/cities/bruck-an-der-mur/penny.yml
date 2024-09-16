@@ -1,11 +1,11 @@
 id: 100592610
-type: way
+type: node
 latitude: 47.40732
 longitude: 15.26303
 postcode: "8600"
 city: Bruck an der Mur
-street: "Dr.-Theodor-Körner-Straße"
-housenumber: 33
+street: Dr.-Theodor-Körner-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

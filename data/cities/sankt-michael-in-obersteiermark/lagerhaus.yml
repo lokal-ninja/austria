@@ -1,11 +1,11 @@
 id: 129759403
-type: way
+type: node
 latitude: 47.34809
 longitude: 15.00901
 postcode: "8770"
 city: Sankt Michael in Obersteiermark
-street: "Bundesstraße"
-housenumber: 57
+street: Bundesstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

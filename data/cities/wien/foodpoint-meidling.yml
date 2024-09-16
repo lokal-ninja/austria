@@ -4,8 +4,8 @@ latitude: 48.16423
 longitude: 16.32926
 postcode: "1120"
 city: Wien
-street: "Andersengasse"
-housenumber: 4
+street: Andersengasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.verein-startup.at/FOODPOINT-Dein-Sozialmarkt/Meidling/"
+website: https://www.verein-startup.at/FOODPOINT-Dein-Sozialmarkt/Meidling/

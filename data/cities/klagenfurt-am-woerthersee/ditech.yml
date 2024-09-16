@@ -4,8 +4,8 @@ latitude: 46.61472
 longitude: 14.31961
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Südpark"
-housenumber: 1
+street: Südpark
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"
-website: "https://www.ditech.at"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00
+website: https://www.ditech.at

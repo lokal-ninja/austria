@@ -1,11 +1,11 @@
 id: 255027647
-type: way
+type: node
 latitude: 48.03541
 longitude: 16.78709
 postcode: "2460"
 city: Bruck an der Leitha
-street: "Alter Hainburger Weg"
+street: Alter Hainburger Weg
 housenumber: 2b
-phone: "+43 2162 20666"
+phone: +43 2162 20666
 opening_hours: ""
-website: "http://www.autodiskont.at/"
+website: http://www.autodiskont.at/

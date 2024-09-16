@@ -1,11 +1,11 @@
 id: 59189335
-type: way
+type: node
 latitude: 48.32756
 longitude: 14.31318
 postcode: "4040"
 city: Linz
-street: "Mostnystraße"
-housenumber: 8
+street: Mostnystraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,12:45-17:30; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-12:00,12:45-17:30; Sa 09:00-12:00
 website: ""

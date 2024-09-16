@@ -1,11 +1,11 @@
 id: 1121207001
-type: way
+type: node
 latitude: 48.03134
 longitude: 15.76374
 postcode: "3170"
 city: Hainfeld
-street: "Kirchtal"
-housenumber: 3
+street: Kirchtal
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://kirchtalfisch.at/"
+website: https://kirchtalfisch.at/

@@ -1,11 +1,11 @@
 id: 67807146
-type: way
+type: node
 latitude: 47.382
 longitude: 13.41811
 postcode: "5541"
 city: Altenmarkt im Pongau
-street: "Oberndorferstraße"
-housenumber: 2
+street: Oberndorferstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366850304
-type: way
+type: node
 latitude: 48.09954
 longitude: 16.41834
 postcode: "2326"
 city: Maria-Lanzendorf
-street: "Wiener Straße"
-housenumber: 2
+street: Wiener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

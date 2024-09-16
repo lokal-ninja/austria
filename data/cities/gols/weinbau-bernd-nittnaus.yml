@@ -4,8 +4,8 @@ latitude: 47.90041
 longitude: 16.90441
 postcode: "7122"
 city: Gols
-street: "Obere Hauptstraße"
-housenumber: 34
+street: Obere Hauptstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Bac VEREINBARUNG"
-website: "https://www.nittnaus-wein.at/"
+opening_hours: '"Bac VEREINBARUNG"'
+website: https://www.nittnaus-wein.at/

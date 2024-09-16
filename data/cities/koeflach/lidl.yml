@@ -1,11 +1,11 @@
 id: 183403818
-type: way
+type: node
 latitude: 47.06418
 longitude: 15.0889
 postcode: "8580"
 city: Köflach
-street: "Josef-Gauby-Straße"
-housenumber: 3
+street: Josef-Gauby-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

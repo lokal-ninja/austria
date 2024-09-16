@@ -4,8 +4,8 @@ latitude: 47.25794
 longitude: 11.39677
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
-housenumber: 38
-phone: "+43 512 585844"
-opening_hours: "Mo-Th 09:00-12:00, Mo-Fr 14:00-17:00, Fr,Sa 10:00-12:00; PH off"
-website: "http://www.bier-biendl.at"
+street: Leopoldstraße
+housenumber: "38"
+phone: +43 512 585844
+opening_hours: Mo-Th 09:00-12:00, Mo-Fr 14:00-17:00, Fr,Sa 10:00-12:00; PH off
+website: http://www.bier-biendl.at

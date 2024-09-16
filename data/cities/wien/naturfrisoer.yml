@@ -4,8 +4,8 @@ latitude: 48.25426
 longitude: 16.45766
 postcode: "1220"
 city: Wien
-street: "Rennbahnweg"
-housenumber: 
+street: Rennbahnweg
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 09:00-18:00; Th 09:00-19:00"
+opening_hours: Mo,Tu,We,Fr 09:00-18:00; Th 09:00-19:00
 website: ""

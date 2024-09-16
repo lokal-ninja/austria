@@ -1,11 +1,11 @@
 id: 108643753
-type: way
+type: node
 latitude: 48.1594
 longitude: 14.0234
 postcode: "4600"
 city: Wels
-street: "Kaiser-Josef-Platz"
-housenumber: 14
-phone: "+43 7242 66841"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.kuoni.at/filialen-travelpartner/filialdetails/kuoni-wels/"
+street: Kaiser-Josef-Platz
+housenumber: "14"
+phone: +43 7242 66841
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.kuoni.at/filialen-travelpartner/filialdetails/kuoni-wels/

@@ -4,8 +4,8 @@ latitude: 48.19235
 longitude: 16.35616
 postcode: "1050"
 city: Wien
-street: "Pilgramgasse"
-housenumber: 16
-phone: "+43 1 9610104"
-opening_hours: "jeden Tag anders, jedes Monat neu"
-website: "https://chiliwerkstatt.com/"
+street: Pilgramgasse
+housenumber: "16"
+phone: +43 1 9610104
+opening_hours: '"jeden Tag anders, jedes Monat neu"'
+website: https://chiliwerkstatt.com/

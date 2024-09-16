@@ -1,11 +1,11 @@
 id: 190005610
-type: way
+type: node
 latitude: 47.62661
 longitude: 12.38231
 postcode: "6385"
 city: Schwendt
-street: "Bichlachweg"
-housenumber: 9
-phone: "+43 53 7529228"
+street: Bichlachweg
+housenumber: "9"
+phone: +43 53 7529228
 opening_hours: ""
-website: "http://www.kanuschule-kitzalp.at"
+website: http://www.kanuschule-kitzalp.at

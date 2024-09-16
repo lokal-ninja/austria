@@ -4,8 +4,8 @@ latitude: 47.25756
 longitude: 11.38844
 postcode: "6020"
 city: Innsbruck
-street: "Zollerstraße"
-housenumber: 7
-phone: "+43 512 570480"
-opening_hours: "Tu-Th 08:30-12:30,15:00-18:30; Fr 08:30-12:30,15:00-20:00; PH off"
-website: "https://www.radstudio-innsbruck.at/"
+street: Zollerstraße
+housenumber: "7"
+phone: +43 512 570480
+opening_hours: Tu-Th 08:30-12:30,15:00-18:30; Fr 08:30-12:30,15:00-20:00; PH off
+website: https://www.radstudio-innsbruck.at/

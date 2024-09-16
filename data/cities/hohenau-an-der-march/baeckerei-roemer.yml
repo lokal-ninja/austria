@@ -1,11 +1,11 @@
 id: 314845271
-type: way
+type: node
 latitude: 48.60717
 longitude: 16.90827
 postcode: "2273"
 city: Hohenau an der March
-street: "Liechtensteinstraße"
-housenumber: 19
+street: Liechtensteinstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-roemer.at/standorte/filiale-hohenau/"
+website: https://www.baeckerei-roemer.at/standorte/filiale-hohenau/

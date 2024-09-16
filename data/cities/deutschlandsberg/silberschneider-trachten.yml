@@ -1,11 +1,11 @@
 id: 301325997
-type: way
+type: node
 latitude: 46.81541
 longitude: 15.22194
 postcode: "8530"
 city: Deutschlandsberg
-street: "Grazer Straße"
-housenumber: 30
-phone: "+43 3462 5638"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30"
-website: "https://silberschneider.at/"
+street: Grazer Straße
+housenumber: "30"
+phone: +43 3462 5638
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30
+website: https://silberschneider.at/

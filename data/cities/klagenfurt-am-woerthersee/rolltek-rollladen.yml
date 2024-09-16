@@ -4,8 +4,8 @@ latitude: 46.64055
 longitude: 14.31411
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "St. Veiter Straße"
-housenumber: 99
-phone: "0463 44 03 17"
-opening_hours: "Mo-Th 08:00-12:00,12:30-16:30; Fr 08:00-14:30"
-website: "https://www.roltek.at/"
+street: St. Veiter Straße
+housenumber: "99"
+phone: 0463 44 03 17
+opening_hours: Mo-Th 08:00-12:00,12:30-16:30; Fr 08:00-14:30
+website: https://www.roltek.at/

@@ -1,11 +1,11 @@
 id: 70236314
-type: way
+type: node
 latitude: 47.48007
 longitude: 9.68478
 postcode: "6971"
 city: Hard
-street: "Rheinstraße"
-housenumber: 95
+street: Rheinstraße
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.26356
 longitude: 11.39465
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 42
-phone: "+43 512 589814"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.rieser-malzer.at/standorte/"
+street: Maria-Theresien-Straße
+housenumber: "42"
+phone: +43 512 589814
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.rieser-malzer.at/standorte/

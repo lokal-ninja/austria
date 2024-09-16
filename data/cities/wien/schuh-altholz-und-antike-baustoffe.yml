@@ -1,11 +1,11 @@
 id: 350377194
-type: way
+type: node
 latitude: 48.15255
 longitude: 16.2929
 postcode: "1230"
 city: Wien
-street: "Atzgersdorfer Straße"
-housenumber: 255
+street: Atzgersdorfer Straße
+housenumber: "255"
 phone: ""
 opening_hours: ""
-website: "https://www.antikholz.info/"
+website: https://www.antikholz.info/

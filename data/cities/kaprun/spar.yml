@@ -1,11 +1,11 @@
 id: 137464116
-type: way
+type: node
 latitude: 47.28233
 longitude: 12.75499
 postcode: "5710"
 city: Kaprun
-street: "Landesstraße"
-housenumber: 5
+street: Landesstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

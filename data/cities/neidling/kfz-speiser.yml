@@ -5,7 +5,7 @@ longitude: 15.56801
 postcode: "3110"
 city: Neidling
 street: ""
-housenumber: 11
-phone: "+43 2741 7531"
+housenumber: "11"
+phone: +43 2741 7531
 opening_hours: ""
-website: "https://www.kfz-speiser.at/"
+website: https://www.kfz-speiser.at/

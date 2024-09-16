@@ -1,11 +1,11 @@
 id: 219975654
-type: way
+type: node
 latitude: 48.3736
 longitude: 16.63724
 postcode: "2214"
 city: Auersthal
-street: "Hauptstraße"
-housenumber: 86
+street: Hauptstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00"
+opening_hours: Mo-Sa 06:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 394302093
-type: way
+type: node
 latitude: 47.92745
 longitude: 14.08739
 postcode: "4565"
 city: Inzersdorf im Kremstal
-street: "In der Wimm"
-housenumber: 20
-phone: "+43 664 1626796"
+street: In der Wimm
+housenumber: "20"
+phone: +43 664 1626796
 opening_hours: ""
 website: ""

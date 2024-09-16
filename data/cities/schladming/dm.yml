@@ -4,8 +4,8 @@ latitude: 47.39476
 longitude: 13.69146
 postcode: "8970"
 city: Schladming
-street: "Erzherzog-Johann-Straße"
-housenumber: 779
+street: Erzherzog-Johann-Straße
+housenumber: "779"
 phone: "+43368724580"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+website: https://www.dm.at

@@ -1,11 +1,11 @@
 id: 948173783
-type: way
+type: node
 latitude: 48.38574
 longitude: 16.51496
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Adlergasse"
+street: Adlergasse
 housenumber: 3-5
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off"
-website: "https://www.spar.at/standorte/spar-wolkersdorf-2120-adlergasse-3-5"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH off
+website: https://www.spar.at/standorte/spar-wolkersdorf-2120-adlergasse-3-5

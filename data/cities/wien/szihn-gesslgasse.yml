@@ -4,8 +4,8 @@ latitude: 48.15001
 longitude: 16.26862
 postcode: "1230"
 city: Wien
-street: "Geßlgasse"
+street: Geßlgasse
 housenumber: 2A
-phone: "+43 1 8872726"
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 06:30-12:00; PH off"
-website: "https://www.szihn.at/"
+phone: +43 1 8872726
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 06:30-12:00; PH off
+website: https://www.szihn.at/

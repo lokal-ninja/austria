@@ -1,11 +1,11 @@
 id: 223096187
-type: way
+type: node
 latitude: 47.8932
 longitude: 16.91863
 postcode: "7122"
 city: Gols
-street: "Untere Hauptstraße"
-housenumber: 126
-phone: "+432173 2437"
-opening_hours: "Mo-Fr 05:30-21:00; Sa 05:30-21:00; Su,PH 06:00-21:00"
+street: Untere Hauptstraße
+housenumber: "126"
+phone: +432173 2437
+opening_hours: Mo-Fr 05:30-21:00; Sa 05:30-21:00; Su,PH 06:00-21:00
 website: ""

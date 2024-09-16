@@ -4,8 +4,8 @@ latitude: 47.70395
 longitude: 13.62686
 postcode: "4820"
 city: Bad Ischl
-street: "Grazer Straße"
-housenumber: 58
-phone: "+43 6132 25 333"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:30-18:00"
-website: "https://www.spar.at/"
+street: Grazer Straße
+housenumber: "58"
+phone: +43 6132 25 333
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:30-18:00
+website: https://www.spar.at/

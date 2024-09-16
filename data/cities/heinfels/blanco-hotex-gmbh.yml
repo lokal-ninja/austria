@@ -1,11 +1,11 @@
 id: 362587403
-type: way
+type: node
 latitude: 46.74887
 longitude: 12.45053
 postcode: "9919"
 city: Heinfels
 street: ""
-housenumber: 188
-phone: "+43 4842 51188"
+housenumber: "188"
+phone: +43 4842 51188
 opening_hours: ""
 website: ""

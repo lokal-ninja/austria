@@ -1,11 +1,11 @@
 id: 1006709868
-type: way
+type: node
 latitude: 47.38312
 longitude: 15.1141
 postcode: "8700"
 city: Leoben
-street: "Europaplatz"
+street: Europaplatz
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

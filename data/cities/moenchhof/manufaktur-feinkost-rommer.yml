@@ -1,11 +1,11 @@
 id: 502764264
-type: way
+type: node
 latitude: 47.88855
 longitude: 16.95606
 postcode: "7123"
 city: Mönchhof
-street: "Betriebsgebiet Nord"
-housenumber: 7
+street: Betriebsgebiet Nord
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

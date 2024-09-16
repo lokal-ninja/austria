@@ -4,8 +4,8 @@ latitude: 47.28203
 longitude: 15.99086
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 6
-phone: "+43 3332 64487"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "https://www.tedi.com/at/"
+street: Im Hatric
+housenumber: "6"
+phone: +43 3332 64487
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: https://www.tedi.com/at/

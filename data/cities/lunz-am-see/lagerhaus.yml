@@ -1,11 +1,11 @@
 id: 161697323
-type: way
+type: node
 latitude: 47.85708
 longitude: 15.0226
 postcode: "3293"
 city: Lunz am See
-street: "Amonstraße"
-housenumber: 11
-phone: "+43 7486 8359"
+street: Amonstraße
+housenumber: "11"
+phone: +43 7486 8359
 opening_hours: ""
-website: "https://www.lagerhaus-mostviertelmitte.at/"
+website: https://www.lagerhaus-mostviertelmitte.at/

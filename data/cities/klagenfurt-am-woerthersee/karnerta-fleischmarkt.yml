@@ -1,11 +1,11 @@
 id: 453601759
-type: way
+type: node
 latitude: 46.61362
 longitude: 14.3412
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Ebentaler Straße"
-housenumber: 168
-phone: "+43 5 9970 2-1270;+43 5 9970 2-1271"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:00; PH off"
-website: "https://www.karnerta.at/"
+street: Ebentaler Straße
+housenumber: "168"
+phone: +43 5 9970 2-1270;+43 5 9970 2-1271
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-12:00; PH off
+website: https://www.karnerta.at/

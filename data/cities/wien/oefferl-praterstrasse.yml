@@ -4,8 +4,8 @@ latitude: 48.21398
 longitude: 16.3835
 postcode: "1020"
 city: Wien
-street: "Praterstraße"
-housenumber: 26
+street: Praterstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su,PH 08:00-14:00"
-website: "https://www.oefferl.bio/de/heimat-filialen/wien-02"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su,PH 08:00-14:00
+website: https://www.oefferl.bio/de/heimat-filialen/wien-02

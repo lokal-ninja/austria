@@ -1,11 +1,11 @@
 id: 166614349
-type: way
+type: node
 latitude: 47.14088
 longitude: 10.56487
 postcode: "6500"
 city: Landeck
-street: "Innstraße"
-housenumber: 32
+street: Innstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://bmw-service-netzer-landeck.at/"
+website: https://bmw-service-netzer-landeck.at/

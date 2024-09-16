@@ -1,11 +1,11 @@
 id: 85770673
-type: way
+type: node
 latitude: 47.89
 longitude: 14.23546
 postcode: "4592"
 city: Leonstein
-street: "Gewerbepark"
-housenumber: 2
+street: Gewerbepark
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 493689924
-type: way
+type: node
 latitude: 48.20582
 longitude: 16.38421
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
+street: Landstraßer Hauptstraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH 11:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH 11:00-20:00
 website: ""

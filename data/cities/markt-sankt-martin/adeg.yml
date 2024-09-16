@@ -1,11 +1,11 @@
 id: 257417612
-type: way
+type: node
 latitude: 47.56345
 longitude: 16.4281
 postcode: "7341"
 city: Markt Sankt Martin
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30,15:30-18:00; Sa 06:30-12:00; Su,PH off"
+opening_hours: Mo-Fr 06:30-12:30,15:30-18:00; Sa 06:30-12:00; Su,PH off
 website: ""

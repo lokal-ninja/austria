@@ -1,11 +1,11 @@
 id: 491298540
-type: way
+type: node
 latitude: 47.18368
 longitude: 15.38239
 postcode: "8102"
 city: Semriach
-street: "Semriacherstraße"
-housenumber: 60
+street: Semriacherstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00;Fr 08:00-13:00; Sa on telefonic arrangement"
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00;Fr 08:00-13:00; Sa "on telefonic arrangement"
 website: ""

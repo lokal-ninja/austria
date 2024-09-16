@@ -1,11 +1,11 @@
 id: 404626058
-type: way
+type: node
 latitude: 48.3207
 longitude: 16.65796
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Hauptstraße"
-housenumber: 292
-phone: "+43 2282 209 48"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su,PH off"
-website: "https://www.linaspflegestudio.at/"
+street: Hauptstraße
+housenumber: "292"
+phone: +43 2282 209 48
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su,PH off
+website: https://www.linaspflegestudio.at/

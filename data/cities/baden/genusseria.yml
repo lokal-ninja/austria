@@ -4,8 +4,8 @@ latitude: 48.00897
 longitude: 16.23493
 postcode: "2500"
 city: Baden
-street: "Pfarrgasse"
-housenumber: 7
+street: Pfarrgasse
+housenumber: "7"
 phone: ""
-opening_hours: "We-Fr 11:00-18:00; Sa 10:00-15:00"
+opening_hours: We-Fr 11:00-18:00; Sa 10:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.24035
 longitude: 16.34142
 postcode: "1190"
 city: Wien
-street: "Krottenbachstraße"
-housenumber: 17
+street: Krottenbachstraße
+housenumber: "17"
 phone: ""
-opening_hours: "06:00-24:00"
+opening_hours: 06:00-24:00
 website: ""

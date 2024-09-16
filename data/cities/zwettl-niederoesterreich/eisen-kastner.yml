@@ -4,8 +4,8 @@ latitude: 48.6029
 longitude: 15.16788
 postcode: "3910"
 city: Zwettl-Niederösterreich
-street: "Landstraße"
-housenumber: 3
+street: Landstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:30; Sa 08:00-12:00"
-website: "https://www.kastner-zwettl.at/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:30; Sa 08:00-12:00
+website: https://www.kastner-zwettl.at/

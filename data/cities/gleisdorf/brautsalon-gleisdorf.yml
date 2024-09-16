@@ -4,8 +4,8 @@ latitude: 47.10475
 longitude: 15.70671
 postcode: "8200"
 city: Gleisdorf
-street: "Bürgergasse"
-housenumber: 24
+street: Bürgergasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo 09:00-12:00; Tu-Sa 09:00-12:00,14:30-18:00; Jun 27-Aug 28 Sa 09:00-12:00"
-website: "https://www.brautsalon-gleisdorf.at/"
+opening_hours: Mo 09:00-12:00; Tu-Sa 09:00-12:00,14:30-18:00; Jun 27-Aug 28 Sa 09:00-12:00
+website: https://www.brautsalon-gleisdorf.at/

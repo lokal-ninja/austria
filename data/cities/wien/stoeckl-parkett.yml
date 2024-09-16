@@ -4,8 +4,8 @@ latitude: 48.12653
 longitude: 16.30626
 postcode: "1234"
 city: Wien
-street: "Schellenhofgasse"
-housenumber: 5
+street: Schellenhofgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00;Fr 07:30-12:00"
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00;Fr 07:30-12:00
 website: ""

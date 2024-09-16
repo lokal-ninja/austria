@@ -4,8 +4,8 @@ latitude: 48.19378
 longitude: 16.28439
 postcode: "1140"
 city: Wien
-street: "Baumgartenstraße"
-housenumber: 15
+street: Baumgartenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Fr 12:00-19:00"
-website: "https://zwerkstatt.at/"
+opening_hours: Fr 12:00-19:00
+website: https://zwerkstatt.at/

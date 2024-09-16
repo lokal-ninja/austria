@@ -4,8 +4,8 @@ latitude: 46.89105
 longitude: 10.50261
 postcode: "6543"
 city: Nauders
-street: "Dr.-Tschiggfrey-Straße"
-housenumber: 32
-phone: "+43 5473 89040"
-opening_hours: "Mo-Sa 08:30-12:00, 13:00-18:00; Su, PH 08:30-12:00, 15:00-18:00"
-website: "https://www.biwak-nauders.at/sportshop/"
+street: Dr.-Tschiggfrey-Straße
+housenumber: "32"
+phone: +43 5473 89040
+opening_hours: Mo-Sa 08:30-12:00, 13:00-18:00; Su, PH 08:30-12:00, 15:00-18:00
+website: https://www.biwak-nauders.at/sportshop/

@@ -1,11 +1,11 @@
 id: 204029602
-type: way
+type: node
 latitude: 47.61462
 longitude: 15.75776
 postcode: "8684"
 city: Spital am Semmering
-street: "Bundesstraße"
+street: Bundesstraße
 housenumber: 6c
 phone: ""
-opening_hours: "Mo-Su 08:30-16:00"
-website: "https://www.stuhleck.at/"
+opening_hours: Mo-Su 08:30-16:00
+website: https://www.stuhleck.at/

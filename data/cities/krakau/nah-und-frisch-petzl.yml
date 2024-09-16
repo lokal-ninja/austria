@@ -1,11 +1,11 @@
 id: 290663826
-type: way
+type: node
 latitude: 47.18182
 longitude: 14.02027
 postcode: "8854"
 city: Krakau
 street: ""
-housenumber: 46
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

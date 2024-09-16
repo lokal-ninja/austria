@@ -4,8 +4,8 @@ latitude: 47.26678
 longitude: 11.39799
 postcode: "6020"
 city: Innsbruck
-street: "Museumstraße"
-housenumber: 22
-phone: "+43 512 588927"
-opening_hours: "Mo-Fr 08:00-18:00; PH off || nach Vereinbarung"
-website: "http://www.neuroth.at"
+street: Museumstraße
+housenumber: "22"
+phone: +43 512 588927
+opening_hours: Mo-Fr 08:00-18:00; PH off || "nach Vereinbarung"
+website: http://www.neuroth.at

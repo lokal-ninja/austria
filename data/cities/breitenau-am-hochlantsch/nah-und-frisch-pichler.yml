@@ -1,11 +1,11 @@
 id: 194455356
-type: way
+type: node
 latitude: 47.38419
 longitude: 15.47776
 postcode: "8614"
 city: Breitenau am Hochlantsch
-street: "Erhardstraße"
-housenumber: 89
+street: Erhardstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

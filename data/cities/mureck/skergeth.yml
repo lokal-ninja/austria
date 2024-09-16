@@ -1,11 +1,11 @@
 id: 165380081
-type: way
+type: node
 latitude: 46.70763
 longitude: 15.77363
 postcode: "8480"
 city: Mureck
-street: "Hauptplatz"
-housenumber: 21
+street: Hauptplatz
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

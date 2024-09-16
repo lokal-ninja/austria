@@ -4,8 +4,8 @@ latitude: 48.1962
 longitude: 16.36796
 postcode: "1040"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 2
+street: Favoritenstraße
+housenumber: "2"
 phone: "+4315049479"
-opening_hours: "Mo-Fr 06:30-17:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:30-17:00
+website: https://www.ankerbrot.at/

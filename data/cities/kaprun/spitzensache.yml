@@ -1,11 +1,11 @@
 id: 594511466
-type: way
+type: node
 latitude: 47.27185
 longitude: 12.75878
 postcode: "5710"
 city: Kaprun
-street: "Wilhelm-Fazokas-Straße"
+street: Wilhelm-Fazokas-Straße
 housenumber: 17b
 phone: "+4365478668"
-opening_hours: "Mo-Fr 09:00-12:00, 14:30-18:00, Sa 9:00-12:00"
-website: "https://www.spitzensache.at"
+opening_hours: Mo-Fr 09:00-12:00, 14:30-18:00, Sa 9:00-12:00
+website: https://www.spitzensache.at

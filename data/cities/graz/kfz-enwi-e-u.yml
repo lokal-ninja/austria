@@ -1,11 +1,11 @@
 id: 137712898
-type: way
+type: node
 latitude: 47.03944
 longitude: 15.48784
 postcode: "8042"
 city: Graz
-street: "Köglerweg"
-housenumber: 5
-phone: "+43 664 1675494"
-opening_hours: "Mo-Fr 08:00-13:00,14:00-17:00; Sa 08:30-13:00"
-website: "https://www.kfz-enwi.at/"
+street: Köglerweg
+housenumber: "5"
+phone: +43 664 1675494
+opening_hours: Mo-Fr 08:00-13:00,14:00-17:00; Sa 08:30-13:00
+website: https://www.kfz-enwi.at/

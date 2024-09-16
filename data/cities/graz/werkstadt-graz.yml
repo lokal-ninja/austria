@@ -4,8 +4,8 @@ latitude: 47.07228
 longitude: 15.43901
 postcode: "8010"
 city: Graz
-street: "Sporgasse"
-housenumber: 16
-phone: "+43 664 326 405 1"
-opening_hours: "Th, Fr 17:00-19:00"
-website: "https://werkstadt.at/"
+street: Sporgasse
+housenumber: "16"
+phone: +43 664 326 405 1
+opening_hours: Th, Fr 17:00-19:00
+website: https://werkstadt.at/

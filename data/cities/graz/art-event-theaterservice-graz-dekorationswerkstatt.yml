@@ -1,11 +1,11 @@
 id: 137712904
-type: way
+type: node
 latitude: 47.04725
 longitude: 15.48234
 postcode: "8042"
 city: Graz
-street: "Sternäckerweg"
-housenumber: 120
-phone: "+43 316 8008 1102"
+street: Sternäckerweg
+housenumber: "120"
+phone: +43 316 8008 1102
 opening_hours: ""
 website: ""

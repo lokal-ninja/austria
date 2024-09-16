@@ -1,11 +1,11 @@
 id: 866274461
-type: way
+type: node
 latitude: 48.35034
 longitude: 15.74714
 postcode: "3133"
 city: Traismauer
-street: "Mitterndorfer Straße"
-housenumber: 6
+street: Mitterndorfer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

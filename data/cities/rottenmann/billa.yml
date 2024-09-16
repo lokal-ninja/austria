@@ -1,11 +1,11 @@
 id: 94999971
-type: way
+type: node
 latitude: 47.52484
 longitude: 14.34223
 postcode: "8786"
 city: Rottenmann
-street: "Technologiepark"
-housenumber: 1
+street: Technologiepark
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

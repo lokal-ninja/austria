@@ -5,7 +5,7 @@ longitude: 15.3313
 postcode: "3532"
 city: Rastenfeld
 street: ""
-housenumber: 25
+housenumber: "25"
 phone: ""
-opening_hours: "Mo, We-Fr 06:30-18:30; Tu, Sa 06:30-12:00; Su 08:00-10:30"
-website: "https://www.nahundfrisch.at/de/kaufmann/maria-poell-kg"
+opening_hours: Mo, We-Fr 06:30-18:30; Tu, Sa 06:30-12:00; Su 08:00-10:30
+website: https://www.nahundfrisch.at/de/kaufmann/maria-poell-kg

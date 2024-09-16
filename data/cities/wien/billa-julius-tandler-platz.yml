@@ -4,8 +4,8 @@ latitude: 48.22623
 longitude: 16.36074
 postcode: "1090"
 city: Wien
-street: "Julius-Tandler-Platz"
-housenumber: 3
-phone: "+43 1 3156847"
-opening_hours: "06:00-22:00; Dec 07 06:00-20:00; Dec 08 off"
-website: "https://www.billa.at/"
+street: Julius-Tandler-Platz
+housenumber: "3"
+phone: +43 1 3156847
+opening_hours: 06:00-22:00; Dec 07 06:00-20:00; Dec 08 off
+website: https://www.billa.at/

@@ -1,11 +1,11 @@
 id: 103497366
-type: way
+type: node
 latitude: 48.22382
 longitude: 14.02049
 postcode: "4611"
 city: Buchkirchen
-street: "Hauptstraße"
-housenumber: 3
+street: Hauptstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

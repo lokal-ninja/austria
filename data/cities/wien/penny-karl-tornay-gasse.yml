@@ -1,11 +1,11 @@
 id: 80877711
-type: way
+type: node
 latitude: 48.13239
 longitude: 16.31592
 postcode: "1230"
 city: Wien
-street: "Karl-Tornay-Gasse"
-housenumber: 28
+street: Karl-Tornay-Gasse
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

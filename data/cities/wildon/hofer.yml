@@ -1,11 +1,11 @@
 id: 83742800
-type: way
+type: node
 latitude: 46.88652
 longitude: 15.5015
 postcode: "8410"
 city: Wildon
-street: "Kainachtalstraße"
-housenumber: 9
+street: Kainachtalstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

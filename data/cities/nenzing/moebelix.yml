@@ -1,11 +1,11 @@
 id: 298418318
-type: way
+type: node
 latitude: 47.1947
 longitude: 9.68586
 postcode: "6710"
 city: Nenzing
-street: "Bundesstraße"
-housenumber: 205
+street: Bundesstraße
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

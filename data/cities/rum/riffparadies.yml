@@ -4,8 +4,8 @@ latitude: 47.27815
 longitude: 11.4501
 postcode: "6063"
 city: Rum
-street: "Bundesstraße"
+street: Bundesstraße
 housenumber: 2a
-phone: "+43 676 9203070"
-opening_hours: "Th, Fr 11:00-19:00; Sa 10:00-13:00; PH off || nach Vereinbarung"
-website: "http://www.riffparadies.at"
+phone: +43 676 9203070
+opening_hours: Th, Fr 11:00-19:00; Sa 10:00-13:00; PH off || "nach Vereinbarung"
+website: http://www.riffparadies.at

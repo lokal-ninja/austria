@@ -4,8 +4,8 @@ latitude: 48.66474
 longitude: 15.65838
 postcode: "3580"
 city: Horn
-street: "Wiener Straße"
-housenumber: 3
-phone: "+432982 20770"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.weltladen.at/horn/"
+street: Wiener Straße
+housenumber: "3"
+phone: +432982 20770
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.weltladen.at/horn/

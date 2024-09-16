@@ -4,8 +4,8 @@ latitude: 47.06942
 longitude: 15.44711
 postcode: "8010"
 city: Graz
-street: "Glacisstraße"
-housenumber: 65
-phone: "+43 69917054125"
-opening_hours: "Tu-Fr 09:00-19:30; Sa 09:00-14:00"
-website: "https://www.diewoelfin.at/kontakt"
+street: Glacisstraße
+housenumber: "65"
+phone: +43 69917054125
+opening_hours: Tu-Fr 09:00-19:30; Sa 09:00-14:00
+website: https://www.diewoelfin.at/kontakt

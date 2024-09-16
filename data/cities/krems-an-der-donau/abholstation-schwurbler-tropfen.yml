@@ -4,8 +4,8 @@ latitude: 48.41315
 longitude: 15.60408
 postcode: "3500"
 city: Krems an der Donau
-street: "Kremstalstraße"
-housenumber: 3
+street: Kremstalstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Th-Fr 10:00-17:00; Sa 10:00-13:00; Jul-Aug: Sa gegen Voranmeldung"
+opening_hours: 'Th-Fr 10:00-17:00; Sa 10:00-13:00; Jul-Aug: Sa "gegen Voranmeldung"'
 website: ""

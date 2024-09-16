@@ -1,11 +1,11 @@
 id: 332594358
-type: way
+type: node
 latitude: 48.49988
 longitude: 14.58041
 postcode: "4271"
 city: St. Oswald bei Freistadt
-street: "Am Käferbach"
-housenumber: 74
+street: Am Käferbach
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

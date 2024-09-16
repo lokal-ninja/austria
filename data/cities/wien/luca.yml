@@ -4,8 +4,8 @@ latitude: 48.20936
 longitude: 16.21273
 postcode: "1140"
 city: Wien
-street: "Josef Palme Platz"
-housenumber: 3
-phone: "+43 676 845 968 109"
-opening_hours: "Mo-Fr 11:00-16:00"
-website: "https://www.luca.co.at/"
+street: Josef Palme Platz
+housenumber: "3"
+phone: +43 676 845 968 109
+opening_hours: Mo-Fr 11:00-16:00
+website: https://www.luca.co.at/

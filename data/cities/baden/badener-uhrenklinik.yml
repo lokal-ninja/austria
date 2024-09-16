@@ -4,8 +4,9 @@ latitude: 48.00779
 longitude: 16.232
 postcode: "2500"
 city: Baden
-street: "Erzherzog Rainer-Ring"
+street: Erzherzog Rainer-Ring
 housenumber: 10-12
 phone: ""
-opening_hours: "Mo 08:30-18:00; Tu-Th 08:30-12:30, 14:30-18:00; Fr 08:30-18:00; Sa 08:30-12:00"
+opening_hours: Mo 08:30-18:00; Tu-Th 08:30-12:30, 14:30-18:00; Fr 08:30-18:00; Sa
+    08:30-12:00
 website: ""

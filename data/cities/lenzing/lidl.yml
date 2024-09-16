@@ -1,11 +1,11 @@
 id: 431522656
-type: way
+type: node
 latitude: 47.97133
 longitude: 13.60739
 postcode: "4860"
 city: Lenzing
-street: "Agerstraße"
-housenumber: 7
+street: Agerstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

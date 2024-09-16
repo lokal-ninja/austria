@@ -4,8 +4,8 @@ latitude: 47.39131
 longitude: 13.68538
 postcode: "8970"
 city: Schladming
-street: "Ramsauerstraße"
-housenumber: 547
-phone: "+43 3687 23124"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "http://www.2rad-knauss.at"
+street: Ramsauerstraße
+housenumber: "547"
+phone: +43 3687 23124
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
+website: http://www.2rad-knauss.at

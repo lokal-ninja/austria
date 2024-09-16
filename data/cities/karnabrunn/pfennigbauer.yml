@@ -4,8 +4,9 @@ latitude: 48.4608
 longitude: 16.37308
 postcode: "2113"
 city: Karnabrunn
-street: "Laaer Straße"
-housenumber: 21
+street: Laaer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-We 06:30-12:30, 15:00-18:00; Th 06:30-12:30; Fr 06:30-18:00; Sa 06:30-12:00"
+opening_hours: Mo-We 06:30-12:30, 15:00-18:00; Th 06:30-12:30; Fr 06:30-18:00; Sa
+    06:30-12:00
 website: ""

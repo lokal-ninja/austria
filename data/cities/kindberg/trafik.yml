@@ -1,11 +1,11 @@
 id: 326925056
-type: way
+type: node
 latitude: 47.49575
 longitude: 15.41733
 postcode: "8652"
 city: Kindberg
-street: "Grazer Straße"
-housenumber: 60
+street: Grazer Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

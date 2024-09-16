@@ -1,11 +1,11 @@
 id: 195579617
-type: way
+type: node
 latitude: 47.973
 longitude: 16.22178
 postcode: "2540"
 city: Bad Vöslau
-street: "Industriestraße"
-housenumber: 3
-phone: "+43 676 6115956"
+street: Industriestraße
+housenumber: "3"
+phone: +43 676 6115956
 opening_hours: ""
-website: "http://www.kfz-meier.at/"
+website: http://www.kfz-meier.at/

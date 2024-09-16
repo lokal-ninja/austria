@@ -1,11 +1,11 @@
 id: 219004359
-type: way
+type: node
 latitude: 48.22889
 longitude: 13.93626
 postcode: "4702"
 city: Wallern an der Trattnach
-street: "Schallerbacher Straße"
-housenumber: 63
-phone: "+43-7249-48170"
+street: Schallerbacher Straße
+housenumber: "63"
+phone: +43-7249-48170
 opening_hours: ""
-website: "https://www.rosenauer.at/"
+website: https://www.rosenauer.at/

@@ -1,11 +1,11 @@
 id: 407707850
-type: way
+type: node
 latitude: 48.40158
 longitude: 15.98432
 postcode: "3462"
 city: Absdorf
-street: "Bahnhofstraße"
-housenumber: 32
+street: Bahnhofstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.tierschuh.at/"
+website: https://www.tierschuh.at/

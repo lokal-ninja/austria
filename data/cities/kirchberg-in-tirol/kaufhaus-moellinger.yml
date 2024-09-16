@@ -1,11 +1,11 @@
 id: 124734589
-type: way
+type: node
 latitude: 47.44829
 longitude: 12.31343
 postcode: "6365"
 city: Kirchberg in Tirol
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

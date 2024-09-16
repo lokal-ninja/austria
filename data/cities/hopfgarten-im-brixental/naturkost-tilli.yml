@@ -4,8 +4,8 @@ latitude: 47.4526
 longitude: 12.15247
 postcode: "6361"
 city: Hopfgarten im Brixental
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+43 5335. 40 222"
-opening_hours: "Mo-Th 08:00-12:30,15:00-18:00; Fr 08:00-18:00"
-website: "http://www.nakoti.com"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +43 5335. 40 222
+opening_hours: Mo-Th 08:00-12:30,15:00-18:00; Fr 08:00-18:00
+website: http://www.nakoti.com

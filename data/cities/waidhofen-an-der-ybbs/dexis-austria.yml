@@ -4,8 +4,8 @@ latitude: 47.96629
 longitude: 14.76808
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Patertal"
-housenumber: 10
+street: Patertal
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:00-16:30; Fr 07:30-12:00"
-website: "https://dexis.at/de/Standorte/waidhofen-ybbs.html"
+opening_hours: Mo-Th 07:30-12:00, 13:00-16:30; Fr 07:30-12:00
+website: https://dexis.at/de/Standorte/waidhofen-ybbs.html

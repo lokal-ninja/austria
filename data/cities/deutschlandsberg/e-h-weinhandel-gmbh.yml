@@ -1,11 +1,11 @@
 id: 188077723
-type: way
+type: node
 latitude: 46.81538
 longitude: 15.21737
 postcode: "8530"
 city: Deutschlandsberg
-street: "Grazer Straße"
-housenumber: 5
+street: Grazer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

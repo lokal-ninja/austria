@@ -1,11 +1,11 @@
 id: 146505741
-type: way
+type: node
 latitude: 47.36923
 longitude: 11.14404
 postcode: "6105"
 city: Leutasch
 street: ""
 housenumber: 128b
-phone: "+43 5214 6488"
-opening_hours: "Mo-Sa 09:00-12:00; Mo-Fr 14:00-18:00"
+phone: +43 5214 6488
+opening_hours: Mo-Sa 09:00-12:00; Mo-Fr 14:00-18:00
 website: ""

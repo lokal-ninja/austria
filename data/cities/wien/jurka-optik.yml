@@ -4,8 +4,8 @@ latitude: 48.22458
 longitude: 16.49817
 postcode: "1220"
 city: Wien
-street: "Maria-Tusch-Straße"
-housenumber: 6
+street: Maria-Tusch-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo, Tu, Th 12:00-18:00; Fr 10:00-18:00"
-website: "https://www.optik-jurka.at/"
+opening_hours: Mo, Tu, Th 12:00-18:00; Fr 10:00-18:00
+website: https://www.optik-jurka.at/

@@ -1,11 +1,11 @@
 id: 1004743369
-type: way
+type: node
 latitude: 48.1133
 longitude: 15.33703
 postcode: "3240"
 city: Mank
-street: "Wieselburger Straße"
-housenumber: 3
+street: Wieselburger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

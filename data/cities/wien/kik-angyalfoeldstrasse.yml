@@ -4,8 +4,8 @@ latitude: 48.25338
 longitude: 16.42592
 postcode: "1210"
 city: Wien
-street: "Angyalföldstraße"
-housenumber: 76
+street: Angyalföldstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
 website: ""

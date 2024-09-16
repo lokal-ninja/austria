@@ -1,11 +1,11 @@
 id: 788520361
-type: way
+type: node
 latitude: 47.26951
 longitude: 15.95458
 postcode: "8230"
 city: Hartberg Umgebung
 street: ""
-housenumber: 208
+housenumber: "208"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

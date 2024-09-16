@@ -1,11 +1,11 @@
 id: 185873708
-type: way
+type: node
 latitude: 46.75862
 longitude: 15.59796
 postcode: "8423"
 city: Sankt Veit in der Südsteiermark
-street: "Buchenstraße"
-housenumber: 5
+street: Buchenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

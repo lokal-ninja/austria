@@ -1,11 +1,11 @@
 id: 162721451
-type: way
+type: node
 latitude: 48.29431
 longitude: 16.33603
 postcode: "3400"
 city: Klosterneuburg
-street: "Wiener Straße"
-housenumber: 144
+street: Wiener Straße
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

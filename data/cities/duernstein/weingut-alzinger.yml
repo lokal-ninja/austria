@@ -5,7 +5,7 @@ longitude: 15.54278
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 11
-phone: "+43 2732 779 00"
+housenumber: "11"
+phone: +43 2732 779 00
 opening_hours: ""
-website: "https://alzinger.at/"
+website: https://alzinger.at/

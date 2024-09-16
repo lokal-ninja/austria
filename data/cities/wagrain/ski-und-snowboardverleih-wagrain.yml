@@ -1,11 +1,11 @@
 id: 400579051
-type: way
+type: node
 latitude: 47.33377
 longitude: 13.30778
 postcode: "5602"
 city: Wagrain
-street: "Widmoosweg"
-housenumber: 2
-phone: "+43 6413 7370"
+street: Widmoosweg
+housenumber: "2"
+phone: +43 6413 7370
 opening_hours: ""
-website: "https://www.sportwagrain.at/"
+website: https://www.sportwagrain.at/

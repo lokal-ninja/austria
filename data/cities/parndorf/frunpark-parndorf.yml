@@ -1,11 +1,11 @@
 id: 961084794
-type: way
+type: node
 latitude: 47.9805
 longitude: 16.84342
 postcode: "7111"
 city: Parndorf
-street: "Shoppingstraße"
-housenumber: 1
+street: Shoppingstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

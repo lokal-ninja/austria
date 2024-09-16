@@ -1,11 +1,11 @@
 id: 24823111
-type: way
+type: node
 latitude: 48.32927
 longitude: 14.31272
 postcode: "4040"
 city: Linz
-street: "Freistädter Straße"
-housenumber: 300
+street: Freistädter Straße
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:45; PH,Su 07:00-23:45"
+opening_hours: Mo-Sa 06:00-23:45; PH,Su 07:00-23:45
 website: ""

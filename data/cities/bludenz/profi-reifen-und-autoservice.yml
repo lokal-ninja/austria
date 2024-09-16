@@ -1,11 +1,11 @@
 id: 294042915
-type: way
+type: node
 latitude: 47.15104
 longitude: 9.8255
 postcode: "6700"
 city: Bludenz
-street: "Sankt-Peter-Straße"
-housenumber: 9
-phone: "+43 5552 62552"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.profi-reifen.at/"
+street: Sankt-Peter-Straße
+housenumber: "9"
+phone: +43 5552 62552
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.profi-reifen.at/

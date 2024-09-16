@@ -1,11 +1,11 @@
 id: 543950990
-type: way
+type: node
 latitude: 48.10298
 longitude: 13.14168
 postcode: "5230"
 city: Mattighofen
-street: "Moosstraße"
+street: Moosstraße
 housenumber: 14b
-phone: "+43 7742 48270"
+phone: +43 7742 48270
 opening_hours: ""
-website: "https://partner.peugeot.at/buechl.mattighofen"
+website: https://partner.peugeot.at/buechl.mattighofen

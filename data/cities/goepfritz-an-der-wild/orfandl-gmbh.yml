@@ -1,11 +1,11 @@
 id: 311664325
-type: way
+type: node
 latitude: 48.72497
 longitude: 15.40632
 postcode: "3800"
 city: Göpfritz an der Wild
-street: "Wiesenweg"
-housenumber: 4
+street: Wiesenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

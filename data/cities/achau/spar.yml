@@ -1,11 +1,11 @@
 id: 1013746305
-type: way
+type: node
 latitude: 48.0831
 longitude: 16.39202
 postcode: "2481"
 city: Achau
-street: "Lanzendorfer Straße"
-housenumber: 11
+street: Lanzendorfer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

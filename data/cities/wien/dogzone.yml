@@ -4,8 +4,8 @@ latitude: 48.22809
 longitude: 16.33747
 postcode: "1180"
 city: Wien
-street: "Gentzgasse"
-housenumber: 83
+street: Gentzgasse
+housenumber: "83"
 phone: ""
-opening_hours: "Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00; Mo-Th 10:00-13:00,15:00-18:30"
-website: "http://www.dogzone.at/"
+opening_hours: Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00; Mo-Th 10:00-13:00,15:00-18:30
+website: http://www.dogzone.at/

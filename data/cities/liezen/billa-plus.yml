@@ -1,11 +1,11 @@
 id: 48170640
-type: way
+type: node
 latitude: 47.56374
 longitude: 14.24712
 postcode: "8940"
 city: Liezen
-street: "Werkstraße"
-housenumber: 3
+street: Werkstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

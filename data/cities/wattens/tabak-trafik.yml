@@ -1,11 +1,11 @@
 id: 164789206
-type: way
+type: node
 latitude: 47.2977
 longitude: 11.59107
 postcode: "6112"
 city: Wattens
-street: "Swarovskistraße"
-housenumber: 37
+street: Swarovskistraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,15:00-18:00; Sa 07:30-12:00"
+opening_hours: Mo-Fr 07:00-12:00,15:00-18:00; Sa 07:30-12:00
 website: ""

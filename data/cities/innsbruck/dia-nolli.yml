@@ -4,8 +4,8 @@ latitude: 47.26247
 longitude: 11.39464
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
-housenumber: 2
-phone: "+43 699 74747476"
-opening_hours: "Tu-Fr 12:00-18:00; PH off"
-website: "https://dianolli.com"
+street: Leopoldstraße
+housenumber: "2"
+phone: +43 699 74747476
+opening_hours: Tu-Fr 12:00-18:00; PH off
+website: https://dianolli.com

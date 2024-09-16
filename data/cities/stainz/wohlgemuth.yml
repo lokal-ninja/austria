@@ -1,11 +1,11 @@
 id: 201788608
-type: way
+type: node
 latitude: 46.89762
 longitude: 15.26918
 postcode: "8510"
 city: Stainz
-street: "Grazer Straße"
-housenumber: 38
+street: Grazer Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

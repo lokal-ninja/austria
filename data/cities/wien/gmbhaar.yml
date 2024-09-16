@@ -4,8 +4,8 @@ latitude: 48.19678
 longitude: 16.36531
 postcode: "1040"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 20
+street: Margaretenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 11:00-21:00"
-website: "http://gmbhaar.at/"
+opening_hours: Mo-Fr 11:00-21:00
+website: http://gmbhaar.at/

@@ -1,11 +1,11 @@
 id: 197960114
-type: way
+type: node
 latitude: 47.28439
 longitude: 16.20808
 postcode: "7400"
 city: Oberwart
-street: "Schulgasse"
-housenumber: 26
+street: Schulgasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

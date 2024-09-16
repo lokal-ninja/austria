@@ -1,11 +1,11 @@
 id: 193846127
-type: way
+type: node
 latitude: 48.26367
 longitude: 16.39408
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 33
+street: Prager Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 86641772
-type: way
+type: node
 latitude: 48.59952
 longitude: 15.18977
 postcode: "3910"
 city: Zwettl-Niederösterreich
-street: "Andre Freyskorn-Straße"
-housenumber: 9
+street: Andre Freyskorn-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.xxxlutz.at/filiale/xxxlutz-zwettl/2Z"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.xxxlutz.at/filiale/xxxlutz-zwettl/2Z

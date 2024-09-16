@@ -1,11 +1,11 @@
 id: 202030347
-type: way
+type: node
 latitude: 48.32557
 longitude: 16.19058
 postcode: "3424"
 city: Zeiselmauer-Wolfpassing
-street: "Gewerbepark Ost I"
-housenumber: 9
+street: Gewerbepark Ost I
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

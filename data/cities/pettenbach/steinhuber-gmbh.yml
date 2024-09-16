@@ -1,11 +1,11 @@
 id: 137276698
-type: way
+type: node
 latitude: 47.93399
 longitude: 14.03439
 postcode: "4643"
 city: Pettenbach
-street: "Seisenburgstraße"
-housenumber: 50
+street: Seisenburgstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

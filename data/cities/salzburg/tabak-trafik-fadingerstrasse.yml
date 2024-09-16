@@ -1,11 +1,11 @@
 id: 814553868
-type: way
+type: node
 latitude: 47.79842
 longitude: 13.07003
 postcode: "5020"
 city: Salzburg
-street: "Fadingerstraße"
-housenumber: 19
+street: Fadingerstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00
 website: ""

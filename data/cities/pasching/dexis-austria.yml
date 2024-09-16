@@ -1,11 +1,11 @@
 id: 344233943
-type: way
+type: node
 latitude: 48.25231
 longitude: 14.19902
 postcode: "4061"
 city: Pasching
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 12:30-16:30; Fr 07:30-12:00"
+opening_hours: Mo-Th 07:30-12:00, 12:30-16:30; Fr 07:30-12:00
 website: ""

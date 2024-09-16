@@ -4,8 +4,8 @@ latitude: 47.38274
 longitude: 15.096
 postcode: "8700"
 city: Leoben
-street: "Hauptplatz"
-housenumber: 19
-phone: "+43 1 54699"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Leoben-City-Shopping,10768,-15.html"
+street: Hauptplatz
+housenumber: "19"
+phone: +43 1 54699
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Leoben-City-Shopping,10768,-15.html

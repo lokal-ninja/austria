@@ -4,8 +4,8 @@ latitude: 48.14999
 longitude: 16.29413
 postcode: "1230"
 city: Wien
-street: "Hedy-Blum-Weg"
-housenumber: 5
-phone: "+43 1 8656314"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.hairworkbymb.at/"
+street: Hedy-Blum-Weg
+housenumber: "5"
+phone: +43 1 8656314
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.hairworkbymb.at/

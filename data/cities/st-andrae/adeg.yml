@@ -1,11 +1,11 @@
 id: 191561582
-type: way
+type: node
 latitude: 46.77536
 longitude: 14.89191
 postcode: "9421"
 city: St. Andrä
-street: "Eitweg"
-housenumber: 32
+street: Eitweg
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:00; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:00; Sa 07:15-18:00
 website: ""

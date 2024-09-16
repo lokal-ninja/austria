@@ -1,11 +1,11 @@
 id: 232870390
-type: way
+type: node
 latitude: 47.09019
 longitude: 15.40976
 postcode: "8051"
 city: Graz
-street: "Wiener Straße"
-housenumber: 204
-phone: "+43 316 670560"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-12:00"
-website: "https://www.regro.at/"
+street: Wiener Straße
+housenumber: "204"
+phone: +43 316 670560
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-12:00
+website: https://www.regro.at/

@@ -4,8 +4,8 @@ latitude: 47.20301
 longitude: 10.89687
 postcode: "6433"
 city: Oetz
-street: "Hauptstraße"
-housenumber: 49
+street: Hauptstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Su 08:30-12:30,13:30-18:00"
-website: "http://www.intersportriml.com/outlet-oetz"
+opening_hours: Mo-Su 08:30-12:30,13:30-18:00
+website: http://www.intersportriml.com/outlet-oetz

@@ -4,8 +4,8 @@ latitude: 47.49735
 longitude: 9.72693
 postcode: "6900"
 city: Bregenz
-street: "Rheinstraße"
-housenumber: 26
+street: Rheinstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 05:30-14:00; Su-PH 07:00-14:00"
-website: "https://www.beck-kainz.at/"
+opening_hours: Mo-Sa 05:30-14:00; Su-PH 07:00-14:00
+website: https://www.beck-kainz.at/

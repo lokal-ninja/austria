@@ -4,8 +4,8 @@ latitude: 47.28096
 longitude: 15.99469
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 12
-phone: "+433332 661310"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.newyorker.de/at/"
+street: Im Hatric
+housenumber: "12"
+phone: +433332 661310
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.newyorker.de/at/

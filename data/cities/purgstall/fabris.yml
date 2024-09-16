@@ -1,11 +1,11 @@
 id: 165772671
-type: way
+type: node
 latitude: 48.06338
 longitude: 15.13867
 postcode: "3251"
 city: Purgstall
-street: "Erlauftalstraße"
-housenumber: 38
+street: Erlauftalstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "www.fabris.at"
+website: www.fabris.at

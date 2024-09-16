@@ -4,8 +4,8 @@ latitude: 48.23071
 longitude: 16.45773
 postcode: "1220"
 city: Wien
-street: "Stadlauer Straße"
-housenumber: 62
-phone: "+43 1 2804003"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-12:00"
-website: "https://www.azemoptik.at/"
+street: Stadlauer Straße
+housenumber: "62"
+phone: +43 1 2804003
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-12:00
+website: https://www.azemoptik.at/

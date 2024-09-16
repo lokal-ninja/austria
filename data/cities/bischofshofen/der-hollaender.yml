@@ -1,11 +1,11 @@
 id: 256422650
-type: way
+type: node
 latitude: 47.4058
 longitude: 13.21885
 postcode: "5500"
 city: Bischofshofen
-street: "Gasteiner Straße"
-housenumber: 79
+street: Gasteiner Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

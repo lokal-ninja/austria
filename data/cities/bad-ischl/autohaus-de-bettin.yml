@@ -1,11 +1,11 @@
 id: 324992347
-type: way
+type: node
 latitude: 47.6967
 longitude: 13.62388
 postcode: "4820"
 city: Bad Ischl
-street: "Grazer Straße"
-housenumber: 93
-phone: "+43-6132-26948"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; 07:30-12:00, 13:00-16:00"
-website: "https://www.autohaus-de-bettin.at/"
+street: Grazer Straße
+housenumber: "93"
+phone: +43-6132-26948
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; 07:30-12:00, 13:00-16:00
+website: https://www.autohaus-de-bettin.at/

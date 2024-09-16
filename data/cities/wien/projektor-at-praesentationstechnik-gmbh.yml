@@ -4,8 +4,8 @@ latitude: 48.13677
 longitude: 16.34174
 postcode: "1230"
 city: Wien
-street: "Slamastraße"
-housenumber: 29
-phone: "+43 1 617 62 67 - 0"
-opening_hours: "Mo-Th 09:00-17:30"
+street: Slamastraße
+housenumber: "29"
+phone: +43 1 617 62 67 - 0
+opening_hours: Mo-Th 09:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 195303219
-type: way
+type: node
 latitude: 47.77126
 longitude: 16.32543
 postcode: ""
 city: Bad Sauerbrunn
-street: "Wiesenerstraße"
-housenumber: 5
+street: Wiesenerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "www.waldklinik.at"
+website: www.waldklinik.at

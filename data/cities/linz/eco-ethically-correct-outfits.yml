@@ -4,8 +4,8 @@ latitude: 48.29667
 longitude: 14.29013
 postcode: "4020"
 city: Linz
-street: "Rainerstraße"
-housenumber: 16
+street: Rainerstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, Tu-Fr 14:00-18:00, Sa 10:00-16:00"
-website: "https://eco-store.at/"
+opening_hours: Mo-Fr 10:00-13:00, Tu-Fr 14:00-18:00, Sa 10:00-16:00
+website: https://eco-store.at/

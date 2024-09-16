@@ -1,11 +1,11 @@
 id: 183763762
-type: way
+type: node
 latitude: 46.71909
 longitude: 15.26014
 postcode: "8551"
 city: Wies
-street: "Am Bahnhof"
-housenumber: 10
+street: Am Bahnhof
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

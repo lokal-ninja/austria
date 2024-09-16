@@ -4,8 +4,8 @@ latitude: 47.07292
 longitude: 15.40429
 postcode: "8020"
 city: Graz
-street: "Georgigasse"
-housenumber: 25
+street: Georgigasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.coolhair.at/"
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.coolhair.at/

@@ -1,11 +1,11 @@
 id: 233726488
-type: way
+type: node
 latitude: 47.93775
 longitude: 16.15791
 postcode: "2560"
 city: Berndorf
-street: "Hirtenberger Straße"
-housenumber: 16
+street: Hirtenberger Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

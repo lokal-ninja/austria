@@ -1,11 +1,11 @@
 id: 122158754
-type: way
+type: node
 latitude: 48.11505
 longitude: 16.2887
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Feldstraße"
-housenumber: 18
+street: Feldstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

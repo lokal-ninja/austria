@@ -1,11 +1,11 @@
 id: 55951322
-type: way
+type: node
 latitude: 48.38222
 longitude: 13.8796
 postcode: "4084"
 city: St. Agatha
-street: "Stefan-Fadinger-Straße"
-housenumber: 28
-phone: "+43 (7277) 8700"
+street: Stefan-Fadinger-Straße
+housenumber: "28"
+phone: +43 (7277) 8700
 opening_hours: ""
-website: "https://www.baschinger.at/"
+website: https://www.baschinger.at/

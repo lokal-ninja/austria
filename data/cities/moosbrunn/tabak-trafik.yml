@@ -1,11 +1,12 @@
 id: 156672621
-type: way
+type: node
 latitude: 48.01839
 longitude: 16.45804
 postcode: "2440"
 city: Moosbrunn
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: Kiosk
 phone: ""
-opening_hours: "Mo-We 05:30-12:00,15:00-18:00; Th 05:30-12:00; Fr 05:30-12:30,15:00-18:00; Sa 06:00-13:00"
+opening_hours: Mo-We 05:30-12:00,15:00-18:00; Th 05:30-12:00; Fr 05:30-12:30,15:00-18:00;
+    Sa 06:00-13:00
 website: ""

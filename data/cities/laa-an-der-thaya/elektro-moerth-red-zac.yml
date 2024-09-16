@@ -1,11 +1,11 @@
 id: 135901464
-type: way
+type: node
 latitude: 48.71015
 longitude: 16.36788
 postcode: "2136"
 city: Laa an der Thaya
-street: "Thayapark"
-housenumber: 25
+street: Thayapark
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; PH off; Dec Sa 09:00-18:00"
-website: "https://www.redzac-moerth.at/"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; PH off; Dec Sa 09:00-18:00
+website: https://www.redzac-moerth.at/

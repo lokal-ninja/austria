@@ -1,11 +1,11 @@
 id: 167061822
-type: way
+type: node
 latitude: 46.66367
 longitude: 15.47041
 postcode: "8463"
 city: Leutschach an der Weinstraße
 street: ""
-housenumber: 144
+housenumber: "144"
 phone: ""
 opening_hours: ""
-website: "https://www.skotschnigg.at/"
+website: https://www.skotschnigg.at/

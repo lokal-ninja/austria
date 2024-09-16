@@ -4,8 +4,8 @@ latitude: 47.09907
 longitude: 15.41115
 postcode: "8051"
 city: Graz
-street: "Exerzierplatzstraße"
-housenumber: 85
+street: Exerzierplatzstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 12:30-16:15; Fr 07:30-13:00"
-website: "http://www.schirie.at/de/kontakt/"
+opening_hours: Mo-Th 07:30-12:00, 12:30-16:15; Fr 07:30-13:00
+website: http://www.schirie.at/de/kontakt/

@@ -4,8 +4,8 @@ latitude: 46.6227
 longitude: 14.30463
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Adolf-Kolping-Gasse"
-housenumber: 6
+street: Adolf-Kolping-Gasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:00-17:30; We,Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:00-17:30; We,Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 216478053
-type: way
+type: node
 latitude: 46.73977
 longitude: 15.6045
 postcode: ""
 city: Straß in Steiermark
-street: "Reichsstraße"
-housenumber: 91
+street: Reichsstraße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: 11.16767
 postcode: "6105"
 city: Leutasch
 street: ""
-housenumber: 340
+housenumber: "340"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-18:00; Su 08:00-13:00"
-website: "https://www.baguette.at/"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-18:00; Su 08:00-13:00
+website: https://www.baguette.at/

@@ -4,8 +4,8 @@ latitude: 46.60361
 longitude: 13.85908
 postcode: "9500"
 city: Villach
-street: "Bruno-Kreisky-Straße"
-housenumber: 25
-phone: "+43 4242 33262"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bipa.at"
+street: Bruno-Kreisky-Straße
+housenumber: "25"
+phone: +43 4242 33262
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bipa.at

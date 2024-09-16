@@ -4,8 +4,8 @@ latitude: 47.26179
 longitude: 11.3912
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 4
-phone: "+43 512 32791010"
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "https://www.sussbauer.com/"
+street: Andreas-Hofer-Straße
+housenumber: "4"
+phone: +43 512 32791010
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: https://www.sussbauer.com/

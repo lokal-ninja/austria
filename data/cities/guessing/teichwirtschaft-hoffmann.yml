@@ -1,11 +1,11 @@
 id: 682073197
-type: way
+type: node
 latitude: 47.05459
 longitude: 16.31789
 postcode: "7540"
 city: Güssing
-street: "Teichgasse"
-housenumber: 8
+street: Teichgasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.hoffmann-austria.com/"
+website: https://www.hoffmann-austria.com/

@@ -4,8 +4,8 @@ latitude: 48.24114
 longitude: 16.37814
 postcode: "1200"
 city: Wien
-street: "Marchfeldstraße"
-housenumber: 4
+street: Marchfeldstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.hiel.at/"
+website: https://www.hiel.at/

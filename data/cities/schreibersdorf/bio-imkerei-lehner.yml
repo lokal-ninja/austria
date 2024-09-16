@@ -4,8 +4,8 @@ latitude: 47.40404
 longitude: 16.14583
 postcode: "7425"
 city: Schreibersdorf
-street: "Einschichtstraße"
-housenumber: 22
+street: Einschichtstraße
+housenumber: "22"
 phone: "06641108149"
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

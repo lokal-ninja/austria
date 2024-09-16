@@ -1,11 +1,11 @@
 id: 198495338
-type: way
+type: node
 latitude: 47.18674
 longitude: 14.18114
 postcode: "8843"
 city: St. Peter am Kammersberg
 street: ""
-housenumber: 181
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-17:00"
-website: "https://www.spar.at/standorte/spar-st-peter-am-kammersberg-8843-nr-181"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-17:00
+website: https://www.spar.at/standorte/spar-st-peter-am-kammersberg-8843-nr-181

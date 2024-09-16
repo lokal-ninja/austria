@@ -4,8 +4,8 @@ latitude: 48.4103
 longitude: 15.59783
 postcode: "3500"
 city: Krems an der Donau
-street: "Obere Landstraße"
-housenumber: 21
-phone: "+43 2732 70 647"
-opening_hours: "Tu-Fr 10:00-13:00; Th,Fr 15:30-18:00; Sa 09:30-13:00; PH off"
-website: "http://www.kalteis-21.at/"
+street: Obere Landstraße
+housenumber: "21"
+phone: +43 2732 70 647
+opening_hours: Tu-Fr 10:00-13:00; Th,Fr 15:30-18:00; Sa 09:30-13:00; PH off
+website: http://www.kalteis-21.at/

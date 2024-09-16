@@ -1,11 +1,11 @@
 id: 86217278
-type: way
+type: node
 latitude: 48.67606
 longitude: 13.91556
 postcode: "4161"
 city: Ulrichsberg
-street: "Dreisesselbergstraße"
-housenumber: 6
+street: Dreisesselbergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

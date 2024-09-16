@@ -1,11 +1,11 @@
 id: 386165236
-type: way
+type: node
 latitude: 47.53201
 longitude: 15.51087
 postcode: "8662"
 city: Sankt Barbara im Mürztal
-street: "Grazer-Straße"
-housenumber: 77
+street: Grazer-Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.kubart.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.kubart.at/

@@ -1,11 +1,11 @@
 id: 242264612
-type: way
+type: node
 latitude: 47.02215
 longitude: 15.40662
 postcode: "8054"
 city: Graz
-street: "Gradnerstraße"
-housenumber: 168
-phone: "+43 316 28 72 00"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-12:00"
-website: "https://www.baustoff-metall.at/niederlassungen/graz/"
+street: Gradnerstraße
+housenumber: "168"
+phone: +43 316 28 72 00
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-12:00
+website: https://www.baustoff-metall.at/niederlassungen/graz/

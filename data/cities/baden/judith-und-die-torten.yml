@@ -4,8 +4,8 @@ latitude: 48.00889
 longitude: 16.23706
 postcode: "2500"
 city: Baden
-street: "Grabengasse"
-housenumber: 30
-phone: "+43 2252 266066"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su 10:00-12:00"
+street: Grabengasse
+housenumber: "30"
+phone: +43 2252 266066
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su 10:00-12:00
 website: ""

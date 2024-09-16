@@ -1,11 +1,11 @@
 id: 450941649
-type: way
+type: node
 latitude: 47.28493
 longitude: 16.08286
 postcode: "7411"
 city: Markt Allhau
-street: "Wolfauer Straße"
-housenumber: 38
+street: Wolfauer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-12:30; Su off"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-12:30; Su off
 website: ""

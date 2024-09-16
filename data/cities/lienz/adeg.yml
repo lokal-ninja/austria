@@ -1,11 +1,11 @@
 id: 152355171
-type: way
+type: node
 latitude: 46.8271
 longitude: 12.77313
 postcode: "9900"
 city: Lienz
-street: "Tristacher Straße"
-housenumber: 17
+street: Tristacher Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.37231
 longitude: 16.68559
 postcode: "2241"
 city: Schönkirchen-Reyersdorf
-street: "Hauptstraße"
-housenumber: 48
-phone: "02282 62582"
-opening_hours: "Mo-We 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-18:00, Sa 10:00-13:00"
+street: Hauptstraße
+housenumber: "48"
+phone: 02282 62582
+opening_hours: Mo-We 10:00-13:00,14:00-18:00; Fr 10:00-13:00,14:00-18:00, Sa 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 241912102
-type: way
+type: node
 latitude: 48.22337
 longitude: 16.31526
 postcode: "1170"
 city: Wien
-street: "Hernalser Hauptstraße"
-housenumber: 177
+street: Hernalser Hauptstraße
+housenumber: "177"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa,Su 07:00-12:00"
-website: "https://www.stroeck.at/"
+opening_hours: Mo-Fr 05:30-18:30; Sa,Su 07:00-12:00
+website: https://www.stroeck.at/

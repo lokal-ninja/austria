@@ -4,8 +4,8 @@ latitude: 48.24266
 longitude: 16.34186
 postcode: "1190"
 city: Wien
-street: "Obkirchergasse"
-housenumber: 22
-phone: "+43 1 3202654"
-opening_hours: "Mo-Fr 06:00-19:00;Sa-Su 07:00-18:00"
-website: "https://www.stroeck.at/"
+street: Obkirchergasse
+housenumber: "22"
+phone: +43 1 3202654
+opening_hours: Mo-Fr 06:00-19:00;Sa-Su 07:00-18:00
+website: https://www.stroeck.at/

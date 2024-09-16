@@ -1,11 +1,11 @@
 id: 278604112
-type: way
+type: node
 latitude: 47.90789
 longitude: 16.52035
 postcode: ""
 city: Loretto
-street: "Waldstraße"
-housenumber: 4
+street: Waldstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

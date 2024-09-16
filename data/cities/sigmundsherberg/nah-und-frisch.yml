@@ -1,11 +1,11 @@
 id: 418068044
-type: way
+type: node
 latitude: 48.68615
 longitude: 15.74754
 postcode: "3751"
 city: Sigmundsherberg
-street: "Hauptstraße"
-housenumber: 24
+street: Hauptstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo,Tu,Fr 06:00-12:30, 16:00-18:00; We,Th 06:00-12:30; Sa 07:00-12:00"
+opening_hours: Mo,Tu,Fr 06:00-12:30, 16:00-18:00; We,Th 06:00-12:30; Sa 07:00-12:00
 website: ""

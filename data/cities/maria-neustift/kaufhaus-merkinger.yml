@@ -1,11 +1,11 @@
 id: 422578606
-type: way
+type: node
 latitude: 47.93746
 longitude: 14.6076
 postcode: "4443"
 city: Maria Neustift
-street: "Neustift"
-housenumber: 5
+street: Neustift
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

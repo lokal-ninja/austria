@@ -5,7 +5,7 @@ longitude: 15.53356
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 11
-phone: "+43 2732 843 37"
+housenumber: "11"
+phone: +43 2732 843 37
 opening_hours: ""
-website: "https://www.weingutschweighofer.at/"
+website: https://www.weingutschweighofer.at/

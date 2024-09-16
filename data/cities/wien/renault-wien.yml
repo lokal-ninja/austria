@@ -1,11 +1,11 @@
 id: 251576373
-type: way
+type: node
 latitude: 48.16633
 longitude: 16.38823
 postcode: "1100"
 city: Wien
-street: "Laaer-Berg-Straße"
-housenumber: 66
+street: Laaer-Berg-Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://www.renault-wien.at/"
+website: https://www.renault-wien.at/

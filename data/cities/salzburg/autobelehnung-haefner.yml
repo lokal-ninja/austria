@@ -4,8 +4,8 @@ latitude: 47.80904
 longitude: 13.02625
 postcode: "5020"
 city: Salzburg
-street: "Rudolf-Biebl-Straße"
-housenumber: 25
-phone: "+43 662 64 16 16"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-17:00 || nach telefonischer Vereinbarung"
-website: "https://www.auto-pfandhaus.at/standorte/salzburg_bl/salzburg"
+street: Rudolf-Biebl-Straße
+housenumber: "25"
+phone: +43 662 64 16 16
+opening_hours: Mo-Fr 09:00-12:30, 14:00-17:00 || "nach telefonischer Vereinbarung"
+website: https://www.auto-pfandhaus.at/standorte/salzburg_bl/salzburg

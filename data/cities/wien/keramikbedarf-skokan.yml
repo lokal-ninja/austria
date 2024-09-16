@@ -4,8 +4,8 @@ latitude: 48.17805
 longitude: 16.3318
 postcode: "1120"
 city: Wien
-street: "Rauchgasse"
-housenumber: 33
+street: Rauchgasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
-website: "https://www.skokan.at/"
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
+website: https://www.skokan.at/

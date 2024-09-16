@@ -4,8 +4,8 @@ latitude: 47.1715
 longitude: 14.6367
 postcode: "8750"
 city: Judenburg
-street: "Burggasse"
-housenumber: 128
+street: Burggasse
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.porschejudenburg.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.porschejudenburg.at/

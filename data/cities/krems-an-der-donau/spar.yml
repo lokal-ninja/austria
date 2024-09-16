@@ -4,8 +4,8 @@ latitude: 48.41014
 longitude: 15.60381
 postcode: "3500"
 city: Krems an der Donau
-street: "Ringstraße"
-housenumber: 20
-phone: "+43 2732 850 401 1"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.spar.at"
+street: Ringstraße
+housenumber: "20"
+phone: +43 2732 850 401 1
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.spar.at

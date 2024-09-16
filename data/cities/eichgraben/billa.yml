@@ -1,11 +1,11 @@
 id: 134752716
-type: way
+type: node
 latitude: 48.18162
 longitude: 15.9806
 postcode: "3032"
 city: Eichgraben
-street: "Wiener Straße"
-housenumber: 87
+street: Wiener Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

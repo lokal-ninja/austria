@@ -1,11 +1,11 @@
 id: 119054515
-type: way
+type: node
 latitude: 46.74125
 longitude: 15.32221
 postcode: "8543"
 city: St. Martin im Sulmtal
 street: ""
-housenumber: 13
-phone: "+43 3465 2234"
+housenumber: "13"
+phone: +43 3465 2234
 opening_hours: ""
 website: ""

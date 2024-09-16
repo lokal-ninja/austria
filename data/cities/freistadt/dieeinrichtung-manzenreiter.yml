@@ -1,11 +1,11 @@
 id: 139902837
-type: way
+type: node
 latitude: 48.49209
 longitude: 14.5023
 postcode: "4240"
 city: Freistadt
-street: "Etrichstraße"
-housenumber: 1
-phone: "+43 7942 77 9 66"
+street: Etrichstraße
+housenumber: "1"
+phone: +43 7942 77 9 66
 opening_hours: ""
-website: "https://www.manzenreiter.at/"
+website: https://www.manzenreiter.at/

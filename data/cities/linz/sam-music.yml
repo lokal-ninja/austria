@@ -5,7 +5,7 @@ longitude: 14.28802
 postcode: "4020"
 city: Linz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://sam-music.at"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://sam-music.at

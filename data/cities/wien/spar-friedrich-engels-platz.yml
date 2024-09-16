@@ -4,8 +4,8 @@ latitude: 48.24392
 longitude: 16.37883
 postcode: "1200"
 city: Wien
-street: "Friedrich-Engels-Platz"
-housenumber: 22
-phone: "+43 1 3301112"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-wien-brigittenau-1200-friedrich-engels-platz-22"
+street: Friedrich-Engels-Platz
+housenumber: "22"
+phone: +43 1 3301112
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-wien-brigittenau-1200-friedrich-engels-platz-22

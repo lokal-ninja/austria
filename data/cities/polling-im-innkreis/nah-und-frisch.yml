@@ -1,11 +1,11 @@
 id: 159162699
-type: way
+type: node
 latitude: 48.23072
 longitude: 13.28188
 postcode: "4951"
 city: Polling im Innkreis
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 312756851
-type: way
+type: node
 latitude: 46.7871
 longitude: 15.54692
 postcode: "8430"
 city: Leibnitz
-street: "Hasendorferstraße"
-housenumber: 1
+street: Hasendorferstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.autobedarf-gaar.at"
+website: http://www.autobedarf-gaar.at

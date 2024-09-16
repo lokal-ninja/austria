@@ -1,11 +1,11 @@
 id: 171711457
-type: way
+type: node
 latitude: 47.03197
 longitude: 15.40157
 postcode: "8054"
 city: Graz
-street: "Straßganger Straße"
+street: Straßganger Straße
 housenumber: 433a
-phone: "+43 316 711044"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://roller-moped-shop.at/roller_moped_shop_store_view/"
+phone: +43 316 711044
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://roller-moped-shop.at/roller_moped_shop_store_view/

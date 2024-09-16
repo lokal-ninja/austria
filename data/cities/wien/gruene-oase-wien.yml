@@ -4,8 +4,8 @@ latitude: 48.22753
 longitude: 16.42141
 postcode: "1220"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 48
-phone: "+43 699 171 040 70"
-opening_hours: "by appointment"
-website: "https://grueneoasewien.com"
+street: Schüttaustraße
+housenumber: "48"
+phone: +43 699 171 040 70
+opening_hours: '"by appointment"'
+website: https://grueneoasewien.com

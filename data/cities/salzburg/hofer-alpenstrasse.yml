@@ -1,11 +1,11 @@
 id: 29280846
-type: way
+type: node
 latitude: 47.77449
 longitude: 13.07054
 postcode: "5020"
 city: Salzburg
-street: "Alpenstraße"
-housenumber: 109
+street: Alpenstraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

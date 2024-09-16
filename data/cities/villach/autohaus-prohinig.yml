@@ -1,11 +1,11 @@
 id: 158493344
-type: way
+type: node
 latitude: 46.6189
 longitude: 13.80633
 postcode: "9500"
 city: Villach
-street: "Pogöriacher Straße"
-housenumber: 175
-phone: "+43 4242 58186"
+street: Pogöriacher Straße
+housenumber: "175"
+phone: +43 4242 58186
 opening_hours: ""
-website: "https://prohinig.suzuki.at/"
+website: https://prohinig.suzuki.at/

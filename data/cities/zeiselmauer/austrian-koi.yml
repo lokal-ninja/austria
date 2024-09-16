@@ -1,11 +1,11 @@
 id: 45848041
-type: way
+type: node
 latitude: 48.32491
 longitude: 16.18678
 postcode: "3424"
 city: Zeiselmauer
-street: "Gewerbestraße"
-housenumber: 6
-phone: "+43 664 303 39 60"
+street: Gewerbestraße
+housenumber: "6"
+phone: +43 664 303 39 60
 opening_hours: ""
 website: ""

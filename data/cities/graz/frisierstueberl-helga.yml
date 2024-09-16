@@ -1,11 +1,11 @@
 id: 146972114
-type: way
+type: node
 latitude: 47.09529
 longitude: 15.41402
 postcode: "8051"
 city: Graz
-street: "Augasse"
-housenumber: 94
+street: Augasse
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 111459499
-type: way
+type: node
 latitude: 48.1378
 longitude: 14.22827
 postcode: "4501"
 city: Neuhofen an der Krems
-street: "Marktplatz"
-housenumber: 17
+street: Marktplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00, Mo-Sa 08:00-12:00"
+opening_hours: Mo-Fr 14:00-18:00, Mo-Sa 08:00-12:00
 website: ""

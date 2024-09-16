@@ -4,8 +4,9 @@ latitude: 47.25728
 longitude: 11.39754
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
+street: Leopoldstraße
 housenumber: 41b
-phone: "+43 512 588108"
-opening_hours: "Mo-Fr 09:15-12:00,14:00-18:00; Feb-Apr: Sa 09:30-12:00; Oct-Dec: Sa 09:30-12:00; PH off"
-website: "https://www.dienaehmaschine.at"
+phone: +43 512 588108
+opening_hours: 'Mo-Fr 09:15-12:00,14:00-18:00; Feb-Apr: Sa 09:30-12:00; Oct-Dec: Sa
+    09:30-12:00; PH off'
+website: https://www.dienaehmaschine.at

@@ -1,11 +1,11 @@
 id: 371241030
-type: way
+type: node
 latitude: 47.93081
 longitude: 16.18864
 postcode: "2552"
 city: Hirtenberg
-street: "Enzesfelder Straße"
-housenumber: 4
+street: Enzesfelder Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

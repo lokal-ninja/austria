@@ -4,8 +4,9 @@ latitude: 48.01079
 longitude: 13.72027
 postcode: "4800"
 city: Attnang-Puchheim
-street: "Rathausplatz"
-housenumber: 12
+street: Rathausplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:00,14:00-18:00; Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:00; on_request"
+opening_hours: Mo-Th 08:30-12:00,14:00-18:00; Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:00;
+    "on_request"
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.15891
 longitude: 14.02477
 postcode: "4600"
 city: Wels
-street: "Bäckergasse"
-housenumber: 4
+street: Bäckergasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00,14:00-17:00; PH off"
-website: "http://www.dhillon-mode.at/"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00,14:00-17:00; PH off
+website: http://www.dhillon-mode.at/

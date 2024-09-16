@@ -4,8 +4,8 @@ latitude: 48.16999
 longitude: 16.28717
 postcode: "1130"
 city: Wien
-street: "Feldkellergasse"
-housenumber: 10
+street: Feldkellergasse
+housenumber: "10"
 phone: "+4318044277"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://vlasim.at/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://vlasim.at/

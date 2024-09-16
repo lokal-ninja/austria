@@ -4,8 +4,8 @@ latitude: 47.81174
 longitude: 16.24363
 postcode: "2700"
 city: Wiener Neustadt
-street: "Neunkirchner Straße"
-housenumber: 10
-phone: "+432622-85780"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://weltlaeden.at/de/wr-neustadt.html"
+street: Neunkirchner Straße
+housenumber: "10"
+phone: +432622-85780
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://weltlaeden.at/de/wr-neustadt.html

@@ -1,11 +1,11 @@
 id: 1089388712
-type: way
+type: node
 latitude: 46.74158
 longitude: 15.84025
 postcode: "8483"
 city: Deutsch Goritz
 street: ""
-housenumber: 28
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://baumaschinen-puntigam.at/"
+website: https://baumaschinen-puntigam.at/

@@ -4,8 +4,8 @@ latitude: 47.47249
 longitude: 9.75009
 postcode: "6922"
 city: Wolfurt
-street: "Unterlinden"
-housenumber: 25
+street: Unterlinden
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:15; Sa 08:00-12:00"
-website: "https://www.puchmayr.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:15; Sa 08:00-12:00
+website: https://www.puchmayr.at/

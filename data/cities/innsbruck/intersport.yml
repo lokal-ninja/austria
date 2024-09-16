@@ -1,11 +1,11 @@
 id: 47126718
-type: way
+type: node
 latitude: 47.26231
 longitude: 11.4352
 postcode: "6020"
 city: Innsbruck
-street: "Bleichenweg"
-housenumber: 11
+street: Bleichenweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:30; Sa 09:00-18:00"
-website: "https://www.intersport-okay.at/standorte/innsbruck/innsbruck-ost/"
+opening_hours: Mo-Fr 9:00-18:30; Sa 09:00-18:00
+website: https://www.intersport-okay.at/standorte/innsbruck/innsbruck-ost/

@@ -4,8 +4,8 @@ latitude: 48.21933
 longitude: 16.48171
 postcode: "1220"
 city: Wien
-street: "Aspernstraße"
-housenumber: 120
+street: Aspernstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

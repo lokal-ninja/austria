@@ -1,11 +1,11 @@
 id: 158475941
-type: way
+type: node
 latitude: 47.28902
 longitude: 11.88009
 postcode: "6275"
 city: Stumm
-street: "Gewerbegebiet"
-housenumber: 3
+street: Gewerbegebiet
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

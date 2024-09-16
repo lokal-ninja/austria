@@ -1,11 +1,11 @@
 id: 47704670
-type: way
+type: node
 latitude: 47.92962
 longitude: 16.20421
 postcode: "2544"
 city: Leobersdorf
-street: "Europastraße"
-housenumber: 5
+street: Europastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-18:00
 website: ""

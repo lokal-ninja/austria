@@ -4,8 +4,8 @@ latitude: 47.26554
 longitude: 11.34527
 postcode: "6020"
 city: Innsbruck
-street: "Viktor-Franz-Hess-Straße"
-housenumber: 3
-phone: "+43 512 793886"
-opening_hours: "Mo-Sa 07:00-19:00; Su,PH 07:00-18:00"
-website: "https://www.ruetz.at/baeckereien/standorte/hoetting_west_innsbruck_tirol"
+street: Viktor-Franz-Hess-Straße
+housenumber: "3"
+phone: +43 512 793886
+opening_hours: Mo-Sa 07:00-19:00; Su,PH 07:00-18:00
+website: https://www.ruetz.at/baeckereien/standorte/hoetting_west_innsbruck_tirol

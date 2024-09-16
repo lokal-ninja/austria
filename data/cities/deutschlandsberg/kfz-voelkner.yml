@@ -1,11 +1,11 @@
 id: 157710995
-type: way
+type: node
 latitude: 46.81447
 longitude: 15.22158
 postcode: "8530"
 city: Deutschlandsberg
-street: "Schwanberger Straße"
-housenumber: 8
-phone: "+43 664 1843811"
+street: Schwanberger Straße
+housenumber: "8"
+phone: +43 664 1843811
 opening_hours: ""
 website: ""

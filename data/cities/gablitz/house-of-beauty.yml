@@ -1,11 +1,11 @@
 id: 159191021
-type: way
+type: node
 latitude: 48.22735
 longitude: 16.1547
 postcode: "3003"
 city: Gablitz
-street: "Hauptstraße"
-housenumber: 9
+street: Hauptstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

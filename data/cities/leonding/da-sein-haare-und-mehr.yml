@@ -4,8 +4,8 @@ latitude: 48.30324
 longitude: 14.25801
 postcode: "4020"
 city: Leonding
-street: "Zaubertalstraße"
-housenumber: 18
-phone: "+43 680 174 59 22"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.einfach-da-sein.at/"
+street: Zaubertalstraße
+housenumber: "18"
+phone: +43 680 174 59 22
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.einfach-da-sein.at/

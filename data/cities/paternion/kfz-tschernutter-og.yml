@@ -1,11 +1,11 @@
 id: 513044952
-type: way
+type: node
 latitude: 46.71647
 longitude: 13.64144
 postcode: "9711"
 city: Paternion
-street: "Bahnhofstraße (Paternion)"
-housenumber: 196
+street: Bahnhofstraße (Paternion)
+housenumber: "196"
 phone: "+43424569890"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.kfz-tschernutter.at"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.kfz-tschernutter.at

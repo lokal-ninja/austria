@@ -1,11 +1,11 @@
 id: 95557484
-type: way
+type: node
 latitude: 47.4682
 longitude: 11.99251
 postcode: "6250"
 city: Kundl
-street: "Achenfeldweg"
-housenumber: 12
+street: Achenfeldweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

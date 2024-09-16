@@ -4,8 +4,8 @@ latitude: 48.20526
 longitude: 16.37408
 postcode: "1010"
 city: Wien
-street: "Himmelpfortgasse"
-housenumber: 14
-phone: "+43 1 523 74 16"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-17:30"
-website: "https://www.fotoweinwurm.at"
+street: Himmelpfortgasse
+housenumber: "14"
+phone: +43 1 523 74 16
+opening_hours: Tu-Fr 10:00-13:00,14:00-17:30
+website: https://www.fotoweinwurm.at

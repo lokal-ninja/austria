@@ -1,11 +1,11 @@
 id: 580227138
-type: way
+type: node
 latitude: 48.04751
 longitude: 13.78142
 postcode: "4690"
 city: Schwanenstadt
-street: "Vor der Au"
-housenumber: 6
+street: Vor der Au
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

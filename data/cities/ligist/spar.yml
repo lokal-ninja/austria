@@ -1,11 +1,11 @@
 id: 205180553
-type: way
+type: node
 latitude: 46.99173
 longitude: 15.21117
 postcode: "8563"
 city: Ligist
 street: ""
 housenumber: 237a
-phone: "+43 3143 20520"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
-website: "https://www.spar.at/standorte/spar-ligist-markt-8563-steinbergstrasse-237a"
+phone: +43 3143 20520
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
+website: https://www.spar.at/standorte/spar-ligist-markt-8563-steinbergstrasse-237a

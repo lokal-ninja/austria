@@ -1,11 +1,11 @@
 id: 185141951
-type: way
+type: node
 latitude: 48.26777
 longitude: 16.46276
 postcode: "1220"
 city: Wien
-street: "Dassanowskyweg"
-housenumber: 11
+street: Dassanowskyweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 06:00-15:00; Fr 06:00-14:00"
+opening_hours: Mo-Th 06:00-15:00; Fr 06:00-14:00
 website: ""

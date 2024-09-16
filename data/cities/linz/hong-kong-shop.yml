@@ -1,11 +1,11 @@
 id: 96337643
-type: way
+type: node
 latitude: 48.30405
 longitude: 14.29075
 postcode: "4020"
 city: Linz
-street: "Dametzstraße"
-housenumber: 10
+street: Dametzstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-17:45"
+opening_hours: Mo-Fr 10:00-12:00,14:00-17:45
 website: ""

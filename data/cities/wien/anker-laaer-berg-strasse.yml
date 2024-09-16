@@ -4,8 +4,8 @@ latitude: 48.15551
 longitude: 16.39566
 postcode: "1100"
 city: Wien
-street: "Laaer-Berg-Straße"
-housenumber: 168
+street: Laaer-Berg-Straße
+housenumber: "168"
 phone: "+4316891011"
-opening_hours: "Mo-Fr 06:00-18:00; Sa, Su, PH 06:00-12:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa, Su, PH 06:00-12:00
+website: https://www.ankerbrot.at/

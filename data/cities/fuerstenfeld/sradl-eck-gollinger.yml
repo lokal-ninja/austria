@@ -1,11 +1,11 @@
 id: 195007964
-type: way
+type: node
 latitude: 47.05729
 longitude: 16.07027
 postcode: "8280"
 city: Fürstenfeld
-street: "Grazerstraße"
-housenumber: 9
+street: Grazerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.radleck.co.at/"
+website: https://www.radleck.co.at/

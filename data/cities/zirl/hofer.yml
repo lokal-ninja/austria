@@ -4,8 +4,8 @@ latitude: 47.26714
 longitude: 11.22937
 postcode: "6170"
 city: Zirl
-street: "Bahnhofstraße"
-housenumber: 43
-phone: "+43 57030 32050"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off"
-website: "https://www.hofer.at"
+street: Bahnhofstraße
+housenumber: "43"
+phone: +43 57030 32050
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; PH off
+website: https://www.hofer.at

@@ -1,11 +1,11 @@
 id: 324048296
-type: way
+type: node
 latitude: 48.59835
 longitude: 15.15272
 postcode: "3910"
 city: Zwettl
 street: ""
-housenumber: 52
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

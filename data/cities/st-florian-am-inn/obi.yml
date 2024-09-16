@@ -1,11 +1,11 @@
 id: 165484177
-type: way
+type: node
 latitude: 48.42678
 longitude: 13.44765
 postcode: "4782"
 city: St. Florian am Inn
 street: ""
-housenumber: 44
-phone: "+43 7712 7272"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00; PH off"
-website: "https://www.obi.at/"
+housenumber: "44"
+phone: +43 7712 7272
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00; PH off
+website: https://www.obi.at/

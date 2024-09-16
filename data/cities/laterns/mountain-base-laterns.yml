@@ -1,11 +1,11 @@
 id: 255405427
-type: way
+type: node
 latitude: 47.26062
 longitude: 9.74228
 postcode: "6830"
 city: Laterns
-street: "Kühboden"
-housenumber: 4
+street: Kühboden
+housenumber: "4"
 phone: ""
-opening_hours: "Dec 16-Mar 27: Mo-Su,PH 08:30-16:30"
+opening_hours: 'Dec 16-Mar 27: Mo-Su,PH 08:30-16:30'
 website: ""

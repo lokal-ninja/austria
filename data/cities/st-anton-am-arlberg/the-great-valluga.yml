@@ -4,8 +4,8 @@ latitude: 47.12774
 longitude: 10.26482
 postcode: "6580"
 city: St. Anton am Arlberg
-street: "Dorfstraße"
-housenumber: 20
-phone: "+43 5446 3453380"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.greatvalluga.at/"
+street: Dorfstraße
+housenumber: "20"
+phone: +43 5446 3453380
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.greatvalluga.at/

@@ -1,11 +1,11 @@
 id: 239304729
-type: way
+type: node
 latitude: 47.02436
 longitude: 15.44833
 postcode: "8055"
 city: Graz
-street: "Reitweg"
-housenumber: 41
+street: Reitweg
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

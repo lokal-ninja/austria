@@ -1,11 +1,11 @@
 id: 468447053
-type: way
+type: node
 latitude: 46.78176
 longitude: 13.73979
 postcode: "9544"
 city: Feld am See
-street: "Millstätter Straße"
-housenumber: 82
+street: Millstätter Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:30-12:00"
-website: "https://etisch.at/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:30-12:00
+website: https://etisch.at/

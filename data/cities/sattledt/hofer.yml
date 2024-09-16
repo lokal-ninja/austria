@@ -1,11 +1,11 @@
 id: 107669215
-type: way
+type: node
 latitude: 48.07053
 longitude: 14.05355
 postcode: "4642"
 city: Sattledt
-street: "Kirchdorfer Straße"
-housenumber: 6
+street: Kirchdorfer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

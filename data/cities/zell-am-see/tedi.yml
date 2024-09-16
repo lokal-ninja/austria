@@ -1,11 +1,11 @@
 id: 197216986
-type: way
+type: node
 latitude: 47.29634
 longitude: 12.78776
 postcode: "5700"
 city: Zell am See
-street: "Gletschermoosstraße"
-housenumber: 35
+street: Gletschermoosstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

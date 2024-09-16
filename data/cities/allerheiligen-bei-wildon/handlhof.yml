@@ -1,11 +1,11 @@
 id: 223896110
-type: way
+type: node
 latitude: 46.9158
 longitude: 15.5562
 postcode: "8412"
 city: Allerheiligen bei Wildon
 street: ""
-housenumber: 46
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

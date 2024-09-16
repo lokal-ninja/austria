@@ -4,8 +4,8 @@ latitude: 47.77353
 longitude: 17.01949
 postcode: "7163"
 city: Andau
-street: "Ödenburgerstraße"
-housenumber: 72
+street: Ödenburgerstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30; Sa 07:30-12:00"
-website: "https://www.opel-horvath.at/"
+opening_hours: Mo-Fr 07:30-16:30; Sa 07:30-12:00
+website: https://www.opel-horvath.at/

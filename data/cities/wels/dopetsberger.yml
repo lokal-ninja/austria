@@ -1,11 +1,11 @@
 id: 100231643
-type: way
+type: node
 latitude: 48.18376
 longitude: 14.05467
 postcode: "4600"
 city: Wels
-street: "Flugplatzstraße"
-housenumber: 38
-phone: "+43 7242 42054"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.dopetsberger.at/"
+street: Flugplatzstraße
+housenumber: "38"
+phone: +43 7242 42054
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.dopetsberger.at/

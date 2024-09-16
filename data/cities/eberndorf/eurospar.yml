@@ -1,11 +1,11 @@
 id: 190165402
-type: way
+type: node
 latitude: 46.62207
 longitude: 14.63575
 postcode: "9125"
 city: Eberndorf
-street: "Fernando-Colazzo-Platz"
-housenumber: 2
+street: Fernando-Colazzo-Platz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

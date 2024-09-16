@@ -4,8 +4,8 @@ latitude: 47.26762
 longitude: 11.39132
 postcode: "6020"
 city: Innsbruck
-street: "Marktgraben"
-housenumber: 1
-phone: "+43 512 581968"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://maryrose.at/unsere-laeden/"
+street: Marktgraben
+housenumber: "1"
+phone: +43 512 581968
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://maryrose.at/unsere-laeden/

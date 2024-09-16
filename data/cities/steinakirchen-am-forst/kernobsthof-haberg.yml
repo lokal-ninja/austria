@@ -5,7 +5,7 @@ longitude: 15.02208
 postcode: "3261"
 city: Steinakirchen am Forst
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
-opening_hours: "Sa 08:00-12:00"
-website: "https://www.bio-austria.at/biobauer/biohof-dornabauer/"
+opening_hours: Sa 08:00-12:00
+website: https://www.bio-austria.at/biobauer/biohof-dornabauer/

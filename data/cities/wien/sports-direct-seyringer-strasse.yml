@@ -1,11 +1,11 @@
 id: 29183280
-type: way
+type: node
 latitude: 48.26574
 longitude: 16.45428
 postcode: "1210"
 city: Wien
-street: "Seyringer Straße"
-housenumber: 15
+street: Seyringer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://at.sportsdirect.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://at.sportsdirect.com/

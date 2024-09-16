@@ -1,11 +1,11 @@
 id: 128080873
-type: way
+type: node
 latitude: 47.00386
 longitude: 15.26809
 postcode: "8561"
 city: Söding-Sankt Johann
-street: "Packerstraße"
-housenumber: 160
-phone: "+433137 6144"
-opening_hours: "Mo-We 07:30-19:00;Th 07:30-19:30;Fr 07:30-19:00; Sa 07:30-18:00"
+street: Packerstraße
+housenumber: "160"
+phone: +433137 6144
+opening_hours: Mo-We 07:30-19:00;Th 07:30-19:30;Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

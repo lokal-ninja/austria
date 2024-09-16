@@ -1,11 +1,11 @@
 id: 38617789
-type: way
+type: node
 latitude: 47.26815
 longitude: 9.61669
 postcode: "6800"
 city: Feldkirch
-street: "Königshofstraße"
-housenumber: 56
+street: Königshofstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

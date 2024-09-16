@@ -4,8 +4,8 @@ latitude: 47.36209
 longitude: 9.68841
 postcode: "6845"
 city: Hohenems
-street: "Schloßplatz"
-housenumber: 14
-phone: "+43 5576 42561"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.rosenberger-schuhe.at/schuhe/filialen/hohenems"
+street: Schloßplatz
+housenumber: "14"
+phone: +43 5576 42561
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.rosenberger-schuhe.at/schuhe/filialen/hohenems

@@ -4,8 +4,8 @@ latitude: 48.18109
 longitude: 16.34345
 postcode: "1120"
 city: Wien
-street: "Wolfganggasse"
-housenumber: 42
+street: Wolfganggasse
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

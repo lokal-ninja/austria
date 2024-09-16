@@ -1,11 +1,11 @@
 id: 123272203
-type: way
+type: node
 latitude: 47.30889
 longitude: 9.64856
 postcode: "6833"
 city: Klaus
-street: "Am Bach"
-housenumber: 4
+street: Am Bach
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su, PH 07:00-10:00"
-website: "https://baeckerei-waltner.at/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:30; Su, PH 07:00-10:00
+website: https://baeckerei-waltner.at/

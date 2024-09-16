@@ -4,8 +4,8 @@ latitude: 48.20823
 longitude: 16.37014
 postcode: "1010"
 city: Wien
-street: "Graben"
-housenumber: 11
-phone: "+43 1 51529976"
-opening_hours: "Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 10:00-18:00"
+street: Graben
+housenumber: "11"
+phone: +43 1 51529976
+opening_hours: Mo-We 10:00-19:00; Th,Fr 10:00-20:00; Sa 10:00-18:00
 website: ""

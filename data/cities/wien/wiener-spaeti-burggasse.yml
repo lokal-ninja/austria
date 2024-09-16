@@ -4,8 +4,8 @@ latitude: 48.20406
 longitude: 16.35353
 postcode: "1070"
 city: Wien
-street: "Burggasse"
-housenumber: 27
+street: Burggasse
+housenumber: "27"
 phone: ""
-opening_hours: "24/7"
-website: "http://www.wienerspaeti.at/"
+opening_hours: 24/7
+website: http://www.wienerspaeti.at/

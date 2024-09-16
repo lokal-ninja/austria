@@ -1,11 +1,11 @@
 id: 1049154708
-type: way
+type: node
 latitude: 48.28483
 longitude: 14.35364
 postcode: "4221"
 city: Steyregg
-street: "Linzer Straße"
-housenumber: 54
+street: Linzer Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Th 06:30-18:00; Fr 07:30-12:30"
-website: "https://www.brotsuechtig.at/"
+opening_hours: Mo-Th 06:30-18:00; Fr 07:30-12:30
+website: https://www.brotsuechtig.at/

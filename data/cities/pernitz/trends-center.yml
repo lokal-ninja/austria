@@ -1,11 +1,11 @@
 id: 389281911
-type: way
+type: node
 latitude: 47.89696
 longitude: 15.96932
 postcode: "2763"
 city: Pernitz
-street: "Felixstraße"
-housenumber: 2
-phone: "+43 2632 721439001"
-opening_hours: "Mo-Fr 09:00-18:00,Sa 09:00-17:00"
-website: "https://www.trendscenter.at"
+street: Felixstraße
+housenumber: "2"
+phone: +43 2632 721439001
+opening_hours: Mo-Fr 09:00-18:00,Sa 09:00-17:00
+website: https://www.trendscenter.at

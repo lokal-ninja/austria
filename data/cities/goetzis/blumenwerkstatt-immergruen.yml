@@ -4,8 +4,8 @@ latitude: 47.33227
 longitude: 9.64196
 postcode: "6840"
 city: Götzis
-street: "Am Bach"
-housenumber: 3
-phone: "+43 5523 55 2 77"
-opening_hours: "Mo-Su 0:00-24:00"
-website: "https://blumenimmergruen.at/"
+street: Am Bach
+housenumber: "3"
+phone: +43 5523 55 2 77
+opening_hours: Mo-Su 0:00-24:00
+website: https://blumenimmergruen.at/

@@ -4,8 +4,9 @@ latitude: 47.38876
 longitude: 9.7241
 postcode: "6850"
 city: Dornbirn
-street: "Wallenmahd"
-housenumber: 23
+street: Wallenmahd
+housenumber: "23"
 phone: ""
-opening_hours: "Mar 27-Oct 31: Mo-Fr 09:00-18:00; Mar 27-Oct 31: Sa 09:00-16:00; Nov 01-Mar 26: Mo-Fr 09:00-18:00; Nov 01-Mar 26: Sa 09:00-14:00"
+opening_hours: 'Mar 27-Oct 31: Mo-Fr 09:00-18:00; Mar 27-Oct 31: Sa 09:00-16:00; Nov
+    01-Mar 26: Mo-Fr 09:00-18:00; Nov 01-Mar 26: Sa 09:00-14:00'
 website: ""

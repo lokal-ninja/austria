@@ -1,11 +1,11 @@
 id: 51354893
-type: way
+type: node
 latitude: 48.25043
 longitude: 14.2652
 postcode: "4060"
 city: Leonding
-street: "Lahholdstraße"
-housenumber: 24
+street: Lahholdstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

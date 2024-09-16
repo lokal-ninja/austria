@@ -4,8 +4,8 @@ latitude: 48.20465
 longitude: 13.95523
 postcode: "4631"
 city: Krenglbach
-street: "Sportplatzstraße"
-housenumber: 28
-phone: "+43-664-3998741;+43-664-4074552"
-opening_hours: "Tu-Fr 06:00-12:15; Sa 06:00-12:00;Su 07:00-11:00"
-website: "https://www.klausmayer.at/"
+street: Sportplatzstraße
+housenumber: "28"
+phone: +43-664-3998741;+43-664-4074552
+opening_hours: Tu-Fr 06:00-12:15; Sa 06:00-12:00;Su 07:00-11:00
+website: https://www.klausmayer.at/

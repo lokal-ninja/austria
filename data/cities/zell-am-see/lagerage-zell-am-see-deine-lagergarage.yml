@@ -4,8 +4,8 @@ latitude: 47.30946
 longitude: 12.79535
 postcode: "5700"
 city: Zell am See
-street: "Seespitzstraße"
-housenumber: 8
+street: Seespitzstraße
+housenumber: "8"
 phone: "+436542218722"
-opening_hours: "24/7"
-website: "https://lagerage.at"
+opening_hours: 24/7
+website: https://lagerage.at

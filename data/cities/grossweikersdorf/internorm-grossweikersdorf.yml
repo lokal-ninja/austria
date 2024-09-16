@@ -1,11 +1,11 @@
 id: 101547643
-type: way
+type: node
 latitude: 48.46809
 longitude: 15.97576
 postcode: "3701"
 city: Großweikersdorf
-street: "Raiffeisenstraße"
-housenumber: 4
+street: Raiffeisenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

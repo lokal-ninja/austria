@@ -1,11 +1,11 @@
 id: 369631432
-type: way
+type: node
 latitude: 47.33965
 longitude: 15.01348
 postcode: "8770"
 city: Sankt Michael in Obersteiermark
-street: "Bundesstraße"
-housenumber: 26
-phone: "+43 3843 24984"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Bundesstraße
+housenumber: "26"
+phone: +43 3843 24984
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

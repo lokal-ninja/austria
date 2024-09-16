@@ -4,8 +4,8 @@ latitude: 47.25978
 longitude: 11.38706
 postcode: "6020"
 city: Innsbruck
-street: "Fritz-Pregl-Straße"
-housenumber: 3
+street: Fritz-Pregl-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 12:00-13:00"
-website: "https://skalpell.at/"
+opening_hours: Mo-Th 12:00-13:00
+website: https://skalpell.at/

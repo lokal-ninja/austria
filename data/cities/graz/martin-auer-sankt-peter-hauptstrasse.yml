@@ -4,8 +4,8 @@ latitude: 47.05646
 longitude: 15.47281
 postcode: "8042"
 city: Graz
-street: "Sankt-Peter-Hauptstraße"
-housenumber: 63
-phone: "+43 316 47 42 43"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 06:30-12:00"
-website: "https://www.martinauer.at/"
+street: Sankt-Peter-Hauptstraße
+housenumber: "63"
+phone: +43 316 47 42 43
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 06:30-12:00
+website: https://www.martinauer.at/

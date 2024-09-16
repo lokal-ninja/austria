@@ -1,11 +1,11 @@
 id: 51808790
-type: way
+type: node
 latitude: 48.28128
 longitude: 14.27904
 postcode: "4060"
 city: Leonding
-street: "Waldeggstraße"
-housenumber: 118
+street: Waldeggstraße
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

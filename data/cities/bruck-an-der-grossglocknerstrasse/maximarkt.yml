@@ -1,11 +1,11 @@
 id: 228360295
-type: way
+type: node
 latitude: 47.2871
 longitude: 12.81194
 postcode: "5671"
 city: Bruck an der Großglocknerstraße
-street: "Kaprunerstraße"
-housenumber: 50
-phone: "+43 6545 222910"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.maximarkt.at/Standorte/Bruck"
+street: Kaprunerstraße
+housenumber: "50"
+phone: +43 6545 222910
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
+website: https://www.maximarkt.at/Standorte/Bruck

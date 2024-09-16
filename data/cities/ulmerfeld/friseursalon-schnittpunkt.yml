@@ -1,11 +1,11 @@
 id: 203750866
-type: way
+type: node
 latitude: 48.0763
 longitude: 14.82709
 postcode: "3363"
 city: Ulmerfeld
-street: "Neuhofner Straße"
-housenumber: 1
+street: Neuhofner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

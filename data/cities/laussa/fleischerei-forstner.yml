@@ -1,11 +1,11 @@
 id: 240195068
-type: way
+type: node
 latitude: 47.95321
 longitude: 14.45591
 postcode: "4461"
 city: Laussa
-street: "Stoderstraße"
-housenumber: 6
+street: Stoderstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://fleischereiforster.business.site/"
+website: https://fleischereiforster.business.site/

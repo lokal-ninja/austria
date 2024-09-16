@@ -1,11 +1,11 @@
 id: 336035317
-type: way
+type: node
 latitude: 46.95244
 longitude: 15.89934
 postcode: "8330"
 city: Feldbach
-street: "Dr.-Senekowitsch-Straße"
-housenumber: 3
-phone: "+43 3152 39500"
+street: Dr.-Senekowitsch-Straße
+housenumber: "3"
+phone: +43 3152 39500
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 131545481
-type: way
+type: node
 latitude: 48.03231
 longitude: 14.27445
 postcode: "4595"
 city: Waldneukirchen
-street: "Lagerhauspark"
-housenumber: 1
+street: Lagerhauspark
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

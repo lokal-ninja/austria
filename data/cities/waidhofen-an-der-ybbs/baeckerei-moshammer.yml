@@ -4,8 +4,8 @@ latitude: 47.95795
 longitude: 14.77567
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Pocksteinerstraße"
-housenumber: 14
+street: Pocksteinerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Sa 06:30-12:00; Mo-Fr 06:00-14:00"
-website: "https://www.baeckerei-moshammer.at/"
+opening_hours: Sa 06:30-12:00; Mo-Fr 06:00-14:00
+website: https://www.baeckerei-moshammer.at/

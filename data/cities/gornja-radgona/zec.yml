@@ -1,11 +1,11 @@
 id: 340468694
-type: way
+type: node
 latitude: 46.68044
 longitude: 15.98546
 postcode: "9250"
 city: Gornja Radgona
-street: "Apaška cesta"
-housenumber: 6
+street: Apaška cesta
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

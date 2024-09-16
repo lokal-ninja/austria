@@ -1,11 +1,11 @@
 id: 190983300
-type: way
+type: node
 latitude: 47.30577
 longitude: 10.97767
 postcode: "6414"
 city: Mieming
-street: "Obermieming"
-housenumber: 177
-phone: "+43 5264/5236"
-opening_hours: "Mo-Fr 07:00-18:30;Sa 07:00-17:00"
-website: "https://www.spar.at/standorte/spar-obermieming-6414-mieming-177"
+street: Obermieming
+housenumber: "177"
+phone: +43 5264/5236
+opening_hours: Mo-Fr 07:00-18:30;Sa 07:00-17:00
+website: https://www.spar.at/standorte/spar-obermieming-6414-mieming-177

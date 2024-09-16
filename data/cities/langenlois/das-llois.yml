@@ -4,8 +4,8 @@ latitude: 48.47255
 longitude: 15.675
 postcode: "3550"
 city: Langenlois
-street: "Holzplatz"
-housenumber: 5
-phone: "+43 664 4419919"
-opening_hours: "We,Th,Sa 08:30-12:00; Fr 08:30-12:00,15:30-18:00; PH off"
-website: "http://www.dasllois.at/"
+street: Holzplatz
+housenumber: "5"
+phone: +43 664 4419919
+opening_hours: We,Th,Sa 08:30-12:00; Fr 08:30-12:00,15:30-18:00; PH off
+website: http://www.dasllois.at/

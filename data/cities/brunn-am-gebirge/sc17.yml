@@ -1,11 +1,11 @@
 id: 26237979
-type: way
+type: node
 latitude: 48.10707
 longitude: 16.31287
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Hubatschstraße"
-housenumber: 3
+street: Hubatschstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

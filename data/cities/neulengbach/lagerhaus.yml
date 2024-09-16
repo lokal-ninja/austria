@@ -1,11 +1,11 @@
 id: 188360216
-type: way
+type: node
 latitude: 48.20128
 longitude: 15.88964
 postcode: "3040"
 city: Neulengbach
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
-website: "https://lagerhaus.at/standort/1534"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
+website: https://lagerhaus.at/standort/1534

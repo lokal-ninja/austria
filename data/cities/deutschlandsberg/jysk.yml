@@ -1,11 +1,11 @@
 id: 785033273
-type: way
+type: node
 latitude: 46.81704
 longitude: 15.21959
 postcode: "8530"
 city: Deutschlandsberg
-street: "Frauentaler Straße"
-housenumber: 34
+street: Frauentaler Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://jysk.at/stores-locator?storeId=5159"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://jysk.at/stores-locator?storeId=5159

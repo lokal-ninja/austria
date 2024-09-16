@@ -4,8 +4,9 @@ latitude: 47.45569
 longitude: 13.20896
 postcode: "5452"
 city: Pfarrwerfen
-street: "Dorfwerfen"
-housenumber: 8
-phone: "+43 6468 52116"
-opening_hours: "Mo-Tu 08:30-11:00; We 14:30-18:00; Th-Fr 08:30-11:00,14:30-18:00; Sa 08:00-12:00"
-website: "http://www.apisalzburg.at/"
+street: Dorfwerfen
+housenumber: "8"
+phone: +43 6468 52116
+opening_hours: Mo-Tu 08:30-11:00; We 14:30-18:00; Th-Fr 08:30-11:00,14:30-18:00; Sa
+    08:00-12:00
+website: http://www.apisalzburg.at/

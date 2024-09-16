@@ -1,11 +1,11 @@
 id: 78074573
-type: way
+type: node
 latitude: 48.46611
 longitude: 16.37743
 postcode: "2113"
 city: Karnabrunn
-street: "Gewerbepark"
-housenumber: 6
+street: Gewerbepark
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00"
-website: "https://www.furch-services.at"
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00
+website: https://www.furch-services.at

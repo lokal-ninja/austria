@@ -1,11 +1,11 @@
 id: 195419906
-type: way
+type: node
 latitude: 47.3398
 longitude: 15.01108
 postcode: "8770"
 city: St. Michael in der Obersteiermark
-street: "Kärntner Straße"
-housenumber: 4
+street: Kärntner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off
+website: https://www.hofer.at/

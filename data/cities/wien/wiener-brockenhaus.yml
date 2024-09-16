@@ -4,8 +4,8 @@ latitude: 48.20956
 longitude: 16.34034
 postcode: "1080"
 city: Wien
-street: "Pfeilgasse"
-housenumber: 46
+street: Pfeilgasse
+housenumber: "46"
 phone: "+4366499887640"
-opening_hours: "nach Terminvereinbarung"
-website: "https://www.wienerbrockenhaus.at/"
+opening_hours: '"nach Terminvereinbarung"'
+website: https://www.wienerbrockenhaus.at/

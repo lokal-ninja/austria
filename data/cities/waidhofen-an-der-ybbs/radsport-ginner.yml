@@ -4,8 +4,8 @@ latitude: 47.96062
 longitude: 14.77606
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Ybbstorgasse"
-housenumber: 5
+street: Ybbstorgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:00, 14:30-18:00; Sa 08:30-12:00"
-website: "https://ginnersport.com/pages/waidhofen"
+opening_hours: Tu-Fr 08:00-12:00, 14:30-18:00; Sa 08:30-12:00
+website: https://ginnersport.com/pages/waidhofen

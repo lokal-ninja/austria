@@ -4,8 +4,8 @@ latitude: 48.1854
 longitude: 16.29875
 postcode: "1130"
 city: Wien
-street: "Altgasse"
-housenumber: 17
+street: Altgasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.duerner.at/"
+website: https://www.duerner.at/

@@ -1,11 +1,11 @@
 id: 93940393
-type: way
+type: node
 latitude: 46.65144
 longitude: 14.29562
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Mageregger Straße"
-housenumber: 73
+street: Mageregger Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off
 website: ""

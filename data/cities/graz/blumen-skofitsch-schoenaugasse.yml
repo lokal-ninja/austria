@@ -1,11 +1,11 @@
 id: 83130460
-type: way
+type: node
 latitude: 47.05819
 longitude: 15.44031
 postcode: "8010"
 city: Graz
-street: "Schönaugasse"
-housenumber: 84
+street: Schönaugasse
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:00-12:30
 website: ""

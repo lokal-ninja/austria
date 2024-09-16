@@ -4,8 +4,8 @@ latitude: 48.2071
 longitude: 16.3743
 postcode: "1010"
 city: Wien
-street: "Singerstraße"
-housenumber: 13
+street: Singerstraße
+housenumber: "13"
 phone: "+4315120507"
-opening_hours: "We-Fr 10:00-19:00; Sa 10:00-18:00; Su-Tu off"
-website: "https://www.buongustaio.at/"
+opening_hours: We-Fr 10:00-19:00; Sa 10:00-18:00; Su-Tu off
+website: https://www.buongustaio.at/

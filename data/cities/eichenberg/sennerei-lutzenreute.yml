@@ -1,11 +1,11 @@
 id: 444443356
-type: way
+type: node
 latitude: 47.54764
 longitude: 9.78604
 postcode: "6911"
 city: Eichenberg
-street: "Lutzenreute"
-housenumber: 23
+street: Lutzenreute
+housenumber: "23"
 phone: ""
-opening_hours: "We-Su 09:00-11:30"
+opening_hours: We-Su 09:00-11:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.17793
 longitude: 16.41219
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 56
-phone: "+43 676 7345511"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Simmeringer Hauptstraße
+housenumber: "56"
+phone: +43 676 7345511
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

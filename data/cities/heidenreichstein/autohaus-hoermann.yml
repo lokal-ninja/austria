@@ -1,11 +1,11 @@
 id: 125634446
-type: way
+type: node
 latitude: 48.85701
 longitude: 15.1077
 postcode: "3860"
 city: Heidenreichstein
 street: ""
-housenumber: 69
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

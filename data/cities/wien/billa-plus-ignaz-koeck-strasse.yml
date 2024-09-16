@@ -4,8 +4,8 @@ latitude: 48.26818
 longitude: 16.39836
 postcode: "1210"
 city: Wien
-street: "Ignaz-Köck-Straße"
-housenumber: 1
+street: Ignaz-Köck-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

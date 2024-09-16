@@ -4,8 +4,8 @@ latitude: 47.9596
 longitude: 16.39935
 postcode: "2483"
 city: Ebreichsdorf
-street: "Sportplatzstraße"
-housenumber: 13
+street: Sportplatzstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-12:00"
-website: "https://www.lehar.at/"
+opening_hours: Mo-Th 09:00-16:00; Fr 09:00-12:00
+website: https://www.lehar.at/

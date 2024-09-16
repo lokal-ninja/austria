@@ -1,11 +1,11 @@
 id: 186109275
-type: way
+type: node
 latitude: 47.30797
 longitude: 11.0805
 postcode: "6410"
 city: Telfs
-street: "Untermarktstraße"
-housenumber: 65
+street: Untermarktstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://www.oeamtc.at/standorte/tirol/telfs-16192446"
+website: https://www.oeamtc.at/standorte/tirol/telfs-16192446

@@ -4,8 +4,8 @@ latitude: 47.04628
 longitude: 15.1558
 postcode: "8570"
 city: Voitsberg
-street: "Grazer Vorstadt"
-housenumber: 56
-phone: "+43 3142 21643"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+street: Grazer Vorstadt
+housenumber: "56"
+phone: +43 3142 21643
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bipa.at/

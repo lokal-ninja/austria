@@ -1,11 +1,12 @@
 id: 153582926
-type: way
+type: node
 latitude: 47.47336
 longitude: 9.75205
 postcode: "6922"
 city: Wolfurt
-street: "Kellhofstraße"
-housenumber: 6
+street: Kellhofstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Apr-Sep Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Oct-Mar, Apr-Sep Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "http://radcult.eu"
+opening_hours: Apr-Sep Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00; Oct-Mar, Apr-Sep
+    Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: http://radcult.eu

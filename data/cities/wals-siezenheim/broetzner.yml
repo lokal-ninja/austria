@@ -1,11 +1,11 @@
 id: 131580005
-type: way
+type: node
 latitude: 47.78833
 longitude: 12.97388
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Lagerhausstraße"
-housenumber: 3
+street: Lagerhausstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

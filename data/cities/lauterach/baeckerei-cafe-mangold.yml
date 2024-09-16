@@ -4,8 +4,8 @@ latitude: 47.47673
 longitude: 9.73115
 postcode: "6923"
 city: Lauterach
-street: "Bundesstraße"
-housenumber: 52
+street: Bundesstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 06:15-18:15; Sa 06:15-18:00; Su,PH 07:30-18:00"
-website: "https://www.mangold-brot.at/"
+opening_hours: Mo-Fr 06:15-18:15; Sa 06:15-18:00; Su,PH 07:30-18:00
+website: https://www.mangold-brot.at/

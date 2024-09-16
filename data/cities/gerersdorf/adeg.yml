@@ -4,8 +4,9 @@ latitude: 48.19907
 longitude: 15.55505
 postcode: "3385"
 city: Gerersdorf
-street: "Gerersdorfer Hauptstraße"
-housenumber: 23
-phone: "+43 2749 2618"
-opening_hours: "Mo-Tu 06:30-12:00, 16:00-18:00; We 06:30-12:00; Th-Fr 06:30-12:00, 16:00-18:00; Sa 06:30-12:00"
-website: "https://www.adeg.at/"
+street: Gerersdorfer Hauptstraße
+housenumber: "23"
+phone: +43 2749 2618
+opening_hours: Mo-Tu 06:30-12:00, 16:00-18:00; We 06:30-12:00; Th-Fr 06:30-12:00,
+    16:00-18:00; Sa 06:30-12:00
+website: https://www.adeg.at/

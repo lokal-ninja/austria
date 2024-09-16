@@ -1,11 +1,11 @@
 id: 929492219
-type: way
+type: node
 latitude: 48.12904
 longitude: 15.13907
 postcode: "3250"
 city: Wieselburg
-street: "Manker Straße"
-housenumber: 1
+street: Manker Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

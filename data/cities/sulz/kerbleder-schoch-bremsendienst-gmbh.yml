@@ -1,11 +1,11 @@
 id: 122431965
-type: way
+type: node
 latitude: 47.30167
 longitude: 9.62114
 postcode: "6832"
 city: Sulz
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

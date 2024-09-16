@@ -1,11 +1,11 @@
 id: 81536276
-type: way
+type: node
 latitude: 48.17645
 longitude: 14.01378
 postcode: "4600"
 city: Wels
-street: "Wallerer Straße"
-housenumber: 113
-phone: "+43-7242-206403"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30"
-website: "https://www.autoteile-jedinger.at/"
+street: Wallerer Straße
+housenumber: "113"
+phone: +43-7242-206403
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-15:30
+website: https://www.autoteile-jedinger.at/

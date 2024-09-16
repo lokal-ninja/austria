@@ -4,8 +4,8 @@ latitude: 48.2523
 longitude: 16.39956
 postcode: "1210"
 city: Wien
-street: "Freytaggasse"
-housenumber: 2
+street: Freytaggasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; PH off"
-website: "http://www.reinhards-gitarren.at/"
+opening_hours: Mo-Fr 10:00-19:00; PH off
+website: http://www.reinhards-gitarren.at/

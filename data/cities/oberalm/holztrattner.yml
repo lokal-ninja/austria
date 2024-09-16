@@ -1,11 +1,11 @@
 id: 155687685
-type: way
+type: node
 latitude: 47.70117
 longitude: 13.09844
 postcode: "5411"
 city: Oberalm
-street: "Halleiner Landesstraße"
-housenumber: 66
+street: Halleiner Landesstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 06:30-11:30"
+opening_hours: Mo-Sa 06:30-11:30
 website: ""

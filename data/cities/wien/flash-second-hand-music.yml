@@ -4,8 +4,8 @@ latitude: 48.19727
 longitude: 16.36404
 postcode: "1040"
 city: Wien
-street: "Mühlgasse"
-housenumber: 13
+street: Mühlgasse
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-17:00"
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-17:00
 website: ""

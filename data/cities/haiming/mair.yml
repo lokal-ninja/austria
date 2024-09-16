@@ -1,11 +1,11 @@
 id: 143051782
-type: way
+type: node
 latitude: 47.23648
 longitude: 10.86718
 postcode: "6430"
 city: Haiming
-street: "Bundesstraße"
-housenumber: 28
+street: Bundesstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota-mair.at/"
+website: https://www.toyota-mair.at/

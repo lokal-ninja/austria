@@ -4,8 +4,8 @@ latitude: 48.16374
 longitude: 14.02345
 postcode: "4600"
 city: Wels
-street: "Schubertstraße"
-housenumber: 11
-phone: "+43 699 81420938"
-opening_hours: "Fr 10:00-17:00"
-website: "http://www.vorratskammer.at/"
+street: Schubertstraße
+housenumber: "11"
+phone: +43 699 81420938
+opening_hours: Fr 10:00-17:00
+website: http://www.vorratskammer.at/

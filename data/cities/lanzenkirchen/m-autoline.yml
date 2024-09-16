@@ -1,11 +1,11 @@
 id: 441142631
-type: way
+type: node
 latitude: 47.75512
 longitude: 16.25273
 postcode: "2821"
 city: Lanzenkirchen
-street: "Wiener Neustädter Straße"
-housenumber: 5
+street: Wiener Neustädter Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 405512432
-type: way
+type: node
 latitude: 48.40097
 longitude: 15.97578
 postcode: "3462"
 city: Absdorf
-street: "Kremserstraße"
-housenumber: 32
+street: Kremserstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

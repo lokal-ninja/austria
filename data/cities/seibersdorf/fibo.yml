@@ -1,11 +1,11 @@
 id: 249454477
-type: way
+type: node
 latitude: 47.95646
 longitude: 16.53725
 postcode: ""
 city: Seibersdorf
-street: "Heideweg"
-housenumber: 27
+street: Heideweg
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "www.fibo-reifen.at"
+website: www.fibo-reifen.at

@@ -1,11 +1,11 @@
 id: 126470794
-type: way
+type: node
 latitude: 48.28262
 longitude: 14.02976
 postcode: "4070"
 city: Fraham
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

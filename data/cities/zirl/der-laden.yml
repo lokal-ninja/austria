@@ -4,8 +4,8 @@ latitude: 47.27248
 longitude: 11.24233
 postcode: "6170"
 city: Zirl
-street: "Kirchstraße"
-housenumber: 7
-phone: "+43 664 9142816"
-opening_hours: "Mo-Fr 08:30-12:00,15:00-18:00; Sa 08:30-12:00; PH off"
-website: "https://derladen.stadtausstellung.at"
+street: Kirchstraße
+housenumber: "7"
+phone: +43 664 9142816
+opening_hours: Mo-Fr 08:30-12:00,15:00-18:00; Sa 08:30-12:00; PH off
+website: https://derladen.stadtausstellung.at

@@ -1,11 +1,11 @@
 id: 295405625
-type: way
+type: node
 latitude: 48.17734
 longitude: 16.35509
 postcode: "1100"
 city: Wien
-street: "Triester Straße"
-housenumber: 14
+street: Triester Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.sochor.at/"
+website: https://www.sochor.at/

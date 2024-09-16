@@ -1,11 +1,11 @@
 id: 258445977
-type: way
+type: node
 latitude: 48.26329
 longitude: 16.45438
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 234
+street: Wagramer Straße
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

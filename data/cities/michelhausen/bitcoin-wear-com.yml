@@ -4,8 +4,8 @@ latitude: 48.28787
 longitude: 15.94142
 postcode: "3451"
 city: Michelhausen
-street: "Friedhofgasse"
-housenumber: 4
+street: Friedhofgasse
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://bitcoin-wear.com"
+opening_hours: 24/7
+website: https://bitcoin-wear.com

@@ -4,8 +4,8 @@ latitude: 48.11424
 longitude: 16.31852
 postcode: "2334"
 city: Vösendorf
-street: "Nordring"
-housenumber: 2
-phone: "+43 1 609 13 63"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.swisssense.at/ausstellungen/oesterreich/swiss-sense-voesendorf"
+street: Nordring
+housenumber: "2"
+phone: +43 1 609 13 63
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.swisssense.at/ausstellungen/oesterreich/swiss-sense-voesendorf

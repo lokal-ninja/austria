@@ -4,8 +4,8 @@ latitude: 48.15869
 longitude: 14.01455
 postcode: "4600"
 city: Wels
-street: "Salzburger Straße"
-housenumber: 49
-phone: "+43-7672-95880-0"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://www.e-tec.at/frame1/flatpage.php?page=/filialen/"
+street: Salzburger Straße
+housenumber: "49"
+phone: +43-7672-95880-0
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://www.e-tec.at/frame1/flatpage.php?page=/filialen/

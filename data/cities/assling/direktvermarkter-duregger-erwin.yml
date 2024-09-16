@@ -1,11 +1,11 @@
 id: 149750141
-type: way
+type: node
 latitude: 46.78247
 longitude: 12.6098
 postcode: "9911"
 city: Assling
 street: ""
-housenumber: 4
-phone: "+43664 5111951 / +434855 8729"
+housenumber: "4"
+phone: +43664 5111951 / +434855 8729
 opening_hours: ""
 website: ""

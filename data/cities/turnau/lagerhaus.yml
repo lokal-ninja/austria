@@ -1,11 +1,11 @@
 id: 251387942
-type: way
+type: node
 latitude: 47.5558
 longitude: 15.33896
 postcode: "8625"
 city: Turnau
 street: ""
-housenumber: 82
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

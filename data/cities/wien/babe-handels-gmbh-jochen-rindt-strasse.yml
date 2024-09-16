@@ -1,11 +1,11 @@
 id: 317275041
-type: way
+type: node
 latitude: 48.13608
 longitude: 16.35132
 postcode: "1230"
 city: Wien
-street: "Jochen-Rindt-Straße"
-housenumber: 41
+street: Jochen-Rindt-Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

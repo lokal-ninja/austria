@@ -4,8 +4,8 @@ latitude: 47.26077
 longitude: 11.39142
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 16
+street: Andreas-Hofer-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-15:00"
-website: "http://www.bayto.at"
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-15:00
+website: http://www.bayto.at

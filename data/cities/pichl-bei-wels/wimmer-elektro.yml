@@ -1,11 +1,11 @@
 id: 189323787
-type: way
+type: node
 latitude: 48.19837
 longitude: 13.91928
 postcode: "4632"
 city: Pichl bei Wels
-street: "Steinpichl"
-housenumber: 3
-phone: "+43 7247 50360"
+street: Steinpichl
+housenumber: "3"
+phone: +43 7247 50360
 opening_hours: ""
-website: "https://www.wimmer-elektro.at/"
+website: https://www.wimmer-elektro.at/

@@ -1,11 +1,11 @@
 id: 241132118
-type: way
+type: node
 latitude: 48.12887
 longitude: 14.95009
 postcode: "3304"
 city: St. Georgen am Ybbsfelde
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 07:00-12:00,14:30-18:00; Th,Sa 07:00-12:00"
+opening_hours: Mo-We,Fr 07:00-12:00,14:30-18:00; Th,Sa 07:00-12:00
 website: ""

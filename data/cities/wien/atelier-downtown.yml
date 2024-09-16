@@ -4,8 +4,8 @@ latitude: 48.20691
 longitude: 16.37706
 postcode: "1010"
 city: Wien
-street: "Jakobergasse"
-housenumber: 4
+street: Jakobergasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.haraldgruber.com/"
+website: http://www.haraldgruber.com/

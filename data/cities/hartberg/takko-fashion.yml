@@ -4,8 +4,8 @@ latitude: 47.28241
 longitude: 15.99386
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 11
+street: Im Hatric
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.takko.com/de-at/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.takko.com/de-at/

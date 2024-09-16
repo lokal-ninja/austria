@@ -1,11 +1,11 @@
 id: 808859911
-type: way
+type: node
 latitude: 47.91824
 longitude: 12.97128
 postcode: "5151"
 city: Nußdorf am Haunsberg
-street: "Pabinger Straße"
-housenumber: 2
+street: Pabinger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

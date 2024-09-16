@@ -5,7 +5,7 @@ longitude: 14.95611
 postcode: "3925"
 city: Arbesbach
 street: ""
-housenumber: 80
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "http://www.eisenhof.arbesbach.at"
+website: http://www.eisenhof.arbesbach.at

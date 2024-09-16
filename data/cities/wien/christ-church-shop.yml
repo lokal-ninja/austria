@@ -4,8 +4,8 @@ latitude: 48.19755
 longitude: 16.38104
 postcode: "1030"
 city: Wien
-street: "Salesianergasse"
-housenumber: 20
+street: Salesianergasse
+housenumber: "20"
 phone: "+4317184634"
-opening_hours: "Tu-Fr 09:30-16:00"
-website: "https://ccv-site.org/site/index.php/connect/church-shop"
+opening_hours: Tu-Fr 09:30-16:00
+website: https://ccv-site.org/site/index.php/connect/church-shop

@@ -4,8 +4,8 @@ latitude: 47.41064
 longitude: 9.75094
 postcode: "6850"
 city: Dornbirn
-street: "Schloßgasse"
-housenumber: 9
-phone: "+43 5572 206191"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.alpenkaese.at/sennereil%C3%A4den/dornbirn-oberdorf/"
+street: Schloßgasse
+housenumber: "9"
+phone: +43 5572 206191
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.alpenkaese.at/sennereil%C3%A4den/dornbirn-oberdorf/

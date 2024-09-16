@@ -4,8 +4,8 @@ latitude: 48.22333
 longitude: 16.405
 postcode: "1020"
 city: Wien
-street: "Mexikoplatz"
+street: Mexikoplatz
 housenumber: 16-17
-phone: "+43 1 7298206"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH,Su off"
-website: "https://www.dm.at"
+phone: +43 1 7298206
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH,Su off
+website: https://www.dm.at

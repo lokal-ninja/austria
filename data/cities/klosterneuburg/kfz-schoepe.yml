@@ -1,11 +1,11 @@
 id: 160522733
-type: way
+type: node
 latitude: 48.30874
 longitude: 16.32063
 postcode: "3400"
 city: Klosterneuburg
-street: "Hölzlgasse"
-housenumber: 26
+street: Hölzlgasse
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

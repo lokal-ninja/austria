@@ -1,11 +1,11 @@
 id: 199513344
-type: way
+type: node
 latitude: 48.56629
 longitude: 16.57512
 postcode: "2130"
 city: Mistelbach
-street: "Karl Fitzka-Gasse"
+street: Karl Fitzka-Gasse
 housenumber: 2a
-phone: "+43 2572 4948"
+phone: +43 2572 4948
 opening_hours: ""
-website: "https://www.eisen-schmid.at/index.php"
+website: https://www.eisen-schmid.at/index.php

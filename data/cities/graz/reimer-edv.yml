@@ -1,11 +1,11 @@
 id: 252821182
-type: way
+type: node
 latitude: 47.06337
 longitude: 15.44028
 postcode: "8010"
 city: Graz
-street: "Schönaugasse"
-housenumber: 43
-phone: "+43 676 4130463"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.reimer-edv.at/"
+street: Schönaugasse
+housenumber: "43"
+phone: +43 676 4130463
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.reimer-edv.at/

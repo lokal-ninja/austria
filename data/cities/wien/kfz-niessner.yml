@@ -1,11 +1,11 @@
 id: 190106428
-type: way
+type: node
 latitude: 48.25773
 longitude: 16.36807
 postcode: "1190"
 city: Wien
-street: "Sickenberggasse"
-housenumber: 14
+street: Sickenberggasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30"
-website: "https://kfzniessner.at"
+opening_hours: Mo-Th 07:30-16:30
+website: https://kfzniessner.at

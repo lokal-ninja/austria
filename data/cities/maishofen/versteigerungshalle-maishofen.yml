@@ -1,11 +1,11 @@
 id: 1294644553
-type: way
+type: node
 latitude: 47.35915
 longitude: 12.8068
 postcode: "5751"
 city: Maishofen
-street: "Mayerhoferstraße"
-housenumber: 12
+street: Mayerhoferstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.rinderzucht-salzburg.at/"
+website: https://www.rinderzucht-salzburg.at/

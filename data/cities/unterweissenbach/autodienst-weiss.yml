@@ -1,11 +1,11 @@
 id: 207717766
-type: way
+type: node
 latitude: 48.43247
 longitude: 14.78094
 postcode: "4273"
 city: Unterweißenbach
-street: "Nordkammstraße"
-housenumber: 1
+street: Nordkammstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00,13:00-16:15"
+opening_hours: Mo-Th 07:00-12:00,13:00-16:30; Fr 07:00-12:00,13:00-16:15
 website: ""

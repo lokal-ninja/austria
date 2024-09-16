@@ -1,11 +1,11 @@
 id: 151720319
-type: way
+type: node
 latitude: 48.41213
 longitude: 14.27641
 postcode: "4202"
 city: Kirchschlag bei Linz
-street: "Kirchschlag"
-housenumber: 50
+street: Kirchschlag
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

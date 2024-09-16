@@ -4,8 +4,8 @@ latitude: 48.2134
 longitude: 16.32042
 postcode: "1160"
 city: Wien
-street: "Ottakringer Straße"
-housenumber: 109
-phone: "+43 1 4862334"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+street: Ottakringer Straße
+housenumber: "109"
+phone: +43 1 4862334
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

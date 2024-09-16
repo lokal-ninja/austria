@@ -1,11 +1,11 @@
 id: 366040521
-type: way
+type: node
 latitude: 48.13368
 longitude: 16.90485
 postcode: "2405"
 city: Bad Deutsch-Altenburg
-street: "Wienerstraße"
-housenumber: 4
+street: Wienerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

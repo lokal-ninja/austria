@@ -4,8 +4,8 @@ latitude: 48.18021
 longitude: 16.33512
 postcode: "1120"
 city: Wien
-street: "Bendlgasse"
-housenumber: 16
-phone: "+43 1 9958603"
+street: Bendlgasse
+housenumber: "16"
+phone: +43 1 9958603
 opening_hours: ""
-website: "https://www.ee-bahntechnik.at/"
+website: https://www.ee-bahntechnik.at/

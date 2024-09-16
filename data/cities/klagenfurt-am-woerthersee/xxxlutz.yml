@@ -1,11 +1,11 @@
 id: 83640754
-type: way
+type: node
 latitude: 46.62663
 longitude: 14.33749
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Schachterlweg"
-housenumber: 4
+street: Schachterlweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

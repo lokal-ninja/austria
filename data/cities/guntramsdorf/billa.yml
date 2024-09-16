@@ -1,11 +1,11 @@
 id: 312231564
-type: way
+type: node
 latitude: 48.0544
 longitude: 16.32227
 postcode: "2353"
 city: Guntramsdorf
-street: "F. Grillparzer-Straße"
-housenumber: 34
-phone: "+43 59915 03871"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: F. Grillparzer-Straße
+housenumber: "34"
+phone: +43 59915 03871
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

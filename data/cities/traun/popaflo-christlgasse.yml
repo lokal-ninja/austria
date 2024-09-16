@@ -1,11 +1,11 @@
 id: 228350497
-type: way
+type: node
 latitude: 48.22175
 longitude: 14.24249
 postcode: "4050"
 city: Traun
-street: "Christlgasse"
-housenumber: 20
+street: Christlgasse
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.popaflo.at/"
+website: https://www.popaflo.at/

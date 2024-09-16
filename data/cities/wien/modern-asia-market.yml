@@ -4,8 +4,8 @@ latitude: 48.24244
 longitude: 16.43326
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 79
+street: Wagramer Straße
+housenumber: "79"
 phone: "+436649280119"
-opening_hours: "Su-Fr 09:00-21:00; Sa 09:00-18:00"
-website: "https://www.mam-supermarket.at/"
+opening_hours: Su-Fr 09:00-21:00; Sa 09:00-18:00
+website: https://www.mam-supermarket.at/

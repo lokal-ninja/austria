@@ -4,8 +4,8 @@ latitude: 47.08445
 longitude: 15.45986
 postcode: "8010"
 city: Graz
-street: "Hilmteichstraße"
-housenumber: 73
-phone: "+43 316 311261"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:00"
+street: Hilmteichstraße
+housenumber: "73"
+phone: +43 316 311261
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-12:00
 website: ""

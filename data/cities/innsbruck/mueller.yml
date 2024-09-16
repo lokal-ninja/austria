@@ -4,8 +4,8 @@ latitude: 47.26537
 longitude: 11.39239
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 18
-phone: "+43 512 5763210"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.mueller-drogerie.at"
+street: Maria-Theresien-Straße
+housenumber: "18"
+phone: +43 512 5763210
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-18:00; PH off
+website: https://www.mueller-drogerie.at

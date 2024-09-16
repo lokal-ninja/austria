@@ -1,11 +1,11 @@
 id: 344737187
-type: way
+type: node
 latitude: 46.69815
 longitude: 14.08852
 postcode: "9560"
 city: Höfling
-street: "Schwarze Straße"
-housenumber: 4
+street: Schwarze Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

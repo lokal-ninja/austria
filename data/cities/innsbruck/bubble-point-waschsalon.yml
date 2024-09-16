@@ -4,8 +4,8 @@ latitude: 47.26506
 longitude: 11.39931
 postcode: "6020"
 city: Innsbruck
-street: "Brixner Straße"
-housenumber: 1
+street: Brixner Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa, Su, PH 08:00-20:00"
-website: "https://www.bubblepoint.com/brixnerstrasse.php"
+opening_hours: Mo-Fr 08:00-21:00; Sa, Su, PH 08:00-20:00
+website: https://www.bubblepoint.com/brixnerstrasse.php

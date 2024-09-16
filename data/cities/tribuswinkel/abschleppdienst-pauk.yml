@@ -1,11 +1,11 @@
 id: 894986941
-type: way
+type: node
 latitude: 47.99688
 longitude: 16.29695
 postcode: "2512"
 city: Tribuswinkel
-street: "Südautobahnstraße"
-housenumber: 5
-phone: "+43 1 93900"
-opening_hours: "24/7"
-website: "https://www.pauk.at/"
+street: Südautobahnstraße
+housenumber: "5"
+phone: +43 1 93900
+opening_hours: 24/7
+website: https://www.pauk.at/

@@ -1,11 +1,11 @@
 id: 103240529
-type: way
+type: node
 latitude: 48.30628
 longitude: 14.31432
 postcode: "4020"
 city: Linz
-street: "Industriezeile"
+street: Industriezeile
 housenumber: 62-64
-phone: "+43 732 773100"
+phone: +43 732 773100
 opening_hours: ""
 website: ""

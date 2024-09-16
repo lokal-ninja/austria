@@ -1,11 +1,11 @@
 id: 682644710
-type: way
+type: node
 latitude: 47.96408
 longitude: 14.0097
 postcode: "4643"
 city: Pettenbach
-street: "Almtalstraße"
-housenumber: 1
+street: Almtalstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

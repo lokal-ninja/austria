@@ -1,11 +1,11 @@
 id: 100604608
-type: way
+type: node
 latitude: 47.96177
 longitude: 13.30044
 postcode: "4894"
 city: Oberhofen am Irrsee
 street: ""
-housenumber: 99
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://autosedin.at/"
+website: https://autosedin.at/

@@ -4,8 +4,8 @@ latitude: 48.00679
 longitude: 15.16549
 postcode: "3270"
 city: Scheibbs
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.facebook.com/naturkostroland"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.facebook.com/naturkostroland

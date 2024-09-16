@@ -4,8 +4,8 @@ latitude: 48.20304
 longitude: 16.25429
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 427
+street: Linzer Straße
+housenumber: "427"
 phone: "+4319794731"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://vlasim.at/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://vlasim.at/

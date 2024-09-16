@@ -4,8 +4,8 @@ latitude: 48.23905
 longitude: 16.35427
 postcode: "1190"
 city: Wien
-street: "Gatterburggasse"
+street: Gatterburggasse
 housenumber: 25/3
 phone: ""
-opening_hours: "Nur mit Terminvereinbarung"
-website: "http://www.hundesalon-doebling.at/"
+opening_hours: '"Nur mit Terminvereinbarung"'
+website: http://www.hundesalon-doebling.at/

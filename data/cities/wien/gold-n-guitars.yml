@@ -4,8 +4,8 @@ latitude: 48.18522
 longitude: 16.30072
 postcode: "1130"
 city: Wien
-street: "Maxingstraße"
-housenumber: 2
+street: Maxingstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30,14:00-18:00; Sa 09:00-12:30"
-website: "http://gitarrenwerkstatt.at"
+opening_hours: Tu-Fr 10:00-12:30,14:00-18:00; Sa 09:00-12:30
+website: http://gitarrenwerkstatt.at

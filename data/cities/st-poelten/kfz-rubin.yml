@@ -1,11 +1,11 @@
 id: 451850286
-type: way
+type: node
 latitude: 48.15815
 longitude: 15.61381
 postcode: "3100"
 city: St. Pölten
-street: "Teslastraße"
-housenumber: 1
+street: Teslastraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-rubin.at/"
+website: https://www.kfz-rubin.at/

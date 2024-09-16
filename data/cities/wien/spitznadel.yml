@@ -4,8 +4,9 @@ latitude: 48.23767
 longitude: 16.37697
 postcode: "1200"
 city: Wien
-street: "Leithastraße"
-housenumber: 26
+street: Leithastraße
+housenumber: "26"
 phone: "+436603041981"
-opening_hours: "Mo 09:00-12:00,14:00-17:00; Tu,Th 13:00-19:00; We,Fr 09:00-17:00; PH off"
+opening_hours: Mo 09:00-12:00,14:00-17:00; Tu,Th 13:00-19:00; We,Fr 09:00-17:00; PH
+    off
 website: ""

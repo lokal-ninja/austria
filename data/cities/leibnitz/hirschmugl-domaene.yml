@@ -1,11 +1,11 @@
 id: 182584812
-type: way
+type: node
 latitude: 46.76445
 longitude: 15.52263
 postcode: "8430"
 city: Leibnitz
-street: "Am Plöckelberg"
-housenumber: 8
+street: Am Plöckelberg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-15:00"
-website: "https://www.hirschmugl-domaene.at/"
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-15:00
+website: https://www.hirschmugl-domaene.at/

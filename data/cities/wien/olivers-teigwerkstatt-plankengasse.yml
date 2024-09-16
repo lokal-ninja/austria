@@ -4,8 +4,8 @@ latitude: 48.20681
 longitude: 16.3692
 postcode: "1010"
 city: Wien
-street: "Plankengasse"
-housenumber: 6
+street: Plankengasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00"
+opening_hours: Mo-Fr 07:00-15:00
 website: ""

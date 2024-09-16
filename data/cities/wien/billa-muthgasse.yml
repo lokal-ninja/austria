@@ -4,8 +4,8 @@ latitude: 48.24834
 longitude: 16.36764
 postcode: "1190"
 city: Wien
-street: "Muthgasse"
-housenumber: 13
-phone: "+43 59915 01943"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Muthgasse
+housenumber: "13"
+phone: +43 59915 01943
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

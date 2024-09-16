@@ -4,8 +4,8 @@ latitude: 48.203
 longitude: 15.6248
 postcode: "3100"
 city: St. Pölten
-street: "Fuhrmannsgasse"
-housenumber: 2
-phone: "+43 2742 20260"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://www.teppich-welt.at/"
+street: Fuhrmannsgasse
+housenumber: "2"
+phone: +43 2742 20260
+opening_hours: Mo-Fr 10:00-16:00
+website: https://www.teppich-welt.at/

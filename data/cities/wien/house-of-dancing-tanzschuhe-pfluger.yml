@@ -4,8 +4,8 @@ latitude: 48.21776
 longitude: 16.33656
 postcode: "1170"
 city: Wien
-street: "Jörgerstraße"
-housenumber: 34
-phone: "+43 1 4037245"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.houseofdancing.com/"
+street: Jörgerstraße
+housenumber: "34"
+phone: +43 1 4037245
+opening_hours: Mo 14:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.houseofdancing.com/

@@ -1,11 +1,11 @@
 id: 84084690
-type: way
+type: node
 latitude: 47.49469
 longitude: 9.69225
 postcode: "6971"
 city: Hard
-street: "Steinlochstraße"
-housenumber: 13
+street: Steinlochstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.beck-kainz.at/"
+website: https://www.beck-kainz.at/

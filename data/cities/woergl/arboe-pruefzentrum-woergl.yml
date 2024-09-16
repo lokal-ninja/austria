@@ -1,11 +1,11 @@
 id: 1175006739
-type: way
+type: node
 latitude: 47.48946
 longitude: 12.07185
 postcode: "6300"
 city: Wörgl
-street: "Salzburger Straße"
+street: Salzburger Straße
 housenumber: 44a
 phone: ""
-opening_hours: "08:00-18:00"
+opening_hours: 08:00-18:00
 website: ""

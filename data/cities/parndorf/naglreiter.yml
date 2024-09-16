@@ -4,8 +4,8 @@ latitude: 47.99751
 longitude: 16.8662
 postcode: "7111"
 city: Parndorf
-street: "Zieselweg"
-housenumber: 5
-phone: "+43 2167 3600 205"
-opening_hours: "Mo-Sa 06:00-19:00; Su 06:30-19:00"
-website: "https://www.naglreiter.com/"
+street: Zieselweg
+housenumber: "5"
+phone: +43 2167 3600 205
+opening_hours: Mo-Sa 06:00-19:00; Su 06:30-19:00
+website: https://www.naglreiter.com/

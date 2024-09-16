@@ -1,11 +1,11 @@
 id: 139877238
-type: way
+type: node
 latitude: 47.11258
 longitude: 15.49975
 postcode: "8044"
 city: Graz
-street: "Mariatroster Straße"
-housenumber: 373
+street: Mariatroster Straße
+housenumber: "373"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
 website: ""

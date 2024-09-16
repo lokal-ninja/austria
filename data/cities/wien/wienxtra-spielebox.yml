@@ -4,8 +4,9 @@ latitude: 48.21187
 longitude: 16.34372
 postcode: "1080"
 city: Wien
-street: "Albertgasse"
-housenumber: 37
+street: Albertgasse
+housenumber: "37"
 phone: ""
-opening_hours: "Mo,We,Fr 13:00-18:30; Tu,Th 10:00-12:00; Oct 01-Mar 31 Sa 10:00-14:00; PH off"
-website: "https://www.wienxtra.at/spielebox/brettspielverleih/"
+opening_hours: Mo,We,Fr 13:00-18:30; Tu,Th 10:00-12:00; Oct 01-Mar 31 Sa 10:00-14:00;
+    PH off
+website: https://www.wienxtra.at/spielebox/brettspielverleih/

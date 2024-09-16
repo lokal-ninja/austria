@@ -4,8 +4,8 @@ latitude: 48.27069
 longitude: 14.29281
 postcode: "4020"
 city: Linz
-street: "Am Bindermichl"
-housenumber: 39
+street: Am Bindermichl
+housenumber: "39"
 phone: "+43732344189"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.juwelier-ulmer.at"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.juwelier-ulmer.at

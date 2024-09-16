@@ -1,11 +1,11 @@
 id: 243943557
-type: way
+type: node
 latitude: 48.10903
 longitude: 16.30525
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Industriestraße B"
-housenumber: 12
+street: Industriestraße B
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

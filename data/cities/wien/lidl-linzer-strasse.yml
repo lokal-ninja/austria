@@ -1,11 +1,11 @@
 id: 462985541
-type: way
+type: node
 latitude: 48.20367
 longitude: 16.23957
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 461
+street: Linzer Straße
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

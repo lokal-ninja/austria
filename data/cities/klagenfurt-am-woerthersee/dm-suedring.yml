@@ -4,8 +4,8 @@ latitude: 46.60786
 longitude: 14.29328
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Südring"
-housenumber: 223
+street: Südring
+housenumber: "223"
 phone: "+43463230139"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
-website: "https://www.dm.at/"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00
+website: https://www.dm.at/

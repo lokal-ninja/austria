@@ -1,11 +1,11 @@
 id: 135632115
-type: way
+type: node
 latitude: 47.72845
 longitude: 16.09015
 postcode: "2620"
 city: Neunkirchen
-street: "Wienerstraße"
-housenumber: 89
+street: Wienerstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-buerger.at/"
+website: http://www.autohaus-buerger.at/

@@ -4,8 +4,8 @@ latitude: 47.48779
 longitude: 9.68842
 postcode: "6971"
 city: Hard
-street: "Landstraße"
-housenumber: 19
+street: Landstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Tu 13:00-18:00; We-Su 08:00-18:00"
-website: "https://www.cafe-waltner.at"
+opening_hours: Tu 13:00-18:00; We-Su 08:00-18:00
+website: https://www.cafe-waltner.at

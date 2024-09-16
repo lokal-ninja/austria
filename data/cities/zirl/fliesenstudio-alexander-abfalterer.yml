@@ -1,11 +1,11 @@
 id: 990265626
-type: way
+type: node
 latitude: 47.26834
 longitude: 11.2323
 postcode: "6170"
 city: Zirl
-street: "Gießenweg"
-housenumber: 5
+street: Gießenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

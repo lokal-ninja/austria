@@ -1,11 +1,11 @@
 id: 201764093
-type: way
+type: node
 latitude: 47.04888
 longitude: 16.08927
 postcode: "8280"
 city: Fürstenfeld
-street: "Körmenderstraße"
-housenumber: 30
-phone: "+43 800 202055"
-opening_hours: "24/7"
+street: Körmenderstraße
+housenumber: "30"
+phone: +43 800 202055
+opening_hours: 24/7
 website: ""

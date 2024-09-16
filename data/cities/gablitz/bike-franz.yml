@@ -4,8 +4,8 @@ latitude: 48.22798
 longitude: 16.15624
 postcode: "3003"
 city: Gablitz
-street: "Linzer Straße"
-housenumber: 64
+street: Linzer Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Th 16:00-19:00; Fr 10:00-18:00; Sa 09:00-13:00"
-website: "http://www.bikefranz.at"
+opening_hours: Th 16:00-19:00; Fr 10:00-18:00; Sa 09:00-13:00
+website: http://www.bikefranz.at

@@ -4,8 +4,8 @@ latitude: 48.17717
 longitude: 16.32988
 postcode: "1120"
 city: Wien
-street: "Meidlinger Hauptstraße"
-housenumber: 62
+street: Meidlinger Hauptstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.hartlauer.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.hartlauer.at/

@@ -4,8 +4,8 @@ latitude: 48.17316
 longitude: 16.37499
 postcode: "1100"
 city: Wien
-street: "Senefeldergasse"
-housenumber: 42
+street: Senefeldergasse
+housenumber: "42"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-23:00"
-website: "htttps://www.backwelt-wien.at"
+opening_hours: PH,Mo-Su 06:00-23:00
+website: htttps://www.backwelt-wien.at

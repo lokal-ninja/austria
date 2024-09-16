@@ -4,8 +4,8 @@ latitude: 47.06751
 longitude: 15.44005
 postcode: "8010"
 city: Graz
-street: "Schmiedgasse"
-housenumber: 38
+street: Schmiedgasse
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-We 15:30-18:00; Th-Sa 10:00-13:00"
+opening_hours: Mo-We 15:30-18:00; Th-Sa 10:00-13:00
 website: ""

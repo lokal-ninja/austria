@@ -4,8 +4,8 @@ latitude: 47.27119
 longitude: 11.38574
 postcode: "6020"
 city: Innsbruck
-street: "Schneeburggasse"
-housenumber: 11
-phone: "+43 512 29 57 02"
-opening_hours: "Tu-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "http://www.salon-gabi.at/"
+street: Schneeburggasse
+housenumber: "11"
+phone: +43 512 29 57 02
+opening_hours: Tu-Fr 08:00-17:00; Sa 08:00-12:00
+website: http://www.salon-gabi.at/

@@ -1,11 +1,11 @@
 id: 127874950
-type: way
+type: node
 latitude: 47.37033
 longitude: 9.7086
 postcode: "6845"
 city: Hohenems
-street: "Lehrer-Albrich-Weg"
+street: Lehrer-Albrich-Weg
 housenumber: 9;11
-phone: "+43 664 3969 081"
-opening_hours: "nach Vereinbarung"
-website: "https://ebike-factory.com/"
+phone: +43 664 3969 081
+opening_hours: '"nach Vereinbarung"'
+website: https://ebike-factory.com/

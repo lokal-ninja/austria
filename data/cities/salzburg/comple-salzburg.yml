@@ -4,8 +4,8 @@ latitude: 47.79769
 longitude: 13.06228
 postcode: "5020"
 city: Salzburg
-street: "Mildenburggasse"
+street: Mildenburggasse
 housenumber: 6a
-phone: "+43 663 0651 0931"
-opening_hours: "siehe Homepage"
-website: "https://www.comple-salzburg.com/"
+phone: +43 663 0651 0931
+opening_hours: '"siehe Homepage"'
+website: https://www.comple-salzburg.com/

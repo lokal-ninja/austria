@@ -5,7 +5,7 @@ longitude: 14.51362
 postcode: "4300"
 city: Sankt Valentin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.obi.at/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.obi.at/

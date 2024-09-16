@@ -1,11 +1,11 @@
 id: 819213959
-type: way
+type: node
 latitude: 48.11632
 longitude: 16.31758
 postcode: "2334"
 city: Vösendorf
-street: "Autoallee"
-housenumber: 2
-phone: "+43 662 272 920"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.fritz-berger.at/filiale/wien/"
+street: Autoallee
+housenumber: "2"
+phone: +43 662 272 920
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.fritz-berger.at/filiale/wien/

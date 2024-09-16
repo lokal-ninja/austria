@@ -1,11 +1,11 @@
 id: 131574391
-type: way
+type: node
 latitude: 47.78819
 longitude: 12.97985
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Hölzlstraße"
-housenumber: 4
+street: Hölzlstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.tesla.com/de_AT/findus/list/stores/Austria"
+website: https://www.tesla.com/de_AT/findus/list/stores/Austria

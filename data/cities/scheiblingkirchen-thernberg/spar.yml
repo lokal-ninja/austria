@@ -1,11 +1,11 @@
 id: 170013314
-type: way
+type: node
 latitude: 47.6613
 longitude: 16.12934
 postcode: "2831"
 city: Scheiblingkirchen-Thernberg
-street: "Bundesstraße"
-housenumber: 184
+street: Bundesstraße
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

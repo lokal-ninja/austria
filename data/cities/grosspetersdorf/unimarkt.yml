@@ -1,11 +1,11 @@
 id: 82965646
-type: way
+type: node
 latitude: 47.24299
 longitude: 16.30909
 postcode: "7503"
 city: Großpetersdorf
-street: "Hauptstraße"
-housenumber: 101
-phone: "+43 3362 20597"
+street: Hauptstraße
+housenumber: "101"
+phone: +43 3362 20597
 opening_hours: ""
-website: "https://unimarkt.at/standort/unimarkt-grosspetersdorf/"
+website: https://unimarkt.at/standort/unimarkt-grosspetersdorf/

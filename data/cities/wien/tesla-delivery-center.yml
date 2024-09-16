@@ -4,8 +4,8 @@ latitude: 48.14868
 longitude: 16.33516
 postcode: "1230"
 city: Wien
-street: "Triester Straße"
-housenumber: 207
+street: Triester Straße
+housenumber: "207"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.tesla.com"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.tesla.com

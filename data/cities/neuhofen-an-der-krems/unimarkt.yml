@@ -1,11 +1,11 @@
 id: 119892648
-type: way
+type: node
 latitude: 48.14142
 longitude: 14.22873
 postcode: "4501"
 city: Neuhofen an der Krems
-street: "Linzer Straße"
-housenumber: 24
+street: Linzer Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

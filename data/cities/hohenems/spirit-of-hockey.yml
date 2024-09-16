@@ -4,8 +4,8 @@ latitude: 47.36422
 longitude: 9.68593
 postcode: "6845"
 city: Hohenems
-street: "Graf-Maximilian-Straße"
-housenumber: 16
-phone: "+43 5576 72781"
-opening_hours: "Mo-Th 10:00-12:00, 13:00-18:00; Fr 10:00-18:00; Sa 09:00-12:00"
-website: "https://spirit-of-hockey.at/"
+street: Graf-Maximilian-Straße
+housenumber: "16"
+phone: +43 5576 72781
+opening_hours: Mo-Th 10:00-12:00, 13:00-18:00; Fr 10:00-18:00; Sa 09:00-12:00
+website: https://spirit-of-hockey.at/

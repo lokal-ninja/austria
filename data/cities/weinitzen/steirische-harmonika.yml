@@ -1,11 +1,11 @@
 id: 465842216
-type: way
+type: node
 latitude: 47.14489
 longitude: 15.4676
 postcode: "8045"
 city: Weinitzen
-street: "Weinbergweg"
-housenumber: 24
+street: Weinbergweg
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.steirische-harmonika.at/"
+website: https://www.steirische-harmonika.at/

@@ -1,11 +1,11 @@
 id: 884065028
-type: way
+type: node
 latitude: 46.6051
 longitude: 14.30878
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Papiermühlgasse"
-housenumber: 5
+street: Papiermühlgasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

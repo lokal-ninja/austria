@@ -4,8 +4,8 @@ latitude: 48.2185
 longitude: 16.38103
 postcode: "1020"
 city: Wien
-street: "Taborstraße"
-housenumber: 36
+street: Taborstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.deichmann.com/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.deichmann.com/

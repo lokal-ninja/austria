@@ -1,11 +1,11 @@
 id: 568758805
-type: way
+type: node
 latitude: 48.15221
 longitude: 16.45406
 postcode: "1110"
 city: Wien
-street: "Simmeringer Hauptstraße"
-housenumber: 419
+street: Simmeringer Hauptstraße
+housenumber: "419"
 phone: ""
 opening_hours: ""
-website: "https://www.bluemel.at"
+website: https://www.bluemel.at

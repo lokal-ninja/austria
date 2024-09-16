@@ -1,11 +1,11 @@
 id: 143373067
-type: way
+type: node
 latitude: 47.84215
 longitude: 16.24786
 postcode: "2700"
 city: Wiener Neustadt
-street: "Nikolaus August Otto-Straße"
-housenumber: 10
-phone: "+43 (0) 2622 89460"
+street: Nikolaus August Otto-Straße
+housenumber: "10"
+phone: +43 (0) 2622 89460
 opening_hours: ""
-website: "http://www.bloech.at/"
+website: http://www.bloech.at/

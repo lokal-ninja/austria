@@ -1,11 +1,11 @@
 id: 190250897
-type: way
+type: node
 latitude: 47.21733
 longitude: 15.6277
 postcode: "8160"
 city: Weiz
-street: "Birkfelder Straße"
-housenumber: 10
+street: Birkfelder Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

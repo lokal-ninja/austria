@@ -4,8 +4,8 @@ latitude: 48.19797
 longitude: 16.3607
 postcode: "1060"
 city: Wien
-street: "Laimgrubengasse"
-housenumber: 4
+street: Laimgrubengasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://livom.at/"
+website: https://livom.at/

@@ -4,8 +4,8 @@ latitude: 48.79137
 longitude: 15.07711
 postcode: "3943"
 city: Schrems
-street: "Horner Straße"
-housenumber: 22
-phone: "+43 2853 772 72"
-opening_hours: "Mo 07:00-14:30;We 07:00-14:30;Fr 07:00-14:30"
-website: "https://www.brauunion.at/"
+street: Horner Straße
+housenumber: "22"
+phone: +43 2853 772 72
+opening_hours: Mo 07:00-14:30;We 07:00-14:30;Fr 07:00-14:30
+website: https://www.brauunion.at/

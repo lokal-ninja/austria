@@ -1,11 +1,11 @@
 id: 45550185
-type: way
+type: node
 latitude: 47.80968
 longitude: 13.06006
 postcode: "5020"
 city: Salzburg
-street: "Sterneckstraße"
-housenumber: 47
-phone: "+43 662 872303"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+street: Sterneckstraße
+housenumber: "47"
+phone: +43 662 872303
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 299298913
-type: way
+type: node
 latitude: 48.56898
 longitude: 16.07714
 postcode: "2020"
 city: Hollabrunn
-street: "Mühlenring"
-housenumber: 3
+street: Mühlenring
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

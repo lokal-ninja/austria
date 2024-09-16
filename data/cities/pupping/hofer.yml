@@ -1,11 +1,11 @@
 id: 128176837
-type: way
+type: node
 latitude: 48.30187
 longitude: 14.03197
 postcode: "4070"
 city: Pupping
 street: ""
-housenumber: 31
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

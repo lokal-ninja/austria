@@ -1,11 +1,11 @@
 id: 401516732
-type: way
+type: node
 latitude: 47.21186
 longitude: 15.63171
 postcode: "8160"
 city: Weiz
-street: "Gleisdorfer Straße"
-housenumber: 71
-phone: "+43 59915 06056"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Gleisdorfer Straße
+housenumber: "71"
+phone: +43 59915 06056
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

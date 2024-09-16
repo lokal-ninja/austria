@@ -4,8 +4,8 @@ latitude: 48.2131
 longitude: 16.36411
 postcode: "1010"
 city: Wien
-street: "Helferstorferstraße"
-housenumber: 2
+street: Helferstorferstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
+opening_hours: Mo-Fr 09:00-18:30
 website: ""

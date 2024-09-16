@@ -4,8 +4,9 @@ latitude: 48.20059
 longitude: 16.35071
 postcode: "1070"
 city: Wien
-street: "Zollergasse"
-housenumber: 16
+street: Zollergasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:30-17:00; Mar-May, Sep-Nov: Mo, Fr 9:30-18:00; Mar-May, Sep-Nov: Sa 9:30-17:00; PH off"
+opening_hours: 'Mo-Fr 10:30-18:00; Sa 10:30-17:00; Mar-May, Sep-Nov: Mo, Fr 9:30-18:00;
+    Mar-May, Sep-Nov: Sa 9:30-17:00; PH off'
 website: ""

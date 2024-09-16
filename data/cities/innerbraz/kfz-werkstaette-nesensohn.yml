@@ -1,11 +1,11 @@
 id: 228763041
-type: way
+type: node
 latitude: 47.14175
 longitude: 9.92282
 postcode: "6751"
 city: Innerbraz
-street: "Äuleweg"
-housenumber: 4
+street: Äuleweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

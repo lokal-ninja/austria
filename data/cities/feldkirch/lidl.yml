@@ -1,11 +1,11 @@
 id: 25507957
-type: way
+type: node
 latitude: 47.26004
 longitude: 9.61574
 postcode: "6800"
 city: Feldkirch
-street: "Kaiserstraße"
-housenumber: 10
+street: Kaiserstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

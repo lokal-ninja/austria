@@ -4,8 +4,8 @@ latitude: 47.52207
 longitude: 12.42675
 postcode: "6380"
 city: St. Johann in Tirol
-street: "Kaiserstraße"
-housenumber: 5
+street: Kaiserstraße
+housenumber: "5"
 phone: "+43535262528"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:30,13:30-16:00"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-12:30,13:30-16:00
 website: ""

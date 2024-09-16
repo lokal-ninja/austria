@@ -4,8 +4,8 @@ latitude: 47.898
 longitude: 14.23562
 postcode: "4592"
 city: Leonstein
-street: "Feldstraße"
-housenumber: 15
+street: Feldstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.sft.cc/14_kontakt.html"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.sft.cc/14_kontakt.html

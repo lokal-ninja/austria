@@ -1,11 +1,11 @@
 id: 344507955
-type: way
+type: node
 latitude: 46.86347
 longitude: 15.76743
 postcode: "8342"
 city: Gnas
 street: ""
-housenumber: 70
-phone: "+43 3151 2404 0"
-opening_hours: "Mo 13:00-19:00; Tu-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00"
-website: "https://www.kniewallner.at/"
+housenumber: "70"
+phone: +43 3151 2404 0
+opening_hours: Mo 13:00-19:00; Tu-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00
+website: https://www.kniewallner.at/

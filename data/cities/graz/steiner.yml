@@ -4,8 +4,8 @@ latitude: 47.07352
 longitude: 15.43088
 postcode: "8020"
 city: Graz
-street: "Marschallgasse"
-housenumber: 36
+street: Marschallgasse
+housenumber: "36"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 09:00-13:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 09:00-13:00
 website: ""

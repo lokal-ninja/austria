@@ -4,8 +4,8 @@ latitude: 48.17622
 longitude: 16.36673
 postcode: "1100"
 city: Wien
-street: "Quellenstraße"
-housenumber: 116
+street: Quellenstraße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

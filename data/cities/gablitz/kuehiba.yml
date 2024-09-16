@@ -4,8 +4,8 @@ latitude: 48.22771
 longitude: 16.15213
 postcode: "3003"
 city: Gablitz
-street: "Kirchengasse"
-housenumber: 1
-phone: "+43 699 18123052"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://kuehiba.at/"
+street: Kirchengasse
+housenumber: "1"
+phone: +43 699 18123052
+opening_hours: Mo-Fr 09:00-18:00
+website: https://kuehiba.at/

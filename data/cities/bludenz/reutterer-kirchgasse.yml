@@ -4,8 +4,8 @@ latitude: 47.15665
 longitude: 9.81954
 postcode: "6700"
 city: Bludenz
-street: "Kirchgasse"
-housenumber: 2
+street: Kirchgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

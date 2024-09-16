@@ -4,8 +4,8 @@ latitude: 48.22297
 longitude: 16.35324
 postcode: "1090"
 city: Wien
-street: "Nußdorfer Straße"
-housenumber: 3
-phone: "+43 680 1161575"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.arizonabike.at"
+street: Nußdorfer Straße
+housenumber: "3"
+phone: +43 680 1161575
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.arizonabike.at

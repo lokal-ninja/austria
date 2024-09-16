@@ -1,11 +1,11 @@
 id: 1208302383
-type: way
+type: node
 latitude: 47.03237
 longitude: 15.39038
 postcode: "8054"
 city: Graz
-street: "Martinhofstraße"
-housenumber: 71
-phone: "+43 664 44 009 52"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-15:00"
-website: "http://www.mk-fahrzeugtechnik.at/"
+street: Martinhofstraße
+housenumber: "71"
+phone: +43 664 44 009 52
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-15:00
+website: http://www.mk-fahrzeugtechnik.at/

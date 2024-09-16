@@ -4,8 +4,8 @@ latitude: 48.09905
 longitude: 16.28435
 postcode: "2344"
 city: Maria Enzersdorf
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-We, Fr 08:00-12:00, 15:00-18:00; Th 08:00-12:00"
+opening_hours: Mo-We, Fr 08:00-12:00, 15:00-18:00; Th 08:00-12:00
 website: ""

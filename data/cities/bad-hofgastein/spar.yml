@@ -1,11 +1,11 @@
 id: 81366062
-type: way
+type: node
 latitude: 47.17831
 longitude: 13.10199
 postcode: "5630"
 city: Bad Hofgastein
-street: "Goldbergstraße"
-housenumber: 47
+street: Goldbergstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

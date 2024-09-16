@@ -1,11 +1,11 @@
 id: 186642990
-type: way
+type: node
 latitude: 48.28707
 longitude: 16.43054
 postcode: "1210"
 city: Wien
-street: "Gerasdorfer Straße"
-housenumber: 133
-phone: "+43 59915 02190"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Gerasdorfer Straße
+housenumber: "133"
+phone: +43 59915 02190
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

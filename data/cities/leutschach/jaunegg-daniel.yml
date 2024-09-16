@@ -1,11 +1,11 @@
 id: 217120901
-type: way
+type: node
 latitude: 46.69829
 longitude: 15.43697
 postcode: "8463"
 city: Leutschach
 street: ""
-housenumber: 160
+housenumber: "160"
 phone: ""
 opening_hours: ""
-website: "https://www.jaunegg.at/"
+website: https://www.jaunegg.at/

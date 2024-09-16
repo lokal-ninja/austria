@@ -1,11 +1,11 @@
 id: 229825089
-type: way
+type: node
 latitude: 48.18481
 longitude: 13.70203
 postcode: "4675"
 city: Weibern
-street: "Bachmühlgasse"
-housenumber: 2
+street: Bachmühlgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

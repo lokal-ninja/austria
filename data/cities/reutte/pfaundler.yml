@@ -1,11 +1,11 @@
 id: 85653534
-type: way
+type: node
 latitude: 47.48417
 longitude: 10.72073
 postcode: "6600"
 city: Reutte
-street: "Ehrenbergstraße"
-housenumber: 2
+street: Ehrenbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

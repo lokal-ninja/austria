@@ -4,8 +4,8 @@ latitude: 48.17096
 longitude: 15.61523
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 212
+street: Mariazeller Straße
+housenumber: "212"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:45-12:00"
-website: "https://www.petermax.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:45-12:00
+website: https://www.petermax.at

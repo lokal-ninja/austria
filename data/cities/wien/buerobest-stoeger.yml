@@ -4,8 +4,8 @@ latitude: 48.20422
 longitude: 16.37422
 postcode: "1010"
 city: Wien
-street: "Seilerstätte"
-housenumber: 15
+street: Seilerstätte
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.stoeger.net/"
+website: http://www.stoeger.net/

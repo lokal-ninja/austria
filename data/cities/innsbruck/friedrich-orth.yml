@@ -4,8 +4,8 @@ latitude: 47.26343
 longitude: 11.39065
 postcode: "6020"
 city: Innsbruck
-street: "Bürgerstraße"
-housenumber: 28
-phone: "+43 512 587000"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; PH off"
-website: "http://www.mifka.at"
+street: Bürgerstraße
+housenumber: "28"
+phone: +43 512 587000
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; PH off
+website: http://www.mifka.at

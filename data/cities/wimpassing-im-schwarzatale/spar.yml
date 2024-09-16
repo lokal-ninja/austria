@@ -1,11 +1,11 @@
 id: 142765165
-type: way
+type: node
 latitude: 47.69651
 longitude: 16.01974
 postcode: "2632"
 city: Wimpassing im Schwarzatale
-street: "Bundesstraße"
-housenumber: 98
-phone: "+43 2630 30651"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.spar.at/standorte/spar-wimpassing-2632-bundesstrasse-98"
+street: Bundesstraße
+housenumber: "98"
+phone: +43 2630 30651
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.spar.at/standorte/spar-wimpassing-2632-bundesstrasse-98

@@ -4,8 +4,8 @@ latitude: 47.04963
 longitude: 16.0788
 postcode: "8280"
 city: Fürstenfeld
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 08:30-18:30, Tu,Sa 08:30-12:00"
+opening_hours: Mo,We,Th,Fr 08:30-18:30, Tu,Sa 08:30-12:00
 website: ""

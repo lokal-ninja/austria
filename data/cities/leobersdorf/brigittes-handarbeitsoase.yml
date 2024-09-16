@@ -4,8 +4,8 @@ latitude: 47.92629
 longitude: 16.21596
 postcode: "2544"
 city: Leobersdorf
-street: "Hauptstraße"
-housenumber: 39
-phone: "+43 2256 62037"
-opening_hours: "Mo, We, Fr 15:00-18:00; Tu, Th, Sa 09:00-12:00; PH off"
-website: "https://www.handarbeitsoase.at"
+street: Hauptstraße
+housenumber: "39"
+phone: +43 2256 62037
+opening_hours: Mo, We, Fr 15:00-18:00; Tu, Th, Sa 09:00-12:00; PH off
+website: https://www.handarbeitsoase.at

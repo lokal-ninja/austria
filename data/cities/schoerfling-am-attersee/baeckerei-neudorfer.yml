@@ -4,8 +4,8 @@ latitude: 47.94598
 longitude: 13.6047
 postcode: "4861"
 city: Schörfling am Attersee
-street: "Marktplatz"
-housenumber: 16
-phone: "+43 7662 4350"
-opening_hours: "Mo-Sa 06:30-12:00; Su 07:00-11:00"
-website: "https://www.die-baeckerei.at/"
+street: Marktplatz
+housenumber: "16"
+phone: +43 7662 4350
+opening_hours: Mo-Sa 06:30-12:00; Su 07:00-11:00
+website: https://www.die-baeckerei.at/

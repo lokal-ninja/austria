@@ -4,8 +4,8 @@ latitude: 47.07025
 longitude: 15.43908
 postcode: "8010"
 city: Graz
-street: "Landhausgasse"
-housenumber: 2
+street: Landhausgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.macshirty.at/"
+website: https://www.macshirty.at/

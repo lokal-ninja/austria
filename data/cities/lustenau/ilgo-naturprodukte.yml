@@ -4,8 +4,8 @@ latitude: 47.42368
 longitude: 9.65951
 postcode: "6890"
 city: Lustenau
-street: "Kaiser-Franz-Josef-Straße"
-housenumber: 13
-phone: "+43 5577 62096"
-opening_hours: "Tu-Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00"
-website: "http://ilgo.at/"
+street: Kaiser-Franz-Josef-Straße
+housenumber: "13"
+phone: +43 5577 62096
+opening_hours: Tu-Fr 09:00-12:30,15:00-18:00; Sa 09:00-13:00
+website: http://ilgo.at/

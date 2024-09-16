@@ -1,11 +1,11 @@
 id: 170938893
-type: way
+type: node
 latitude: 47.32449
 longitude: 11.19906
 postcode: "6100"
 city: Reith bei Seefeld
-street: "Krinz"
-housenumber: 34
-phone: "+43 5 0321 928137"
-opening_hours: "Mo-Fr 7:30-19:00; Sa 7:30-18:00; PHoff"
-website: "https://www.mpreis.at/"
+street: Krinz
+housenumber: "34"
+phone: +43 5 0321 928137
+opening_hours: Mo-Fr 7:30-19:00; Sa 7:30-18:00; PHoff
+website: https://www.mpreis.at/

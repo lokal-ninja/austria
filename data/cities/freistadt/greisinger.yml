@@ -1,11 +1,11 @@
 id: 139712720
-type: way
+type: node
 latitude: 48.49633
 longitude: 14.50206
 postcode: "4240"
 city: Freistadt
-street: "Linzer Straße"
-housenumber: 68
+street: Linzer Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

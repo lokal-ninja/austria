@@ -1,11 +1,11 @@
 id: 93189420
-type: way
+type: node
 latitude: 47.93932
 longitude: 16.14028
 postcode: "2560"
 city: Sankt Veit an der Triesting
-street: "Leobersdorfer Straße"
+street: Leobersdorfer Straße
 housenumber: 56a
-phone: "+43 59915 03620"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+phone: +43 59915 03620
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

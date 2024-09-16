@@ -4,8 +4,8 @@ latitude: 48.21347
 longitude: 16.31431
 postcode: "1160"
 city: Wien
-street: "Ottakringer Straße"
-housenumber: 176
+street: Ottakringer Straße
+housenumber: "176"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:30-12:30; PH off; Jul-Aug: Sa off"
+opening_hours: 'Mo-Fr 07:30-18:00; Sa 08:30-12:30; PH off; Jul-Aug: Sa off'
 website: ""

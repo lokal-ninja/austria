@@ -1,11 +1,11 @@
 id: 82761847
-type: way
+type: node
 latitude: 47.38061
 longitude: 16.00155
 postcode: "8234"
 city: Rohrbach an der Lafnitz
-street: "Untere Hauptstraße"
-housenumber: 48
+street: Untere Hauptstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

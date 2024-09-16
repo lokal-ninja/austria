@@ -4,8 +4,8 @@ latitude: 46.88141
 longitude: 15.57359
 postcode: "8413"
 city: Sankt Georgen an der Stiefing
-street: "Gerbersdorf"
-housenumber: 19
+street: Gerbersdorf
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-8:00"
-website: "https://www.billa.at/maerkte"
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-8:00
+website: https://www.billa.at/maerkte

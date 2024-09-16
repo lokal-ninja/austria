@@ -1,11 +1,11 @@
 id: 94001123
-type: way
+type: node
 latitude: 47.42836
 longitude: 15.26872
 postcode: "8605"
 city: Kapfenberg
-street: "Grazer Straße"
-housenumber: 83
+street: Grazer Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

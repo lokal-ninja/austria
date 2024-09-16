@@ -1,11 +1,11 @@
 id: 392585747
-type: way
+type: node
 latitude: 46.92212
 longitude: 15.48091
 postcode: "8402"
 city: Werndorf
-street: "Bundesstraße"
-housenumber: 130
+street: Bundesstraße
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 85580346
-type: way
+type: node
 latitude: 47.03428
 longitude: 15.44413
 postcode: "8055"
 city: Graz
-street: "Puntigamer Straße"
-housenumber: 124
+street: Puntigamer Straße
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

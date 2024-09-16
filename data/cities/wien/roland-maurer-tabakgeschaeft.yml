@@ -4,8 +4,8 @@ latitude: 48.22557
 longitude: 16.33039
 postcode: "1170"
 city: Wien
-street: "Antonigasse"
-housenumber: 99
+street: Antonigasse
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30, Sa 07:00-13:00"
+opening_hours: Mo-Fr 06:30-18:30, Sa 07:00-13:00
 website: ""

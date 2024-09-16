@@ -4,8 +4,9 @@ latitude: 48.20465
 longitude: 15.62923
 postcode: "3100"
 city: St. Pölten
-street: "Wiener Straße"
-housenumber: 43
+street: Wiener Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:30; Tu 13:30-19:00; We-Th 13:30-16:30; Fr 13:30-17:30; Sa 08:00-12:00"
-website: "https://www.relax-studio.at"
+opening_hours: Tu-Fr 08:30-12:30; Tu 13:30-19:00; We-Th 13:30-16:30; Fr 13:30-17:30;
+    Sa 08:00-12:00
+website: https://www.relax-studio.at

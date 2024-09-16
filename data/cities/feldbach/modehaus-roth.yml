@@ -1,11 +1,11 @@
 id: 358004406
-type: way
+type: node
 latitude: 46.95254
 longitude: 15.89017
 postcode: "8330"
 city: Feldbach
-street: "Bürgergasse"
-housenumber: 8
+street: Bürgergasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

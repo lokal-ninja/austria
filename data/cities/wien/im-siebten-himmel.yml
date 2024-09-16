@@ -4,8 +4,8 @@ latitude: 48.20363
 longitude: 16.35465
 postcode: "1070"
 city: Wien
-street: "Schrankgasse"
-housenumber: 12
+street: Schrankgasse
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 14:00-21:00; Fr 14:00-21:30; Sa 10:00-21:30; Su 10:00-21:00"
+opening_hours: Mo-Th 14:00-21:00; Fr 14:00-21:30; Sa 10:00-21:30; Su 10:00-21:00
 website: ""

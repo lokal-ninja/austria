@@ -4,8 +4,8 @@ latitude: 47.51392
 longitude: 12.30509
 postcode: "6352"
 city: Ellmau
-street: "Dorf"
-housenumber: 39
-phone: "+43 5358 44028"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH 08:00-13:00"
-website: "http://www.billa.at/"
+street: Dorf
+housenumber: "39"
+phone: +43 5358 44028
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su,PH 08:00-13:00
+website: http://www.billa.at/

@@ -1,11 +1,11 @@
 id: 220858981
-type: way
+type: node
 latitude: 46.94716
 longitude: 15.91748
 postcode: "8330"
 city: Mühldorf bei Feldbach
-street: "Industriepark"
-housenumber: 9
-phone: "+43 3152 20828"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.zgonc.at/filialen/steiermark.html"
+street: Industriepark
+housenumber: "9"
+phone: +43 3152 20828
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.zgonc.at/filialen/steiermark.html

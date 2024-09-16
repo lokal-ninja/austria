@@ -1,11 +1,11 @@
 id: 1249873498
-type: way
+type: node
 latitude: 48.01075
 longitude: 13.12561
 postcode: "5163"
 city: Palting
-street: "Mundenham"
-housenumber: 118
+street: Mundenham
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

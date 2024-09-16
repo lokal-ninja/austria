@@ -4,8 +4,8 @@ latitude: 48.56872
 longitude: 16.07986
 postcode: "2020"
 city: Hollabrunn
-street: "Mühlenring"
-housenumber: 38
-phone: "+43 2952 34651"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-17:00; Su 07:30-10:30"
+street: Mühlenring
+housenumber: "38"
+phone: +43 2952 34651
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:30-17:00; Su 07:30-10:30
 website: ""

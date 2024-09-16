@@ -4,8 +4,8 @@ latitude: 46.61044
 longitude: 13.84349
 postcode: "9500"
 city: Villach
-street: "Italiener Straße"
-housenumber: 17
-phone: "+43 4242 289010"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30-13:00"
-website: "http://www.bastelmarkt.at"
+street: Italiener Straße
+housenumber: "17"
+phone: +43 4242 289010
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-13:00
+website: http://www.bastelmarkt.at

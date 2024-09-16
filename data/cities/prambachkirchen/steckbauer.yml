@@ -1,11 +1,11 @@
 id: 326046032
-type: way
+type: node
 latitude: 48.32069
 longitude: 13.88977
 postcode: "4731"
 city: Prambachkirchen
-street: "Passauer Straße"
-housenumber: 11
+street: Passauer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

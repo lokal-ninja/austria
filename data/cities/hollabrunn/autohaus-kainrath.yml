@@ -1,11 +1,11 @@
 id: 184768635
-type: way
+type: node
 latitude: 48.56794
 longitude: 16.08226
 postcode: "2020"
 city: Hollabrunn
-street: "Aspersdorferstraße"
+street: Aspersdorferstraße
 housenumber: 10-14
 phone: ""
 opening_hours: ""
-website: "https://www.kainrath.eu/"
+website: https://www.kainrath.eu/

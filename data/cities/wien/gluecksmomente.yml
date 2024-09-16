@@ -4,8 +4,8 @@ latitude: 48.15013
 longitude: 16.29254
 postcode: "1230"
 city: Wien
-street: "Gustav-Holzmann-Platz"
-housenumber: 8
-phone: "+43 1 8907854"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://gluecksmomente.wien/"
+street: Gustav-Holzmann-Platz
+housenumber: "8"
+phone: +43 1 8907854
+opening_hours: Tu-Sa 10:00-19:00
+website: https://gluecksmomente.wien/

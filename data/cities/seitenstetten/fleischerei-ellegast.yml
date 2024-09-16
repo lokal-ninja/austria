@@ -4,8 +4,8 @@ latitude: 48.03639
 longitude: 14.65344
 postcode: "3353"
 city: Seitenstetten
-street: "Marktplatz"
-housenumber: 6
+street: Marktplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 07:00-18:00; We, Sa 07:00-12:15"
-website: "https://www.ellegast.at/pages/filialen.php"
+opening_hours: Mo, Tu, Th, Fr 07:00-18:00; We, Sa 07:00-12:15
+website: https://www.ellegast.at/pages/filialen.php

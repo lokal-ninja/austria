@@ -4,8 +4,8 @@ latitude: 48.21613
 longitude: 16.49933
 postcode: "1220"
 city: Wien
-street: "Groß-Enzersdorfer Straße"
-housenumber: 58
+street: Groß-Enzersdorfer Straße
+housenumber: "58"
 phone: "067763104440"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://hautverbesserung.at/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://hautverbesserung.at/

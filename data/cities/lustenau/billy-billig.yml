@@ -1,11 +1,11 @@
 id: 176874254
-type: way
+type: node
 latitude: 47.43063
 longitude: 9.65967
 postcode: "6890"
 city: Lustenau
-street: "Maria-Theresien-Straße"
-housenumber: 48
+street: Maria-Theresien-Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Th-Sa 09:00-18:00"
-website: "https://www.billy-billig.at/"
+opening_hours: Th-Sa 09:00-18:00
+website: https://www.billy-billig.at/

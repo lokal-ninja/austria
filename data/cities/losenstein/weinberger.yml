@@ -1,11 +1,11 @@
 id: 96858040
-type: way
+type: node
 latitude: 47.9318
 longitude: 14.40423
 postcode: "4460"
 city: Losenstein
-street: "Industriegebiet"
-housenumber: 5
+street: Industriegebiet
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://auto-motor.at/Auto/Autohaendler/VW-Haendler/VW-Oberoesterreich/VW-Weinberger-Losenstein.html"
+website: https://auto-motor.at/Auto/Autohaendler/VW-Haendler/VW-Oberoesterreich/VW-Weinberger-Losenstein.html

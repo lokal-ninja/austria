@@ -4,8 +4,8 @@ latitude: 47.32803
 longitude: 11.18734
 postcode: "6100"
 city: Seefeld in Tirol
-street: "Innsbrucker Straße"
-housenumber: 22
-phone: "+43 5212 23170"
-opening_hours: "Mo-Sa 10:00-13:00,14:30-18:00; Su 10:30-13:00,15:00-17:30"
-website: "https://www.armbruster.at/"
+street: Innsbrucker Straße
+housenumber: "22"
+phone: +43 5212 23170
+opening_hours: Mo-Sa 10:00-13:00,14:30-18:00; Su 10:30-13:00,15:00-17:30
+website: https://www.armbruster.at/

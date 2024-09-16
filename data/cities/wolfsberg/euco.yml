@@ -1,11 +1,11 @@
 id: 159423904
-type: way
+type: node
 latitude: 46.82449
 longitude: 14.83978
 postcode: "9400"
 city: Wolfsberg
-street: "Klagenfurter Straße"
-housenumber: 35
+street: Klagenfurter Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://euco-wolfsberg.at/"
+website: https://euco-wolfsberg.at/

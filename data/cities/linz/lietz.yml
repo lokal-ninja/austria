@@ -1,11 +1,11 @@
 id: 136796028
-type: way
+type: node
 latitude: 48.28885
 longitude: 14.3226
 postcode: "4020"
 city: Linz
-street: "Sankt-Peter-Straße"
-housenumber: 21
+street: Sankt-Peter-Straße
+housenumber: "21"
 phone: "+43732307665"
 opening_hours: ""
-website: "https://www.lietz.at/de/"
+website: https://www.lietz.at/de/

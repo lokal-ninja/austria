@@ -4,8 +4,8 @@ latitude: 48.20465
 longitude: 16.38941
 postcode: "1030"
 city: Wien
-street: "Weyrgasse"
-housenumber: 7
-phone: "+43 1 7155152331"
-opening_hours: "Prelimilinarily closed"
-website: "https://www.wohngesund.at/"
+street: Weyrgasse
+housenumber: "7"
+phone: +43 1 7155152331
+opening_hours: '"Prelimilinarily closed"'
+website: https://www.wohngesund.at/

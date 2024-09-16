@@ -1,11 +1,11 @@
 id: 199148363
-type: way
+type: node
 latitude: 47.05864
 longitude: 15.38966
 postcode: "8052"
 city: Graz
-street: "Steinbergstraße"
-housenumber: 6
+street: Steinbergstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.19762
 longitude: 16.36469
 postcode: "1040"
 city: Wien
-street: "Schleifmühlgasse"
-housenumber: 17
+street: Schleifmühlgasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:30-17:00"
-website: "http://www.babettes.at"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:30-17:00
+website: http://www.babettes.at

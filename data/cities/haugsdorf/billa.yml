@@ -1,11 +1,11 @@
 id: 149111066
-type: way
+type: node
 latitude: 48.70347
 longitude: 16.08322
 postcode: "2054"
 city: Haugsdorf
-street: "Laaer Straße"
-housenumber: 48
+street: Laaer Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

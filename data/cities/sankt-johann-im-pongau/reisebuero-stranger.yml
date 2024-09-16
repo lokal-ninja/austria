@@ -1,11 +1,11 @@
 id: 1186132386
-type: way
+type: node
 latitude: 47.34707
 longitude: 13.20407
 postcode: "5600"
 city: Sankt Johann im Pongau
-street: "Leo-Neumayer-Straße"
-housenumber: 7
+street: Leo-Neumayer-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.reisebuero-stranger.at/"
+website: https://www.reisebuero-stranger.at/

@@ -1,11 +1,11 @@
 id: 216729894
-type: way
+type: node
 latitude: 46.65177
 longitude: 15.49995
 postcode: "8463"
 city: Glanz an der Weinstraße
 street: ""
-housenumber: 54
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.weinbau-dworschak.at/"
+website: https://www.weinbau-dworschak.at/

@@ -4,8 +4,8 @@ latitude: 48.10355
 longitude: 13.15024
 postcode: "5230"
 city: Mattighofen
-street: "Stadtplatz"
-housenumber: 33
-phone: "+43 7742 2329"
-opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00; Sa 08:30-12:00"
-website: "http://www.schuhhaus-kastinger.sta.io"
+street: Stadtplatz
+housenumber: "33"
+phone: +43 7742 2329
+opening_hours: Mo-Fr 08:30-12:00,14:30-18:00; Sa 08:30-12:00
+website: http://www.schuhhaus-kastinger.sta.io

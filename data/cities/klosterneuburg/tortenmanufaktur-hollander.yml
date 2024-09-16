@@ -4,8 +4,8 @@ latitude: 48.2908
 longitude: 16.30926
 postcode: "3400"
 city: Klosterneuburg
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://tortenmanufaktur.at"
+website: https://tortenmanufaktur.at

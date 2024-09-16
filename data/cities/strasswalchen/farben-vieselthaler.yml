@@ -1,11 +1,11 @@
 id: 691960537
-type: way
+type: node
 latitude: 47.95837
 longitude: 13.2355
 postcode: "5204"
 city: Straßwalchen
-street: "Neumarkterstraße"
-housenumber: 6
-phone: "+43 6215 20173"
+street: Neumarkterstraße
+housenumber: "6"
+phone: +43 6215 20173
 opening_hours: ""
-website: "https://www.farben-vieselthaler.at/"
+website: https://www.farben-vieselthaler.at/

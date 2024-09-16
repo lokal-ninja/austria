@@ -4,8 +4,8 @@ latitude: 47.21392
 longitude: 14.79612
 postcode: "8724"
 city: Spielberg
-street: "Poststraße"
-housenumber: 18
+street: Poststraße
+housenumber: "18"
 phone: "+43351272662"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.rimato.at/de"
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00; Sa 09:00-12:00
+website: https://www.rimato.at/de

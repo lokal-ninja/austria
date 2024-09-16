@@ -4,8 +4,8 @@ latitude: 46.60444
 longitude: 13.87328
 postcode: "9500"
 city: Villach
-street: "Maria-Gailer-Straße"
-housenumber: 57
-phone: "+43-5-0810 777"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.bettenreiter.at"
+street: Maria-Gailer-Straße
+housenumber: "57"
+phone: +43-5-0810 777
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.bettenreiter.at

@@ -5,7 +5,7 @@ longitude: 16.19884
 postcode: "2002"
 city: Großmugl
 street: ""
-housenumber: 22
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.der-bauernhof.at/"
+website: http://www.der-bauernhof.at/

@@ -4,8 +4,8 @@ latitude: 48.13721
 longitude: 16.32456
 postcode: "1230"
 city: Wien
-street: "Altmannsdorfer Straße"
-housenumber: 224
-phone: "+43 660 7387800"
-opening_hours: "Mo-Fr 09:00-18:00 Sa 10:0-17:00"
+street: Altmannsdorfer Straße
+housenumber: "224"
+phone: +43 660 7387800
+opening_hours: Mo-Fr 09:00-18:00 Sa 10:0-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.50186
 longitude: 9.74607
 postcode: "6900"
 city: Bregenz
-street: "Römerstraße"
-housenumber: 5
-phone: "+43 732 2080"
-opening_hours: "May 01-Sep 30: Mo-Su 08:30-09:30,16:00-19:15"
-website: "https://www.donaureisen.at/radreisen/allgemeines/tagesradverleih"
+street: Römerstraße
+housenumber: "5"
+phone: +43 732 2080
+opening_hours: 'May 01-Sep 30: Mo-Su 08:30-09:30,16:00-19:15'
+website: https://www.donaureisen.at/radreisen/allgemeines/tagesradverleih

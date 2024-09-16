@@ -1,11 +1,11 @@
 id: 408936869
-type: way
+type: node
 latitude: 48.03978
 longitude: 14.77987
 postcode: "3331"
 city: Kematen an der Ybbs
-street: "Heide, 1. Straße"
-housenumber: 1
+street: Heide, 1. Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

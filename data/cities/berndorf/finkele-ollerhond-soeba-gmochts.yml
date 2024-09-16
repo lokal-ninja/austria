@@ -4,8 +4,8 @@ latitude: 47.93856
 longitude: 16.15528
 postcode: "2560"
 city: Berndorf
-street: "Hauptstraße"
-housenumber: 2
-phone: "+43 650 6699930"
-opening_hours: "Tu-Th 09:00-12:00; Fr 15:00-18:00; Sa[1,3] 09:00-13:00"
-website: "https://finkele.at/"
+street: Hauptstraße
+housenumber: "2"
+phone: +43 650 6699930
+opening_hours: Tu-Th 09:00-12:00; Fr 15:00-18:00; Sa[1,3] 09:00-13:00
+website: https://finkele.at/

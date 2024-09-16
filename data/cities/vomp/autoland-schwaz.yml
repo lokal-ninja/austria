@@ -4,8 +4,8 @@ latitude: 47.3568
 longitude: 11.70629
 postcode: "6134"
 city: Vomp
-street: "Au"
-housenumber: 26
-phone: "+43 5242 66266"
+street: Au
+housenumber: "26"
+phone: +43 5242 66266
 opening_hours: ""
-website: "https://autoland.tirol"
+website: https://autoland.tirol

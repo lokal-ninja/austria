@@ -4,8 +4,8 @@ latitude: 48.17094
 longitude: 16.37172
 postcode: "1100"
 city: Wien
-street: "Laxenburger Straße"
-housenumber: 105
-phone: "+43 1 6043315"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00"
-website: "https://www.lederkraemer.at/"
+street: Laxenburger Straße
+housenumber: "105"
+phone: +43 1 6043315
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00
+website: https://www.lederkraemer.at/

@@ -4,8 +4,8 @@ latitude: 48.20775
 longitude: 16.37052
 postcode: "1010"
 city: Wien
-street: "Spiegelgasse"
-housenumber: 3
-phone: "+43 1 5121494"
-opening_hours: "Mo-Sa 10:00-18:00;Su,PH off"
-website: "https://www.augarten.com"
+street: Spiegelgasse
+housenumber: "3"
+phone: +43 1 5121494
+opening_hours: Mo-Sa 10:00-18:00;Su,PH off
+website: https://www.augarten.com

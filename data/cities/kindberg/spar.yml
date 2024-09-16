@@ -1,11 +1,11 @@
 id: 252905376
-type: way
+type: node
 latitude: 47.49472
 longitude: 15.4137
 postcode: "8652"
 city: Kindberg
-street: "Auweg"
-housenumber: 2
-phone: "+43 3865 3500"
-opening_hours: "Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00"
+street: Auweg
+housenumber: "2"
+phone: +43 3865 3500
+opening_hours: Mo-Th 07:30-19:00; Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

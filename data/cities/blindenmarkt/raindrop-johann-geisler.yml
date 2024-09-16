@@ -1,11 +1,11 @@
 id: 237908203
-type: way
+type: node
 latitude: 48.12954
 longitude: 14.98909
 postcode: "3372"
 city: Blindenmarkt
-street: "Bachstraße"
-housenumber: 16
-phone: "+43 676 538 1900"
+street: Bachstraße
+housenumber: "16"
+phone: +43 676 538 1900
 opening_hours: ""
-website: "https://raindrop.at/"
+website: https://raindrop.at/

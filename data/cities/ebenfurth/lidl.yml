@@ -1,11 +1,11 @@
 id: 38360454
-type: way
+type: node
 latitude: 47.87769
 longitude: 16.36591
 postcode: "2490"
 city: Ebenfurth
-street: "Wiener Neustädter Straße"
-housenumber: 10
+street: Wiener Neustädter Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

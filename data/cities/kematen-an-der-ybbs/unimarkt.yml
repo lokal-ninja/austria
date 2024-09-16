@@ -4,8 +4,8 @@ latitude: 48.02837
 longitude: 14.77006
 postcode: "3331"
 city: Kematen an der Ybbs
-street: "1. Straße"
-housenumber: 41
+street: 1. Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-18:00"
-website: "https://www.unimarkt.at/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-18:00
+website: https://www.unimarkt.at/

@@ -4,8 +4,8 @@ latitude: 48.19795
 longitude: 16.30219
 postcode: "1140"
 city: Wien
-street: "Hütteldorfer Straße"
-housenumber: 167
-phone: "+43 1 866 99 - 9118"
-opening_hours: "Mo-Fr 06:00-18:30; Su 07:00-17:00; Sa 06:00-17:00"
-website: "https://www.dermann.at/"
+street: Hütteldorfer Straße
+housenumber: "167"
+phone: +43 1 866 99 - 9118
+opening_hours: Mo-Fr 06:00-18:30; Su 07:00-17:00; Sa 06:00-17:00
+website: https://www.dermann.at/

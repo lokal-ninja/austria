@@ -1,11 +1,11 @@
 id: 149752686
-type: way
+type: node
 latitude: 46.79324
 longitude: 12.67184
 postcode: "9911"
 city: Assling
 street: ""
-housenumber: 1
-phone: "+43664 9148029 / +434855 8621"
+housenumber: "1"
+phone: +43664 9148029 / +434855 8621
 opening_hours: ""
-website: "https://www.untermaierhof.at/"
+website: https://www.untermaierhof.at/

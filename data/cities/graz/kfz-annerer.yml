@@ -1,11 +1,11 @@
 id: 106883662
-type: way
+type: node
 latitude: 47.05208
 longitude: 15.44709
 postcode: "8010"
 city: Graz
-street: "Raiffeisenstraße"
-housenumber: 48
+street: Raiffeisenstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

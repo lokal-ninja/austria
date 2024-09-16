@@ -4,8 +4,8 @@ latitude: 48.23004
 longitude: 16.37085
 postcode: "1200"
 city: Wien
-street: "Jägerstraße"
-housenumber: 29
+street: Jägerstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00
 website: ""

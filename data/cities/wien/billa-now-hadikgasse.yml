@@ -1,11 +1,11 @@
 id: 165738416
-type: way
+type: node
 latitude: 48.19284
 longitude: 16.27715
 postcode: "1140"
 city: Wien
-street: "Hadikgasse"
-housenumber: 252
+street: Hadikgasse
+housenumber: "252"
 phone: ""
 opening_hours: ""
 website: ""

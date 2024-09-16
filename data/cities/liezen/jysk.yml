@@ -1,11 +1,11 @@
 id: 146902337
-type: way
+type: node
 latitude: 47.56092
 longitude: 14.25211
 postcode: "8940"
 city: Liezen
-street: "Werkstraße"
-housenumber: 28
+street: Werkstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5109"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5109

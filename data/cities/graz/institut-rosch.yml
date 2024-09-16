@@ -4,8 +4,8 @@ latitude: 47.06719
 longitude: 15.43962
 postcode: "8010"
 city: Graz
-street: "Joanneumring"
-housenumber: 16
-phone: "+43 316 836 556"
-opening_hours: "no available sign, office is in a building with locked front doors"
-website: "https://www.institut-rosch.at/"
+street: Joanneumring
+housenumber: "16"
+phone: +43 316 836 556
+opening_hours: '"no available sign, office is in a building with locked front doors"'
+website: https://www.institut-rosch.at/

@@ -1,11 +1,11 @@
 id: 139712782
-type: way
+type: node
 latitude: 48.49451
 longitude: 14.50302
 postcode: "4240"
 city: Freistadt
-street: "Kaplanstraße"
-housenumber: 2
+street: Kaplanstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

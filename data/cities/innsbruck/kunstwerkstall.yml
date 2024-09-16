@@ -4,8 +4,8 @@ latitude: 47.23119
 longitude: 11.40913
 postcode: "6080"
 city: Innsbruck
-street: "Grätschenwinkelweg"
-housenumber: 1
+street: Grätschenwinkelweg
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.kunstwerkstall-igls.at/"
+opening_hours: Tu-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.kunstwerkstall-igls.at/

@@ -1,5 +1,5 @@
 id: 242280252
-type: way
+type: node
 latitude: 46.97715
 longitude: 16.0592
 postcode: "8352"
@@ -7,5 +7,6 @@ city: Unterlamm
 street: ""
 housenumber: 16a
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Nov-Feb Tu-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://radsport-samer.at/"
+opening_hours: 'Mar-Oct: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00; Nov-Feb Tu-Fr
+    09:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off'
+website: https://radsport-samer.at/

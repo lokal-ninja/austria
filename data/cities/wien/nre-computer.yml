@@ -4,8 +4,8 @@ latitude: 48.19059
 longitude: 16.28682
 postcode: "1130"
 city: Wien
-street: "St.-Veit-Gasse"
-housenumber: 67
+street: St.-Veit-Gasse
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-13:00"
-website: "https://www.nre.at/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-13:00
+website: https://www.nre.at/

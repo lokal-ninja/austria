@@ -1,11 +1,11 @@
 id: 177972304
-type: way
+type: node
 latitude: 46.81114
 longitude: 14.8518
 postcode: "9431"
 city: Sankt Stefan
-street: "Rotkogelstraße"
-housenumber: 8
+street: Rotkogelstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

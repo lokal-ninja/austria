@@ -1,11 +1,11 @@
 id: 224784213
-type: way
+type: node
 latitude: 48.41224
 longitude: 15.60826
 postcode: "3500"
 city: Krems an der Donau
-street: "Wachaustraße"
-housenumber: 11
-phone: "+43 50 306 621"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.lucky-car.at/"
+street: Wachaustraße
+housenumber: "11"
+phone: +43 50 306 621
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.lucky-car.at/

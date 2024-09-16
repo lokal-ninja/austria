@@ -4,8 +4,8 @@ latitude: 47.07324
 longitude: 15.45403
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 46
-phone: "+43316 33 77 00"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.inside-wohnen.at/"
+street: Leonhardstraße
+housenumber: "46"
+phone: +43316 33 77 00
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.inside-wohnen.at/

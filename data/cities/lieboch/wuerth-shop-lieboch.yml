@@ -4,8 +4,8 @@ latitude: 46.96347
 longitude: 15.35311
 postcode: "8501"
 city: Lieboch
-street: "Johann Assl-Platz"
-housenumber: 1
-phone: "+43 5 08242 1240"
-opening_hours: "Mo-Th 07:00-12:30, 13:30-17:00; Fr 07:00-13:00; Sa,Su,PH off"
-website: "https://www.wuerth.at/de/wuerth_at/niederlassungen/kundenzentren_a_z/kundenzentren_neu_detail_1984.php"
+street: Johann Assl-Platz
+housenumber: "1"
+phone: +43 5 08242 1240
+opening_hours: Mo-Th 07:00-12:30, 13:30-17:00; Fr 07:00-13:00; Sa,Su,PH off
+website: https://www.wuerth.at/de/wuerth_at/niederlassungen/kundenzentren_a_z/kundenzentren_neu_detail_1984.php

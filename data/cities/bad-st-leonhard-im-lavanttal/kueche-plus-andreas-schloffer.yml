@@ -4,8 +4,9 @@ latitude: 46.96408
 longitude: 14.79034
 postcode: "9462"
 city: Bad St. Leonhard im Lavanttal
-street: "Hauptplatz"
-housenumber: 3
+street: Hauptplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Di 09:00-12:00, 14:30-18:00; Mi 09:00-12:00; Do-Fr 09:00-12:00, 14:30-18:00; Sa 09:00-12:00"
-website: "https://kueche-plus.at/"
+opening_hours: Di 09:00-12:00, 14:30-18:00; Mi 09:00-12:00; Do-Fr 09:00-12:00, 14:30-18:00;
+    Sa 09:00-12:00
+website: https://kueche-plus.at/

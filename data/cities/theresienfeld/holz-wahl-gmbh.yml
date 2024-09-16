@@ -1,11 +1,11 @@
 id: 165080286
-type: way
+type: node
 latitude: 47.85825
 longitude: 16.24694
 postcode: "2604"
 city: Theresienfeld
-street: "Grazer Straße"
-housenumber: 12
+street: Grazer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

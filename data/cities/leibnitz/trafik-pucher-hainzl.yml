@@ -1,11 +1,11 @@
 id: 226833646
-type: way
+type: node
 latitude: 46.79297
 longitude: 15.53304
 postcode: "8430"
 city: Leibnitz
-street: "Frauengasse"
-housenumber: 14
+street: Frauengasse
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

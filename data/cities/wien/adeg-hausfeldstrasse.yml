@@ -1,11 +1,11 @@
 id: 200421369
-type: way
+type: node
 latitude: 48.2394
 longitude: 16.49004
 postcode: "1220"
 city: Wien
-street: "Hausfeldstraße"
-housenumber: 167
+street: Hausfeldstraße
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:30-18:00"
-website: "https://www.adeg.at/karriere/unsere-kaufleute/adeg-kaufleute?tx_solr%5Bq%5D=1220"
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:30-18:00
+website: https://www.adeg.at/karriere/unsere-kaufleute/adeg-kaufleute?tx_solr%5Bq%5D=1220

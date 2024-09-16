@@ -1,11 +1,11 @@
 id: 402386495
-type: way
+type: node
 latitude: 47.16741
 longitude: 9.79207
 postcode: "6714"
 city: Nüziders
-street: "Landstraße"
-housenumber: 28
+street: Landstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-12:00
 website: ""

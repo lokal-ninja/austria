@@ -1,11 +1,11 @@
 id: 174637772
-type: way
+type: node
 latitude: 48.21056
 longitude: 15.62178
 postcode: "3100"
 city: St. Pölten
-street: "Praterstraße"
-housenumber: 5
+street: Praterstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.wesely.at/autohaeuser/sankt-poelten-praterstrasse/"
+website: https://www.wesely.at/autohaeuser/sankt-poelten-praterstrasse/

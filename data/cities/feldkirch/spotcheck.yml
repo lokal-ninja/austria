@@ -1,11 +1,11 @@
 id: 326265496
-type: way
+type: node
 latitude: 47.26832
 longitude: 9.60837
 postcode: "6800"
 city: Feldkirch
-street: "Räterweg"
-housenumber: 11
+street: Räterweg
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.spotcheck.at"
+website: https://www.spotcheck.at

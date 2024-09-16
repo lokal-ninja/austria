@@ -1,11 +1,11 @@
 id: 359547049
-type: way
+type: node
 latitude: 46.98004
 longitude: 15.89077
 postcode: "8333"
 city: Riegersburg
 street: ""
-housenumber: 21
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

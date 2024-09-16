@@ -1,11 +1,11 @@
 id: 128554998
-type: way
+type: node
 latitude: 48.30903
 longitude: 14.01974
 postcode: "4070"
 city: Eferding
-street: "Ledererstraße"
-housenumber: 6
+street: Ledererstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

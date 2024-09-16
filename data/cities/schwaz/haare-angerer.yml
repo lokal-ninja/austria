@@ -4,8 +4,8 @@ latitude: 47.34628
 longitude: 11.70917
 postcode: "6130"
 city: Schwaz
-street: "Franz-Josef-Straße"
-housenumber: 25
-phone: "+43 5242 64759"
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:30-13:00; PH off"
-website: "https://www.haareangerer.at"
+street: Franz-Josef-Straße
+housenumber: "25"
+phone: +43 5242 64759
+opening_hours: Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:30-13:00; PH off
+website: https://www.haareangerer.at

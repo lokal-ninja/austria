@@ -1,11 +1,11 @@
 id: 562439034
-type: way
+type: node
 latitude: 46.61284
 longitude: 14.04281
 postcode: "9220"
 city: Velden am Wörther See
-street: "Seecorso"
-housenumber: 5
+street: Seecorso
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://cocuni.at/"
+opening_hours: Mo-Su 09:00-20:00
+website: https://cocuni.at/

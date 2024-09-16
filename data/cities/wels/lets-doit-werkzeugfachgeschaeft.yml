@@ -1,11 +1,11 @@
 id: 36734244
-type: way
+type: node
 latitude: 48.14913
 longitude: 13.97811
 postcode: "4600"
 city: Wels
-street: "Salzburger Straße"
-housenumber: 203
+street: Salzburger Straße
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://lets-doit.at/de/letsdoit-wels"
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://lets-doit.at/de/letsdoit-wels

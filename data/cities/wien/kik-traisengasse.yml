@@ -4,8 +4,8 @@ latitude: 48.23704
 longitude: 16.3903
 postcode: "1200"
 city: Wien
-street: "Traisengasse"
-housenumber: 27
+street: Traisengasse
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-17:00"
-website: "https://www.kik-textilien.at/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-17:00
+website: https://www.kik-textilien.at/

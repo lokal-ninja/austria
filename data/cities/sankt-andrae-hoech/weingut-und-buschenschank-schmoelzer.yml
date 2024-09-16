@@ -1,11 +1,11 @@
 id: 338295678
-type: way
+type: node
 latitude: 46.80784
 longitude: 15.42092
 postcode: "8444"
 city: Sankt Andrä-Höch
 street: ""
-housenumber: 72
-phone: "+43 3185 8247"
-opening_hours: "PH Fr-Tu 14:00-24:00+"
-website: "https://www.weingut-schmoelzer.at/"
+housenumber: "72"
+phone: +43 3185 8247
+opening_hours: PH Fr-Tu 14:00-24:00+
+website: https://www.weingut-schmoelzer.at/

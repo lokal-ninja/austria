@@ -1,11 +1,11 @@
 id: 677106171
-type: way
+type: node
 latitude: 48.1737
 longitude: 16.36511
 postcode: "1100"
 city: Wien
-street: "Neilreichgasse"
-housenumber: 46
+street: Neilreichgasse
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.euromaster.at/"
+website: https://www.euromaster.at/

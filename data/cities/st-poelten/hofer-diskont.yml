@@ -1,11 +1,11 @@
 id: 178464854
-type: way
+type: node
 latitude: 48.17382
 longitude: 15.61708
 postcode: "3100"
 city: St. Pölten
-street: "Porschestraße"
-housenumber: 35
+street: Porschestraße
+housenumber: "35"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.diskonttanken.at"
+opening_hours: 24/7
+website: https://www.diskonttanken.at

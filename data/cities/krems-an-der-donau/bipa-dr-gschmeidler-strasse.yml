@@ -4,8 +4,8 @@ latitude: 48.40836
 longitude: 15.61488
 postcode: "3500"
 city: Krems an der Donau
-street: "Dr.-Gschmeidler-Straße"
-housenumber: 16
-phone: "+43 2732 817 57"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+street: Dr.-Gschmeidler-Straße
+housenumber: "16"
+phone: +43 2732 817 57
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bipa.at/

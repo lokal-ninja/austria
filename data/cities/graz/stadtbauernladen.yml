@@ -4,8 +4,8 @@ latitude: 47.06911
 longitude: 15.44295
 postcode: "8010"
 city: Graz
-street: "Hamerlinggasse"
-housenumber: 3
-phone: "+43316 8050 1260"
-opening_hours: "Mo-We 09:30-18:00, Fr 09:00-18:00, Sa 09:00-14:00"
-website: "https://www.stadtbauernladen.at/"
+street: Hamerlinggasse
+housenumber: "3"
+phone: +43316 8050 1260
+opening_hours: Mo-We 09:30-18:00, Fr 09:00-18:00, Sa 09:00-14:00
+website: https://www.stadtbauernladen.at/

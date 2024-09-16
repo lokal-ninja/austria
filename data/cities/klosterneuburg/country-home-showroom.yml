@@ -1,11 +1,11 @@
 id: 737258673
-type: way
+type: node
 latitude: 48.30881
 longitude: 16.32607
 postcode: "3400"
 city: Klosterneuburg
-street: "Niedermarkt"
-housenumber: 1
+street: Niedermarkt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

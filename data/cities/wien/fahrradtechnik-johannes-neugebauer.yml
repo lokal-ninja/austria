@@ -4,8 +4,8 @@ latitude: 48.1992
 longitude: 16.38833
 postcode: "1030"
 city: Wien
-street: "Neulinggasse"
-housenumber: 24
-phone: "+43 664 5336008"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Neulinggasse
+housenumber: "24"
+phone: +43 664 5336008
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

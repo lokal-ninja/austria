@@ -1,11 +1,11 @@
 id: 570486239
-type: way
+type: node
 latitude: 47.77268
 longitude: 17.02104
 postcode: "7163"
 city: Andau
-street: "Ödenburgerstraße"
-housenumber: 51
+street: Ödenburgerstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.62147
 longitude: 13.86304
 postcode: "9500"
 city: Villach
-street: "Udinestraße"
-housenumber: 9
+street: Udinestraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30; Mo-Th 13:30-18:30; Fr 13:30-19:30; Sa,Su,PH off"
-website: "https://www.bergsport-korak.at/"
+opening_hours: Mo-Fr 09:30-12:30; Mo-Th 13:30-18:30; Fr 13:30-19:30; Sa,Su,PH off
+website: https://www.bergsport-korak.at/

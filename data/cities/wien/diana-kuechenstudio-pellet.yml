@@ -4,8 +4,8 @@ latitude: 48.21632
 longitude: 16.37939
 postcode: "1020"
 city: Wien
-street: "Karmelitergasse"
-housenumber: 8
+street: Karmelitergasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-17:00; Fr 09:00-12:00,14:00-16:00"
+opening_hours: Mo-Th 09:00-12:00,14:00-17:00; Fr 09:00-12:00,14:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 132334419
-type: way
+type: node
 latitude: 47.80245
 longitude: 16.24088
 postcode: "2700"
 city: Wiener Neustadt
-street: "Günser Straße"
-housenumber: 40
+street: Günser Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

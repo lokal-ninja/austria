@@ -1,11 +1,11 @@
 id: 1075119266
-type: way
+type: node
 latitude: 48.35178
 longitude: 13.64577
 postcode: "4760"
 city: Raab
-street: "Marktstraße"
-housenumber: 3
-phone: "+43 7762 2217"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-17:00"
-website: "https://unimarkt.at/standort/raab/"
+street: Marktstraße
+housenumber: "3"
+phone: +43 7762 2217
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-17:00
+website: https://unimarkt.at/standort/raab/

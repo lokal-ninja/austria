@@ -1,11 +1,11 @@
 id: 308631838
-type: way
+type: node
 latitude: 48.14152
 longitude: 16.31534
 postcode: "1230"
 city: Wien
-street: "Erlaaer Straße"
-housenumber: 92
+street: Erlaaer Straße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

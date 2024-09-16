@@ -4,8 +4,8 @@ latitude: 47.26503
 longitude: 11.39197
 postcode: "6020"
 city: Innsbruck
-street: "Fallmerayerstraße"
-housenumber: 3
-phone: "+43 512 584712"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00; PH off"
-website: "https://www.isser.at/home/#Kontakt"
+street: Fallmerayerstraße
+housenumber: "3"
+phone: +43 512 584712
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00; PH off
+website: https://www.isser.at/home/#Kontakt

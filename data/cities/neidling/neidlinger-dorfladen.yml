@@ -4,8 +4,8 @@ latitude: 48.239
 longitude: 15.55858
 postcode: "3110"
 city: Neidling
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://gesundegemeindeneidling.wordpress.com/neidlinger-dorfladen/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://gesundegemeindeneidling.wordpress.com/neidlinger-dorfladen/

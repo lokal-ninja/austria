@@ -4,8 +4,8 @@ latitude: 48.00257
 longitude: 13.66981
 postcode: "4840"
 city: Vöcklabruck
-street: "Linzer Straße"
-housenumber: 50
-phone: "+43 1 54699"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-V%C3%B6cklabruck,23351,-15.html"
+street: Linzer Straße
+housenumber: "50"
+phone: +43 1 54699
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-V%C3%B6cklabruck,23351,-15.html

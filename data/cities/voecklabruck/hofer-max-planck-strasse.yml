@@ -1,11 +1,11 @@
 id: 127709171
-type: way
+type: node
 latitude: 48.00466
 longitude: 13.67615
 postcode: "4840"
 city: Vöcklabruck
-street: "Max Planck-Straße"
-housenumber: 7
+street: Max Planck-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

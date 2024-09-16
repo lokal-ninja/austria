@@ -1,11 +1,11 @@
 id: 47121667
-type: way
+type: node
 latitude: 47.26238
 longitude: 11.43237
 postcode: "6020"
 city: Innsbruck
-street: "Leopold-Wedl-Weg"
-housenumber: 1
-phone: "+43 59335 2200"
-opening_hours: "Mo-Fr 6:30-18:30; Sa 06:30-13:00"
-website: "https://www.wedl.com/"
+street: Leopold-Wedl-Weg
+housenumber: "1"
+phone: +43 59335 2200
+opening_hours: Mo-Fr 6:30-18:30; Sa 06:30-13:00
+website: https://www.wedl.com/

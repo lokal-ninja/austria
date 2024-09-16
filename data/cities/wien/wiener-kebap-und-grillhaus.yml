@@ -4,8 +4,8 @@ latitude: 48.19866
 longitude: 16.39964
 postcode: "1030"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 78
+street: Erdbergstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; PH,Su 10:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00; PH,Su 10:00-22:00
 website: ""

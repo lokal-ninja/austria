@@ -1,11 +1,11 @@
 id: 439140877
-type: way
+type: node
 latitude: 48.75197
 longitude: 15.95469
 postcode: "2070"
 city: Retz
-street: "Dr. Gregor Korner-Gasse"
-housenumber: 5
+street: Dr. Gregor Korner-Gasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 872197081
-type: way
+type: node
 latitude: 47.35079
 longitude: 11.72154
 postcode: "6130"
 city: Schwaz
-street: "St. Martin"
-housenumber: 32
+street: St. Martin
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

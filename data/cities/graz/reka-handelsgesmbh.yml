@@ -1,11 +1,11 @@
 id: 1105473170
-type: way
+type: node
 latitude: 47.01842
 longitude: 15.41019
 postcode: "8055"
 city: Graz
-street: "Robert-Viertl-Straße"
-housenumber: 1
-phone: "+43 316 81 43 00"
+street: Robert-Viertl-Straße
+housenumber: "1"
+phone: +43 316 81 43 00
 opening_hours: ""
-website: "https://www.reka.at/"
+website: https://www.reka.at/

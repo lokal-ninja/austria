@@ -1,11 +1,11 @@
 id: 82223195
-type: way
+type: node
 latitude: 47.38931
 longitude: 15.99697
 postcode: "8234"
 city: Rohrbach an der Lafnitz
-street: "Obere Hauptstraße"
-housenumber: 9
+street: Obere Hauptstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

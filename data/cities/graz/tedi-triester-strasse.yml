@@ -4,8 +4,8 @@ latitude: 47.02802
 longitude: 15.43396
 postcode: "8055"
 city: Graz
-street: "Triester Straße"
-housenumber: 371
+street: Triester Straße
+housenumber: "371"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.tedi.com/at/filialfinder/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.tedi.com/at/filialfinder/

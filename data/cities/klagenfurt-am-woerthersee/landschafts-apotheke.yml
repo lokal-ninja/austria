@@ -4,8 +4,8 @@ latitude: 46.62545
 longitude: 14.30708
 postcode: "9010"
 city: Klagenfurt am Wörthersee
-street: "Alter Platz"
-housenumber: 32
-phone: "+43 463 55077"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://auer-apo.at/"
+street: Alter Platz
+housenumber: "32"
+phone: +43 463 55077
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://auer-apo.at/

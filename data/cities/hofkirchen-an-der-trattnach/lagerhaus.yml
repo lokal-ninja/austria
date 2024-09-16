@@ -1,11 +1,11 @@
 id: 207227053
-type: way
+type: node
 latitude: 48.22246
 longitude: 13.73449
 postcode: "4716"
 city: Hofkirchen an der Trattnach
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.lagerhaus.at/standort/1523600143964"
+website: https://www.lagerhaus.at/standort/1523600143964

@@ -1,11 +1,11 @@
 id: 417069875
-type: way
+type: node
 latitude: 47.26765
 longitude: 9.60487
 postcode: "6800"
 city: Feldkirch
-street: "Beim Gräble"
-housenumber: 9
+street: Beim Gräble
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

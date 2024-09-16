@@ -4,8 +4,8 @@ latitude: 47.41555
 longitude: 9.74072
 postcode: "6850"
 city: Dornbirn
-street: "Klostergasse"
-housenumber: 8
+street: Klostergasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.boconcept.com/de-at/stores/find-your-local-store/austria/boconcept-dornbirn"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.boconcept.com/de-at/stores/find-your-local-store/austria/boconcept-dornbirn

@@ -1,11 +1,11 @@
 id: 108888844
-type: way
+type: node
 latitude: 47.28004
 longitude: 11.5268
 postcode: "6060"
 city: Hall in Tirol
-street: "Salzburger Straße"
-housenumber: 60
-phone: "+43-5223-58110"
+street: Salzburger Straße
+housenumber: "60"
+phone: +43-5223-58110
 opening_hours: ""
-website: "http://www.autobacher.com"
+website: http://www.autobacher.com

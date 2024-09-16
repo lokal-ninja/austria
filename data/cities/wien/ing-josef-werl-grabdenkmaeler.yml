@@ -1,11 +1,11 @@
 id: 66729004
-type: way
+type: node
 latitude: 48.18004
 longitude: 16.36018
 postcode: "1100"
 city: Wien
-street: "Gudrunstraße"
+street: Gudrunstraße
 housenumber: 196a
 phone: ""
 opening_hours: ""
-website: "https://www.steinmetz-werl.at"
+website: https://www.steinmetz-werl.at

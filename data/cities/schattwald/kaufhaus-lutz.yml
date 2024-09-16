@@ -1,11 +1,11 @@
 id: 99494651
-type: way
+type: node
 latitude: 47.51679
 longitude: 10.45598
 postcode: "6677"
 city: Schattwald
-street: "Schattwald"
+street: Schattwald
 housenumber: 35a
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00;Sa 08:30-12:00,14:00-17:00;Su 10:00-12:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00;Sa 08:30-12:00,14:00-17:00;Su 10:00-12:00
 website: ""

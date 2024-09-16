@@ -1,11 +1,11 @@
 id: 501340940
-type: way
+type: node
 latitude: 48.12263
 longitude: 14.87431
 postcode: "3300"
 city: Amstetten
-street: "Hauptplatz"
+street: Hauptplatz
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00,14:00-17:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00,14:00-17:00; Su,PH off
 website: ""

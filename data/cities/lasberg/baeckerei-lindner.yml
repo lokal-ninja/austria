@@ -1,11 +1,11 @@
 id: 411090820
-type: way
+type: node
 latitude: 48.47083
 longitude: 14.54108
 postcode: "4291"
 city: Lasberg
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

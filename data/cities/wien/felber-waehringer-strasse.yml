@@ -4,8 +4,8 @@ latitude: 48.22596
 longitude: 16.34538
 postcode: "1180"
 city: Wien
-street: "Währinger Straße"
-housenumber: 106
+street: Währinger Straße
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; PH,Su 07:00-12:00"
-website: "https://www.felberbrot.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00; PH,Su 07:00-12:00
+website: https://www.felberbrot.at/

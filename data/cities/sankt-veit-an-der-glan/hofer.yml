@@ -1,11 +1,11 @@
 id: 103078990
-type: way
+type: node
 latitude: 46.76704
 longitude: 14.37384
 postcode: "9300"
 city: Sankt Veit an der Glan
-street: "Völkermarkter Straße"
-housenumber: 43
+street: Völkermarkter Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

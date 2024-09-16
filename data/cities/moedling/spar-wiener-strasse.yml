@@ -1,11 +1,11 @@
 id: 26270133
-type: way
+type: node
 latitude: 48.08942
 longitude: 16.30471
 postcode: "2340"
 city: Mödling
-street: "Wiener Straße"
-housenumber: 77
-phone: "+43 2236/864326"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-moedling-2340-wiener-strasse-77"
+street: Wiener Straße
+housenumber: "77"
+phone: +43 2236/864326
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-moedling-2340-wiener-strasse-77

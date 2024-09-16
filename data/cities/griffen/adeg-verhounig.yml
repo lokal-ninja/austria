@@ -1,11 +1,11 @@
 id: 528556269
-type: way
+type: node
 latitude: 46.70182
 longitude: 14.72875
 postcode: "9112"
 city: Griffen
-street: "Rudner Straße"
-housenumber: 8
+street: Rudner Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.2628
 longitude: 11.37883
 postcode: "6020"
 city: Innsbruck
-street: "Ampfererstraße"
-housenumber: 30
+street: Ampfererstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; PH off"
-website: "https://www.fahrrad-innsbruck.at/fahrradgeschafte-fahrrad-shops/conrad-fahrradreperatur-ampfererstrase/"
+opening_hours: Mo-Fr 09:00-18:00; PH off
+website: https://www.fahrrad-innsbruck.at/fahrradgeschafte-fahrrad-shops/conrad-fahrradreperatur-ampfererstrase/

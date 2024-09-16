@@ -1,11 +1,11 @@
 id: 30352770
-type: way
+type: node
 latitude: 47.297
 longitude: 16.19913
 postcode: "7400"
 city: Oberwart
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

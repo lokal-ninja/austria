@@ -1,11 +1,11 @@
 id: 371083448
-type: way
+type: node
 latitude: 47.22333
 longitude: 15.90655
 postcode: "8224"
 city: Kaindorf
 street: ""
-housenumber: 336
+housenumber: "336"
 phone: ""
-opening_hours: "Mo-Fr 07:40-19:00; Sa 07:40-17:00; Su,PH off"
+opening_hours: Mo-Fr 07:40-19:00; Sa 07:40-17:00; Su,PH off
 website: ""

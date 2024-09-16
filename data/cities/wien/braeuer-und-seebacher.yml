@@ -4,8 +4,8 @@ latitude: 48.18246
 longitude: 16.33311
 postcode: "1120"
 city: Wien
-street: "Arndtstraße"
-housenumber: 84
-phone: "+43 1 815 42 54"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-13:00"
-website: "http://www.xn--kfz-bruerseebacher-qtb.at/"
+street: Arndtstraße
+housenumber: "84"
+phone: +43 1 815 42 54
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-13:00
+website: http://www.xn--kfz-bruerseebacher-qtb.at/

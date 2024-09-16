@@ -1,11 +1,11 @@
 id: 268739329
-type: way
+type: node
 latitude: 48.16127
 longitude: 16.31822
 postcode: "1120"
 city: Wien
-street: "Altmannsdorfer Straße"
-housenumber: 115
+street: Altmannsdorfer Straße
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

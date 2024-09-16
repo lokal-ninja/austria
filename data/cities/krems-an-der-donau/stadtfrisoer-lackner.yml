@@ -4,8 +4,8 @@ latitude: 48.40927
 longitude: 15.60219
 postcode: "3500"
 city: Krems an der Donau
-street: "Ringstraße"
-housenumber: 27
-phone: "+43 2732 85175"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:30; Su,Mo,PH off"
+street: Ringstraße
+housenumber: "27"
+phone: +43 2732 85175
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:30; Su,Mo,PH off
 website: ""

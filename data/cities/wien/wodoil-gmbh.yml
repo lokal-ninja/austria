@@ -4,8 +4,8 @@ latitude: 48.21625
 longitude: 16.39129
 postcode: "1020"
 city: Wien
-street: "Hedwiggasse"
-housenumber: 2
+street: Hedwiggasse
+housenumber: "2"
 phone: "+4312183970"
 opening_hours: ""
-website: "https://wodoil.at/"
+website: https://wodoil.at/

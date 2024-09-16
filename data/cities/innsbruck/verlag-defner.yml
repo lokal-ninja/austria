@@ -4,8 +4,8 @@ latitude: 47.23185
 longitude: 11.40866
 postcode: "6080"
 city: Innsbruck
-street: "Eichlerstraße"
-housenumber: 6
-phone: "+43 512 377291"
-opening_hours: "nach Vereinbarung"
-website: "https://defner.com"
+street: Eichlerstraße
+housenumber: "6"
+phone: +43 512 377291
+opening_hours: nach Vereinbarung
+website: https://defner.com

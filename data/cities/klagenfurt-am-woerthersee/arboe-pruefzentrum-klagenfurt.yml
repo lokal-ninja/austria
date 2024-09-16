@@ -4,8 +4,8 @@ latitude: 46.6042
 longitude: 14.29855
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Stationsgasse"
-housenumber: 4
-phone: "+43 463 2344818"
-opening_hours: "Mo-Su 05:00-24:00"
+street: Stationsgasse
+housenumber: "4"
+phone: +43 463 2344818
+opening_hours: Mo-Su 05:00-24:00
 website: ""

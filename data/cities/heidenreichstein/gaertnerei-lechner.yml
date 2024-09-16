@@ -1,11 +1,11 @@
 id: 122430581
-type: way
+type: node
 latitude: 48.86357
 longitude: 15.11914
 postcode: "3860"
 city: Heidenreichstein
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.blumen-lechner.at/"
+website: http://www.blumen-lechner.at/

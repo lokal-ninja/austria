@@ -1,11 +1,11 @@
 id: 902218671
-type: way
+type: node
 latitude: 47.28329
 longitude: 16.20942
 postcode: "7400"
 city: Oberwart
-street: "Umlegungsstraße"
-housenumber: 2
+street: Umlegungsstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

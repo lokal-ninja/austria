@@ -1,11 +1,11 @@
 id: 186109201
-type: way
+type: node
 latitude: 47.30789
 longitude: 11.08261
 postcode: "6410"
 city: Telfs
-street: "Untermarktstraße"
-housenumber: 72
+street: Untermarktstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

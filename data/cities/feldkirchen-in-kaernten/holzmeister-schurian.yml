@@ -1,11 +1,11 @@
 id: 329459835
-type: way
+type: node
 latitude: 46.72343
 longitude: 14.10224
 postcode: "9560"
 city: Feldkirchen in Kärnten
-street: "St. Veiterstraße"
-housenumber: 3
+street: St. Veiterstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

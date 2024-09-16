@@ -1,11 +1,11 @@
 id: 491618973
-type: way
+type: node
 latitude: 46.97583
 longitude: 15.32936
 postcode: "8501"
 city: Lieboch
-street: "Packer Straße"
-housenumber: 147
+street: Packer Straße
+housenumber: "147"
 phone: "+4366473343697"
 opening_hours: ""
-website: "https://www.temmelhof.at/"
+website: https://www.temmelhof.at/

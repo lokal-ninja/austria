@@ -5,7 +5,7 @@ longitude: 15.21994
 postcode: "8511"
 city: Sankt Stefan ob Stainz
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
-website: "https://www.friedrich-schilcher.at/"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
+website: https://www.friedrich-schilcher.at/

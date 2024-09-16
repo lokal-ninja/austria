@@ -4,8 +4,8 @@ latitude: 48.20252
 longitude: 16.37518
 postcode: "1010"
 city: Wien
-street: "Schubertring"
-housenumber: 8
+street: Schubertring
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.safe-album.de/austria/"
+website: https://www.safe-album.de/austria/

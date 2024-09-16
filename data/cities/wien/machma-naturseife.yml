@@ -4,8 +4,8 @@ latitude: 48.2183
 longitude: 16.37801
 postcode: "1020"
 city: Wien
-street: "Große Sperlgasse"
-housenumber: 31
-phone: "+43 676 444 77 55"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 10:00-13:00; Mo off"
-website: "https://www.machma.biz/"
+street: Große Sperlgasse
+housenumber: "31"
+phone: +43 676 444 77 55
+opening_hours: Tu-Fr 12:00-19:00; Sa 10:00-13:00; Mo off
+website: https://www.machma.biz/

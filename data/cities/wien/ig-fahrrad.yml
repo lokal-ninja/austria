@@ -5,7 +5,7 @@ longitude: 16.34427
 postcode: ""
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "https://www.ig-fahrrad.at/fahrradverleih/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
+website: https://www.ig-fahrrad.at/fahrradverleih/

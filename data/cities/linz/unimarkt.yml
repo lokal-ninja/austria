@@ -4,8 +4,8 @@ latitude: 48.24095
 longitude: 14.3341
 postcode: "4030"
 city: Linz
-street: "Hartheimerstraße"
-housenumber: 31
+street: Hartheimerstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Sa 07:30-18:00; Mo-Fr 07:30-19:00"
-website: "https://unimarkt.at/"
+opening_hours: Sa 07:30-18:00; Mo-Fr 07:30-19:00
+website: https://unimarkt.at/

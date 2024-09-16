@@ -1,11 +1,11 @@
 id: 657419538
-type: way
+type: node
 latitude: 48.07034
 longitude: 15.04985
 postcode: "3261"
 city: Steinakirchen
-street: "Am Graben"
-housenumber: 13
+street: Am Graben
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

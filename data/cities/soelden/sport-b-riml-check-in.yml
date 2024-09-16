@@ -1,11 +1,11 @@
 id: 196848474
-type: way
+type: node
 latitude: 46.97277
 longitude: 11.00811
 postcode: "6450"
 city: Sölden
-street: "Giggijochstraße"
-housenumber: 16
-phone: "+43 (0) 5254 501 130"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://sportshops.riml.com/"
+street: Giggijochstraße
+housenumber: "16"
+phone: +43 (0) 5254 501 130
+opening_hours: Mo-Su 08:00-18:00
+website: https://sportshops.riml.com/

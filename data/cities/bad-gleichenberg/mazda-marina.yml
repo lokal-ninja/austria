@@ -1,11 +1,11 @@
 id: 161509508
-type: way
+type: node
 latitude: 46.86728
 longitude: 15.90308
 postcode: "8344"
 city: Bad Gleichenberg
-street: "Radkersburger Straße"
-housenumber: 23
+street: Radkersburger Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-marina.com/"
+website: http://www.autohaus-marina.com/

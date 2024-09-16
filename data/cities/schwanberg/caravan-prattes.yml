@@ -1,11 +1,11 @@
 id: 739627825
-type: way
+type: node
 latitude: 46.75359
 longitude: 15.21721
 postcode: "8541"
 city: Schwanberg
-street: "Wieser Straße"
-housenumber: 79
+street: Wieser Straße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.caravan-prattes.at"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.caravan-prattes.at

@@ -4,8 +4,8 @@ latitude: 48.18934
 longitude: 16.33058
 postcode: "1150"
 city: Wien
-street: "Reindorfgasse"
-housenumber: 22
+street: Reindorfgasse
+housenumber: "22"
 phone: ""
-opening_hours: "auf Anfrage"
-website: "https://wein-polifka.at/"
+opening_hours: '"auf Anfrage"'
+website: https://wein-polifka.at/

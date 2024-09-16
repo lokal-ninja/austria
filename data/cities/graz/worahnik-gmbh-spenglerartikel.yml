@@ -4,8 +4,8 @@ latitude: 47.02041
 longitude: 15.41161
 postcode: "8054"
 city: Graz
-street: "Gradnerstraße"
-housenumber: 119
-phone: "+43 316 93 12 450"
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-15:00"
-website: "https://www.worahnik.at/"
+street: Gradnerstraße
+housenumber: "119"
+phone: +43 316 93 12 450
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-15:00
+website: https://www.worahnik.at/

@@ -1,11 +1,11 @@
 id: 95953786
-type: way
+type: node
 latitude: 47.0523
 longitude: 15.44823
 postcode: "8010"
 city: Graz
-street: "Raiffeisenstraße"
-housenumber: 47
-phone: "+43 5 0780 3850"
-opening_hours: "Mo-Fr 09:00-12:00, 13:00-17:30"
-website: "https://www.badundenergie.at/Standorte/badundenergie/Ausstellung/Details?bpid=27"
+street: Raiffeisenstraße
+housenumber: "47"
+phone: +43 5 0780 3850
+opening_hours: Mo-Fr 09:00-12:00, 13:00-17:30
+website: https://www.badundenergie.at/Standorte/badundenergie/Ausstellung/Details?bpid=27

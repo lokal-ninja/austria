@@ -4,8 +4,8 @@ latitude: 48.00752
 longitude: 13.6546
 postcode: "4840"
 city: Vöcklabruck
-street: "Hinterstadt"
-housenumber: 26
-phone: "+43 7672 27570"
+street: Hinterstadt
+housenumber: "26"
+phone: +43 7672 27570
 opening_hours: ""
-website: "https://sanitaetshaus-berger.stadtausstellung.at/"
+website: https://sanitaetshaus-berger.stadtausstellung.at/

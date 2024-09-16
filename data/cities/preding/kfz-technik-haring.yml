@@ -1,11 +1,11 @@
 id: 227635485
-type: way
+type: node
 latitude: 46.85188
 longitude: 15.40769
 postcode: "8504"
 city: Preding
-street: "Gewerbepark Südwest"
-housenumber: 23
+street: Gewerbepark Südwest
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

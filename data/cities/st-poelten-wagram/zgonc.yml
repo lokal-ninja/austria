@@ -1,11 +1,11 @@
 id: 152111071
-type: way
+type: node
 latitude: 48.2021
 longitude: 15.65366
 postcode: "3100"
 city: St. Pölten-Wagram
-street: "Purkersdorfer Straße"
+street: Purkersdorfer Straße
 housenumber: 55-57
 phone: ""
 opening_hours: ""
-website: "https://www.zgonc.at/"
+website: https://www.zgonc.at/

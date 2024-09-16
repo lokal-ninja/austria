@@ -1,11 +1,11 @@
 id: 321241247
-type: way
+type: node
 latitude: 48.21445
 longitude: 16.50715
 postcode: "1220"
 city: Wien
-street: "Groß-Enzersdorfer Straße"
-housenumber: 92
+street: Groß-Enzersdorfer Straße
+housenumber: "92"
 phone: ""
 opening_hours: ""
-website: "https://www.elektroshopkoeck.com/de/"
+website: https://www.elektroshopkoeck.com/de/

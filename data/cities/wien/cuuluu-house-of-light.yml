@@ -4,8 +4,8 @@ latitude: 48.18818
 longitude: 16.34589
 postcode: "1050"
 city: Wien
-street: "Schönbrunner Straße"
-housenumber: 118
-phone: "+43 1 9678727"
-opening_hours: "während corona nur nach Voranmeldung"
-website: "https://www.cuuluu.com"
+street: Schönbrunner Straße
+housenumber: "118"
+phone: +43 1 9678727
+opening_hours: '"während corona nur nach Voranmeldung"'
+website: https://www.cuuluu.com

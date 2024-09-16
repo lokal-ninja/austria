@@ -4,8 +4,8 @@ latitude: 48.17776
 longitude: 15.62322
 postcode: "3100"
 city: Sankt Pölten
-street: "Kelsengasse"
-housenumber: 9
+street: Kelsengasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.nxp.at/musiccenter/index.php"
+website: https://www.nxp.at/musiccenter/index.php

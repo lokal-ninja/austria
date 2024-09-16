@@ -1,11 +1,11 @@
 id: 204767370
-type: way
+type: node
 latitude: 47.90683
 longitude: 16.39699
 postcode: "2486"
 city: Pottendorf
-street: "Bahnstraße"
-housenumber: 39
+street: Bahnstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://scooterfactory.at/"
+website: https://scooterfactory.at/

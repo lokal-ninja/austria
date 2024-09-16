@@ -1,11 +1,11 @@
 id: 116067386
-type: way
+type: node
 latitude: 48.20179
 longitude: 14.15342
 postcode: "4614"
 city: Marchtrenk
-street: "Linzer Straße"
-housenumber: 179
-phone: "+43-699-11944188"
+street: Linzer Straße
+housenumber: "179"
+phone: +43-699-11944188
 opening_hours: ""
-website: "https://www.car-line.at/"
+website: https://www.car-line.at/

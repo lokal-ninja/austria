@@ -1,11 +1,11 @@
 id: 90764496
-type: way
+type: node
 latitude: 47.56948
 longitude: 14.2386
 postcode: "8940"
 city: Liezen
-street: "Ausseer Straße"
-housenumber: 30
+street: Ausseer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

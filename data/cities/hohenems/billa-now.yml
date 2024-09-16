@@ -1,11 +1,11 @@
 id: 318579446
-type: way
+type: node
 latitude: 47.37371
 longitude: 9.67769
 postcode: "6845"
 city: Hohenems
-street: "Lustenauer Straße"
+street: Lustenauer Straße
 housenumber: 112a
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
-website: "https://www.bp.com/de_at/austria/home/produkte-und-services/fuer-sie/billanow.html"
+opening_hours: PH,Mo-Su 00:00-24:00
+website: https://www.bp.com/de_at/austria/home/produkte-und-services/fuer-sie/billanow.html

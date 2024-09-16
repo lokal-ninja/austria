@@ -4,8 +4,8 @@ latitude: 48.15939
 longitude: 14.01994
 postcode: "4600"
 city: Wels
-street: "Dr.-Koss-Straße"
-housenumber: 8
-phone: "+43-7242-69387"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
-website: "http://www.laserdruck-wels.at"
+street: Dr.-Koss-Straße
+housenumber: "8"
+phone: +43-7242-69387
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
+website: http://www.laserdruck-wels.at

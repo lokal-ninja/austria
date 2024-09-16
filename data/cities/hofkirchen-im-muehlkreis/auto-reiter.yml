@@ -1,11 +1,11 @@
 id: 374988435
-type: way
+type: node
 latitude: 48.48394
 longitude: 13.8037
 postcode: "4142"
 city: Hofkirchen im Mühlkreis
-street: "Sportstraße"
-housenumber: 2
+street: Sportstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

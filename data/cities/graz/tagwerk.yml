@@ -4,8 +4,8 @@ latitude: 47.07229
 longitude: 15.43339
 postcode: "8020"
 city: Graz
-street: "Mariahilferstraße"
-housenumber: 13
+street: Mariahilferstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.tagwerk.at/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.tagwerk.at/

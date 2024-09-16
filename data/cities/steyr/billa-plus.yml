@@ -1,11 +1,11 @@
 id: 94113331
-type: way
+type: node
 latitude: 48.04123
 longitude: 14.42631
 postcode: "4400"
 city: Steyr
-street: "Pachergasse"
-housenumber: 6
+street: Pachergasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

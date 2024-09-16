@@ -1,11 +1,11 @@
 id: 360778978
-type: way
+type: node
 latitude: 47.88936
 longitude: 16.92766
 postcode: "7122"
 city: Gols
-street: "Gewerbestraße"
-housenumber: 3
+street: Gewerbestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

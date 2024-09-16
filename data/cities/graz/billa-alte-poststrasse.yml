@@ -1,11 +1,11 @@
 id: 156375969
-type: way
+type: node
 latitude: 47.07486
 longitude: 15.40801
 postcode: "8020"
 city: Graz
-street: "Alte Poststraße"
-housenumber: 109
-phone: "+43 316 577721"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at"
+street: Alte Poststraße
+housenumber: "109"
+phone: +43 316 577721
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at

@@ -1,11 +1,11 @@
 id: 520896913
-type: way
+type: node
 latitude: 48.22146
 longitude: 16.81749
 postcode: "2291"
 city: Lassee
-street: "Obere Hauptstraße"
-housenumber: 55
+street: Obere Hauptstraße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

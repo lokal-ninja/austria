@@ -1,11 +1,11 @@
 id: 327281075
-type: way
+type: node
 latitude: 48.58026
 longitude: 16.6435
 postcode: "2193"
 city: Hobersdorf
-street: "Wienerstraße"
-housenumber: 37
+street: Wienerstraße
+housenumber: "37"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.weinbau-weindl.at/abhof-verkauf"
+opening_hours: 24/7
+website: https://www.weinbau-weindl.at/abhof-verkauf

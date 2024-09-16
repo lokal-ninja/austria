@@ -1,11 +1,11 @@
 id: 140304372
-type: way
+type: node
 latitude: 48.30191
 longitude: 14.01934
 postcode: "4070"
 city: Eferding
-street: "Karl-Schachinger-Straße"
-housenumber: 6
+street: Karl-Schachinger-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

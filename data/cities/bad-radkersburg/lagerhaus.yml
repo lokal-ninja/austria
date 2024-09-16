@@ -1,11 +1,11 @@
 id: 108330900
-type: way
+type: node
 latitude: 46.69413
 longitude: 15.97175
 postcode: "8490"
 city: Bad Radkersburg
-street: "Halbenrainerstraße"
-housenumber: 43
+street: Halbenrainerstraße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

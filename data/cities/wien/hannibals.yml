@@ -4,8 +4,8 @@ latitude: 48.22698
 longitude: 16.33993
 postcode: "1180"
 city: Wien
-street: "Währinger Straße"
-housenumber: 123
+street: Währinger Straße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.hannibals.at/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.hannibals.at/

@@ -4,8 +4,8 @@ latitude: 47.02903
 longitude: 15.47426
 postcode: "8041"
 city: Graz
-street: "Jägerweg"
-housenumber: 42
-phone: "+43 316 402727"
-opening_hours: "Mo-Th 07:00-11:00, 11:45-16:00; Fr 07:00-12:30"
+street: Jägerweg
+housenumber: "42"
+phone: +43 316 402727
+opening_hours: Mo-Th 07:00-11:00, 11:45-16:00; Fr 07:00-12:30
 website: ""

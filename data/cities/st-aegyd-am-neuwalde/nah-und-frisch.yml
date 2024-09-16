@@ -1,11 +1,12 @@
 id: 141864689
-type: way
+type: node
 latitude: 47.81609
 longitude: 15.54465
 postcode: "3195"
 city: St. Aegyd am Neuwalde
 street: ""
-housenumber: 1
-phone: "+43 2768 2330"
-opening_hours: "Mo-Th 07:00-12:00,15:30-18:00; Tu,Sa 07:00-12:00; Fr 07:00-12:00,15:00-18:00; PH off"
+housenumber: "1"
+phone: +43 2768 2330
+opening_hours: Mo-Th 07:00-12:00,15:30-18:00; Tu,Sa 07:00-12:00; Fr 07:00-12:00,15:00-18:00;
+    PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 705403584
-type: way
+type: node
 latitude: 46.78377
 longitude: 15.54261
 postcode: "8430"
 city: Leibnitz
-street: "27.Jännerstraße"
-housenumber: 12
+street: 27.Jännerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.treibstoffparadies.at/"
+opening_hours: 24/7
+website: https://www.treibstoffparadies.at/

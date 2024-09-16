@@ -4,8 +4,8 @@ latitude: 48.19742
 longitude: 16.37976
 postcode: "1030"
 city: Wien
-street: "Rennweg"
-housenumber: 9
-phone: "+43 1 7108904"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Rennweg
+housenumber: "9"
+phone: +43 1 7108904
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

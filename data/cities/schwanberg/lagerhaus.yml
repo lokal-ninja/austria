@@ -1,11 +1,11 @@
 id: 435633282
-type: way
+type: node
 latitude: 46.7681
 longitude: 15.23617
 postcode: "8541"
 city: Schwanberg
 street: ""
-housenumber: 59
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

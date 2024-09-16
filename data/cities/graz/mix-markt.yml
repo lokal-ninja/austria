@@ -4,8 +4,8 @@ latitude: 47.06605
 longitude: 15.44384
 postcode: "8010"
 city: Graz
-street: "Klosterwiesgasse"
-housenumber: 16
+street: Klosterwiesgasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.mixmarkt.eu/de/austria/maerkte/11839/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.mixmarkt.eu/de/austria/maerkte/11839/

@@ -4,8 +4,8 @@ latitude: 48.24173
 longitude: 16.43588
 postcode: "1220"
 city: Wien
-street: "Donaustadtstraße"
-housenumber: 1
-phone: "(01) 501 95-28710"
-opening_hours: "Mo-Fr 08:00-16:00; PH off"
+street: Donaustadtstraße
+housenumber: "1"
+phone: (01) 501 95-28710
+opening_hours: Mo-Fr 08:00-16:00; PH off
 website: ""

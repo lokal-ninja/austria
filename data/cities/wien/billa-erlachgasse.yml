@@ -4,8 +4,8 @@ latitude: 48.17456
 longitude: 16.39279
 postcode: "1100"
 city: Wien
-street: "Erlachgasse"
-housenumber: 5
-phone: "+43 59915 02493"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Erlachgasse
+housenumber: "5"
+phone: +43 59915 02493
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

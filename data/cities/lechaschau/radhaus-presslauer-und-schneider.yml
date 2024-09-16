@@ -4,8 +4,9 @@ latitude: 47.48617
 longitude: 10.70601
 postcode: "6600"
 city: Lechaschau
-street: "Lechtaler Straße"
-housenumber: 23
-phone: "+43 5672 65245"
-opening_hours: "Apr-Sep: Mo-Fr 12:00-18:00, Sa 09:00-12:00; Oct-Mar: Mo-Fr 14:00-18:00, Sa 09:00-12:00"
-website: "https://www.rad-haus.at/"
+street: Lechtaler Straße
+housenumber: "23"
+phone: +43 5672 65245
+opening_hours: 'Apr-Sep: Mo-Fr 12:00-18:00, Sa 09:00-12:00; Oct-Mar: Mo-Fr 14:00-18:00,
+    Sa 09:00-12:00'
+website: https://www.rad-haus.at/

@@ -1,11 +1,11 @@
 id: 41217974
-type: way
+type: node
 latitude: 48.15683
 longitude: 16.34217
 postcode: "1100"
 city: Wien
-street: "Triester Straße"
-housenumber: 153
+street: Triester Straße
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.ichdampfe.com"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.ichdampfe.com

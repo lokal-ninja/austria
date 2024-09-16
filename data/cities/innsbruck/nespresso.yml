@@ -4,8 +4,8 @@ latitude: 47.26575
 longitude: 11.39504
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 31
-phone: "+43 800 216251"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://www.nespresso.com/"
+street: Maria-Theresien-Straße
+housenumber: "31"
+phone: +43 800 216251
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://www.nespresso.com/

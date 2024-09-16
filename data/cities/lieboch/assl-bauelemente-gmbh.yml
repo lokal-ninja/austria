@@ -1,11 +1,11 @@
 id: 515485688
-type: way
+type: node
 latitude: 46.96371
 longitude: 15.35112
 postcode: "8501"
 city: Lieboch
-street: "H. Thalhammer-Straße"
-housenumber: 2
-phone: "+43 3136 61911"
+street: H. Thalhammer-Straße
+housenumber: "2"
+phone: +43 3136 61911
 opening_hours: ""
-website: "https://www.assl-bauelemente.at/"
+website: https://www.assl-bauelemente.at/

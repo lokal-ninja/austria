@@ -4,8 +4,8 @@ latitude: 47.35398
 longitude: 9.6665
 postcode: "6845"
 city: Hohenems
-street: "Die Spinnerei"
-housenumber: 31
-phone: "+43 660 1241422"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.wolf-dach.at/"
+street: Die Spinnerei
+housenumber: "31"
+phone: +43 660 1241422
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.wolf-dach.at/

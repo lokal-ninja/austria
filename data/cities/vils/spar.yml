@@ -1,11 +1,11 @@
 id: 83274633
-type: way
+type: node
 latitude: 47.54904
 longitude: 10.63084
 postcode: "6682"
 city: Vils
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 07:30-12:00, 15:00-18:00; We, Sa 07:30-12:00"
+opening_hours: Mo, Tu, Th, Fr 07:30-12:00, 15:00-18:00; We, Sa 07:30-12:00
 website: ""

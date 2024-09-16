@@ -1,11 +1,11 @@
 id: 361730500
-type: way
+type: node
 latitude: 47.00435
 longitude: 16.20507
 postcode: "7562"
 city: Eltendorf
-street: "Siedlungsstraße"
-housenumber: 18
+street: Siedlungsstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

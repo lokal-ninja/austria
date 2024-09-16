@@ -1,11 +1,11 @@
 id: 536943358
-type: way
+type: node
 latitude: 48.24361
 longitude: 16.16733
 postcode: "3001"
 city: Mauerbach
-street: "Hauptstraße"
-housenumber: 129
-phone: "+43 59915 03920"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Hauptstraße
+housenumber: "129"
+phone: +43 59915 03920
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

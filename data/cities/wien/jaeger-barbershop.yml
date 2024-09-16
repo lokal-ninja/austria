@@ -4,8 +4,8 @@ latitude: 48.19353
 longitude: 16.34858
 postcode: "1060"
 city: Wien
-street: "Hirschengasse"
-housenumber: 5
+street: Hirschengasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

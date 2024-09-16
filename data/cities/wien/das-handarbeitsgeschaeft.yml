@@ -4,8 +4,8 @@ latitude: 48.19417
 longitude: 16.4062
 postcode: "1030"
 city: Wien
-street: "Schlachthausgasse"
-housenumber: 35
-phone: "+43 699 8176 1664"
-opening_hours: "Tu-Fr 10:00-18:00"
-website: "https://dashandarbeitsgeschaeft.at/"
+street: Schlachthausgasse
+housenumber: "35"
+phone: +43 699 8176 1664
+opening_hours: Tu-Fr 10:00-18:00
+website: https://dashandarbeitsgeschaeft.at/

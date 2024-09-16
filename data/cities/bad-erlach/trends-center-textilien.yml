@@ -1,11 +1,11 @@
 id: 85708432
-type: way
+type: node
 latitude: 47.73278
 longitude: 16.21343
 postcode: "2822"
 city: Bad Erlach
-street: "List-Straße"
-housenumber: 2
-phone: "+43 2627 46 499"
+street: List-Straße
+housenumber: "2"
+phone: +43 2627 46 499
 opening_hours: ""
-website: "https://trendscenter.at/"
+website: https://trendscenter.at/

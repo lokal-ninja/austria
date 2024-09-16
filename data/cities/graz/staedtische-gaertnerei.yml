@@ -1,11 +1,11 @@
 id: 242245082
-type: way
+type: node
 latitude: 47.02702
 longitude: 15.39524
 postcode: "8054"
 city: Graz
-street: "Martinhofstraße"
-housenumber: 15
+street: Martinhofstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00"
-website: "https://www.holding-graz.at/"
+opening_hours: Mo-Fr 08:00-13:00
+website: https://www.holding-graz.at/

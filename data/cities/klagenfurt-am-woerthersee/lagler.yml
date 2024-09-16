@@ -4,8 +4,8 @@ latitude: 46.64002
 longitude: 14.29321
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Mantschehofgasse"
-housenumber: 2
-phone: "+43 463 428545"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH off"
-website: "https://www.lagler.at/"
+street: Mantschehofgasse
+housenumber: "2"
+phone: +43 463 428545
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH off
+website: https://www.lagler.at/

@@ -1,11 +1,11 @@
 id: 180869487
-type: way
+type: node
 latitude: 48.1352
 longitude: 16.32354
 postcode: "1230"
 city: Wien
-street: "Triester Straße"
+street: Triester Straße
 housenumber: 260-262
 phone: ""
 opening_hours: ""
-website: "https://harley-davidson-wien.at/"
+website: https://harley-davidson-wien.at/

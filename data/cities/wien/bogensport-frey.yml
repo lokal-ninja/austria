@@ -4,8 +4,8 @@ latitude: 48.25175
 longitude: 16.35319
 postcode: "1190"
 city: Wien
-street: "Reimersgasse"
-housenumber: 8
+street: Reimersgasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00; PH off"
-website: "https://www.bogensport-frey.at/"
+opening_hours: Mo-Fr 14:00-19:00; PH off
+website: https://www.bogensport-frey.at/

@@ -1,11 +1,11 @@
 id: 195340998
-type: way
+type: node
 latitude: 47.93844
 longitude: 13.75842
 postcode: "4812"
 city: Ohlsdorf
-street: "Vöcklabrucker Straße"
-housenumber: 47
+street: Vöcklabrucker Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

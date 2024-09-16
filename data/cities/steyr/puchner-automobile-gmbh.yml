@@ -1,11 +1,11 @@
 id: 248574160
-type: way
+type: node
 latitude: 48.05086
 longitude: 14.39648
 postcode: "4400"
 city: Steyr
-street: "Wolfernstraße"
-housenumber: 37
+street: Wolfernstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-puchner.at/"
+website: http://www.autohaus-puchner.at/

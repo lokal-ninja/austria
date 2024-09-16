@@ -4,8 +4,8 @@ latitude: 47.28277
 longitude: 15.99076
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 8
-phone: "+43 3332 635100"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/"
+street: Im Hatric
+housenumber: "8"
+phone: +43 3332 635100
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/

@@ -4,8 +4,8 @@ latitude: 47.26603
 longitude: 11.39376
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 12
-phone: "+43 512 58105111"
-opening_hours: "Mo-Fr 09:30-13:00,13:30-18:00; PH off"
-website: "https://www.fasoli.com/de/shop/0005-Fasoli-Innsbruck"
+street: Maria-Theresien-Straße
+housenumber: "12"
+phone: +43 512 58105111
+opening_hours: Mo-Fr 09:30-13:00,13:30-18:00; PH off
+website: https://www.fasoli.com/de/shop/0005-Fasoli-Innsbruck

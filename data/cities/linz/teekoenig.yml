@@ -4,8 +4,8 @@ latitude: 48.30349
 longitude: 14.28977
 postcode: "4020"
 city: Linz
-street: "Bethlehemstraße"
+street: Bethlehemstraße
 housenumber: 1d
-phone: "+43 664 88233250"
-opening_hours: "Mo, Mi, Fr: 09:00-18:00; Di, Do, Sa: 09:00-14:00"
-website: "https://teekoenig.at/"
+phone: +43 664 88233250
+opening_hours: 'Mo, Mi, Fr: 09:00-18:00; Di, Do, Sa: 09:00-14:00'
+website: https://teekoenig.at/

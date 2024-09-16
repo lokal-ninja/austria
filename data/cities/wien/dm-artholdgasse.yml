@@ -4,8 +4,8 @@ latitude: 48.17784
 longitude: 16.3858
 postcode: "1100"
 city: Wien
-street: "Artholdgasse"
+street: Artholdgasse
 housenumber: 2/3/1A
-phone: "+43 1 6001488"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.dm.at"
+phone: +43 1 6001488
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.dm.at

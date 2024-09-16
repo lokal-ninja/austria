@@ -4,8 +4,8 @@ latitude: 48.20392
 longitude: 16.33504
 postcode: "1160"
 city: Wien
-street: "Gablenzgasse"
+street: Gablenzgasse
 housenumber: 5-13
-phone: "+43 19823759"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00"
-website: "https://www.dm.at"
+phone: +43 19823759
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-18:00
+website: https://www.dm.at

@@ -4,8 +4,8 @@ latitude: 48.20158
 longitude: 16.34685
 postcode: "1070"
 city: Wien
-street: "Hermanngasse"
-housenumber: 13
+street: Hermanngasse
+housenumber: "13"
 phone: ""
-opening_hours: "We-Fr 11:00-18:00; Sa 11:00-15:00; Tu 14:00-18:00"
+opening_hours: We-Fr 11:00-18:00; Sa 11:00-15:00; Tu 14:00-18:00
 website: ""

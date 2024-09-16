@@ -1,11 +1,11 @@
 id: 225485993
-type: way
+type: node
 latitude: 48.25463
 longitude: 16.39411
 postcode: "1210"
 city: Wien
-street: "Floridsdorfer Hauptstraße"
-housenumber: 17
+street: Floridsdorfer Hauptstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Su,PH 00:10-23:50"
+opening_hours: Mo-Su,PH 00:10-23:50
 website: ""

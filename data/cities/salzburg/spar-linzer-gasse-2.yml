@@ -4,8 +4,8 @@ latitude: 47.803
 longitude: 13.04634
 postcode: "5020"
 city: Salzburg
-street: "Linzer Gasse"
-housenumber: 19
-phone: "+43 662 87213910"
-opening_hours: "Mo-Sa 08:00-18:30"
-website: "https://www.spar.at/standorte/spar-salzburg-5020-linzergasse-17-19"
+street: Linzer Gasse
+housenumber: "19"
+phone: +43 662 87213910
+opening_hours: Mo-Sa 08:00-18:30
+website: https://www.spar.at/standorte/spar-salzburg-5020-linzergasse-17-19

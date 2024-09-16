@@ -4,8 +4,8 @@ latitude: 48.18522
 longitude: 16.41871
 postcode: "1110"
 city: Wien
-street: "Guglgasse"
-housenumber: 6
-phone: "+43 69916085551"
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.ilvira.at/"
+street: Guglgasse
+housenumber: "6"
+phone: +43 69916085551
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.ilvira.at/

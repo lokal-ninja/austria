@@ -1,11 +1,11 @@
 id: 142756403
-type: way
+type: node
 latitude: 47.23727
 longitude: 10.86001
 postcode: "6430"
 city: Haiming
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

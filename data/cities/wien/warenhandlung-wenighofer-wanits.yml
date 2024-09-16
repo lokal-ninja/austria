@@ -4,8 +4,8 @@ latitude: 48.20696
 longitude: 16.38963
 postcode: "1030"
 city: Wien
-street: "Marxergasse"
-housenumber: 13
-phone: "+43 1 286 4095"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-13:00; Su,PH off"
-website: "https://www.warenhandlung.at"
+street: Marxergasse
+housenumber: "13"
+phone: +43 1 286 4095
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-13:00; Su,PH off
+website: https://www.warenhandlung.at

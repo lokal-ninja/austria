@@ -4,8 +4,8 @@ latitude: 48.15235
 longitude: 15.93152
 postcode: "3033"
 city: Altlengbach
-street: "Hauptstraße"
-housenumber: 88
-phone: "+43-2774-20077"
-opening_hours: "Tu 14:00-19:00; Fr 17:00-19:00; Sa 09:00-11:00"
-website: "http://altlengbuch.noebib.at"
+street: Hauptstraße
+housenumber: "88"
+phone: +43-2774-20077
+opening_hours: Tu 14:00-19:00; Fr 17:00-19:00; Sa 09:00-11:00
+website: http://altlengbuch.noebib.at

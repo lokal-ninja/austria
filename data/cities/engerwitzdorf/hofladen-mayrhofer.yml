@@ -5,7 +5,7 @@ longitude: 14.46287
 postcode: "4209"
 city: Engerwitzdorf
 street: ""
-housenumber: 1
-phone: "+43 660 / 55 52 244"
-opening_hours: "Th,07:00-18:00"
-website: "https://www.hofladen-mayrhofer.at/"
+housenumber: "1"
+phone: +43 660 / 55 52 244
+opening_hours: Th,07:00-18:00
+website: https://www.hofladen-mayrhofer.at/

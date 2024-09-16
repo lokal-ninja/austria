@@ -4,8 +4,8 @@ latitude: 48.21751
 longitude: 16.33905
 postcode: "1170"
 city: Wien
-street: "Jörgerstraße"
-housenumber: 15
+street: Jörgerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:00"
-website: "https://www.bstaendig.at"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-12:00
+website: https://www.bstaendig.at

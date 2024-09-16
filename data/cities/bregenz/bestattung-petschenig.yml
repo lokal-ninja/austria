@@ -4,8 +4,8 @@ latitude: 47.49335
 longitude: 9.72854
 postcode: "6900"
 city: Bregenz
-street: "Brielgasse"
-housenumber: 19
+street: Brielgasse
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:00"
-website: "https://www.bestattung-petschenig.at"
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:00
+website: https://www.bestattung-petschenig.at

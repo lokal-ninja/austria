@@ -4,8 +4,8 @@ latitude: 48.18529
 longitude: 16.41277
 postcode: "1030"
 city: Wien
-street: "Anne-Frank-Gasse"
-housenumber: 3
+street: Anne-Frank-Gasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

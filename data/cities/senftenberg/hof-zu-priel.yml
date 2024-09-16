@@ -5,7 +5,7 @@ longitude: 15.57706
 postcode: "3541"
 city: Senftenberg
 street: ""
-housenumber: 9
-phone: "+43 2719 81 27"
+housenumber: "9"
+phone: +43 2719 81 27
 opening_hours: ""
-website: "https://www.hofzupriel.at"
+website: https://www.hofzupriel.at

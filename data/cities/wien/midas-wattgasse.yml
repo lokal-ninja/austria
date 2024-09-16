@@ -4,8 +4,8 @@ latitude: 48.21539
 longitude: 16.31903
 postcode: "1160"
 city: Wien
-street: "Wattgasse"
-housenumber: 19
-phone: "+43 506 6771160"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.midas.at/"
+street: Wattgasse
+housenumber: "19"
+phone: +43 506 6771160
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.midas.at/

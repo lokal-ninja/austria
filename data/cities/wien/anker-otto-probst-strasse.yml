@@ -4,8 +4,8 @@ latitude: 48.15586
 longitude: 16.3557
 postcode: "1100"
 city: Wien
-street: "Otto-Probst-Straße"
-housenumber: 3
+street: Otto-Probst-Straße
+housenumber: "3"
 phone: "+4316161902"
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su,PH 07:00-12:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su,PH 07:00-12:00
+website: https://www.ankerbrot.at/

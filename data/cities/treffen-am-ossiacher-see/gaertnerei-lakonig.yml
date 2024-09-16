@@ -1,11 +1,11 @@
 id: 495566937
-type: way
+type: node
 latitude: 46.65453
 longitude: 13.8764
 postcode: "9521"
 city: Treffen am Ossiacher See
-street: "Stofeleweg"
-housenumber: 24
+street: Stofeleweg
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

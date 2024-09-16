@@ -1,11 +1,11 @@
 id: 105587956
-type: way
+type: node
 latitude: 47.51337
 longitude: 12.3063
 postcode: "6352"
 city: Ellmau
-street: "Alte Straße"
-housenumber: 3
+street: Alte Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

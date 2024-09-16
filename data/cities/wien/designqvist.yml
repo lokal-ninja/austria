@@ -4,8 +4,8 @@ latitude: 48.20172
 longitude: 16.34386
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 21
+street: Westbahnstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Tu-Fr 13:00-19:00; Sa 10:00-16:00"
-website: "http://www.designqvist.com/"
+opening_hours: Tu-Fr 13:00-19:00; Sa 10:00-16:00
+website: http://www.designqvist.com/

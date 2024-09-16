@@ -1,11 +1,11 @@
 id: 28248348
-type: way
+type: node
 latitude: 48.35206
 longitude: 15.62121
 postcode: "3508"
 city: Paudorf
-street: "Kremserstraße"
-housenumber: 85
-phone: "+43 2736 20028"
+street: Kremserstraße
+housenumber: "85"
+phone: +43 2736 20028
 opening_hours: ""
-website: "https://www.spar.at/"
+website: https://www.spar.at/

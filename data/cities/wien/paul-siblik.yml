@@ -4,8 +4,8 @@ latitude: 48.21376
 longitude: 16.3704
 postcode: "1010"
 city: Wien
-street: "Heinrichsgasse"
-housenumber: 2
+street: Heinrichsgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-15:00"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-15:00
 website: ""

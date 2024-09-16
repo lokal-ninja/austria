@@ -4,8 +4,8 @@ latitude: 47.4794
 longitude: 12.04737
 postcode: "6300"
 city: Wörgl
-street: "Innsbrucker Straße"
-housenumber: 95
+street: Innsbrucker Straße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00,Sa 08:30-17:00"
-website: "https://www.hervis.at/"
+opening_hours: Mo-Fr 09:00-18:00,Sa 08:30-17:00
+website: https://www.hervis.at/

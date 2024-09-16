@@ -1,11 +1,11 @@
 id: 219150529
-type: way
+type: node
 latitude: 48.27098
 longitude: 14.45036
 postcode: "4222"
 city: St. Georgen an der Gusen
-street: "Am Damm"
-housenumber: 4
+street: Am Damm
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

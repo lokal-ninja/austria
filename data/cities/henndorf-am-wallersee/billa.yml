@@ -1,11 +1,11 @@
 id: 169195685
-type: way
+type: node
 latitude: 47.89073
 longitude: 13.18275
 postcode: "5302"
 city: Henndorf am Wallersee
-street: "Landesstraße"
-housenumber: 21
+street: Landesstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

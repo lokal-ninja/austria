@@ -1,11 +1,11 @@
 id: 462288358
-type: way
+type: node
 latitude: 47.39272
 longitude: 9.72967
 postcode: "6850"
 city: Dornbirn
-street: "Bachmähdle"
-housenumber: 5
+street: Bachmähdle
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"
+opening_hours: Mo,Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off
 website: ""

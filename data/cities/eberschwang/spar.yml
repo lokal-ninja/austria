@@ -1,11 +1,11 @@
 id: 321595492
-type: way
+type: node
 latitude: 48.15985
 longitude: 13.5607
 postcode: "4906"
 city: Eberschwang
 street: ""
-housenumber: 150
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-17:00; PH off"
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:00-17:00; PH off
 website: ""

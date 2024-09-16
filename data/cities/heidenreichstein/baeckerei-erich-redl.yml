@@ -1,11 +1,11 @@
 id: 127652346
-type: way
+type: node
 latitude: 48.86457
 longitude: 15.11988
 postcode: "3860"
 city: Heidenreichstein
-street: "Schremser Straße"
-housenumber: 30
+street: Schremser Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 05:30-12:00,14:00-18:00; We,Sa 05:30-12:00"
+opening_hours: Mo,Tu,Th,Fr 05:30-12:00,14:00-18:00; We,Sa 05:30-12:00
 website: ""

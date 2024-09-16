@@ -1,11 +1,11 @@
 id: 551626904
-type: way
+type: node
 latitude: 46.61441
 longitude: 14.04277
 postcode: "9220"
 city: Velden am Wörther See
-street: "Am Corso"
-housenumber: 23
-phone: "04274/2473"
+street: Am Corso
+housenumber: "23"
+phone: 04274/2473
 opening_hours: ""
-website: "https://tschebullmode.at/"
+website: https://tschebullmode.at/

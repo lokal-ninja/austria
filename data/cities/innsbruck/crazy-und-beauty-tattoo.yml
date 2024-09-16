@@ -4,8 +4,8 @@ latitude: 47.26524
 longitude: 11.41465
 postcode: "6020"
 city: Innsbruck
-street: "Gumppstraße"
-housenumber: 40
-phone: "+43 512 322062"
-opening_hours: "Mo-Fr 12:00-19:00"
+street: Gumppstraße
+housenumber: "40"
+phone: +43 512 322062
+opening_hours: Mo-Fr 12:00-19:00
 website: ""

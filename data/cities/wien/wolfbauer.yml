@@ -4,8 +4,8 @@ latitude: 48.20432
 longitude: 16.37467
 postcode: "1010"
 city: Wien
-street: "Johannesgasse"
-housenumber: 23
+street: Johannesgasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.cafe-wolfbauer.at/"
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.cafe-wolfbauer.at/

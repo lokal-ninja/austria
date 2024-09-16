@@ -1,11 +1,11 @@
 id: 91954900
-type: way
+type: node
 latitude: 47.28362
 longitude: 15.97743
 postcode: "8230"
 city: Hartberg
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-17:00; Sa 07:45-12:00"
+opening_hours: Mo-Fr 07:30-12:00, 13:30-17:00; Sa 07:45-12:00
 website: ""

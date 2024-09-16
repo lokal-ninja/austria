@@ -4,8 +4,8 @@ latitude: 48.20993
 longitude: 15.22526
 postcode: "3380"
 city: Pöchlarn
-street: "Wiener Straße"
-housenumber: 62
-phone: "+43 59 9150 9407"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+street: Wiener Straße
+housenumber: "62"
+phone: +43 59 9150 9407
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

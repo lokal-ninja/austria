@@ -1,11 +1,11 @@
 id: 256717262
-type: way
+type: node
 latitude: 47.38043
 longitude: 16.12112
 postcode: "7423"
 city: Pinkafeld
-street: "Wiener Straße"
-housenumber: 64
+street: Wiener Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

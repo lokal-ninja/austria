@@ -1,11 +1,11 @@
 id: 128670633
-type: way
+type: node
 latitude: 46.6159
 longitude: 14.34119
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Ebentaler Straße"
-housenumber: 141
+street: Ebentaler Straße
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

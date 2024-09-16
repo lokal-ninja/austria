@@ -1,11 +1,11 @@
 id: 128878943
-type: way
+type: node
 latitude: 47.4315
 longitude: 9.73872
 postcode: "6850"
 city: Dornbirn
-street: "Schwefel"
-housenumber: 77
+street: Schwefel
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-lins.at/kontakt/dornbirn"
+website: https://www.autohaus-lins.at/kontakt/dornbirn

@@ -4,8 +4,8 @@ latitude: 48.19662
 longitude: 16.3965
 postcode: "1030"
 city: Wien
-street: "Baumgasse"
-housenumber: 3
-phone: "+43 (0)1 / 713 63 17"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:00; Sa 10:00-12:00"
-website: "https://www.fotostudioschreiner.at/"
+street: Baumgasse
+housenumber: "3"
+phone: +43 (0)1 / 713 63 17
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:00; Sa 10:00-12:00
+website: https://www.fotostudioschreiner.at/

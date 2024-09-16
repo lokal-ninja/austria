@@ -4,8 +4,8 @@ latitude: 48.12054
 longitude: 16.26616
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Wiener Gasse"
-housenumber: 14
-phone: "+43 1 869 33 04"
-opening_hours: "Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.weltlaeden.at/perchtoldsdorf"
+street: Wiener Gasse
+housenumber: "14"
+phone: +43 1 869 33 04
+opening_hours: Mo-Th 09:00-13:00,14:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.weltlaeden.at/perchtoldsdorf

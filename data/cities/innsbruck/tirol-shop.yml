@@ -4,8 +4,8 @@ latitude: 47.26333
 longitude: 11.39493
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 55
-phone: "+43 512 5321538"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.tirolshop.com"
+street: Maria-Theresien-Straße
+housenumber: "55"
+phone: +43 512 5321538
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.tirolshop.com

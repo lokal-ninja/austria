@@ -4,8 +4,8 @@ latitude: 48.1322
 longitude: 15.14017
 postcode: "3250"
 city: Wieselburg an der Erlauf
-street: "Beethovenstraße"
-housenumber: 3
+street: Beethovenstraße
+housenumber: "3"
 phone: "+436642319086"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 9:00-13:00"
-website: "https://www.villa9.at/"
+opening_hours: Mo-Fr 08:30-18:00, Sa 9:00-13:00
+website: https://www.villa9.at/

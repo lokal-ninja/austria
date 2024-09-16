@@ -1,11 +1,11 @@
 id: 79130225
-type: way
+type: node
 latitude: 47.26219
 longitude: 9.5978
 postcode: "6800"
 city: Feldkirch
-street: "Sebastianstraße"
-housenumber: 25
+street: Sebastianstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Tu 14:30-19:00, We 09:00-12:00, Fr 09:00-12:00,14:30-19:00"
+opening_hours: Tu 14:30-19:00, We 09:00-12:00, Fr 09:00-12:00,14:30-19:00
 website: ""

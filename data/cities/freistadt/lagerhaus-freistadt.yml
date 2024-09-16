@@ -1,11 +1,11 @@
 id: 226129969
-type: way
+type: node
 latitude: 48.51592
 longitude: 14.50375
 postcode: "4240"
 city: Freistadt
-street: "Scharizerstraße"
-housenumber: 4
+street: Scharizerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.lagerhaus.at/"
+website: https://www.lagerhaus.at/

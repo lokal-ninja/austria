@@ -1,11 +1,11 @@
 id: 288192614
-type: way
+type: node
 latitude: 48.10781
 longitude: 14.8336
 postcode: "3300"
 city: Greinsfurth
-street: "Carl-Benz-Straße"
+street: Carl-Benz-Straße
 housenumber: 8-10
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30, Sa,Su 06:00-18:00"
-website: "https://www.danecker.at/#standorte"
+opening_hours: Mo-Fr 06:00-18:30, Sa,Su 06:00-18:00
+website: https://www.danecker.at/#standorte

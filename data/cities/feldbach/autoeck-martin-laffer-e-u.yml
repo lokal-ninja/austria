@@ -1,11 +1,11 @@
 id: 336317341
-type: way
+type: node
 latitude: 46.9511
 longitude: 15.9032
 postcode: "8330"
 city: Feldbach
-street: "Gleichenberger Straße"
-housenumber: 63
-phone: "+43 3152 6364"
+street: Gleichenberger Straße
+housenumber: "63"
+phone: +43 3152 6364
 opening_hours: ""
-website: "https://www.autoeck-laffer.at/"
+website: https://www.autoeck-laffer.at/

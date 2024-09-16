@@ -4,8 +4,8 @@ latitude: 47.81372
 longitude: 16.24318
 postcode: "2700"
 city: Wiener Neustadt
-street: "Hauptplatz"
-housenumber: 12
-phone: "+43 2622 64018"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH off"
-website: "https://www.gradwohl.info"
+street: Hauptplatz
+housenumber: "12"
+phone: +43 2622 64018
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su,PH off
+website: https://www.gradwohl.info

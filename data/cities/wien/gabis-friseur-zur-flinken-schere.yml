@@ -4,8 +4,8 @@ latitude: 48.22644
 longitude: 16.42286
 postcode: "1220"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 64
-phone: "+43 1 263 41 10"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+street: Schüttaustraße
+housenumber: "64"
+phone: +43 1 263 41 10
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

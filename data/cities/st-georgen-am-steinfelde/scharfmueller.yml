@@ -1,11 +1,11 @@
 id: 369580436
-type: way
+type: node
 latitude: 48.14566
 longitude: 15.61318
 postcode: "3151"
 city: St. Georgen am Steinfelde
-street: "St. Georgener Hauptstraße"
-housenumber: 76
-phone: "+43 2742 885151"
+street: St. Georgener Hauptstraße
+housenumber: "76"
+phone: +43 2742 885151
 opening_hours: ""
-website: "https://www.scharfmueller.at/"
+website: https://www.scharfmueller.at/

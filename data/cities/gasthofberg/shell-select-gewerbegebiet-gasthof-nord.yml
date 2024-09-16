@@ -1,11 +1,11 @@
 id: 133352947
-type: way
+type: node
 latitude: 47.42087
 longitude: 13.38388
 postcode: "5531"
 city: Gasthofberg
-street: "Gewerbegebiet Gasthof Nord"
-housenumber: 23
+street: Gewerbegebiet Gasthof Nord
+housenumber: "23"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

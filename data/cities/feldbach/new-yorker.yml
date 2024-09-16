@@ -1,11 +1,11 @@
 id: 532872108
-type: way
+type: node
 latitude: 46.94934
 longitude: 15.91461
 postcode: "8330"
 city: Feldbach
-street: "Gewerbepark"
-housenumber: 5
+street: Gewerbepark
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

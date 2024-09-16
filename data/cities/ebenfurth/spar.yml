@@ -1,11 +1,11 @@
 id: 38078569
-type: way
+type: node
 latitude: 47.87416
 longitude: 16.37622
 postcode: "2490"
 city: Ebenfurth
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

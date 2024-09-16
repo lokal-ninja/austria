@@ -4,8 +4,8 @@ latitude: 47.26407
 longitude: 11.40593
 postcode: "6020"
 city: Innsbruck
-street: "Hunoldstraße"
-housenumber: 3
-phone: "+43 512 393810"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-12:00; Su,Mo off"
-website: "https://www.degler.at/"
+street: Hunoldstraße
+housenumber: "3"
+phone: +43 512 393810
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-12:00; Su,Mo off
+website: https://www.degler.at/

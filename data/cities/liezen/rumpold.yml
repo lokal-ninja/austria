@@ -1,11 +1,11 @@
 id: 92702990
-type: way
+type: node
 latitude: 47.56974
 longitude: 14.21083
 postcode: "8940"
 city: Liezen
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 213a
-phone: "+43 3847 3800"
-opening_hours: "24/7"
-website: "https://www.rumpold.net"
+phone: +43 3847 3800
+opening_hours: 24/7
+website: https://www.rumpold.net

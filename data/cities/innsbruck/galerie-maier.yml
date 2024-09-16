@@ -4,8 +4,8 @@ latitude: 47.26458
 longitude: 11.39416
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 38
+street: Maria-Theresien-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:00, 15:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.galerie-maier.at/"
+opening_hours: Tu-Fr 10:00-12:00, 15:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.galerie-maier.at/

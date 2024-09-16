@@ -4,8 +4,8 @@ latitude: 48.4062
 longitude: 15.58977
 postcode: "3500"
 city: Krems an der Donau
-street: "Undstraße"
-housenumber: 10
+street: Undstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 13:00-17:00"
-website: "https://www.salomonwines.com/undhof/winery/"
+opening_hours: Mo-Fr 13:00-17:00
+website: https://www.salomonwines.com/undhof/winery/

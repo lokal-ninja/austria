@@ -4,8 +4,8 @@ latitude: 48.21332
 longitude: 16.36269
 postcode: "1010"
 city: Wien
-street: "Schottengasse"
-housenumber: 9
+street: Schottengasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; PH off"
+opening_hours: Mo-Fr 06:00-19:00; PH off
 website: ""

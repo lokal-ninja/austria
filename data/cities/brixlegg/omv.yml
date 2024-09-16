@@ -1,11 +1,11 @@
 id: 86982982
-type: way
+type: node
 latitude: 47.43343
 longitude: 11.88066
 postcode: "6230"
 city: Brixlegg
-street: "Innsbrucker Straße"
-housenumber: 34
-phone: "+43 5337-62350"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Innsbrucker Straße
+housenumber: "34"
+phone: +43 5337-62350
+opening_hours: Mo-Su 06:00-24:00
 website: ""

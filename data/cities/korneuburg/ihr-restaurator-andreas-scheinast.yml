@@ -4,8 +4,8 @@ latitude: 48.33898
 longitude: 16.33981
 postcode: "2100"
 city: Korneuburg
-street: "Wiener Straße"
-housenumber: 25
-phone: "+43 664 640 89 52"
+street: Wiener Straße
+housenumber: "25"
+phone: +43 664 640 89 52
 opening_hours: ""
-website: "https://www.scheinast.at/"
+website: https://www.scheinast.at/

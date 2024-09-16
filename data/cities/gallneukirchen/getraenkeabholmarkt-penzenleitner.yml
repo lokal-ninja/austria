@@ -1,11 +1,11 @@
 id: 169560474
-type: way
+type: node
 latitude: 48.34902
 longitude: 14.41872
 postcode: "4210"
 city: Gallneukirchen
-street: "Schweinbacher Straße"
-housenumber: 5
+street: Schweinbacher Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 305241458
-type: way
+type: node
 latitude: 47.57504
 longitude: 11.6475
 postcode: "6215"
 city: Achenkirch
-street: "Achenwald"
-housenumber: 652
+street: Achenwald
+housenumber: "652"
 phone: ""
 opening_hours: ""
 website: ""

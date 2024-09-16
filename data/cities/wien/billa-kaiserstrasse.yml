@@ -4,8 +4,8 @@ latitude: 48.20557
 longitude: 16.33965
 postcode: "1070"
 city: Wien
-street: "Kaiserstraße"
-housenumber: 91
-phone: "+43 1 5220733"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Kaiserstraße
+housenumber: "91"
+phone: +43 1 5220733
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

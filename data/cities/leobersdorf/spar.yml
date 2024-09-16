@@ -4,8 +4,8 @@ latitude: 47.92947
 longitude: 16.2165
 postcode: "2544"
 city: Leobersdorf
-street: "Hauptstraße"
-housenumber: 4
-phone: "+43 2256 62605"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00"
-website: "https://www.spar.at/standorte/spar-leobersdorf-2544-hauptstrasse-4"
+street: Hauptstraße
+housenumber: "4"
+phone: +43 2256 62605
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00
+website: https://www.spar.at/standorte/spar-leobersdorf-2544-hauptstrasse-4

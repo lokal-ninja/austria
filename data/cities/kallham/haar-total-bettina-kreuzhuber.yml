@@ -1,11 +1,11 @@
 id: 180376596
-type: way
+type: node
 latitude: 48.28077
 longitude: 13.71707
 postcode: "4720"
 city: Kallham
-street: "Hauptstraße"
-housenumber: 35
+street: Hauptstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

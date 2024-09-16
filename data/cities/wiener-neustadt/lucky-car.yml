@@ -1,11 +1,11 @@
 id: 339621953
-type: way
+type: node
 latitude: 47.81919
 longitude: 16.24855
 postcode: "2700"
 city: Wiener Neustadt
-street: "Grazer Straße"
-housenumber: 31
+street: Grazer Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

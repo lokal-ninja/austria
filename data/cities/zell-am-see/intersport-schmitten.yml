@@ -4,8 +4,8 @@ latitude: 47.32647
 longitude: 12.77248
 postcode: "5700"
 city: Zell am See
-street: "Schmittenstraße"
-housenumber: 119
-phone: "+43 6542 47552"
-opening_hours: "Mo-Su 09:00-17:00"
+street: Schmittenstraße
+housenumber: "119"
+phone: +43 6542 47552
+opening_hours: Mo-Su 09:00-17:00
 website: ""

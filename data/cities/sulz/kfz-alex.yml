@@ -1,11 +1,11 @@
 id: 159342146
-type: way
+type: node
 latitude: 47.28287
 longitude: 9.65408
 postcode: "6832"
 city: Sulz
-street: "Austraße"
-housenumber: 20
+street: Austraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

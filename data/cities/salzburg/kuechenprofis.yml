@@ -4,8 +4,8 @@ latitude: 47.81356
 longitude: 13.05376
 postcode: "5020"
 city: Salzburg
-street: "Vogelweiderstraße"
-housenumber: 61
-phone: "+43 662 87 77 05"
-opening_hours: "Mo-Fr 09:30-12:00,13:00-18:00"
-website: "https://www.kuechenprofis-sbg.at/"
+street: Vogelweiderstraße
+housenumber: "61"
+phone: +43 662 87 77 05
+opening_hours: Mo-Fr 09:30-12:00,13:00-18:00
+website: https://www.kuechenprofis-sbg.at/

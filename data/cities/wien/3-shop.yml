@@ -4,8 +4,8 @@ latitude: 48.22551
 longitude: 16.36032
 postcode: "1090"
 city: Wien
-street: "Julius-Tandler-Platz"
-housenumber: 2
+street: Julius-Tandler-Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

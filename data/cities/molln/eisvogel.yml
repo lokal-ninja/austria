@@ -1,11 +1,11 @@
 id: 143382245
-type: way
+type: node
 latitude: 47.84909
 longitude: 14.3485
 postcode: "4591"
 city: Molln
-street: "Breitenau"
-housenumber: 109
-phone: "+43-7584-3090-0"
+street: Breitenau
+housenumber: "109"
+phone: +43-7584-3090-0
 opening_hours: ""
-website: "http://www.eisvogel.at/"
+website: http://www.eisvogel.at/

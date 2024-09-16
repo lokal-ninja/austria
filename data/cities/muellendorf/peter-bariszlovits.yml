@@ -1,11 +1,11 @@
 id: 343234424
-type: way
+type: node
 latitude: 47.84112
 longitude: 16.45602
 postcode: "7052"
 city: Müllendorf
-street: "Hauptstraße"
-housenumber: 53
+street: Hauptstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.0682
 longitude: 15.44713
 postcode: "8010"
 city: Graz
-street: "Kaiser-Josef-Platz"
-housenumber: 6
+street: Kaiser-Josef-Platz
+housenumber: "6"
 phone: ""
-opening_hours: "Sa 08:00-13:00; Tu-Fr 08:00-18:00"
+opening_hours: Sa 08:00-13:00; Tu-Fr 08:00-18:00
 website: ""

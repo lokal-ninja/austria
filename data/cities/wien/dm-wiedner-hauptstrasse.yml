@@ -4,8 +4,8 @@ latitude: 48.18982
 longitude: 16.36579
 postcode: "1040"
 city: Wien
-street: "Wiedner Hauptstraße"
-housenumber: 70
-phone: "+43 1 5876694"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.dm.at"
+street: Wiedner Hauptstraße
+housenumber: "70"
+phone: +43 1 5876694
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.dm.at

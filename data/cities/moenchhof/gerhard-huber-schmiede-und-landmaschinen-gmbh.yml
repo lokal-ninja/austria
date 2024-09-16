@@ -1,11 +1,11 @@
 id: 107361534
-type: way
+type: node
 latitude: 47.88771
 longitude: 16.95512
 postcode: "7123"
 city: Mönchhof
-street: "Betriebsgebiet Nord"
-housenumber: 3
-phone: "++43 2173 80967"
+street: Betriebsgebiet Nord
+housenumber: "3"
+phone: ++43 2173 80967
 opening_hours: ""
-website: "https://www.huber-landmaschinen.at/"
+website: https://www.huber-landmaschinen.at/

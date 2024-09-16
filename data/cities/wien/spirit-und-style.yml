@@ -4,8 +4,8 @@ latitude: 48.18848
 longitude: 16.38698
 postcode: "1030"
 city: Wien
-street: "Landstraßer Gürtel"
-housenumber: 21
-phone: "+43 1 2087219"
-opening_hours: "Mo nach Vereinbarung; Tu-Fr 9:00-18:00; Sa nach Vereinbarung"
-website: "http://www.spiritandstyle.at/"
+street: Landstraßer Gürtel
+housenumber: "21"
+phone: +43 1 2087219
+opening_hours: Mo "nach Vereinbarung"; Tu-Fr 9:00-18:00; Sa "nach Vereinbarung"
+website: http://www.spiritandstyle.at/

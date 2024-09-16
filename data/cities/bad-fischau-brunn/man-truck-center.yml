@@ -1,11 +1,11 @@
 id: 535004455
-type: way
+type: node
 latitude: 47.84502
 longitude: 16.18675
 postcode: "2721"
 city: Bad Fischau-Brunn
-street: "MAN-Straße"
-housenumber: 1
-phone: "00800 66 24 53 24"
+street: MAN-Straße
+housenumber: "1"
+phone: 00800 66 24 53 24
 opening_hours: ""
-website: "www.man.eu"
+website: www.man.eu

@@ -4,8 +4,8 @@ latitude: 48.19046
 longitude: 16.33934
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 151
-phone: "+43 1 5974165"
-opening_hours: "Mo-Tu 09:00-18:00, Fr 09:00-17:00"
-website: "https://www.pfaff-wien.at"
+street: Gumpendorfer Straße
+housenumber: "151"
+phone: +43 1 5974165
+opening_hours: Mo-Tu 09:00-18:00, Fr 09:00-17:00
+website: https://www.pfaff-wien.at

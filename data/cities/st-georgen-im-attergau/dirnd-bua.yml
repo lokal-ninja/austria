@@ -1,11 +1,11 @@
 id: 162875371
-type: way
+type: node
 latitude: 47.93822
 longitude: 13.4902
 postcode: "4880"
 city: St. Georgen im Attergau
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

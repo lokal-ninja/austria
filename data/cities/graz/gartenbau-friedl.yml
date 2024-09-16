@@ -1,11 +1,11 @@
 id: 219141558
-type: way
+type: node
 latitude: 47.08761
 longitude: 15.4183
 postcode: "8020"
 city: Graz
-street: "Kalvarienbergstraße"
-housenumber: 81
+street: Kalvarienbergstraße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-17:00; Su,PH 08:00-12:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-17:00; Su,PH 08:00-12:00
 website: ""

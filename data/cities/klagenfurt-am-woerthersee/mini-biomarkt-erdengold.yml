@@ -4,8 +4,8 @@ latitude: 46.62162
 longitude: 14.2684
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Kohldorfer Straße"
-housenumber: 100
-phone: "+43 664 10 32 239"
-opening_hours: "24/7"
-website: "https://www.erdengold.at/"
+street: Kohldorfer Straße
+housenumber: "100"
+phone: +43 664 10 32 239
+opening_hours: 24/7
+website: https://www.erdengold.at/

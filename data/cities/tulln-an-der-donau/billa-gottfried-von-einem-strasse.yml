@@ -1,11 +1,11 @@
 id: 530981260
-type: way
+type: node
 latitude: 48.31856
 longitude: 16.05789
 postcode: "3430"
 city: Tulln an der Donau
-street: "Gottfried-von-Einem-Straße"
-housenumber: 2
+street: Gottfried-von-Einem-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

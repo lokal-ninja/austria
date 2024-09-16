@@ -4,8 +4,8 @@ latitude: 47.26444
 longitude: 11.39214
 postcode: "6020"
 city: Innsbruck
-street: "Fallmerayerstraße"
-housenumber: 5
-phone: "+43 676 7059880"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off"
-website: "https://www.hechenbergerm.com"
+street: Fallmerayerstraße
+housenumber: "5"
+phone: +43 676 7059880
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off
+website: https://www.hechenbergerm.com

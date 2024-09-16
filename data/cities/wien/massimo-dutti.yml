@@ -4,8 +4,8 @@ latitude: 48.20861
 longitude: 16.36756
 postcode: "1010"
 city: Wien
-street: "Kohlmarkt"
-housenumber: 9
+street: Kohlmarkt
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "https://www.massimodutti.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: https://www.massimodutti.com/

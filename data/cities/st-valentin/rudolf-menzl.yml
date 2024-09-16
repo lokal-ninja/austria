@@ -4,8 +4,8 @@ latitude: 48.17256
 longitude: 14.51963
 postcode: "4300"
 city: St. Valentin
-street: "Siegfriedstraße"
-housenumber: 1
+street: Siegfriedstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "https://www.menzl-fleischer.at/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: https://www.menzl-fleischer.at/

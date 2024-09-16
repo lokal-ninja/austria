@@ -1,11 +1,11 @@
 id: 182516876
-type: way
+type: node
 latitude: 48.57536
 longitude: 14.04992
 postcode: "4170"
 city: Haslach an der Mühl
-street: "Sternwaldstraße"
-housenumber: 40
+street: Sternwaldstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

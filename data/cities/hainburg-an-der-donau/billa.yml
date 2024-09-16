@@ -1,11 +1,11 @@
 id: 33000028
-type: way
+type: node
 latitude: 48.14056
 longitude: 16.91947
 postcode: "2410"
 city: Hainburg an der Donau
-street: "Landstraße"
-housenumber: 120
-phone: "+43 59915 09555"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+street: Landstraße
+housenumber: "120"
+phone: +43 59915 09555
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

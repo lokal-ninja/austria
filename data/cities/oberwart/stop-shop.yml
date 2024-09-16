@@ -1,11 +1,11 @@
 id: 86748467
-type: way
+type: node
 latitude: 47.27459
 longitude: 16.23321
 postcode: "7400"
 city: Oberwart
-street: "Steinamangererstraße"
-housenumber: 183
+street: Steinamangererstraße
+housenumber: "183"
 phone: ""
 opening_hours: ""
 website: ""

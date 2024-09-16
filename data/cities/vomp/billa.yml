@@ -1,11 +1,11 @@
 id: 123545344
-type: way
+type: node
 latitude: 47.35064
 longitude: 11.69765
 postcode: "6134"
 city: Vomp
-street: "An der Leiten"
-housenumber: 13
+street: An der Leiten
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

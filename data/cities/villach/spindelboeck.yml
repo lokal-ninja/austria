@@ -1,11 +1,11 @@
 id: 59827148
-type: way
+type: node
 latitude: 46.59987
 longitude: 13.84688
 postcode: "9500"
 city: Villach
-street: "Heidenfeldstraße"
-housenumber: 33
+street: Heidenfeldstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Mar-Oct Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Mar-Oct Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 415310946
-type: way
+type: node
 latitude: 48.08022
 longitude: 12.9917
 postcode: "5142"
 city: Eggelsberg
-street: "Salzburgerstraße"
-housenumber: 5
+street: Salzburgerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesenkreativ.at/kontakt/"
+website: https://www.fliesenkreativ.at/kontakt/

@@ -1,11 +1,11 @@
 id: 198683503
-type: way
+type: node
 latitude: 47.22004
 longitude: 10.7526
 postcode: "6463"
 city: Karrösten
-street: "Brennbichl"
-housenumber: 39
+street: Brennbichl
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

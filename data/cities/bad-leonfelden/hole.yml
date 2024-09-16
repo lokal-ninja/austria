@@ -1,11 +1,11 @@
 id: 125697299
-type: way
+type: node
 latitude: 48.52275
 longitude: 14.29353
 postcode: "4190"
 city: Bad Leonfelden
-street: "Hauptplatz"
-housenumber: 5
+street: Hauptplatz
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

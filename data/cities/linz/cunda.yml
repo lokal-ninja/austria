@@ -5,7 +5,7 @@ longitude: 14.29153
 postcode: "4020"
 city: Linz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.c-and-a.com/stores/at-de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.c-and-a.com/stores/at-de/

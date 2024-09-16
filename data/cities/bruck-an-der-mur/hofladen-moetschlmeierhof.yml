@@ -5,7 +5,7 @@ longitude: 15.18938
 postcode: "8600"
 city: Bruck an der Mur
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
-website: "https://www.moetschlmeierhof.at/kontakt.html"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00
+website: https://www.moetschlmeierhof.at/kontakt.html

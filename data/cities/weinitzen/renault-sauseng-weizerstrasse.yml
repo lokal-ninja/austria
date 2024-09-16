@@ -1,11 +1,11 @@
 id: 196250859
-type: way
+type: node
 latitude: 47.14074
 longitude: 15.52372
 postcode: "8044"
 city: Weinitzen
-street: "Weizerstraße"
-housenumber: 4
+street: Weizerstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

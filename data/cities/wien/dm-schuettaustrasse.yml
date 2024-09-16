@@ -4,8 +4,8 @@ latitude: 48.22685
 longitude: 16.42273
 postcode: "1220"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 59
+street: Schüttaustraße
+housenumber: "59"
 phone: "+4312631123"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

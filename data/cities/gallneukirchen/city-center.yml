@@ -1,11 +1,11 @@
 id: 169549360
-type: way
+type: node
 latitude: 48.35497
 longitude: 14.41828
 postcode: "4210"
 city: Gallneukirchen
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

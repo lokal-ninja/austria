@@ -4,8 +4,8 @@ latitude: 48.21879
 longitude: 16.38143
 postcode: "1020"
 city: Wien
-street: "Taborstraße"
-housenumber: 40
-phone: "+43 1 2164423"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-gourmet-wien-1020-taborstrasse-40"
+street: Taborstraße
+housenumber: "40"
+phone: +43 1 2164423
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-gourmet-wien-1020-taborstrasse-40

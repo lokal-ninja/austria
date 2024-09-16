@@ -4,8 +4,8 @@ latitude: 47.27358
 longitude: 12.76002
 postcode: "5710"
 city: Kaprun
-street: "Augasse"
-housenumber: 2
-phone: "+43 (0) 650 424 64 43"
-opening_hours: "Mo-Fr 09:00 - 12:00 & 15:00 - 19:00"
-website: "https://www.massagen-zingerle.at/"
+street: Augasse
+housenumber: "2"
+phone: +43 (0) 650 424 64 43
+opening_hours: Mo-Fr 09:00 - 12:00 & 15:00 - 19:00
+website: https://www.massagen-zingerle.at/

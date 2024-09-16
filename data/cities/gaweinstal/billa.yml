@@ -1,11 +1,11 @@
 id: 80588324
-type: way
+type: node
 latitude: 48.48499
 longitude: 16.5925
 postcode: "2191"
 city: Gaweinstal
-street: "In Lüssen"
-housenumber: 10
-phone: "+43 2574 28309"
-opening_hours: "Mo-Tu 07:15-19:00; Fr 07:15-19:30; Sa 07:15-18:00; Su off"
+street: In Lüssen
+housenumber: "10"
+phone: +43 2574 28309
+opening_hours: Mo-Tu 07:15-19:00; Fr 07:15-19:30; Sa 07:15-18:00; Su off
 website: ""

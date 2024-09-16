@@ -1,11 +1,11 @@
 id: 295609943
-type: way
+type: node
 latitude: 48.20554
 longitude: 16.19058
 postcode: "3002"
 city: Purkersdorf
-street: "Wiener Straße"
-housenumber: 36
-phone: "+43 2231 63505"
+street: Wiener Straße
+housenumber: "36"
+phone: +43 2231 63505
 opening_hours: ""
-website: "https://www.mahringers.at/"
+website: https://www.mahringers.at/

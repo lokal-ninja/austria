@@ -1,11 +1,11 @@
 id: 244441360
-type: way
+type: node
 latitude: 47.91185
 longitude: 16.38638
 postcode: "2486"
 city: Pottendorf
-street: "Wiener Straße"
-housenumber: 5
+street: Wiener Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

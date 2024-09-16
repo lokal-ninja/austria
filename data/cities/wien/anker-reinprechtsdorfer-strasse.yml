@@ -4,8 +4,8 @@ latitude: 48.18635
 longitude: 16.35351
 postcode: "1050"
 city: Wien
-street: "Reinprechtsdorfer Straße"
-housenumber: 48
+street: Reinprechtsdorfer Straße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:30-12:00; PH,Su 06:30-12:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:30-12:00; PH,Su 06:30-12:00
+website: https://www.ankerbrot.at/

@@ -1,11 +1,11 @@
 id: 142037862
-type: way
+type: node
 latitude: 47.60652
 longitude: 16.61004
 postcode: "7301"
 city: Deutschkreutz
-street: "Gewerbestraße 3"
-housenumber: 2
+street: Gewerbestraße 3
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

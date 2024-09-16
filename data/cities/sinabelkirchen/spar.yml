@@ -1,11 +1,11 @@
 id: 224728177
-type: way
+type: node
 latitude: 47.10183
 longitude: 15.82027
 postcode: "8261"
 city: Sinabelkirchen
 street: ""
-housenumber: 183
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su,PH off
 website: ""

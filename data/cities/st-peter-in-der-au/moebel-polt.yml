@@ -1,11 +1,11 @@
 id: 326051002
-type: way
+type: node
 latitude: 48.04167
 longitude: 14.62351
 postcode: "3352"
 city: St. Peter in der Au
-street: "Amstettner Straße"
-housenumber: 16
+street: Amstettner Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.moebelpolt.at/"
+website: https://www.moebelpolt.at/

@@ -4,8 +4,8 @@ latitude: 48.16487
 longitude: 14.01187
 postcode: "4600"
 city: Wels
-street: "Ferdinand-Vielguth-Straße"
-housenumber: 8
-phone: "+43 7242 224377"
-opening_hours: "Mo 08:30-17:00;Tu-Fr 08:30-18:00;Sa 08:30-12:00"
+street: Ferdinand-Vielguth-Straße
+housenumber: "8"
+phone: +43 7242 224377
+opening_hours: Mo 08:30-17:00;Tu-Fr 08:30-18:00;Sa 08:30-12:00
 website: ""

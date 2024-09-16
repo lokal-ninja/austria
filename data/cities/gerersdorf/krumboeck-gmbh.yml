@@ -4,8 +4,8 @@ latitude: 48.20105
 longitude: 15.54794
 postcode: "3385"
 city: Gerersdorf
-street: "Eichenstraße"
-housenumber: 1
-phone: "+43 699 1826 0510"
-opening_hours: "Mo-Th 06:30-17:00;Fr 06:30-12:00;Sa-Su off"
-website: "https://www.krumboeck.at/"
+street: Eichenstraße
+housenumber: "1"
+phone: +43 699 1826 0510
+opening_hours: Mo-Th 06:30-17:00;Fr 06:30-12:00;Sa-Su off
+website: https://www.krumboeck.at/

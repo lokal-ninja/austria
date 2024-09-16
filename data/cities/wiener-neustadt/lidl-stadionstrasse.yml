@@ -1,11 +1,11 @@
 id: 143225830
-type: way
+type: node
 latitude: 47.83027
 longitude: 16.24492
 postcode: "2700"
 city: Wiener Neustadt
-street: "Stadionstraße"
-housenumber: 44
+street: Stadionstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

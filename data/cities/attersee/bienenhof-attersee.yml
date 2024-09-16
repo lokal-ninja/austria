@@ -1,11 +1,11 @@
 id: 219157394
-type: way
+type: node
 latitude: 47.92039
 longitude: 13.52367
 postcode: "4864"
 city: Attersee
-street: "Neuhofen"
-housenumber: 5
+street: Neuhofen
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://bienenhofattersee.com"
+website: http://bienenhofattersee.com

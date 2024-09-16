@@ -1,11 +1,11 @@
 id: 254830277
-type: way
+type: node
 latitude: 46.81802
 longitude: 13.5167
 postcode: "9871"
 city: Seeboden am Millstätter See
-street: "Hauptstraße"
-housenumber: 70
+street: Hauptstraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

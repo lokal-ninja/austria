@@ -4,8 +4,8 @@ latitude: 46.61284
 longitude: 13.84444
 postcode: "9500"
 city: Villach
-street: "Widmanngasse"
-housenumber: 42
-phone: "+43 4242 2374713"
-opening_hours: "Mo-Fr 10:00-12:30, 14:30-18:00; Sa 09:00-12:30"
-website: "https://schuetzlhoffer.at/"
+street: Widmanngasse
+housenumber: "42"
+phone: +43 4242 2374713
+opening_hours: Mo-Fr 10:00-12:30, 14:30-18:00; Sa 09:00-12:30
+website: https://schuetzlhoffer.at/

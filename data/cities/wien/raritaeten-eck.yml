@@ -4,8 +4,8 @@ latitude: 48.18981
 longitude: 16.35199
 postcode: "1050"
 city: Wien
-street: "Rechte Wienzeile"
-housenumber: 123
-phone: "+43 664 8733416"
-opening_hours: "Th-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.raritaeten-eck.at/"
+street: Rechte Wienzeile
+housenumber: "123"
+phone: +43 664 8733416
+opening_hours: Th-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.raritaeten-eck.at/

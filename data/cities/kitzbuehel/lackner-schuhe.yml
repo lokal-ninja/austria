@@ -4,8 +4,8 @@ latitude: 47.45575
 longitude: 12.3865
 postcode: "6370"
 city: Kitzbühel
-street: "St. Johanner Straße"
-housenumber: 15
-phone: "+43 5356 64286"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.lackner-shop.com"
+street: St. Johanner Straße
+housenumber: "15"
+phone: +43 5356 64286
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.lackner-shop.com

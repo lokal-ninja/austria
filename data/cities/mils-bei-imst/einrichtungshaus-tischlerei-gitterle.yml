@@ -1,11 +1,11 @@
 id: 933839392
-type: way
+type: node
 latitude: 47.21226
 longitude: 10.69011
 postcode: "6493"
 city: Mils bei Imst
-street: "Gewerbegebiet"
-housenumber: 8
+street: Gewerbegebiet
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

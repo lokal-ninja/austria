@@ -4,8 +4,8 @@ latitude: 48.19119
 longitude: 16.2919
 postcode: "1140"
 city: Wien
-street: "Penzinger Straße"
-housenumber: 153
-phone: "+43 1 8947615"
-opening_hours: "Tu-Fr 08:00-18:00, Sa 08:00-12:00; PH off"
+street: Penzinger Straße
+housenumber: "153"
+phone: +43 1 8947615
+opening_hours: Tu-Fr 08:00-18:00, Sa 08:00-12:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 165590858
-type: way
+type: node
 latitude: 47.97786
 longitude: 14.75279
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Wienerstraße"
-housenumber: 58
+street: Wienerstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/standorte/spar-waidhofen-ybbs-3340-wienerstrasse-58"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/standorte/spar-waidhofen-ybbs-3340-wienerstrasse-58

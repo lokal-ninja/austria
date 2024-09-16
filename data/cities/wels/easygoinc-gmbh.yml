@@ -1,11 +1,11 @@
 id: 127295756
-type: way
+type: node
 latitude: 48.16611
 longitude: 14.03522
 postcode: "4600"
 city: Wels
-street: "Reitschulgasse"
-housenumber: 3
-phone: "+43 7242 932 814-0"
-opening_hours: "Mo-Tu 07:30-12:00,13:00-17:00; Fr 07:30-13:30"
-website: "https://easygoinc.com"
+street: Reitschulgasse
+housenumber: "3"
+phone: +43 7242 932 814-0
+opening_hours: Mo-Tu 07:30-12:00,13:00-17:00; Fr 07:30-13:30
+website: https://easygoinc.com

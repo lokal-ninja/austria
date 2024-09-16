@@ -4,8 +4,9 @@ latitude: 47.11025
 longitude: 11.3062
 postcode: "6167"
 city: Neustift im Stubaital
-street: "Dorfplatz"
-housenumber: 
+street: Dorfplatz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-12:00; Apr 29-Jul 01 Mo-Sa off"
-website: "https://www.schoenherr.cc/"
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:00; Sa 09:30-12:00; Apr 29-Jul 01 Mo-Sa
+    off
+website: https://www.schoenherr.cc/

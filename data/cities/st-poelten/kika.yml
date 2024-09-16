@@ -1,11 +1,11 @@
 id: 51889371
-type: way
+type: node
 latitude: 48.18392
 longitude: 15.61925
 postcode: "3100"
 city: St. Pölten
-street: "Anton Scheiblin-Gasse"
-housenumber: 1
+street: Anton Scheiblin-Gasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.kika.at/filiale-kika-st-poelten"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.kika.at/filiale-kika-st-poelten

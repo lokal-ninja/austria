@@ -1,11 +1,11 @@
 id: 142037850
-type: way
+type: node
 latitude: 47.6029
 longitude: 16.61126
 postcode: "7301"
 city: Deutschkreutz
-street: "Bahngasse"
-housenumber: 66
-phone: "+43 59915 07204"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Bahngasse
+housenumber: "66"
+phone: +43 59915 07204
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1051333740
-type: way
+type: node
 latitude: 48.07359
 longitude: 14.4266
 postcode: "4407"
 city: Steyr-Gleink
-street: "Im Stadtgut Zone E"
-housenumber: 10
+street: Im Stadtgut Zone E
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

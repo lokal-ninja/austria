@@ -4,8 +4,8 @@ latitude: 48.21519
 longitude: 16.3458
 postcode: "1080"
 city: Wien
-street: "Feldgasse"
-housenumber: 14
-phone: "+43 1 866 99 9124"
-opening_hours: "Mo-Fr 06:00-18:30; Sa,Su,PH 07:00-17:00"
-website: "https://www.dermann.at/"
+street: Feldgasse
+housenumber: "14"
+phone: +43 1 866 99 9124
+opening_hours: Mo-Fr 06:00-18:30; Sa,Su,PH 07:00-17:00
+website: https://www.dermann.at/

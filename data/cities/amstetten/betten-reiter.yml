@@ -4,8 +4,8 @@ latitude: 48.10731
 longitude: 14.83254
 postcode: "3300"
 city: Amstetten
-street: "Carl-Benz-Straße"
-housenumber: 2
+street: Carl-Benz-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.bettenreiter.at/filiale/3300-amstetten/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.bettenreiter.at/filiale/3300-amstetten/

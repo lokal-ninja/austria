@@ -4,8 +4,8 @@ latitude: 48.1948
 longitude: 16.36957
 postcode: "1040"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 14
-phone: "+43 1 505 47 18"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://www.fotostudiofloyd.at/"
+street: Favoritenstraße
+housenumber: "14"
+phone: +43 1 505 47 18
+opening_hours: Mo-Fr 10:00-16:00
+website: https://www.fotostudiofloyd.at/

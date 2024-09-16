@@ -1,11 +1,11 @@
 id: 147594010
-type: way
+type: node
 latitude: 48.21616
 longitude: 14.46082
 postcode: "4470"
 city: Enns
-street: "Dr. Renner-Straße"
-housenumber: 50
+street: Dr. Renner-Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.20193
 longitude: 16.34257
 postcode: "1070"
 city: Wien
-street: "Westbahnstraße"
-housenumber: 38
+street: Westbahnstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo 13:00-18:00, Tu-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "https://www.stoffsalon.at"
+opening_hours: Mo 13:00-18:00, Tu-Fr 10:00-18:00, Sa 10:00-14:00
+website: https://www.stoffsalon.at

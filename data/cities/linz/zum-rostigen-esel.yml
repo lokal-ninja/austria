@@ -4,8 +4,8 @@ latitude: 48.30633
 longitude: 14.29557
 postcode: "4020"
 city: Linz
-street: "Museumsstraße"
-housenumber: 22
-phone: "+43 732 77 49 40"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00"
-website: "https://www.rostigeresel.at/"
+street: Museumsstraße
+housenumber: "22"
+phone: +43 732 77 49 40
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00
+website: https://www.rostigeresel.at/

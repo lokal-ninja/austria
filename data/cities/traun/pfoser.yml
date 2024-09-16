@@ -4,8 +4,8 @@ latitude: 48.22081
 longitude: 14.23659
 postcode: "4050"
 city: Traun
-street: "Hauptplatz"
-housenumber: 8
-phone: "+43-7229-61331"
-opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:00"
-website: "http://www.pfoser.at/"
+street: Hauptplatz
+housenumber: "8"
+phone: +43-7229-61331
+opening_hours: Mo-Fr 09:00-12:30, 14:30-18:00
+website: http://www.pfoser.at/

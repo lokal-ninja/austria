@@ -4,8 +4,8 @@ latitude: 47.90959
 longitude: 16.3882
 postcode: "2486"
 city: Pottendorf
-street: "Marktplatz"
-housenumber: 3
-phone: "+43 2623 72263"
-opening_hours: "Mo,Tu,We,Fr 06:00-12:30,15:00-18:00, Th 06:00-12:00, Sa 07:00-12:00"
+street: Marktplatz
+housenumber: "3"
+phone: +43 2623 72263
+opening_hours: Mo,Tu,We,Fr 06:00-12:30,15:00-18:00, Th 06:00-12:00, Sa 07:00-12:00
 website: ""

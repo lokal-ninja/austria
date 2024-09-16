@@ -4,8 +4,8 @@ latitude: 47.99202
 longitude: 12.95796
 postcode: "5112"
 city: Lamprechtshausen
-street: "Franz Xaver Gruber-Straße"
-housenumber: 3
+street: Franz Xaver Gruber-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

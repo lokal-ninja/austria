@@ -4,8 +4,9 @@ latitude: 47.33467
 longitude: 9.64707
 postcode: "6840"
 city: Götzis
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sep-Dec Sa 09:00-12:00; Jul, Aug Th off"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sep-Dec Sa 09:00-12:00; Jul, Aug Th
+    off
 website: ""

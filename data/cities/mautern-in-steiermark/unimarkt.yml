@@ -1,11 +1,11 @@
 id: 261748990
-type: way
+type: node
 latitude: 47.39888
 longitude: 14.82967
 postcode: "8774"
 city: Mautern in Steiermark
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

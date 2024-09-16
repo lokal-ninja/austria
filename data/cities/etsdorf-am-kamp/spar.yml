@@ -1,11 +1,11 @@
 id: 84922133
-type: way
+type: node
 latitude: 48.4472
 longitude: 15.73743
 postcode: "3492"
 city: Etsdorf am Kamp
-street: "Schloßparkstraße"
-housenumber: 2
+street: Schloßparkstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Sa 06:16-17:00; Mo-Fr 06:15-18:30"
+opening_hours: Sa 06:16-17:00; Mo-Fr 06:15-18:30
 website: ""

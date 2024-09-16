@@ -5,7 +5,7 @@ longitude: 9.89365
 postcode: "6863"
 city: Egg
 street: ""
-housenumber: 1255
+housenumber: "1255"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00"
-website: "https://wp.panto.at/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00
+website: https://wp.panto.at/

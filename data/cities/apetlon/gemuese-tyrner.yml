@@ -1,11 +1,11 @@
 id: 1083788878
-type: way
+type: node
 latitude: 47.74599
 longitude: 16.83142
 postcode: "7143"
 city: Apetlon
-street: "Wallerner Straße"
-housenumber: 
+street: Wallerner Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.forestbase.at/"
+website: https://www.forestbase.at/

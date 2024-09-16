@@ -1,11 +1,11 @@
 id: 115851592
-type: way
+type: node
 latitude: 46.62346
 longitude: 13.94111
 postcode: "9241"
 city: Wernberg
-street: "Trabeniger Straße"
-housenumber: 4
+street: Trabeniger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

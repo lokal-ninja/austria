@@ -4,8 +4,9 @@ latitude: 48.7926
 longitude: 15.07302
 postcode: "3943"
 city: Schrems
-street: "Hauptplatz"
-housenumber: 28
-phone: "+43 2853 72232 0"
-opening_hours: "Mo,Tu 08:30-12:00,14:00-18:00; We 09:00-12:00; Th,Fr 08:30-12:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.optik-meyer.at/index.php?id=15"
+street: Hauptplatz
+housenumber: "28"
+phone: +43 2853 72232 0
+opening_hours: Mo,Tu 08:30-12:00,14:00-18:00; We 09:00-12:00; Th,Fr 08:30-12:00,14:00-18:00;
+    Sa,Su,PH off
+website: https://www.optik-meyer.at/index.php?id=15

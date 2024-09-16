@@ -4,8 +4,8 @@ latitude: 48.21427
 longitude: 16.3857
 postcode: "1020"
 city: Wien
-street: "Czerningasse"
-housenumber: 4
-phone: "+43 1 9610249"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Czerningasse
+housenumber: "4"
+phone: +43 1 9610249
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su off; PH off
+website: https://www.billa.at/

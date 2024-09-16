@@ -1,11 +1,11 @@
 id: 24613406
-type: way
+type: node
 latitude: 48.3208
 longitude: 16.02251
 postcode: "3442"
 city: Asparn
-street: "Europastraße"
-housenumber: 1
+street: Europastraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

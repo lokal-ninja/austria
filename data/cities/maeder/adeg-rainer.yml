@@ -1,11 +1,11 @@
 id: 156257720
-type: way
+type: node
 latitude: 47.3506
 longitude: 9.61921
 postcode: "6841"
 city: Mäder
-street: "Neue Landstraße"
-housenumber: 23
+street: Neue Landstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 07:15-18:30; Sa 07:15-16:00"
+opening_hours: Mo-Fr 07:15-18:30; Sa 07:15-16:00
 website: ""

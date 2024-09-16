@@ -4,8 +4,8 @@ latitude: 47.67472
 longitude: 15.94188
 postcode: "2640"
 city: Gloggnitz
-street: "Wiener Straße"
-housenumber: 11
-phone: "+43 676 4093644"
-opening_hours: "Fr 15:00-19:00;Sa 09:00-14:00 || nach Vereinbarung"
-website: "https://www.weinberatung-weninger.at/"
+street: Wiener Straße
+housenumber: "11"
+phone: +43 676 4093644
+opening_hours: Fr 15:00-19:00;Sa 09:00-14:00 || "nach Vereinbarung"
+website: https://www.weinberatung-weninger.at/

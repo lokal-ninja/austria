@@ -4,8 +4,8 @@ latitude: 48.19957
 longitude: 16.35103
 postcode: "1070"
 city: Wien
-street: "Zollergasse"
-housenumber: 4
+street: Zollergasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://taschenausgabe.com/"
+website: https://taschenausgabe.com/

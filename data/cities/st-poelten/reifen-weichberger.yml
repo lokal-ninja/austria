@@ -1,11 +1,11 @@
 id: 51874123
-type: way
+type: node
 latitude: 48.17892
 longitude: 15.61494
 postcode: "3100"
 city: St. Pölten
-street: "Mariazeller Straße"
-housenumber: 182
+street: Mariazeller Straße
+housenumber: "182"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://weichberger.at/Standort/3100-St-Poelten-Spratzern"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://weichberger.at/Standort/3100-St-Poelten-Spratzern

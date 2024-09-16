@@ -1,11 +1,11 @@
 id: 159141237
-type: way
+type: node
 latitude: 47.40192
 longitude: 15.22911
 postcode: "8600"
 city: Bruck an der Mur
-street: "Bruckerstraße"
-housenumber: 116
+street: Bruckerstraße
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 473907261
-type: way
+type: node
 latitude: 48.74241
 longitude: 15.2732
 postcode: "3900"
 city: Schwarzenau
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

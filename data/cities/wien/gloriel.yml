@@ -4,8 +4,8 @@ latitude: 48.14583
 longitude: 16.29498
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
-housenumber: 248
-phone: "+43 680 31 80 777"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.gloriel.at/"
+street: Breitenfurter Straße
+housenumber: "248"
+phone: +43 680 31 80 777
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.gloriel.at/

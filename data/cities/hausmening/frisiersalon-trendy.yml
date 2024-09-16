@@ -1,11 +1,11 @@
 id: 188889386
-type: way
+type: node
 latitude: 48.06994
 longitude: 14.81385
 postcode: "3363"
 city: Hausmening
-street: "Bahnhofstraße"
-housenumber: 78
+street: Bahnhofstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

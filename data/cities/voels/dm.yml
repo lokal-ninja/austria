@@ -4,8 +4,8 @@ latitude: 47.25889
 longitude: 11.32355
 postcode: "6176"
 city: Völs
-street: "Cytastraße"
-housenumber: 14
-phone: "+43 512 302875"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.dm-drogeriemarkt.at/store/at-881/voels/fmz-cyta-cytastrasse-14"
+street: Cytastraße
+housenumber: "14"
+phone: +43 512 302875
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.dm-drogeriemarkt.at/store/at-881/voels/fmz-cyta-cytastrasse-14

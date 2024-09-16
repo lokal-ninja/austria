@@ -1,11 +1,11 @@
 id: 121104148
-type: way
+type: node
 latitude: 47.41007
 longitude: 9.72529
 postcode: "6850"
 city: Dornbirn
-street: "Lustenauerstraße"
-housenumber: 46
+street: Lustenauerstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 705361851
-type: way
+type: node
 latitude: 48.49924
 longitude: 14.36081
 postcode: "4192"
 city: Schenkenfelden
-street: "Linzer Straße"
-housenumber: 25
+street: Linzer Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

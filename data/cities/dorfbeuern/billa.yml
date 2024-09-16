@@ -1,11 +1,11 @@
 id: 1080376437
-type: way
+type: node
 latitude: 48.01484
 longitude: 13.01872
 postcode: "5152"
 city: Dorfbeuern
-street: "Filzwiesen"
-housenumber: 1
+street: Filzwiesen
+housenumber: "1"
 phone: "05991505481"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

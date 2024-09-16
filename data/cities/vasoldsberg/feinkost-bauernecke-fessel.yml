@@ -1,11 +1,11 @@
 id: 315784719
-type: way
+type: node
 latitude: 47.02097
 longitude: 15.56373
 postcode: "8076"
 city: Vasoldsberg
-street: "Gemeindestraße"
-housenumber: 29
+street: Gemeindestraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

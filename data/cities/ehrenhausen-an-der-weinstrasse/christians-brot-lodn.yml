@@ -1,11 +1,11 @@
 id: 211252256
-type: way
+type: node
 latitude: 46.72402
 longitude: 15.58503
 postcode: "8461"
 city: Ehrenhausen an der Weinstraße
-street: "Bürgerwaldgasse"
-housenumber: 117
+street: Bürgerwaldgasse
+housenumber: "117"
 phone: ""
-opening_hours: "Fr-We 06:00-13:00"
-website: "https://www.brotlodn.at/"
+opening_hours: Fr-We 06:00-13:00
+website: https://www.brotlodn.at/

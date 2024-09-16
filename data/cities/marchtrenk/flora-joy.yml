@@ -1,11 +1,11 @@
 id: 104995791
-type: way
+type: node
 latitude: 48.19469
 longitude: 14.12949
 postcode: "4614"
 city: Marchtrenk
-street: "Linzer Straße"
-housenumber: 105
+street: Linzer Straße
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.89662
 longitude: 13.18462
 postcode: "5302"
 city: Henndorf am Wallersee
-street: "Hauptstraße"
-housenumber: 23
+street: Hauptstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 08:30-12:00,14:30-18:00; We,Sa 08:30-12:00"
-website: "http://tsgm.stadtausstellung.at/henndorf/account/baeckerei-anton-raha/web/"
+opening_hours: Mo-Tu,Th-Fr 08:30-12:00,14:30-18:00; We,Sa 08:30-12:00
+website: http://tsgm.stadtausstellung.at/henndorf/account/baeckerei-anton-raha/web/

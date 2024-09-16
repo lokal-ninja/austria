@@ -4,8 +4,8 @@ latitude: 48.24876
 longitude: 16.44708
 postcode: "1220"
 city: Wien
-street: "Kagraner Platz"
-housenumber: 41
+street: Kagraner Platz
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,15:00-18:00"
-website: "https://www.dasfernsehservice.at/"
+opening_hours: Mo-Fr 08:00-12:00,15:00-18:00
+website: https://www.dasfernsehservice.at/

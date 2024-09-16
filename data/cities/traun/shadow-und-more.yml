@@ -4,8 +4,8 @@ latitude: 48.21415
 longitude: 14.20601
 postcode: "4050"
 city: Traun
-street: "Traunerstraße"
-housenumber: 100
+street: Traunerstraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "http://www.shadow-more.at/"
+opening_hours: Mo-Fr 08:00-12:00
+website: http://www.shadow-more.at/

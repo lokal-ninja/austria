@@ -4,8 +4,8 @@ latitude: 48.25718
 longitude: 16.41383
 postcode: "1210"
 city: Wien
-street: "Bessemerstraße"
-housenumber: 38
+street: Bessemerstraße
+housenumber: "38"
 phone: ""
-opening_hours: "nach telefonischer Terminvereinbarung"
-website: "https://www.repa-rad-tur.at"
+opening_hours: '"nach telefonischer Terminvereinbarung"'
+website: https://www.repa-rad-tur.at

@@ -4,8 +4,8 @@ latitude: 47.07051
 longitude: 15.44108
 postcode: "8010"
 city: Graz
-street: "Stempfergasse"
-housenumber: 3
+street: Stempfergasse
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.feinundflink.at/de/impressum/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.feinundflink.at/de/impressum/

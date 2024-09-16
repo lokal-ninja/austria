@@ -1,11 +1,11 @@
 id: 103897503
-type: way
+type: node
 latitude: 48.43989
 longitude: 14.53845
 postcode: "4292"
 city: Kefermarkt
-street: "Am Bahnhof"
-housenumber: 1
-phone: "+43 7947 6209"
+street: Am Bahnhof
+housenumber: "1"
+phone: +43 7947 6209
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1015676522
-type: way
+type: node
 latitude: 47.18527
 longitude: 10.90834
 postcode: "6433"
 city: Oetz
 street: ""
-housenumber: 11
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30"
+opening_hours: Mo-Fr 08:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 419726824
-type: way
+type: node
 latitude: 47.40918
 longitude: 9.72804
 postcode: "6850"
 city: Dornbirn
-street: "Schoren"
-housenumber: 10
-phone: "+43 5574 76054 309"
+street: Schoren
+housenumber: "10"
+phone: +43 5574 76054 309
 opening_hours: ""
 website: ""

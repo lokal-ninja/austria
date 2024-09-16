@@ -1,11 +1,11 @@
 id: 98646367
-type: way
+type: node
 latitude: 48.16248
 longitude: 14.04375
 postcode: "4600"
 city: Wels
-street: "Wiesenstraße"
-housenumber: 60
+street: Wiesenstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00"
+opening_hours: Mo-Fr 06:30-19:00
 website: ""

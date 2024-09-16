@@ -4,8 +4,8 @@ latitude: 47.66557
 longitude: 12.40444
 postcode: "6345"
 city: Kössen
-street: "Alleestraße"
-housenumber: 31
-phone: "+43 5375 6256"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30"
-website: "https://www.sport-muehlberger.at/"
+street: Alleestraße
+housenumber: "31"
+phone: +43 5375 6256
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30
+website: https://www.sport-muehlberger.at/

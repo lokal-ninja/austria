@@ -4,8 +4,8 @@ latitude: 46.80432
 longitude: 15.5563
 postcode: "8431"
 city: Gralla
-street: "Gewerbepark Nord"
-housenumber: 1
-phone: "+43 3452 84438"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; PH off"
-website: "http://www.hirschmugl.eu"
+street: Gewerbepark Nord
+housenumber: "1"
+phone: +43 3452 84438
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; PH off
+website: http://www.hirschmugl.eu

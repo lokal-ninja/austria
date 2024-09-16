@@ -1,11 +1,11 @@
 id: 110234709
-type: way
+type: node
 latitude: 46.63781
 longitude: 14.29905
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Turmgasse"
-housenumber: 24
+street: Turmgasse
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at/

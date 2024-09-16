@@ -1,11 +1,11 @@
 id: 588787031
-type: way
+type: node
 latitude: 47.98913
 longitude: 13.68129
 postcode: "4844"
 city: Regau
-street: "Betriebsstraße"
-housenumber: 19
-phone: "+43-660-6622045"
+street: Betriebsstraße
+housenumber: "19"
+phone: +43-660-6622045
 opening_hours: ""
 website: ""

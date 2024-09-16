@@ -1,11 +1,11 @@
 id: 155821966
-type: way
+type: node
 latitude: 47.69379
 longitude: 13.10207
 postcode: "5411"
 city: Oberalm
-street: "Hammerstraße"
-housenumber: 35
+street: Hammerstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

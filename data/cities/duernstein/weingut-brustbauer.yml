@@ -5,7 +5,7 @@ longitude: 15.53452
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 2
-phone: "+43 2732 873 00"
+housenumber: "2"
+phone: +43 2732 873 00
 opening_hours: ""
-website: "https://www.brustbauer.at/"
+website: https://www.brustbauer.at/

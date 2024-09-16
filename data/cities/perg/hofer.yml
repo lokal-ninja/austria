@@ -1,11 +1,11 @@
 id: 203295199
-type: way
+type: node
 latitude: 48.23641
 longitude: 14.62639
 postcode: "4320"
 city: Perg
-street: "Gewerbestraße"
-housenumber: 10
+street: Gewerbestraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

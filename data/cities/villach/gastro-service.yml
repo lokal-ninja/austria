@@ -4,8 +4,8 @@ latitude: 46.61351
 longitude: 13.83557
 postcode: "9500"
 city: Villach
-street: "Tiroler Straße"
-housenumber: 20
-phone: "+43 4242 26222"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.gastro-service-kaernten.at"
+street: Tiroler Straße
+housenumber: "20"
+phone: +43 4242 26222
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.gastro-service-kaernten.at

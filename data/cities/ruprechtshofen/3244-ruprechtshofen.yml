@@ -1,11 +1,11 @@
 id: 184479973
-type: way
+type: node
 latitude: 48.13665
 longitude: 15.27677
 postcode: "3244"
 city: Ruprechtshofen
-street: "Hauptplatz"
-housenumber: 1
+street: Hauptplatz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

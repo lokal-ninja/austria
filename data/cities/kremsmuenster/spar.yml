@@ -1,11 +1,11 @@
 id: 28628824
-type: way
+type: node
 latitude: 48.05015
 longitude: 14.12597
 postcode: "4550"
 city: Kremsmünster
-street: "Gablonzer Straße"
-housenumber: 9
+street: Gablonzer Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at/standorte/spar-kremsmuenster-4550-gablonzer-strasse-9"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at/standorte/spar-kremsmuenster-4550-gablonzer-strasse-9

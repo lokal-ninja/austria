@@ -4,8 +4,8 @@ latitude: 47.26575
 longitude: 11.4322
 postcode: "6020"
 city: Innsbruck
-street: "Etrichgasse"
-housenumber: 16
-phone: "+43 512 341525"
-opening_hours: "Mo-We 13:00-18:30; Th-Fr 09:00-18:30; Sa 10:30-13:00; PH off"
-website: "https://www.hf-jagdwaffen.at/"
+street: Etrichgasse
+housenumber: "16"
+phone: +43 512 341525
+opening_hours: Mo-We 13:00-18:30; Th-Fr 09:00-18:30; Sa 10:30-13:00; PH off
+website: https://www.hf-jagdwaffen.at/

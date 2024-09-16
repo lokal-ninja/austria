@@ -1,11 +1,11 @@
 id: 122404325
-type: way
+type: node
 latitude: 48.0242
 longitude: 13.29296
 postcode: "5212"
 city: Lengau
-street: "Triftweg"
-housenumber: 2
+street: Triftweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

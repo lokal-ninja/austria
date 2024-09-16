@@ -1,11 +1,11 @@
 id: 211157206
-type: way
+type: node
 latitude: 46.70359
 longitude: 15.62066
 postcode: "8472"
 city: Straß in Steiermark
-street: "Ferkweg"
-housenumber: 1
+street: Ferkweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.buschenschank-ferk.at"
+website: http://www.buschenschank-ferk.at

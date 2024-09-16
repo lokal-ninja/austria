@@ -4,8 +4,8 @@ latitude: 46.80809
 longitude: 12.37153
 postcode: "9932"
 city: Innervillgraten
-street: "Gasse"
-housenumber: 79
-phone: "+43 4843 5355"
-opening_hours: "Mo-Fr 07:30-12:00,14:30-18:30; Sa 07:30-12:00"
-website: "https://www.spar.at/de_AT/index/standorte/99/eveline_lanser_2107.html"
+street: Gasse
+housenumber: "79"
+phone: +43 4843 5355
+opening_hours: Mo-Fr 07:30-12:00,14:30-18:30; Sa 07:30-12:00
+website: https://www.spar.at/de_AT/index/standorte/99/eveline_lanser_2107.html

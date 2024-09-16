@@ -4,8 +4,8 @@ latitude: 47.26678
 longitude: 11.39282
 postcode: "6020"
 city: Innsbruck
-street: "Marktgraben"
-housenumber: 14
-phone: "+43 676 6713660"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su, PH off"
-website: "https://gruenzeug.tirol/greenroot/"
+street: Marktgraben
+housenumber: "14"
+phone: +43 676 6713660
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; Su, PH off
+website: https://gruenzeug.tirol/greenroot/

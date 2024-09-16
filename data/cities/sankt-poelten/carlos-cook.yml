@@ -1,11 +1,11 @@
 id: 174668290
-type: way
+type: node
 latitude: 48.22649
 longitude: 15.67644
 postcode: "3100"
 city: Sankt Pölten
-street: "Gerichtsfeldgasse"
-housenumber: 31
+street: Gerichtsfeldgasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

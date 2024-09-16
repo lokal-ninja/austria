@@ -1,11 +1,11 @@
 id: 297825375
-type: way
+type: node
 latitude: 47.12542
 longitude: 13.8082
 postcode: "5580"
 city: Tamsweg
-street: "St. Leonhard Gasse"
-housenumber: 2
+street: St. Leonhard Gasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

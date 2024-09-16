@@ -1,11 +1,11 @@
 id: 89513846
-type: way
+type: node
 latitude: 47.14074
 longitude: 10.54787
 postcode: "6500"
 city: Landeck
-street: "Flirstraße"
-housenumber: 25
+street: Flirstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

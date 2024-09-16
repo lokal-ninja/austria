@@ -1,11 +1,11 @@
 id: 103267828
-type: way
+type: node
 latitude: 48.3028
 longitude: 14.31901
 postcode: "4020"
 city: Linz
-street: "Prinz-Eugen-Straße"
-housenumber: 15
+street: Prinz-Eugen-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

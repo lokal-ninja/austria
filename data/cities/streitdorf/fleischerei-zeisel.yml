@@ -1,11 +1,11 @@
 id: 338685495
-type: way
+type: node
 latitude: 48.46425
 longitude: 16.27206
 postcode: "2004"
 city: Streitdorf
-street: "Schmiedgasse"
-housenumber: 13
+street: Schmiedgasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

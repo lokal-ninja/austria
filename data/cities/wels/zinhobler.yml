@@ -1,11 +1,11 @@
 id: 130373159
-type: way
+type: node
 latitude: 48.17076
 longitude: 14.04753
 postcode: "4600"
 city: Wels
-street: "Hans-Sachs-Straße"
-housenumber: 123
+street: Hans-Sachs-Straße
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

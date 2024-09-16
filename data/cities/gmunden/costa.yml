@@ -4,8 +4,8 @@ latitude: 47.91753
 longitude: 13.80416
 postcode: "4810"
 city: Gmunden
-street: "Klosterplatz"
-housenumber: 3
-phone: "+43 7612 74655"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "www.traunseenet.at"
+street: Klosterplatz
+housenumber: "3"
+phone: +43 7612 74655
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: www.traunseenet.at

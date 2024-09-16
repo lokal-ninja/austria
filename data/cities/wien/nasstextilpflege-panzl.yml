@@ -4,8 +4,8 @@ latitude: 48.21612
 longitude: 16.3571
 postcode: "1090"
 city: Wien
-street: "Ferstelgasse"
-housenumber: 5
+street: Ferstelgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "http://www.panzl.co.at/"
+opening_hours: Mo-Fr 10:00-18:00
+website: http://www.panzl.co.at/

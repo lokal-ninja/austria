@@ -4,8 +4,8 @@ latitude: 48.19579
 longitude: 16.34474
 postcode: "1060"
 city: Wien
-street: "Webgasse"
-housenumber: 39
+street: Webgasse
+housenumber: "39"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00"
-website: "https://www.g-room.at/"
+opening_hours: Tu-Fr 10:00-19:00
+website: https://www.g-room.at/

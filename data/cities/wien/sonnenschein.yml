@@ -4,8 +4,8 @@ latitude: 48.2031
 longitude: 16.34889
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 53
+street: Neubaugasse
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:30,14:00-18:00; Sa 11:00-13:30,14:00-17:00"
+opening_hours: Mo-Fr 11:00-13:30,14:00-18:00; Sa 11:00-13:30,14:00-17:00
 website: ""

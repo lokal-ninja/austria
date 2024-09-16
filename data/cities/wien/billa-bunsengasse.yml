@@ -4,8 +4,8 @@ latitude: 48.26397
 longitude: 16.39113
 postcode: "1210"
 city: Wien
-street: "Bunsengasse"
-housenumber: 4
-phone: "+43 59915 01220"
-opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
+street: Bunsengasse
+housenumber: "4"
+phone: +43 59915 01220
+opening_hours: Mo-Fr 07:30-19:50; Sa 07:40-18:00
 website: ""

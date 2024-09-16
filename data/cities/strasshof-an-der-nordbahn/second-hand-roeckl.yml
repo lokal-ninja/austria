@@ -1,11 +1,11 @@
 id: 404629475
-type: way
+type: node
 latitude: 48.31523
 longitude: 16.66478
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Flugfeldstraße"
-housenumber: 93
+street: Flugfeldstraße
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

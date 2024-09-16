@@ -1,11 +1,12 @@
 id: 96257397
-type: way
+type: node
 latitude: 47.27501
 longitude: 15.96622
 postcode: "8230"
 city: Hartberg
-street: "Ressavarstraße"
+street: Ressavarstraße
 housenumber: 4a
-phone: "03332/62496-30"
-opening_hours: "Mo,Fr 07:45-12:00, 13:00-17:00; Tu-Th 07:45-12:00, 13:00-16:30; Sa 09:00-12:00"
-website: "https://www.auto-lind.at"
+phone: 03332/62496-30
+opening_hours: Mo,Fr 07:45-12:00, 13:00-17:00; Tu-Th 07:45-12:00, 13:00-16:30; Sa
+    09:00-12:00
+website: https://www.auto-lind.at

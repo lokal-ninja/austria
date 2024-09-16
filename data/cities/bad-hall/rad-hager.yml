@@ -1,11 +1,11 @@
 id: 209238991
-type: way
+type: node
 latitude: 48.03276
 longitude: 14.2124
 postcode: "4540"
 city: Bad Hall
-street: "Steyrer Straße"
-housenumber: 8
+street: Steyrer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

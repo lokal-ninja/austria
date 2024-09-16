@@ -1,11 +1,11 @@
 id: 121789441
-type: way
+type: node
 latitude: 47.39849
 longitude: 10.92158
 postcode: "6632"
 city: Ehrwald
-street: "Reinhard Spielmann-Straße"
-housenumber: 2
-phone: "+43 5673 2244 0"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.linzgieseder.at/"
+street: Reinhard Spielmann-Straße
+housenumber: "2"
+phone: +43 5673 2244 0
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.linzgieseder.at/

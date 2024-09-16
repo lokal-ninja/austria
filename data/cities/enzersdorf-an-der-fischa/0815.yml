@@ -1,11 +1,11 @@
 id: 1089608559
-type: way
+type: node
 latitude: 48.06758
 longitude: 16.61385
 postcode: "2431"
 city: Enzersdorf an der Fischa
-street: "Am Campus"
-housenumber: 4
+street: Am Campus
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

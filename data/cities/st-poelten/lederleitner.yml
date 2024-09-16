@@ -4,8 +4,8 @@ latitude: 48.20472
 longitude: 15.62608
 postcode: "3100"
 city: St. Pölten
-street: "Herrenplatz"
-housenumber: 5
+street: Herrenplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.lederleitner.at/standorte.html"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.lederleitner.at/standorte.html

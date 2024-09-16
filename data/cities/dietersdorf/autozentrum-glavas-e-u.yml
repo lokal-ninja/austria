@@ -1,11 +1,11 @@
 id: 744358432
-type: way
+type: node
 latitude: 48.26805
 longitude: 15.97161
 postcode: "3441"
 city: Dietersdorf
-street: "Dorfstraße"
-housenumber: 13
+street: Dorfstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

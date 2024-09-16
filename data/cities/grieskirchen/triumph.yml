@@ -4,8 +4,8 @@ latitude: 48.23496
 longitude: 13.8301
 postcode: "4710"
 city: Grieskirchen
-street: "Stadtplatz"
-housenumber: 8
-phone: "+43-7248-62774"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "https://at.triumph.com/"
+street: Stadtplatz
+housenumber: "8"
+phone: +43-7248-62774
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
+website: https://at.triumph.com/

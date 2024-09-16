@@ -1,11 +1,11 @@
 id: 151914575
-type: way
+type: node
 latitude: 48.01753
 longitude: 16.77726
 postcode: "2460"
 city: Bruckneudorf
-street: "Lagerstraße"
+street: Lagerstraße
 housenumber: 8-10
-phone: "+43 59915 07285"
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+phone: +43 59915 07285
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

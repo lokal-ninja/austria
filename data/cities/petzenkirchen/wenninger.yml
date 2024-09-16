@@ -1,11 +1,11 @@
 id: 557024870
-type: way
+type: node
 latitude: 48.1458
 longitude: 15.15569
 postcode: "3252"
 city: Petzenkirchen
-street: "Wiener Straße"
-housenumber: 43
+street: Wiener Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.17478
 longitude: 14.05049
 postcode: "4600"
 city: Wels
-street: "Kamerlweg"
-housenumber: 31
-phone: "+43-7242-306090"
+street: Kamerlweg
+housenumber: "31"
+phone: +43-7242-306090
 opening_hours: ""
-website: "https://nogis.at/"
+website: https://nogis.at/

@@ -1,11 +1,11 @@
 id: 30438073
-type: way
+type: node
 latitude: 48.15323
 longitude: 16.38257
 postcode: "1100"
 city: Wien
-street: "Favoritenstraße"
-housenumber: 239
-phone: "+43 1 201 22 3511"
-opening_hours: "24/7"
-website: "https://www.hanssonzentrum.at/"
+street: Favoritenstraße
+housenumber: "239"
+phone: +43 1 201 22 3511
+opening_hours: 24/7
+website: https://www.hanssonzentrum.at/

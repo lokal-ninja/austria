@@ -4,8 +4,8 @@ latitude: 48.19627
 longitude: 16.34824
 postcode: "1060"
 city: Wien
-street: "Otto-Bauer-Gasse"
-housenumber: 17
+street: Otto-Bauer-Gasse
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.spielraum.co.at/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.spielraum.co.at/

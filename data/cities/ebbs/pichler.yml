@@ -1,11 +1,11 @@
 id: 134768774
-type: way
+type: node
 latitude: 47.63451
 longitude: 12.2144
 postcode: "6341"
 city: Ebbs
-street: "Wildbichler Straße"
-housenumber: 49
+street: Wildbichler Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

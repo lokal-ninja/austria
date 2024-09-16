@@ -1,11 +1,11 @@
 id: 529948598
-type: way
+type: node
 latitude: 48.30263
 longitude: 16.36803
 postcode: "2103"
 city: Langenzersdorf
-street: "Friedhofstraße"
-housenumber: 67
+street: Friedhofstraße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

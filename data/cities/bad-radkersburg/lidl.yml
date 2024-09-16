@@ -1,11 +1,11 @@
 id: 766541532
-type: way
+type: node
 latitude: 46.68956
 longitude: 15.98156
 postcode: "8490"
 city: Bad Radkersburg
-street: "Kurhausstraße"
-housenumber: 4
+street: Kurhausstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

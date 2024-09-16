@@ -4,8 +4,8 @@ latitude: 47.52141
 longitude: 12.42837
 postcode: "6380"
 city: St. Johann in Tirol
-street: "Speckbacherstraße"
-housenumber: 5
+street: Speckbacherstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00"
-website: "https://www.bezirksbegleiter-kb.at/de/partner/4024/praesentation/aktuell"
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00
+website: https://www.bezirksbegleiter-kb.at/de/partner/4024/praesentation/aktuell

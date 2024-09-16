@@ -1,11 +1,11 @@
 id: 98591005
-type: way
+type: node
 latitude: 47.03778
 longitude: 10.60618
 postcode: "6534"
 city: Serfaus
-street: "Untere Dorfstraße"
-housenumber: 16
+street: Untere Dorfstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:30-18:00"
+opening_hours: Mo-Sa 09:00-12:00,14:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 90681205
-type: way
+type: node
 latitude: 48.28903
 longitude: 14.12016
 postcode: "4072"
 city: Alkoven
-street: "Rosenstraße"
-housenumber: 1
+street: Rosenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

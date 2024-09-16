@@ -1,11 +1,11 @@
 id: 184991907
-type: way
+type: node
 latitude: 48.70085
 longitude: 14.89828
 postcode: "3970"
 city: Weitra
-street: "Bahnhofstraße"
-housenumber: 196
+street: Bahnhofstraße
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

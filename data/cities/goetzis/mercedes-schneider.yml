@@ -1,11 +1,11 @@
 id: 96412492
-type: way
+type: node
 latitude: 47.34718
 longitude: 9.63697
 postcode: "6840"
 city: Götzis
-street: "Lastenstraße"
-housenumber: 57
+street: Lastenstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.2102
 longitude: 16.34641
 postcode: "1080"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 52
-phone: "+43 664 916 26 28"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
-website: "https://www.gragger.at/"
+street: Josefstädter Straße
+housenumber: "52"
+phone: +43 664 916 26 28
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
+website: https://www.gragger.at/

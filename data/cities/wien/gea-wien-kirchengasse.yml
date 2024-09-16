@@ -4,8 +4,8 @@ latitude: 48.20141
 longitude: 16.35223
 postcode: "1070"
 city: Wien
-street: "Kirchengasse"
-housenumber: 22
-phone: "+43 1/522 55 70"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-17:00"
-website: "http://www.gea.at/"
+street: Kirchengasse
+housenumber: "22"
+phone: +43 1/522 55 70
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-17:00
+website: http://www.gea.at/

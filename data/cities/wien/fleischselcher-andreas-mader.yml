@@ -4,8 +4,8 @@ latitude: 48.23144
 longitude: 16.35392
 postcode: "1090"
 city: Wien
-street: "Währinger Gürtel"
-housenumber: 170
+street: Währinger Gürtel
+housenumber: "170"
 phone: ""
-opening_hours: "nur Bestellungen"
+opening_hours: '"nur Bestellungen"'
 website: ""

@@ -1,11 +1,11 @@
 id: 400573880
-type: way
+type: node
 latitude: 47.16264
 longitude: 9.80111
 postcode: "6714"
 city: Nüziders
-street: "Bundesstraße"
-housenumber: 4
-phone: "+43 555262185"
+street: Bundesstraße
+housenumber: "4"
+phone: +43 555262185
 opening_hours: ""
-website: "https://www.autohaus-lins.at/"
+website: https://www.autohaus-lins.at/

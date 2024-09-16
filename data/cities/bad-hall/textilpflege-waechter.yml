@@ -1,11 +1,11 @@
 id: 57776376
-type: way
+type: node
 latitude: 48.0355
 longitude: 14.20759
 postcode: "4540"
 city: Bad Hall
-street: "Kirchenstraße"
-housenumber: 15
+street: Kirchenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo- Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.textilpflege-waechter.at/"
+opening_hours: Mo- Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.textilpflege-waechter.at/

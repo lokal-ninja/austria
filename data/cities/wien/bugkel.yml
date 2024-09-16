@@ -4,8 +4,8 @@ latitude: 48.21848
 longitude: 16.33262
 postcode: "1170"
 city: Wien
-street: "Kalvarienberggasse"
-housenumber: 32
+street: Kalvarienberggasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-12:30; Su off"
-website: "https://www.bugkel.at/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-12:30; Su off
+website: https://www.bugkel.at/

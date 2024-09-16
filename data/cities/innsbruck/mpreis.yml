@@ -4,8 +4,8 @@ latitude: 47.2618
 longitude: 11.36473
 postcode: "6020"
 city: Innsbruck
-street: "Fischerhäuslweg"
-housenumber: 31
-phone: "+43 50321 928092"
-opening_hours: "Mo-Th 07:40-19:00; Fr 07:40-19:30; Sa 07:40-18:00; PH off"
-website: "https://www.mpreis.at"
+street: Fischerhäuslweg
+housenumber: "31"
+phone: +43 50321 928092
+opening_hours: Mo-Th 07:40-19:00; Fr 07:40-19:30; Sa 07:40-18:00; PH off
+website: https://www.mpreis.at

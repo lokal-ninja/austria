@@ -4,8 +4,8 @@ latitude: 48.22728
 longitude: 16.34242
 postcode: "1180"
 city: Wien
-street: "Gymnasiumstraße"
-housenumber: 2
+street: Gymnasiumstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa,Su,PH 09:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa,Su,PH 09:00-20:00
 website: ""

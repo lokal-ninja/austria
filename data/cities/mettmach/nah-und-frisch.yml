@@ -1,11 +1,11 @@
 id: 394552423
-type: way
+type: node
 latitude: 48.17227
 longitude: 13.34798
 postcode: "4931"
 city: Mettmach
-street: "Rieder Straße"
-housenumber: 15
+street: Rieder Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su,PH off
 website: ""

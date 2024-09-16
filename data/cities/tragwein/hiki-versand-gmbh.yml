@@ -5,7 +5,7 @@ longitude: 14.57383
 postcode: "4284"
 city: Tragwein
 street: ""
-housenumber: 100
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92674148
-type: way
+type: node
 latitude: 48.15378
 longitude: 16.33949
 postcode: "1230"
 city: Wien
-street: "Triester Straße"
-housenumber: 167
+street: Triester Straße
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.lorenc.at"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.lorenc.at

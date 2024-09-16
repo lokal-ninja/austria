@@ -1,11 +1,11 @@
 id: 130632845
-type: way
+type: node
 latitude: 48.24129
 longitude: 16.33901
 postcode: "1190"
 city: Wien
-street: "Flotowgasse"
+street: Flotowgasse
 housenumber: 4/6
-phone: "059 9150 1958"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://billa.at/"
+phone: 059 9150 1958
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://billa.at/

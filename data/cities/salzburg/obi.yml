@@ -1,11 +1,11 @@
 id: 237086240
-type: way
+type: node
 latitude: 47.79649
 longitude: 13.00733
 postcode: "5020"
 city: Salzburg
-street: "Karolingerstraße"
-housenumber: 2
+street: Karolingerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00"
-website: "https://www.obi.at/baumarkt/salzburg-maxglan/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00
+website: https://www.obi.at/baumarkt/salzburg-maxglan/

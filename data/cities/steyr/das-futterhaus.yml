@@ -4,8 +4,8 @@ latitude: 48.05713
 longitude: 14.45107
 postcode: "4400"
 city: Steyr
-street: "Haager Straße"
-housenumber: 46
+street: Haager Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa  08:30-18:00"
-website: "https://www.dasfutterhaus.at/service/filialen/steyr/"
+opening_hours: Mo-Fr 08:30-18:30; Sa  08:30-18:00
+website: https://www.dasfutterhaus.at/service/filialen/steyr/

@@ -1,11 +1,11 @@
 id: 544984438
-type: way
+type: node
 latitude: 47.86166
 longitude: 13.12847
 postcode: "5301"
 city: Eugendorf
-street: "Gewerbestraße"
-housenumber: 1
-phone: "+43 6225 2405"
-opening_hours: "24/7"
-website: "https://www.bp.com/de_at/on-the-road/austria/bp-ganz-in-ihrer-nahe.html?stationid=4610065880460"
+street: Gewerbestraße
+housenumber: "1"
+phone: +43 6225 2405
+opening_hours: 24/7
+website: https://www.bp.com/de_at/on-the-road/austria/bp-ganz-in-ihrer-nahe.html?stationid=4610065880460

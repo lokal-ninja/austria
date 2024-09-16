@@ -4,8 +4,8 @@ latitude: 47.07507
 longitude: 15.44043
 postcode: "8010"
 city: Graz
-street: "Paulustorgasse"
-housenumber: 8
+street: Paulustorgasse
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.baum-gartner.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.baum-gartner.at/

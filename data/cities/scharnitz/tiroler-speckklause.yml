@@ -1,11 +1,11 @@
 id: 951263276
-type: way
+type: node
 latitude: 47.39101
 longitude: 11.2651
 postcode: "6108"
 city: Scharnitz
-street: "Innsbruckerstraße"
-housenumber: 67
-phone: "+43 5213 5767"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Su 10:00-18:00; PH off"
-website: "https://www.tiroler-speckklause.at/"
+street: Innsbruckerstraße
+housenumber: "67"
+phone: +43 5213 5767
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Su 10:00-18:00; PH off
+website: https://www.tiroler-speckklause.at/

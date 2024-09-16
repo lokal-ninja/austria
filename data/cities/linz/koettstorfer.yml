@@ -4,8 +4,8 @@ latitude: 48.27473
 longitude: 14.29431
 postcode: "4020"
 city: Linz
-street: "Hatschekstraße"
-housenumber: 1
-phone: "+43 732 346 211"
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "https://www.koettstorfer.at"
+street: Hatschekstraße
+housenumber: "1"
+phone: +43 732 346 211
+opening_hours: Mo-Fr 09:00-13:00
+website: https://www.koettstorfer.at

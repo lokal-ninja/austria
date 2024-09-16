@@ -1,11 +1,13 @@
 id: 89094425
-type: way
+type: node
 latitude: 48.23536
 longitude: 16.42318
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
+street: Wagramer Straße
 housenumber: 36A
-phone: "+43-1-263 4292"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00 open Verkauf || Mo-Th 07:00-12:00,13:00-17:00; Fr 07:00-13:00 open Service || Mo-Th 08:00-12:00,13:00-16:00; Fr 08:00-12:00 open Teileverkauf"
-website: "http://wwe.fischerauto.at"
+phone: +43-1-263 4292
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00 open "Verkauf" || Mo-Th 07:00-12:00,13:00-17:00;
+    Fr 07:00-13:00 open "Service" || Mo-Th 08:00-12:00,13:00-16:00; Fr 08:00-12:00
+    open "Teileverkauf"
+website: http://wwe.fischerauto.at

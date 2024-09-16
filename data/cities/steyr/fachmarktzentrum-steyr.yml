@@ -1,11 +1,11 @@
 id: 30577437
-type: way
+type: node
 latitude: 48.05399
 longitude: 14.41979
 postcode: "4400"
 city: Steyr
-street: "Ennser Straße"
-housenumber: 29
+street: Ennser Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

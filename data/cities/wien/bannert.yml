@@ -4,8 +4,8 @@ latitude: 48.21545
 longitude: 16.37138
 postcode: "1010"
 city: Wien
-street: "Werdertorgasse"
-housenumber: 14
-phone: "+43 1 5332530"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.spielwarenbannert.at/"
+street: Werdertorgasse
+housenumber: "14"
+phone: +43 1 5332530
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.spielwarenbannert.at/

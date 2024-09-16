@@ -1,11 +1,11 @@
 id: 119889144
-type: way
+type: node
 latitude: 48.75966
 longitude: 14.99334
 postcode: "3950"
 city: Gmünd
-street: "Albrechtser Straße"
-housenumber: 9
+street: Albrechtser Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.obi.at/"
+website: https://www.obi.at/

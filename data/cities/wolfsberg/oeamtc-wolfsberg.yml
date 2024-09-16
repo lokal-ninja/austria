@@ -1,11 +1,11 @@
 id: 605331115
-type: way
+type: node
 latitude: 46.82671
 longitude: 14.83978
 postcode: "9400"
 city: Wolfsberg
-street: "Klagenfurter Straße"
-housenumber: 21
+street: Klagenfurter Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

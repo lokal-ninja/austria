@@ -1,11 +1,11 @@
 id: 935513916
-type: way
+type: node
 latitude: 47.2895
 longitude: 11.581
 postcode: "6111"
 city: Volders
-street: "Kreuzbichl"
-housenumber: 7
+street: Kreuzbichl
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

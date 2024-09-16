@@ -1,11 +1,11 @@
 id: 204999901
-type: way
+type: node
 latitude: 48.14813
 longitude: 16.26191
 postcode: "1230"
 city: Wien
-street: "Rodauner Straße"
-housenumber: 2
+street: Rodauner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.spar.at/

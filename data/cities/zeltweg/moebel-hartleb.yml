@@ -4,8 +4,8 @@ latitude: 47.19521
 longitude: 14.76335
 postcode: "8740"
 city: Zeltweg
-street: "Tischlerstraße"
-housenumber: 29
-phone: "+43 3577 22397-0"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00"
-website: "http://www.hartleb.at/kontakt/"
+street: Tischlerstraße
+housenumber: "29"
+phone: +43 3577 22397-0
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 09:00-12:00
+website: http://www.hartleb.at/kontakt/

@@ -1,11 +1,11 @@
 id: 150853199
-type: way
+type: node
 latitude: 48.34772
 longitude: 14.66926
 postcode: "4283"
 city: Bad Zell
-street: "Linzer Straße"
-housenumber: 17
+street: Linzer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

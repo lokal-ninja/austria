@@ -4,8 +4,8 @@ latitude: 47.80064
 longitude: 13.04285
 postcode: "5020"
 city: Salzburg
-street: "Griesgasse"
-housenumber: 15
-phone: "+43 662890171"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-19:00; Su 08:00-18:00"
+street: Griesgasse
+housenumber: "15"
+phone: +43 662890171
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-19:00; Su 08:00-18:00
 website: ""

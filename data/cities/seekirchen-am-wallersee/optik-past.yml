@@ -4,8 +4,8 @@ latitude: 47.89424
 longitude: 13.12521
 postcode: "5201"
 city: Seekirchen am Wallersee
-street: "Hauptstraße"
-housenumber: 29
-phone: "+43 6212 7610"
-opening_hours: "Mo-Fr 09:00-18:00; PH off; Sa 09:00-12:00"
-website: "https://www.optik-past.at/"
+street: Hauptstraße
+housenumber: "29"
+phone: +43 6212 7610
+opening_hours: Mo-Fr 09:00-18:00; PH off; Sa 09:00-12:00
+website: https://www.optik-past.at/

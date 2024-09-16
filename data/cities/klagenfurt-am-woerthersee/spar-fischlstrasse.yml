@@ -1,11 +1,11 @@
 id: 241976841
-type: way
+type: node
 latitude: 46.61972
 longitude: 14.33115
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Fischlstraße"
-housenumber: 1
+street: Fischlstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

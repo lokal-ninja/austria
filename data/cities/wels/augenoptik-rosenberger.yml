@@ -4,8 +4,8 @@ latitude: 48.16693
 longitude: 14.02431
 postcode: "4600"
 city: Wels
-street: "Grünbachplatz"
-housenumber: 13
-phone: "+43 7242 68464"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00"
-website: "https://www.optik-rosenberger.at/"
+street: Grünbachplatz
+housenumber: "13"
+phone: +43 7242 68464
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00
+website: https://www.optik-rosenberger.at/

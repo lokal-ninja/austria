@@ -1,11 +1,11 @@
 id: 188558347
-type: way
+type: node
 latitude: 46.66238
 longitude: 15.54768
 postcode: "8463"
 city: Glanz an der Weinstraße
 street: ""
-housenumber: 23
+housenumber: "23"
 phone: ""
-opening_hours: "Fr-Tu 10:00-23:00;We-Th off"
-website: "https://www.weingut-zirngast.at/"
+opening_hours: Fr-Tu 10:00-23:00;We-Th off
+website: https://www.weingut-zirngast.at/

@@ -5,7 +5,7 @@ longitude: 14.46089
 postcode: "4209"
 city: Engerwitzdorf
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: "+4366473904946"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.biohof-gratzer.at/"
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.biohof-gratzer.at/

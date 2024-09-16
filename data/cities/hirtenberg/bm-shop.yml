@@ -1,11 +1,11 @@
 id: 182886898
-type: way
+type: node
 latitude: 47.9312
 longitude: 16.18355
 postcode: "2552"
 city: Hirtenberg
-street: "Leobersdorfer Straße"
-housenumber: 26
+street: Leobersdorfer Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

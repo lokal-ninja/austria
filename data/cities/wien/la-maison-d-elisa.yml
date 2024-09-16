@@ -4,8 +4,8 @@ latitude: 48.20215
 longitude: 16.35307
 postcode: "1070"
 city: Wien
-street: "Siebensterngasse"
-housenumber: 23
+street: Siebensterngasse
+housenumber: "23"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 10:30-18:00; Sa 10:30-17:00"
+opening_hours: Mo off; Tu-Fr 10:30-18:00; Sa 10:30-17:00
 website: ""

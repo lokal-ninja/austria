@@ -1,11 +1,11 @@
 id: 307149900
-type: way
+type: node
 latitude: 47.37274
 longitude: 9.69389
 postcode: "6845"
 city: Hohenems
-street: "Radetzkystraße"
-housenumber: 80
-phone: "+43 660 6877002"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-15:00"
+street: Radetzkystraße
+housenumber: "80"
+phone: +43 660 6877002
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-15:00
 website: ""

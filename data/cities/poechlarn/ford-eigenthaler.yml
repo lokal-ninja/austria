@@ -4,8 +4,8 @@ latitude: 48.19743
 longitude: 15.2197
 postcode: "3380"
 city: Pöchlarn
-street: "Reichsstraße"
-housenumber: 10
-phone: "+43 2757 4555"
+street: Reichsstraße
+housenumber: "10"
+phone: +43 2757 4555
 opening_hours: ""
-website: "https://www.eigenthaler.at/"
+website: https://www.eigenthaler.at/

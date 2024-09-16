@@ -1,11 +1,11 @@
 id: 297493954
-type: way
+type: node
 latitude: 48.1127
 longitude: 16.29819
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Wiener Straße"
-housenumber: 123
+street: Wiener Straße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

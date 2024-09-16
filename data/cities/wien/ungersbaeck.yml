@@ -4,8 +4,8 @@ latitude: 48.2177
 longitude: 16.38096
 postcode: "1020"
 city: Wien
-street: "Taborstraße"
-housenumber: 28
+street: Taborstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 07:00-12:30"
-website: "http://www.ungersbaeck.at/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 07:00-12:30
+website: http://www.ungersbaeck.at/

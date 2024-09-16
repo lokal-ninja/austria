@@ -1,11 +1,11 @@
 id: 116443379
-type: way
+type: node
 latitude: 48.13969
 longitude: 14.04595
 postcode: "4600"
 city: Thalheim bei Wels
-street: "Am Thalbach"
-housenumber: 15
-phone: "+43 660 1603036"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:00-13:00"
-website: "https://dampfautokosmetik.at/"
+street: Am Thalbach
+housenumber: "15"
+phone: +43 660 1603036
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:00-13:00
+website: https://dampfautokosmetik.at/

@@ -4,8 +4,8 @@ latitude: 47.07332
 longitude: 15.42025
 postcode: "8020"
 city: Graz
-street: "Keplerstraße"
-housenumber: 91
-phone: "+43 316 47 63 55"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.tedi.com/stores/1224/AT/Steiermark/Graz/Babenbergerstrasse-17"
+street: Keplerstraße
+housenumber: "91"
+phone: +43 316 47 63 55
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.tedi.com/stores/1224/AT/Steiermark/Graz/Babenbergerstrasse-17

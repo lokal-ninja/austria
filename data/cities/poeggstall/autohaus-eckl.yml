@@ -1,11 +1,11 @@
 id: 185032908
-type: way
+type: node
 latitude: 48.31545
 longitude: 15.17048
 postcode: "3650"
 city: Pöggstall
 street: ""
-housenumber: 93
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://www.eckl.com/"
+website: https://www.eckl.com/

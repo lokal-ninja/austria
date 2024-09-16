@@ -4,8 +4,9 @@ latitude: 47.4957
 longitude: 9.73774
 postcode: "6900"
 city: Bregenz
-street: "Josef-Huter-Straße"
-housenumber: 21
-phone: "+43 677 61447947"
-opening_hours: "Mo 09:00-12:00,14:00-18:00; Tu-Th off; Fr 09:00-12:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.radikalwerkstatt.at/"
+street: Josef-Huter-Straße
+housenumber: "21"
+phone: +43 677 61447947
+opening_hours: Mo 09:00-12:00,14:00-18:00; Tu-Th off; Fr 09:00-12:00,14:00-18:00;
+    Sa,Su,PH off
+website: https://www.radikalwerkstatt.at/

@@ -1,11 +1,11 @@
 id: 164174480
-type: way
+type: node
 latitude: 47.17307
 longitude: 14.63477
 postcode: "8750"
 city: Judenburg
-street: "Grünhüblgasse"
-housenumber: 11
-phone: "+43 3572/46410"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.werkzeug-wachter.at"
+street: Grünhüblgasse
+housenumber: "11"
+phone: +43 3572/46410
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.werkzeug-wachter.at

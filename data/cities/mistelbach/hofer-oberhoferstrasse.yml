@@ -1,11 +1,11 @@
 id: 785302409
-type: way
+type: node
 latitude: 48.58001
 longitude: 16.5653
 postcode: "2130"
 city: Mistelbach
-street: "Oberhoferstraße"
-housenumber: 150
-phone: "+43 570030 34039"
-opening_hours: "Mo-Fr 07:40-19:00, Sa07:40-18:00"
+street: Oberhoferstraße
+housenumber: "150"
+phone: +43 570030 34039
+opening_hours: Mo-Fr 07:40-19:00, Sa07:40-18:00
 website: ""

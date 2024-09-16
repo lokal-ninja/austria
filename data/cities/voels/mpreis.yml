@@ -4,8 +4,8 @@ latitude: 47.2591
 longitude: 11.32251
 postcode: "6176"
 city: Völs
-street: "Cytastraße"
-housenumber: 24
-phone: "+43 50321 928062"
-opening_hours: "Mo-Fr 07:40-19:30; Sa 07:40-18:00; PH off"
-website: "https://www.mpreis.at/sp/standorte"
+street: Cytastraße
+housenumber: "24"
+phone: +43 50321 928062
+opening_hours: Mo-Fr 07:40-19:30; Sa 07:40-18:00; PH off
+website: https://www.mpreis.at/sp/standorte

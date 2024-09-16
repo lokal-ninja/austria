@@ -4,8 +4,8 @@ latitude: 48.22759
 longitude: 16.15254
 postcode: "3003"
 city: Gablitz
-street: "Dr. Franz Josef Brandfellnerplatz"
-housenumber: 1
-phone: "+43 2231 64245"
-opening_hours: "nach Vereinbarung"
-website: "https://www.gablitzer-antiquariat.at/"
+street: Dr. Franz Josef Brandfellnerplatz
+housenumber: "1"
+phone: +43 2231 64245
+opening_hours: '"nach Vereinbarung"'
+website: https://www.gablitzer-antiquariat.at/

@@ -1,11 +1,11 @@
 id: 247378509
-type: way
+type: node
 latitude: 48.73105
 longitude: 13.83413
 postcode: "4164"
 city: Schwarzenberg am Böhmerwald
-street: "Hauptstraße"
-housenumber: 7
+street: Hauptstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

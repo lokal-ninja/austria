@@ -1,11 +1,11 @@
 id: 201319806
-type: way
+type: node
 latitude: 46.89906
 longitude: 15.26882
 postcode: "8510"
 city: Stainz
 street: ""
-housenumber: 283
+housenumber: "283"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.at/de_AT/index/standorte/85/barbara_reiss_3302.html"
+website: https://www.spar.at/de_AT/index/standorte/85/barbara_reiss_3302.html

@@ -1,11 +1,11 @@
 id: 1036008794
-type: way
+type: node
 latitude: 47.57322
 longitude: 16.42566
 postcode: "7331"
 city: Weppersdorf
-street: "Industriegelände"
-housenumber: 6
+street: Industriegelände
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

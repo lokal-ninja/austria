@@ -1,11 +1,11 @@
 id: 209835084
-type: way
+type: node
 latitude: 48.43495
 longitude: 15.7726
 postcode: "3483"
 city: Wagram am Wagram
-street: "Grafenegger Straße"
-housenumber: 4
+street: Grafenegger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

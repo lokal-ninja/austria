@@ -4,8 +4,8 @@ latitude: 47.0672
 longitude: 15.44382
 postcode: "8010"
 city: Graz
-street: "Jakominiplatz"
-housenumber: 13
-phone: "+43 316 827321"
-opening_hours: "Mo 08:00-13:00; Tu-Fr 08:00-15:00; Sa 07:30-12:30"
-website: "https://www.gefluegel-draxler.at/"
+street: Jakominiplatz
+housenumber: "13"
+phone: +43 316 827321
+opening_hours: Mo 08:00-13:00; Tu-Fr 08:00-15:00; Sa 07:30-12:30
+website: https://www.gefluegel-draxler.at/

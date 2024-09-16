@@ -5,7 +5,7 @@ longitude: 9.83807
 postcode: "6741"
 city: Raggal
 street: ""
-housenumber: 111
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:00-11:00"
-website: "https://dorfladen-vorarlberg.at/walgau-baeckerei-stuchly-gmbh/"
+opening_hours: Mo-Sa 07:00-11:00
+website: https://dorfladen-vorarlberg.at/walgau-baeckerei-stuchly-gmbh/

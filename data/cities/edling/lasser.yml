@@ -1,11 +1,11 @@
 id: 85614910
-type: way
+type: node
 latitude: 47.40393
 longitude: 14.99413
 postcode: "8793"
 city: Edling
-street: "Seizer Straße"
-housenumber: 1
+street: Seizer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 07:30-15:30"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 07:30-15:30
 website: ""

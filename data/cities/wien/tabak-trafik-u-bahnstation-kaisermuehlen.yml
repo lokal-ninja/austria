@@ -1,11 +1,11 @@
 id: 464950440
-type: way
+type: node
 latitude: 48.23242
 longitude: 16.41558
 postcode: "1220"
 city: Wien
-street: "U-Bahnstation Kaisermühlen"
-housenumber: 
+street: U-Bahnstation Kaisermühlen
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.30187
 longitude: 14.29428
 postcode: "4020"
 city: Linz
-street: "Mozartstraße"
-housenumber: 27
-phone: "+43 732 781436"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-12:30"
-website: "https://www.kuecher.com/"
+street: Mozartstraße
+housenumber: "27"
+phone: +43 732 781436
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-12:30
+website: https://www.kuecher.com/

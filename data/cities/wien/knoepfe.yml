@@ -4,8 +4,8 @@ latitude: 48.20994
 longitude: 16.34896
 postcode: "1080"
 city: Wien
-street: "Lederergasse"
-housenumber: 4
+street: Lederergasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.15832
 longitude: 14.02442
 postcode: "4600"
 city: Wels
-street: "Ringstraße"
-housenumber: 14
-phone: "+43 7242 206362"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:30"
-website: "http://www.cioccolateria-marinello.at/"
+street: Ringstraße
+housenumber: "14"
+phone: +43 7242 206362
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:30
+website: http://www.cioccolateria-marinello.at/

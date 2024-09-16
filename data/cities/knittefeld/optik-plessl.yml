@@ -4,8 +4,8 @@ latitude: 47.21531
 longitude: 14.82938
 postcode: "8720"
 city: Knittefeld
-street: "Frauengasse"
-housenumber: 6
+street: Frauengasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:30-18:00; Sa,Su 08:30-12:00"
-website: "https://www.plessl.at/"
+opening_hours: Mo-Fr 08:30-12:00,14:30-18:00; Sa,Su 08:30-12:00
+website: https://www.plessl.at/

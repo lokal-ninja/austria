@@ -1,11 +1,12 @@
 id: 181255361
-type: way
+type: node
 latitude: 46.69283
 longitude: 15.25865
 postcode: "8552"
 city: Eibiswald
 street: ""
-housenumber: 160
-phone: "+43 3466 42351"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 13:00-15:30; Sa-Su, PH off"
-website: "https://www.autotheisl.at"
+housenumber: "160"
+phone: +43 3466 42351
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 13:00-15:30; Sa-Su,
+    PH off
+website: https://www.autotheisl.at

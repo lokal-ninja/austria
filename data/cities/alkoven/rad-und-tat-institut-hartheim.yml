@@ -1,11 +1,11 @@
 id: 89085112
-type: way
+type: node
 latitude: 48.28184
 longitude: 14.11442
 postcode: "4072"
 city: Alkoven
-street: "Dorfstraße"
-housenumber: 2
+street: Dorfstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

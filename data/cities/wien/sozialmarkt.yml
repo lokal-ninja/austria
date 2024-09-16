@@ -4,8 +4,8 @@ latitude: 48.24198
 longitude: 16.43933
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 94
+street: Wagramer Straße
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00"
-website: "https://www.samariterbund.net/wohnen-und-soziale-dienstleistungen/soziales/sozialmaerkte/"
+opening_hours: Mo-Fr 09:00-14:00
+website: https://www.samariterbund.net/wohnen-und-soziale-dienstleistungen/soziales/sozialmaerkte/

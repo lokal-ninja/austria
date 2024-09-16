@@ -4,8 +4,8 @@ latitude: 47.25697
 longitude: 11.3974
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
-housenumber: 50
-phone: "+43 660 5070744"
-opening_hours: "Mo-Th 09:00-13:00, 14:00-17:00; Fr 08:00-12:00; PH off"
+street: Leopoldstraße
+housenumber: "50"
+phone: +43 660 5070744
+opening_hours: Mo-Th 09:00-13:00, 14:00-17:00; Fr 08:00-12:00; PH off
 website: ""

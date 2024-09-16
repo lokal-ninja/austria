@@ -1,11 +1,11 @@
 id: 373791186
-type: way
+type: node
 latitude: 48.02309
 longitude: 16.29789
 postcode: "2514"
 city: Traiskirchen
-street: "Wiener Straße"
-housenumber: 79
+street: Wiener Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

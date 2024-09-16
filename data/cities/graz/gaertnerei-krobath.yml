@@ -1,11 +1,11 @@
 id: 1107090950
-type: way
+type: node
 latitude: 47.05604
 longitude: 15.45538
 postcode: "8010"
 city: Graz
-street: "Münzgrabenstraße"
-housenumber: 139
-phone: "+43 316 46 46 12"
-opening_hours: "Mo-Fr 07:00-12:00, 13:00-16:00; Sa 07:00-12:00"
-website: "https://www.gaertnerei-krobath.at/"
+street: Münzgrabenstraße
+housenumber: "139"
+phone: +43 316 46 46 12
+opening_hours: Mo-Fr 07:00-12:00, 13:00-16:00; Sa 07:00-12:00
+website: https://www.gaertnerei-krobath.at/

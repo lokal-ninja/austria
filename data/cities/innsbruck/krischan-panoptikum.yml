@@ -4,8 +4,8 @@ latitude: 47.26648
 longitude: 11.3924
 postcode: "6020"
 city: Innsbruck
-street: "Stainerstraße"
-housenumber: 3
-phone: "+43 512 571174"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.krischan-panoptikum.at/"
+street: Stainerstraße
+housenumber: "3"
+phone: +43 512 571174
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.krischan-panoptikum.at/

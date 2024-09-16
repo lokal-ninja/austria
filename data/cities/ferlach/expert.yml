@@ -1,11 +1,11 @@
 id: 132369184
-type: way
+type: node
 latitude: 46.52407
 longitude: 14.30044
 postcode: "9170"
 city: Ferlach
-street: "Loiblstraße"
-housenumber: 12
+street: Loiblstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

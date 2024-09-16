@@ -1,11 +1,11 @@
 id: 254006885
-type: way
+type: node
 latitude: 47.43898
 longitude: 11.87546
 postcode: "6233"
 city: Kramsach
 street: ""
-housenumber: 131
-phone: "+49 5337 62288"
-opening_hours: "Mo 08:30-18:00; Tu-Sa 08:00-18:00; Th,Fr 08:00-20:00"
+housenumber: "131"
+phone: +49 5337 62288
+opening_hours: Mo 08:30-18:00; Tu-Sa 08:00-18:00; Th,Fr 08:00-20:00
 website: ""

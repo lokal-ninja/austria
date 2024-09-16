@@ -1,11 +1,11 @@
 id: 115102308
-type: way
+type: node
 latitude: 48.48477
 longitude: 13.9999
 postcode: "4120"
 city: Neufelden
-street: "Markt"
-housenumber: 26
-phone: "+43 7282 6259"
+street: Markt
+housenumber: "26"
+phone: +43 7282 6259
 opening_hours: ""
-website: "https://www.schroeckmayr.at/"
+website: https://www.schroeckmayr.at/

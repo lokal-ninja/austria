@@ -1,11 +1,11 @@
 id: 135696887
-type: way
+type: node
 latitude: 47.93872
 longitude: 17.07011
 postcode: "2425"
 city: Nickelsdorf
-street: "Scheunengasse"
-housenumber: 2
+street: Scheunengasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.19317
 longitude: 16.34898
 postcode: "1060"
 city: Wien
-street: "Hirschengasse"
-housenumber: 1
+street: Hirschengasse
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:30"
-website: "https://www.bitter-suess.at/"
+opening_hours: Tu-Fr 12:00-18:30
+website: https://www.bitter-suess.at/

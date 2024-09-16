@@ -4,8 +4,8 @@ latitude: 48.20085
 longitude: 16.38729
 postcode: "1030"
 city: Wien
-street: "Ungargasse"
-housenumber: 36
+street: Ungargasse
+housenumber: "36"
 phone: ""
-opening_hours: "Fr 11:00-19:00; Sa 10:00-12:00"
-website: "https://bioschwestern.at"
+opening_hours: Fr 11:00-19:00; Sa 10:00-12:00
+website: https://bioschwestern.at

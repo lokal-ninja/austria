@@ -1,11 +1,11 @@
 id: 172700061
-type: way
+type: node
 latitude: 47.01827
 longitude: 15.43986
 postcode: "8055"
 city: Graz
-street: "Triester Straße"
-housenumber: 487
-phone: "+43 316 244025"
+street: Triester Straße
+housenumber: "487"
+phone: +43 316 244025
 opening_hours: ""
-website: "https://auto-kastner.at"
+website: https://auto-kastner.at

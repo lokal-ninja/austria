@@ -1,11 +1,11 @@
 id: 138749046
-type: way
+type: node
 latitude: 47.87548
 longitude: 14.12914
 postcode: "4563"
 city: Micheldorf in Oberösterreich
-street: "Bader-Moser-Straße"
-housenumber: 19
-phone: "+43 050 123 2408"
-opening_hours: "Mo-Su 07:00-19:00"
+street: Bader-Moser-Straße
+housenumber: "19"
+phone: +43 050 123 2408
+opening_hours: Mo-Su 07:00-19:00
 website: ""

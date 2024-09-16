@@ -4,8 +4,8 @@ latitude: 48.20453
 longitude: 16.34396
 postcode: "1070"
 city: Wien
-street: "Burggasse"
-housenumber: 98
-phone: "+43 664 123 61 15"
+street: Burggasse
+housenumber: "98"
+phone: +43 664 123 61 15
 opening_hours: ""
-website: "https://schmuckesmaedchen.com"
+website: https://schmuckesmaedchen.com

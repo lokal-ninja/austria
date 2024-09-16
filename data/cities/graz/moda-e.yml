@@ -4,8 +4,8 @@ latitude: 47.06738
 longitude: 15.44653
 postcode: "8010"
 city: Graz
-street: "Schlögelgasse"
-housenumber: 7
+street: Schlögelgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,15:00-18:00; Sa 08:00-12:00
 website: ""

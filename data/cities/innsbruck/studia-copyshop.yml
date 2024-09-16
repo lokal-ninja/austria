@@ -4,8 +4,8 @@ latitude: 47.26527
 longitude: 11.38591
 postcode: "6020"
 city: Innsbruck
-street: "Herzog-Siegmund-Ufer"
-housenumber: 15
-phone: "+43 512 58086810"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
-website: "https://www.studia.at/"
+street: Herzog-Siegmund-Ufer
+housenumber: "15"
+phone: +43 512 58086810
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-12:00
+website: https://www.studia.at/

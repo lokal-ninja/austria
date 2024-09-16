@@ -4,8 +4,8 @@ latitude: 48.40592
 longitude: 15.65552
 postcode: "3500"
 city: Krems an der Donau
-street: "Gewerbeparkstraße"
-housenumber: 3
-phone: "+43 2732 793 93"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.orion.at/"
+street: Gewerbeparkstraße
+housenumber: "3"
+phone: +43 2732 793 93
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.orion.at/

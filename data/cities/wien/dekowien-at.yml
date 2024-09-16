@@ -4,8 +4,8 @@ latitude: 48.15614
 longitude: 16.35475
 postcode: "1100"
 city: Wien
-street: "Otto-Probst-Straße"
+street: Otto-Probst-Straße
 housenumber: 3/7/1
 phone: "+436643616333"
-opening_hours: "auf Anfrage"
-website: "https://www.dekowien.at"
+opening_hours: '"auf Anfrage"'
+website: https://www.dekowien.at

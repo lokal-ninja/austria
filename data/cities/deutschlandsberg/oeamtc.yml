@@ -1,11 +1,11 @@
 id: 1088385199
-type: way
+type: node
 latitude: 46.82365
 longitude: 15.23575
 postcode: "8530"
 city: Deutschlandsberg
-street: "Lassnitzstraße"
-housenumber: 4
+street: Lassnitzstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

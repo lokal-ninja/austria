@@ -1,11 +1,11 @@
 id: 133539380
-type: way
+type: node
 latitude: 48.04904
 longitude: 14.40259
 postcode: "4400"
 city: Steyr
-street: "Wolfernstraße"
-housenumber: 23
-phone: "+43 7252 72201"
+street: Wolfernstraße
+housenumber: "23"
+phone: +43 7252 72201
 opening_hours: ""
-website: "https://www.pichler-autohaus.at"
+website: https://www.pichler-autohaus.at

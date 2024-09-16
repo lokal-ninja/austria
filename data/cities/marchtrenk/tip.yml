@@ -1,11 +1,11 @@
 id: 81619167
-type: way
+type: node
 latitude: 48.19973
 longitude: 14.15143
 postcode: "4614"
 city: Marchtrenk
-street: "Linzer Straße"
-housenumber: 174
-phone: "+43-7243-508400"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.tipeurope.at/marchtrenk"
+street: Linzer Straße
+housenumber: "174"
+phone: +43-7243-508400
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.tipeurope.at/marchtrenk

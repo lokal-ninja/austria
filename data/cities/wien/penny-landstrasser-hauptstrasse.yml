@@ -4,8 +4,8 @@ latitude: 48.20215
 longitude: 16.39076
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 58
-phone: "+43 (0)1 / 961 53 31"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Landstraßer Hauptstraße
+housenumber: "58"
+phone: +43 (0)1 / 961 53 31
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

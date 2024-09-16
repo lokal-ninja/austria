@@ -1,11 +1,11 @@
 id: 481566388
-type: way
+type: node
 latitude: 47.06698
 longitude: 14.69624
 postcode: "8742"
 city: Obdach
-street: "Hauptstraße"
-housenumber: 46
-phone: "+43 3578 2394"
+street: Hauptstraße
+housenumber: "46"
+phone: +43 3578 2394
 opening_hours: ""
-website: "https://www.orthovitalzentrum.at/"
+website: https://www.orthovitalzentrum.at/

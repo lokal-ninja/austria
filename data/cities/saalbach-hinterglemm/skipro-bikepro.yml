@@ -4,8 +4,8 @@ latitude: 47.39074
 longitude: 12.63592
 postcode: "5753"
 city: Saalbach-Hinterglemm
-street: "Schulstraße"
-housenumber: 164
-phone: "+43 6542 47330-50"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.bikeverleih-saalbach.at/"
+street: Schulstraße
+housenumber: "164"
+phone: +43 6542 47330-50
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.bikeverleih-saalbach.at/

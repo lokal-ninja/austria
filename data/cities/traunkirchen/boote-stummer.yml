@@ -1,11 +1,11 @@
 id: 148961855
-type: way
+type: node
 latitude: 47.85398
 longitude: 13.77923
 postcode: "4801"
 city: Traunkirchen
-street: "Uferstraße"
-housenumber: 11
-phone: "+43 7617 2248"
+street: Uferstraße
+housenumber: "11"
+phone: +43 7617 2248
 opening_hours: ""
-website: "https://www.boote-stummer.at/"
+website: https://www.boote-stummer.at/

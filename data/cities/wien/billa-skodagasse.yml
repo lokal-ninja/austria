@@ -4,8 +4,8 @@ latitude: 48.21215
 longitude: 16.34538
 postcode: "1080"
 city: Wien
-street: "Skodagasse"
-housenumber: 8
-phone: "+43 1 4088131"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Skodagasse
+housenumber: "8"
+phone: +43 1 4088131
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off
+website: https://www.billa.at/

@@ -4,8 +4,8 @@ latitude: 48.81072
 longitude: 15.26721
 postcode: "3830"
 city: Waidhofen an der Thaya
-street: "Brunnerstraße"
-housenumber: 43
+street: Brunnerstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5141"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://jysk.at/stores-locator?storeId=5141

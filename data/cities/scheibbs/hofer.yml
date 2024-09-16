@@ -1,11 +1,11 @@
 id: 278067922
-type: way
+type: node
 latitude: 48.01426
 longitude: 15.15739
 postcode: "3270"
 city: Scheibbs
-street: "Gewerbestraße"
-housenumber: 2
+street: Gewerbestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

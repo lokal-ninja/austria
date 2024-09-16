@@ -1,11 +1,11 @@
 id: 208770701
-type: way
+type: node
 latitude: 47.3486
 longitude: 9.63886
 postcode: "6844"
 city: Altach
-street: "Feldkircherstraße"
-housenumber: 9
-phone: "+43 5576 78906"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Feldkircherstraße
+housenumber: "9"
+phone: +43 5576 78906
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

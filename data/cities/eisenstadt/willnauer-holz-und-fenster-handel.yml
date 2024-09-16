@@ -1,11 +1,11 @@
 id: 212402979
-type: way
+type: node
 latitude: 47.83444
 longitude: 16.52517
 postcode: "7000"
 city: Eisenstadt
-street: "Mattersburger Straße"
-housenumber: 11
-phone: "+43 2682 63677"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://www.opel-horvath.at/?utm_source=google&utm_medium=gmb&utm_campaign=gmbproject_095900"
+street: Mattersburger Straße
+housenumber: "11"
+phone: +43 2682 63677
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://www.opel-horvath.at/?utm_source=google&utm_medium=gmb&utm_campaign=gmbproject_095900

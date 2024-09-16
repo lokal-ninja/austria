@@ -1,11 +1,11 @@
 id: 217120920
-type: way
+type: node
 latitude: 46.68873
 longitude: 15.41318
 postcode: "8454"
 city: Leutschach an der Weinstraße
 street: ""
-housenumber: 62
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "http://www.silberschneider.at.tf"
+website: http://www.silberschneider.at.tf

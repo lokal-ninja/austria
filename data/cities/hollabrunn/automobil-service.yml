@@ -1,11 +1,11 @@
 id: 240952382
-type: way
+type: node
 latitude: 48.55385
 longitude: 16.07817
 postcode: "2020"
 city: Hollabrunn
-street: "Wienerstraße"
-housenumber: 82
+street: Wienerstraße
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://www.automobil-service.at/"
+website: https://www.automobil-service.at/

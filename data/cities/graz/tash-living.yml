@@ -4,8 +4,8 @@ latitude: 47.07258
 longitude: 15.44007
 postcode: "8010"
 city: Graz
-street: "Hofgasse"
-housenumber: 7
+street: Hofgasse
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-15:00"
-website: "https://www.tash-living.at/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-15:00
+website: https://www.tash-living.at/

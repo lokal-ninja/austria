@@ -1,11 +1,11 @@
 id: 87814143
-type: way
+type: node
 latitude: 48.29359
 longitude: 14.3011
 postcode: "4020"
 city: Linz
-street: "Friedhofstraße"
-housenumber: 28
+street: Friedhofstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

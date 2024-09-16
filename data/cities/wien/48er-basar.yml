@@ -5,7 +5,7 @@ longitude: 16.45601
 postcode: "1220"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu 07:00-16:00"
-website: "https://www.wien.gv.at/umwelt/ma48/beratung/abfallvermeidung/basar.html"
+opening_hours: Tu 07:00-16:00
+website: https://www.wien.gv.at/umwelt/ma48/beratung/abfallvermeidung/basar.html

@@ -4,8 +4,8 @@ latitude: 47.26568
 longitude: 11.40432
 postcode: "6020"
 city: Innsbruck
-street: "Museumstraße"
-housenumber: 38
+street: Museumstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:30-18:00; PH off"
-website: "https://www.interspar.at/"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:30-18:00; PH off
+website: https://www.interspar.at/

@@ -4,8 +4,8 @@ latitude: 48.59738
 longitude: 15.6607
 postcode: "3571"
 city: Gars am Kamp
-street: "Hauptplatz"
-housenumber: 92
+street: Hauptplatz
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:30; Fr 07:00-12:30,15:00-18:00; Sa 07:00-12:00"
-website: "https://www.kolobratnik.at/"
+opening_hours: Mo-Th 07:00-12:30; Fr 07:00-12:30,15:00-18:00; Sa 07:00-12:00
+website: https://www.kolobratnik.at/

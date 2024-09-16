@@ -1,11 +1,11 @@
 id: 1308750049
-type: way
+type: node
 latitude: 47.5812
 longitude: 12.1724
 postcode: "6330"
 city: Kufstein
-street: "Josef Egger-Straße"
-housenumber: 4
+street: Josef Egger-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.hoamatkastl.at"
+opening_hours: 24/7
+website: https://www.hoamatkastl.at

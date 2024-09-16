@@ -4,8 +4,8 @@ latitude: 48.24532
 longitude: 16.36293
 postcode: "1190"
 city: Wien
-street: "Gunoldstraße"
-housenumber: 9
+street: Gunoldstraße
+housenumber: "9"
 phone: "013678222"
 opening_hours: ""
-website: "https://www.pflanzenzentrum.wien/"
+website: https://www.pflanzenzentrum.wien/

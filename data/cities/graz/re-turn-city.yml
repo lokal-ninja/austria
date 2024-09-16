@@ -4,8 +4,8 @@ latitude: 47.06511
 longitude: 15.44712
 postcode: "8010"
 city: Graz
-street: "Schießstattgasse"
-housenumber: 4
+street: Schießstattgasse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:30"
-website: "https://www.promentesteiermark.at/verkauftyp/fahrrad/"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:30
+website: https://www.promentesteiermark.at/verkauftyp/fahrrad/

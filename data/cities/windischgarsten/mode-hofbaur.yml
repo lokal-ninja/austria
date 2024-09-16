@@ -4,8 +4,8 @@ latitude: 47.72213
 longitude: 14.32841
 postcode: "4580"
 city: Windischgarsten
-street: "Hauptstraße"
-housenumber: 14
-phone: "+43 7562/60062"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00"
-website: "https://hofbaur.com"
+street: Hauptstraße
+housenumber: "14"
+phone: +43 7562/60062
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00
+website: https://hofbaur.com

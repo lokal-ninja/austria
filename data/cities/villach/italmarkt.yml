@@ -4,8 +4,8 @@ latitude: 46.60386
 longitude: 13.86805
 postcode: "9500"
 city: Villach
-street: "Maria-Gailer-Straße"
-housenumber: 36
-phone: "+43 4242 34008"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.italmarkt.eu"
+street: Maria-Gailer-Straße
+housenumber: "36"
+phone: +43 4242 34008
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.italmarkt.eu

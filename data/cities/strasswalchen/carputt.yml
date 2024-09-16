@@ -1,11 +1,11 @@
 id: 116915084
-type: way
+type: node
 latitude: 47.97521
 longitude: 13.25237
 postcode: "5204"
 city: Straßwalchen
-street: "Salzburgerstraße"
-housenumber: 23
+street: Salzburgerstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://www.carputt.at/"
+website: http://www.carputt.at/

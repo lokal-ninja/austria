@@ -1,11 +1,11 @@
 id: 124988460
-type: way
+type: node
 latitude: 47.95058
 longitude: 16.10366
 postcode: "2560"
 city: Berndorf
-street: "Hainfelder Straße"
-housenumber: 50
+street: Hainfelder Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

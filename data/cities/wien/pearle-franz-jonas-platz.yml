@@ -4,8 +4,8 @@ latitude: 48.25743
 longitude: 16.39917
 postcode: "1210"
 city: Wien
-street: "Franz-Jonas-Platz"
-housenumber: 7
+street: Franz-Jonas-Platz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.pearle.at/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: https://www.pearle.at/

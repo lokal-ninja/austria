@@ -1,11 +1,11 @@
 id: 171936961
-type: way
+type: node
 latitude: 47.10489
 longitude: 15.71182
 postcode: "8200"
 city: Gleisdorf
-street: "Florianiplatz"
-housenumber: 11
+street: Florianiplatz
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

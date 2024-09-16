@@ -1,11 +1,11 @@
 id: 718484417
-type: way
+type: node
 latitude: 47.93104
 longitude: 16.20638
 postcode: "2544"
 city: Leobersdorf
-street: "Hirtenberger Straße"
-housenumber: 47
+street: Hirtenberger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Th 07:00-13:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Th 07:00-13:00; Sa 09:00-13:00; PH off
 website: ""

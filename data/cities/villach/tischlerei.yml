@@ -1,11 +1,11 @@
 id: 58488245
-type: way
+type: node
 latitude: 46.61406
 longitude: 13.88561
 postcode: "9524"
 city: Villach
-street: "St.Magdalener Straße"
-housenumber: 91
+street: St.Magdalener Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

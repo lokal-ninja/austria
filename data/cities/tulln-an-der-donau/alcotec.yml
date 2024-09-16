@@ -4,8 +4,8 @@ latitude: 48.33264
 longitude: 16.05449
 postcode: "3430"
 city: Tulln an der Donau
-street: "Nibelungengasse"
-housenumber: 14
+street: Nibelungengasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:00"
-website: "https://www.alcotec.at"
+opening_hours: Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:00
+website: https://www.alcotec.at

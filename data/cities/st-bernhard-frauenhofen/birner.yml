@@ -1,11 +1,11 @@
 id: 104059537
-type: way
+type: node
 latitude: 48.66435
 longitude: 15.63389
 postcode: "3580"
 city: St. Bernhard-Frauenhofen
-street: "Wiener Straße"
-housenumber: 7
+street: Wiener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

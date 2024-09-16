@@ -4,8 +4,8 @@ latitude: 47.25811
 longitude: 11.39168
 postcode: "6020"
 city: Innsbruck
-street: "Andreas-Hofer-Straße"
-housenumber: 34
-phone: "+43 512 582857"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; PH off; Sa 09:00-12:00"
-website: "https://www.rahmenstudio.com"
+street: Andreas-Hofer-Straße
+housenumber: "34"
+phone: +43 512 582857
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; PH off; Sa 09:00-12:00
+website: https://www.rahmenstudio.com

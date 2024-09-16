@@ -1,11 +1,11 @@
 id: 237925433
-type: way
+type: node
 latitude: 48.12835
 longitude: 14.98704
 postcode: "3372"
 city: Blindenmarkt
-street: "Hauptstraße"
-housenumber: 35
-phone: "+43 7473 666 00"
+street: Hauptstraße
+housenumber: "35"
+phone: +43 7473 666 00
 opening_hours: ""
-website: "https://www.koenigshop.at"
+website: https://www.koenigshop.at

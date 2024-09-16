@@ -1,11 +1,11 @@
 id: 301813331
-type: way
+type: node
 latitude: 46.78937
 longitude: 13.50913
 postcode: "9800"
 city: Spittal an der Drau
-street: "Kummererstraße"
-housenumber: 2
+street: Kummererstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.roedlbach.at/de"
+website: https://www.roedlbach.at/de

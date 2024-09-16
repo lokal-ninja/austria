@@ -4,8 +4,8 @@ latitude: 47.31378
 longitude: 10.01668
 postcode: "6886"
 city: Schoppernau
-street: "Unterdorf"
-housenumber: 9
-phone: "+43 5515 21170"
-opening_hours: "Mo-Fr 07:00-12:00,14:00-18:30; Sa 07:00-12:00,14:00-17:00; PH off"
+street: Unterdorf
+housenumber: "9"
+phone: +43 5515 21170
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:30; Sa 07:00-12:00,14:00-17:00; PH off
 website: ""

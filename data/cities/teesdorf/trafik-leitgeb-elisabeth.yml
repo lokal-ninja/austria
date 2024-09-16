@@ -1,11 +1,11 @@
 id: 137097758
-type: way
+type: node
 latitude: 47.95111
 longitude: 16.28046
 postcode: "2524"
 city: Teesdorf
-street: "Hauptplatz"
-housenumber: 12
+street: Hauptplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Tu, We, Fr 06:00-12:00, 16:00-18:00; Mo, Th 06:00-12:00; Sa 08:00-11:30"
+opening_hours: Tu, We, Fr 06:00-12:00, 16:00-18:00; Mo, Th 06:00-12:00; Sa 08:00-11:30
 website: ""

@@ -1,11 +1,11 @@
 id: 30533868
-type: way
+type: node
 latitude: 48.32659
 longitude: 16.07651
 postcode: "3430"
 city: Tulln an der Donau
-street: "Kaplanstraße"
-housenumber: 12
+street: Kaplanstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.forstinger.com/"
+website: https://www.forstinger.com/

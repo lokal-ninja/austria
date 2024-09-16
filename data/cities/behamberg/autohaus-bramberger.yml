@@ -1,11 +1,11 @@
 id: 176776954
-type: way
+type: node
 latitude: 48.01646
 longitude: 14.48549
 postcode: "4441"
 city: Behamberg
-street: "Ramingtalstraße"
-housenumber: 262
+street: Ramingtalstraße
+housenumber: "262"
 phone: ""
 opening_hours: ""
 website: ""

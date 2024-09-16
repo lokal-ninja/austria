@@ -1,11 +1,11 @@
 id: 92384387
-type: way
+type: node
 latitude: 47.56362
 longitude: 14.24054
 postcode: "8940"
 city: Liezen
-street: "Salzburger Straße"
-housenumber: 9
+street: Salzburger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

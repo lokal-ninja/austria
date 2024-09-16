@@ -1,11 +1,11 @@
 id: 531110953
-type: way
+type: node
 latitude: 47.43512
 longitude: 9.74657
 postcode: "6850"
 city: Dornbirn
-street: "Dr. Walter Zumtobel Straße"
-housenumber: 7
+street: Dr. Walter Zumtobel Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00"
-website: "http://www.mangold-brot.at/;https://www.bäckerei-mangold.at/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00
+website: http://www.mangold-brot.at/;https://www.bäckerei-mangold.at/

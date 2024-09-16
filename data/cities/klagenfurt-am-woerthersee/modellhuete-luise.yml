@@ -4,8 +4,8 @@ latitude: 46.62615
 longitude: 14.30826
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Wiener Gasse"
-housenumber: 9
+street: Wiener Gasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30
 website: ""

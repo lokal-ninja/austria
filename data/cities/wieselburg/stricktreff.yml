@@ -4,8 +4,9 @@ latitude: 48.13045
 longitude: 15.13748
 postcode: "3250"
 city: Wieselburg
-street: "Bartensteingasse"
-housenumber: 1
-phone: "+43 07416 53507"
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; Th,Sa 09:00-12:00; Jul-Aug Mo-We,Fr 09:00-12:00"
-website: "https://www.stricktreffzusser.at/"
+street: Bartensteingasse
+housenumber: "1"
+phone: +43 07416 53507
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:00; Th,Sa 09:00-12:00; Jul-Aug Mo-We,Fr
+    09:00-12:00
+website: https://www.stricktreffzusser.at/

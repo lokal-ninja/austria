@@ -4,8 +4,8 @@ latitude: 46.61271
 longitude: 13.8472
 postcode: "9500"
 city: Villach
-street: "Standesamtsplatz"
-housenumber: 3
+street: Standesamtsplatz
+housenumber: "3"
 phone: "00436644747699"
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-19:00"
-website: "https://www.miris-maennersache.at/"
+opening_hours: Mo-Fr 08:00-13:00, 14:00-19:00
+website: https://www.miris-maennersache.at/

@@ -1,11 +1,11 @@
 id: 255389620
-type: way
+type: node
 latitude: 48.33872
 longitude: 16.33694
 postcode: "2100"
 city: Korneuburg
-street: "Wiener Straße"
-housenumber: 40
+street: Wiener Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 208005421
-type: way
+type: node
 latitude: 48.25336
 longitude: 16.43717
 postcode: "1220"
 city: Wien
-street: "Saikogasse"
+street: Saikogasse
 housenumber: 3A
-phone: "+43 59915 02543"
-opening_hours: "Mo-Fr 07:30-19:50; Sa 07:40-18:00"
+phone: +43 59915 02543
+opening_hours: Mo-Fr 07:30-19:50; Sa 07:40-18:00
 website: ""

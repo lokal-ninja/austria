@@ -1,11 +1,11 @@
 id: 456966683
-type: way
+type: node
 latitude: 46.95649
 longitude: 15.36272
 postcode: "8143"
 city: Dobl-Zwaring
-street: "Liebochstraße"
-housenumber: 18
-phone: "+43 3136 55 3 80"
+street: Liebochstraße
+housenumber: "18"
+phone: +43 3136 55 3 80
 opening_hours: ""
-website: "http://www.acd-dobl.at"
+website: http://www.acd-dobl.at

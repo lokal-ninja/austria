@@ -1,11 +1,11 @@
 id: 43120457
-type: way
+type: node
 latitude: 48.11867
 longitude: 16.20503
 postcode: "2391"
 city: Kaltenleutgeben
-street: "Hauptstraße"
-housenumber: 59
-phone: "+43 59915 03841"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Hauptstraße
+housenumber: "59"
+phone: +43 59915 03841
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

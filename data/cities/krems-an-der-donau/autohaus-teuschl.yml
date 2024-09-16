@@ -4,8 +4,8 @@ latitude: 48.41204
 longitude: 15.62634
 postcode: "3500"
 city: Krems an der Donau
-street: "Hafenstraße"
-housenumber: 50
-phone: "+43 2732 834 28"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.teuschl.at/"
+street: Hafenstraße
+housenumber: "50"
+phone: +43 2732 834 28
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.teuschl.at/

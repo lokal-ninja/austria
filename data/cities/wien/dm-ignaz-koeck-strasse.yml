@@ -4,8 +4,8 @@ latitude: 48.26648
 longitude: 16.39822
 postcode: "1210"
 city: Wien
-street: "Ignaz-Köck-Straße"
-housenumber: 1
+street: Ignaz-Köck-Straße
+housenumber: "1"
 phone: "+4312788160"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.dm.at

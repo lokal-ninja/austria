@@ -1,11 +1,11 @@
 id: 127725372
-type: way
+type: node
 latitude: 48.29892
 longitude: 14.01299
 postcode: "4070"
 city: Eferding
-street: "Bahnhofstraße"
-housenumber: 57
+street: Bahnhofstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241337112
-type: way
+type: node
 latitude: 48.22627
 longitude: 13.84434
 postcode: "4710"
 city: Grieskirchen
-street: "Industriestraße"
-housenumber: 33
+street: Industriestraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.kriegner.at/"
+website: https://www.kriegner.at/

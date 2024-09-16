@@ -4,8 +4,8 @@ latitude: 48.22713
 longitude: 16.42239
 postcode: "1220"
 city: Wien
-street: "Schüttaustraße"
-housenumber: 55
+street: Schüttaustraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00 - 17:00; PH off"
-website: "https://www.nkd.com"
+opening_hours: Mo-Fr 09:00-18:00; Sa 9:00 - 17:00; PH off
+website: https://www.nkd.com

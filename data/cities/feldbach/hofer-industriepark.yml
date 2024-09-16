@@ -1,11 +1,11 @@
 id: 220845992
-type: way
+type: node
 latitude: 46.94671
 longitude: 15.91526
 postcode: "8330"
 city: Feldbach
-street: "Industriepark"
-housenumber: 5
+street: Industriepark
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

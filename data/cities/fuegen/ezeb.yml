@@ -1,11 +1,11 @@
 id: 89834695
-type: way
+type: node
 latitude: 47.3337
 longitude: 11.86187
 postcode: "6263"
 city: Fügen
-street: "Gießenweg"
-housenumber: 5
+street: Gießenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

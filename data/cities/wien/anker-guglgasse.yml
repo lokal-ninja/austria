@@ -4,8 +4,8 @@ latitude: 48.18535
 longitude: 16.41826
 postcode: "1110"
 city: Wien
-street: "Guglgasse"
-housenumber: 6
+street: Guglgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su,PH 06:30-12:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su,PH 06:30-12:00
 website: ""

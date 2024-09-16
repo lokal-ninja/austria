@@ -1,11 +1,11 @@
 id: 148330117
-type: way
+type: node
 latitude: 47.0714
 longitude: 10.66423
 postcode: "6522"
 city: Prutz
-street: "Moosweg"
-housenumber: 26
+street: Moosweg
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 245299021
-type: way
+type: node
 latitude: 46.68987
 longitude: 15.25281
 postcode: "8552"
 city: Eibiswald
 street: ""
-housenumber: 126
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137097791
-type: way
+type: node
 latitude: 47.95055
 longitude: 16.28423
 postcode: "2524"
 city: Teesdorf
-street: "Franz Lejeunestraße"
-housenumber: 16
+street: Franz Lejeunestraße
+housenumber: "16"
 phone: "+4369981629699"
-opening_hours: "Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 13:00-15:00"
+opening_hours: Mo-Th 08:00-12:00, 14:00-18:00; Fr 08:00-12:00, 13:00-15:00
 website: ""

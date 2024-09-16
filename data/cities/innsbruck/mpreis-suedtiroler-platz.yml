@@ -1,11 +1,11 @@
 id: 373890871
-type: way
+type: node
 latitude: 47.26349
 longitude: 11.40056
 postcode: "6020"
 city: Innsbruck
-street: "Südtiroler Platz"
+street: Südtiroler Platz
 housenumber: 3-5
-phone: "+43 50321 928068"
-opening_hours: "PH,Mo-Su 06:00-21:00"
+phone: +43 50321 928068
+opening_hours: PH,Mo-Su 06:00-21:00
 website: ""

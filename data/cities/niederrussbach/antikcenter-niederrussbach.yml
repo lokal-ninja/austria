@@ -1,11 +1,11 @@
 id: 531838125
-type: way
+type: node
 latitude: 48.44273
 longitude: 16.04753
 postcode: "3702"
 city: Niederrußbach
-street: "Wiener Straße"
-housenumber: 52
+street: Wiener Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204440272
-type: way
+type: node
 latitude: 48.2628
 longitude: 16.42784
 postcode: "1210"
 city: Wien
-street: "Leopoldauer Straße"
-housenumber: 161
+street: Leopoldauer Straße
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:30"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:30
 website: ""

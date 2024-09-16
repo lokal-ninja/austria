@@ -1,11 +1,11 @@
 id: 160564261
-type: way
+type: node
 latitude: 48.3088
 longitude: 16.32521
 postcode: "3400"
 city: Klosterneuburg
-street: "Bachgasse"
-housenumber: 4
+street: Bachgasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

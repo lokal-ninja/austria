@@ -1,11 +1,11 @@
 id: 135673394
-type: way
+type: node
 latitude: 48.78912
 longitude: 15.40832
 postcode: "3812"
 city: Groß-Siegharts
-street: "Silostraße"
-housenumber: 3
+street: Silostraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

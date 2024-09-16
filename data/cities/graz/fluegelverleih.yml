@@ -1,11 +1,11 @@
 id: 144108250
-type: way
+type: node
 latitude: 47.07097
 longitude: 15.43116
 postcode: "8020"
 city: Graz
-street: "Annenstraße"
-housenumber: 9
+street: Annenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 11:00-17:00"
-website: "http://www.fluegelverleih.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 11:00-17:00
+website: http://www.fluegelverleih.at/

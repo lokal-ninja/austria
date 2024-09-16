@@ -1,11 +1,11 @@
 id: 134205109
-type: way
+type: node
 latitude: 47.72504
 longitude: 16.08193
 postcode: "2620"
 city: Neunkirchen
-street: "Lokalbahnstraße"
-housenumber: 7
+street: Lokalbahnstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

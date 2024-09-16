@@ -1,11 +1,11 @@
 id: 148060880
-type: way
+type: node
 latitude: 46.82753
 longitude: 12.76373
 postcode: "9900"
 city: Lienz
-street: "Tiroler Straße"
-housenumber: 25
+street: Tiroler Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

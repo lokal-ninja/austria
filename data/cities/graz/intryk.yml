@@ -1,11 +1,11 @@
 id: 88048454
-type: way
+type: node
 latitude: 47.07515
 longitude: 15.43139
 postcode: "8020"
 city: Graz
-street: "Lendplatz"
-housenumber: 41
+street: Lendplatz
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "www.intryk.com"
+website: www.intryk.com

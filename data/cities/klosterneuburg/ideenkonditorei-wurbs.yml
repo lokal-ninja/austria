@@ -1,11 +1,11 @@
 id: 160499475
-type: way
+type: node
 latitude: 48.31326
 longitude: 16.31924
 postcode: "3400"
 city: Klosterneuburg
-street: "Martinstraße"
-housenumber: 45
+street: Martinstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-Su 07:00-18:00"
-website: "https://www.facebook.com/pg/idenkonditorei.wurbs/about/?ref=page_internal"
+opening_hours: Tu-Su 07:00-18:00
+website: https://www.facebook.com/pg/idenkonditorei.wurbs/about/?ref=page_internal

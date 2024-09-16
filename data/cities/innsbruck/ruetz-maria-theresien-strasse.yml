@@ -4,8 +4,8 @@ latitude: 47.26556
 longitude: 11.39368
 postcode: "6020"
 city: Innsbruck
-street: "Maria-Theresien-Straße"
-housenumber: 18
-phone: "+43 512 573672"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.ruetz.at/baeckereien/standorte/rathausgalerien_innsbruck_tirol"
+street: Maria-Theresien-Straße
+housenumber: "18"
+phone: +43 512 573672
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.ruetz.at/baeckereien/standorte/rathausgalerien_innsbruck_tirol

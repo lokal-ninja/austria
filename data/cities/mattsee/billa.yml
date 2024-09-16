@@ -1,11 +1,11 @@
 id: 107070463
-type: way
+type: node
 latitude: 47.97424
 longitude: 13.10237
 postcode: "5163"
 city: Mattsee
-street: "Passauer Straße"
-housenumber: 32
+street: Passauer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

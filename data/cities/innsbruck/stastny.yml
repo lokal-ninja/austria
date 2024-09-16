@@ -4,8 +4,8 @@ latitude: 47.2643
 longitude: 11.40717
 postcode: "6020"
 city: Innsbruck
-street: "Defreggerstraße"
-housenumber: 8
-phone: "+43 512 394859"
-opening_hours: "Mo-Th 08:30-12:00,13:00-18:00; Fr 09:00-18:00; Sa 08:30-12:00; PH off"
-website: "https://www.stastny-optik.at"
+street: Defreggerstraße
+housenumber: "8"
+phone: +43 512 394859
+opening_hours: Mo-Th 08:30-12:00,13:00-18:00; Fr 09:00-18:00; Sa 08:30-12:00; PH off
+website: https://www.stastny-optik.at

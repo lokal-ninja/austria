@@ -4,8 +4,8 @@ latitude: 47.2047
 longitude: 11.87106
 postcode: "6284"
 city: Ramsau im Zillertal
-street: "Talstraße"
-housenumber: 65
-phone: "+43 5282 4315"
-opening_hours: "Mo-Su 08:30-12:00,14:30-18:00; Sa 08:30-18:00"
-website: "https://sport-schiestl.at/"
+street: Talstraße
+housenumber: "65"
+phone: +43 5282 4315
+opening_hours: Mo-Su 08:30-12:00,14:30-18:00; Sa 08:30-18:00
+website: https://sport-schiestl.at/

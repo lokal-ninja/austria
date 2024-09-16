@@ -1,11 +1,11 @@
 id: 153177408
-type: way
+type: node
 latitude: 47.98642
 longitude: 12.88219
 postcode: "5113"
 city: Sankt Georgen bei Salzburg
-street: "Au-Blick-Weg"
-housenumber: 22
+street: Au-Blick-Weg
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

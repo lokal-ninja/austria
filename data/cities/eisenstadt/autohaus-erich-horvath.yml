@@ -1,11 +1,11 @@
 id: 386009545
-type: way
+type: node
 latitude: 47.83427
 longitude: 16.52444
 postcode: "7000"
 city: Eisenstadt
-street: "Mattersburger Straße"
-housenumber: 15
+street: Mattersburger Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.opel-horvath.at/"
+website: https://www.opel-horvath.at/

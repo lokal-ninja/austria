@@ -4,8 +4,8 @@ latitude: 48.20352
 longitude: 16.3433
 postcode: "1070"
 city: Wien
-street: "Schottenfeldgasse"
-housenumber: 60
+street: Schottenfeldgasse
+housenumber: "60"
 phone: ""
-opening_hours: "We-Fr 14:00-18:00; Sa 10:00-14:00"
+opening_hours: We-Fr 14:00-18:00; Sa 10:00-14:00
 website: ""

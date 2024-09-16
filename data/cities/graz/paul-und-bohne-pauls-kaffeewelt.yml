@@ -1,11 +1,11 @@
 id: 95944483
-type: way
+type: node
 latitude: 47.08232
 longitude: 15.40922
 postcode: "8020"
 city: Graz
-street: "Waagner-Biro-Straße"
-housenumber: 131
-phone: "+43 316 99 55 11"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://paulundbohne.at/standorte/"
+street: Waagner-Biro-Straße
+housenumber: "131"
+phone: +43 316 99 55 11
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://paulundbohne.at/standorte/

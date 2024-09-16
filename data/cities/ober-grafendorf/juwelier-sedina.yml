@@ -1,11 +1,11 @@
 id: 316110950
-type: way
+type: node
 latitude: 48.15025
 longitude: 15.54787
 postcode: "3200"
 city: Ober-Grafendorf
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-12:00,15:00-18:00;Th,Sa 08:00-12:00"
-website: "http://www.sedina.at/"
+opening_hours: Mo-We,Fr 08:00-12:00,15:00-18:00;Th,Sa 08:00-12:00
+website: http://www.sedina.at/

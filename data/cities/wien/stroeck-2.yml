@@ -5,7 +5,7 @@ longitude: 16.39103
 postcode: "1030"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+431204399983031"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:00-13:00; PH off"
-website: "https://stroeck.at/de/filialen/rochusmarkt"
+opening_hours: Mo-Fr 06:00-18:30; Sa 07:00-13:00; PH off
+website: https://stroeck.at/de/filialen/rochusmarkt

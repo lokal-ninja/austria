@@ -1,11 +1,11 @@
 id: 223130702
-type: way
+type: node
 latitude: 47.37615
 longitude: 9.6743
 postcode: "6845"
 city: Hohenems
-street: "Diepoldsauer Straße"
-housenumber: 122
+street: Diepoldsauer Straße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH closed"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH closed
 website: ""

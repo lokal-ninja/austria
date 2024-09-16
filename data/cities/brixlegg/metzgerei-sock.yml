@@ -1,11 +1,11 @@
 id: 85883296
-type: way
+type: node
 latitude: 47.42801
 longitude: 11.87741
 postcode: "6230"
 city: Brixlegg
-street: "Marktstraße"
-housenumber: 38
+street: Marktstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

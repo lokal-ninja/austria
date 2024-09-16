@@ -4,8 +4,8 @@ latitude: 48.1955
 longitude: 16.34813
 postcode: "1060"
 city: Wien
-street: "Hugo-Wolf-Gasse"
-housenumber: 1
+street: Hugo-Wolf-Gasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.sante-gesund.at/"
+website: http://www.sante-gesund.at/

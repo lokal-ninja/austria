@@ -4,8 +4,8 @@ latitude: 47.06385
 longitude: 15.40065
 postcode: "8020"
 city: Graz
-street: "Karl-Morre-Straße"
-housenumber: 83
+street: Karl-Morre-Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "http://www.salon-kreiner.at/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:00
+website: http://www.salon-kreiner.at/

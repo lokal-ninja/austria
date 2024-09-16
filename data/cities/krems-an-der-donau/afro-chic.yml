@@ -4,8 +4,8 @@ latitude: 48.41074
 longitude: 15.60076
 postcode: "3500"
 city: Krems an der Donau
-street: "Täglicher Markt"
-housenumber: 4
-phone: "+43 664 162 00 31"
-opening_hours: "Th,Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Su-We,PH off"
-website: "https://www.afro-chic.at/"
+street: Täglicher Markt
+housenumber: "4"
+phone: +43 664 162 00 31
+opening_hours: Th,Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; Su-We,PH off
+website: https://www.afro-chic.at/

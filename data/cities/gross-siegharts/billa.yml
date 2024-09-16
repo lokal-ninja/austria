@@ -1,11 +1,11 @@
 id: 96783223
-type: way
+type: node
 latitude: 48.78425
 longitude: 15.40663
 postcode: "3812"
 city: Groß-Siegharts
-street: "Suttnergasse"
-housenumber: 1
+street: Suttnergasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

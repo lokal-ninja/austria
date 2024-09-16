@@ -4,8 +4,8 @@ latitude: 48.18884
 longitude: 16.35451
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 107
+street: Margaretenstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-We,Fr 11:00-18:00; Th 08:00-15:00"
-website: "https://www.miticobikes.com/"
+opening_hours: Mo-We,Fr 11:00-18:00; Th 08:00-15:00
+website: https://www.miticobikes.com/

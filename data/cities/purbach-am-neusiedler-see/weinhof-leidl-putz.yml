@@ -1,11 +1,11 @@
 id: 226960386
-type: way
+type: node
 latitude: 47.9095
 longitude: 16.69408
 postcode: "7083"
 city: Purbach am Neusiedler See
-street: "Sätzgasse"
-housenumber: 13
+street: Sätzgasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.leidl-putz.at/"
+website: https://www.leidl-putz.at/

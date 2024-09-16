@@ -4,8 +4,8 @@ latitude: 48.02714
 longitude: 16.37824
 postcode: "2482"
 city: Münchendorf
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We,Fr,Sa 09:00-18:00"
-website: "https://www.weinbau-happel.at"
+opening_hours: Mo,We,Fr,Sa 09:00-18:00
+website: https://www.weinbau-happel.at

@@ -4,8 +4,8 @@ latitude: 47.06949
 longitude: 15.4365
 postcode: "8010"
 city: Graz
-street: "Albrechtgasse"
-housenumber: 9
+street: Albrechtgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://popolini.com/popolini/en/graz/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00; Su,PH off
+website: https://popolini.com/popolini/en/graz/

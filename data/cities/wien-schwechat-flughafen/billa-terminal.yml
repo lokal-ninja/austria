@@ -4,8 +4,8 @@ latitude: 48.11966
 longitude: 16.56442
 postcode: "1300"
 city: Wien-Schwechat Flughafen
-street: "Terminal"
-housenumber: 3
+street: Terminal
+housenumber: "3"
 phone: ""
-opening_hours: "Su-Sa 06:00-22:00"
+opening_hours: Su-Sa 06:00-22:00
 website: ""

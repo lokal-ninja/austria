@@ -4,8 +4,8 @@ latitude: 48.10678
 longitude: 16.3136
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Hubatschstraße"
-housenumber: 3
+street: Hubatschstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.dm.at

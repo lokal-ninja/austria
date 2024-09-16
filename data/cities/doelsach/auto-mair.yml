@@ -1,11 +1,11 @@
 id: 150755000
-type: way
+type: node
 latitude: 46.82615
 longitude: 12.83291
 postcode: "9991"
 city: Dölsach
-street: "Reimmichlstraße"
-housenumber: 33
+street: Reimmichlstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

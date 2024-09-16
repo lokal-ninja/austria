@@ -4,8 +4,8 @@ latitude: 48.70075
 longitude: 14.89465
 postcode: "3970"
 city: Weitra
-street: "Rathausplatz"
-housenumber: 9
+street: Rathausplatz
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00; Mo-Fr 14:30-17:30"
-website: "http://www.sonnseitnhof.at"
+opening_hours: Mo-Sa 09:00-12:00; Mo-Fr 14:30-17:30
+website: http://www.sonnseitnhof.at

@@ -1,11 +1,11 @@
 id: 144573162
-type: way
+type: node
 latitude: 48.00624
 longitude: 13.50618
 postcode: "4870"
 city: Vöcklamarkt
-street: "Thalberg"
-housenumber: 15
+street: Thalberg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

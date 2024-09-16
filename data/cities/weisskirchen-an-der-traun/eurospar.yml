@@ -1,11 +1,11 @@
 id: 737113284
-type: way
+type: node
 latitude: 48.16528
 longitude: 14.12865
 postcode: "4616"
 city: Weißkirchen an der Traun
-street: "Traunuferweg"
-housenumber: 1
+street: Traunuferweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

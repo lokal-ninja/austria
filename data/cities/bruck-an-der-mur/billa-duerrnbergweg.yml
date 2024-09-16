@@ -1,11 +1,11 @@
 id: 122481749
-type: way
+type: node
 latitude: 47.41162
 longitude: 15.25762
 postcode: "8600"
 city: Bruck an der Mur
-street: "Dürrnbergweg"
-housenumber: 3
-phone: "+43 59915 06965"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Dürrnbergweg
+housenumber: "3"
+phone: +43 59915 06965
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

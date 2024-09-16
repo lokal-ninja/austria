@@ -1,11 +1,11 @@
 id: 115525891
-type: way
+type: node
 latitude: 47.27776
 longitude: 11.49449
 postcode: "6060"
 city: Hall in Tirol
-street: "Getznerstraße"
+street: Getznerstraße
 housenumber: 2-2a
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.lidl.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.lidl.at/

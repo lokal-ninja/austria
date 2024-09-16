@@ -4,8 +4,8 @@ latitude: 47.259
 longitude: 11.32249
 postcode: "6176"
 city: Völs
-street: "Cytastraße"
-housenumber: 24
-phone: "+43 50322 926062"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
-website: "https://www.baguette.at/handel/baguette/voels-cytastrasse-24.html"
+street: Cytastraße
+housenumber: "24"
+phone: +43 50322 926062
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off
+website: https://www.baguette.at/handel/baguette/voels-cytastrasse-24.html

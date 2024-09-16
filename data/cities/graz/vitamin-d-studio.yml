@@ -1,11 +1,11 @@
 id: 85917922
-type: way
+type: node
 latitude: 47.06714
 longitude: 15.45005
 postcode: "8010"
 city: Graz
-street: "Mandellstraße"
-housenumber: 24
+street: Mandellstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

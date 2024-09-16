@@ -1,11 +1,11 @@
 id: 138294554
-type: way
+type: node
 latitude: 48.24396
 longitude: 16.45755
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 35
+street: Hirschstettner Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

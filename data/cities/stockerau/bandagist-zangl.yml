@@ -1,11 +1,11 @@
 id: 93344938
-type: way
+type: node
 latitude: 48.387
 longitude: 16.21374
 postcode: "2000"
 city: Stockerau
-street: "Brodschildstraße"
-housenumber: 17
+street: Brodschildstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:00"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:00
 website: ""

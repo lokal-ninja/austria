@@ -4,8 +4,8 @@ latitude: 48.24901
 longitude: 16.41371
 postcode: "1210"
 city: Wien
-street: "Floridusgasse"
-housenumber: 56
-phone: "+43 1 2596179"
-opening_hours: "Mo-Th 07:30-12:15,13:00-16:30; Fr 07:30-13:00"
-website: "https://www.kfz-stroeck.at/"
+street: Floridusgasse
+housenumber: "56"
+phone: +43 1 2596179
+opening_hours: Mo-Th 07:30-12:15,13:00-16:30; Fr 07:30-13:00
+website: https://www.kfz-stroeck.at/

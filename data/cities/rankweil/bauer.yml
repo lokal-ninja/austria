@@ -1,11 +1,11 @@
 id: 153039188
-type: way
+type: node
 latitude: 47.26951
 longitude: 9.64158
 postcode: "6830"
 city: Rankweil
-street: "Sigmund-Nachbauer-Straße"
-housenumber: 6
-phone: "+43 5522 44247"
+street: Sigmund-Nachbauer-Straße
+housenumber: "6"
+phone: +43 5522 44247
 opening_hours: ""
 website: ""

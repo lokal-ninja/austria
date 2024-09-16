@@ -4,8 +4,8 @@ latitude: 48.20476
 longitude: 15.62643
 postcode: "3100"
 city: St Pölten
-street: "Domplatz"
-housenumber: 6
+street: Domplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.supertisch.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.supertisch.com/

@@ -4,8 +4,8 @@ latitude: 48.1911
 longitude: 16.36095
 postcode: "1050"
 city: Wien
-street: "Ziegelofengasse"
-housenumber: 33
+street: Ziegelofengasse
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.kik.at/filialfinder/3020/Wien/Ziegelofengasse_33"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.kik.at/filialfinder/3020/Wien/Ziegelofengasse_33

@@ -1,11 +1,11 @@
 id: 92795395
-type: way
+type: node
 latitude: 47.05216
 longitude: 10.67968
 postcode: "6528"
 city: Fendels
 street: ""
-housenumber: 73
-phone: "+43 5472 6305"
-opening_hours: "08:30-17:30"
-website: "https://www.sportschranz.at/"
+housenumber: "73"
+phone: +43 5472 6305
+opening_hours: 08:30-17:30
+website: https://www.sportschranz.at/

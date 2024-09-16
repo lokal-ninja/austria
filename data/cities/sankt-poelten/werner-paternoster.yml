@@ -1,11 +1,11 @@
 id: 29303637
-type: way
+type: node
 latitude: 48.17582
 longitude: 15.58273
 postcode: "3100"
 city: Sankt Pölten
-street: "Schwadorf"
-housenumber: 18
+street: Schwadorf
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
 website: ""

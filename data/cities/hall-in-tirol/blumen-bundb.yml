@@ -1,11 +1,11 @@
 id: 113998838
-type: way
+type: node
 latitude: 47.28318
 longitude: 11.52028
 postcode: "6060"
 city: Hall in Tirol
-street: "Milser Straße"
-housenumber: 24
+street: Milser Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.blumen-bb.at/"
+website: https://www.blumen-bb.at/

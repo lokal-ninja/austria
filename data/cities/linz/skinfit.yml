@@ -4,8 +4,8 @@ latitude: 48.29313
 longitude: 14.28914
 postcode: "4020"
 city: Linz
-street: "Tegetthoffstraße"
-housenumber: 42
-phone: "+43 660 2786858"
-opening_hours: "Mo-Th 10:00-13:00, 15:30-18:30; Fr 10:00-17:00"
-website: "http://www.skinfit.eu/at/de/branch13.html"
+street: Tegetthoffstraße
+housenumber: "42"
+phone: +43 660 2786858
+opening_hours: Mo-Th 10:00-13:00, 15:30-18:30; Fr 10:00-17:00
+website: http://www.skinfit.eu/at/de/branch13.html

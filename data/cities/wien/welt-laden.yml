@@ -4,8 +4,8 @@ latitude: 48.29946
 longitude: 16.41928
 postcode: "1210"
 city: Wien
-street: "Dr.-Skala-Straße"
-housenumber: 2
+street: Dr.-Skala-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu,We 10:00-13:00; Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00"
+opening_hours: Tu,We 10:00-13:00; Th,Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00
 website: ""

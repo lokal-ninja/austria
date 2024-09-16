@@ -1,11 +1,11 @@
 id: 273502386
-type: way
+type: node
 latitude: 46.69683
 longitude: 14.73243
 postcode: "9112"
 city: Griffen
-street: "Handelsstraße"
-housenumber: 1
+street: Handelsstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

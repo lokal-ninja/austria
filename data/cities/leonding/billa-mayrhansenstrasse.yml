@@ -1,11 +1,11 @@
 id: 49335261
-type: way
+type: node
 latitude: 48.27584
 longitude: 14.252
 postcode: "4060"
 city: Leonding
-street: "Mayrhansenstraße"
-housenumber: 28
+street: Mayrhansenstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

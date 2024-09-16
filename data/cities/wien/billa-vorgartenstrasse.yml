@@ -4,8 +4,8 @@ latitude: 48.23364
 longitude: 16.39073
 postcode: "1200"
 city: Wien
-street: "Vorgartenstraße"
-housenumber: 107
+street: Vorgartenstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30+; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30+; Sa 07:15-18:00
 website: ""

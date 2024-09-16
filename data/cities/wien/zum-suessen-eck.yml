@@ -4,8 +4,8 @@ latitude: 48.22401
 longitude: 16.35033
 postcode: "1090"
 city: Wien
-street: "Währinger Straße"
-housenumber: 65
-phone: "+43 (0)1 / 402 79 74"
-opening_hours: "Tu-Sa 10:00-19:30; Mo, Su, PH 14:00-19:30"
-website: "https://www.suesseseck.at/"
+street: Währinger Straße
+housenumber: "65"
+phone: +43 (0)1 / 402 79 74
+opening_hours: Tu-Sa 10:00-19:30; Mo, Su, PH 14:00-19:30
+website: https://www.suesseseck.at/

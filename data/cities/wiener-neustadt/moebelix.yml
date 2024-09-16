@@ -1,11 +1,11 @@
 id: 309487263
-type: way
+type: node
 latitude: 47.84076
 longitude: 16.19826
 postcode: "2752"
 city: Wiener Neustadt
-street: "Feuerwerksanstalt"
-housenumber: 584
+street: Feuerwerksanstalt
+housenumber: "584"
 phone: ""
 opening_hours: ""
 website: ""

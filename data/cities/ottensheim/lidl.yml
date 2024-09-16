@@ -4,8 +4,8 @@ latitude: 48.3398
 longitude: 14.16649
 postcode: "4100"
 city: Ottensheim
-street: "Hostauerstraße"
-housenumber: 87
+street: Hostauerstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.lidl.at/"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.lidl.at/

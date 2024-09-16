@@ -1,11 +1,11 @@
 id: 158585151
-type: way
+type: node
 latitude: 47.35117
 longitude: 9.88112
 postcode: "6881"
 city: Mellau
-street: "Übermellen"
-housenumber: 123
-phone: "+43 05518 2214"
-opening_hours: "Sa 06:30-17:00; Mo-Fr 07:00-18:30"
+street: Übermellen
+housenumber: "123"
+phone: +43 05518 2214
+opening_hours: Sa 06:30-17:00; Mo-Fr 07:00-18:30
 website: ""

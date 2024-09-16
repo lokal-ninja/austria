@@ -1,11 +1,12 @@
 id: 211910444
-type: way
+type: node
 latitude: 46.80562
 longitude: 15.56549
 postcode: "8431"
 city: Gralla
-street: "Gewerbepark Süd"
-housenumber: 26
+street: Gewerbepark Süd
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; PH,Su off; Nov-Feb We,Th off"
-website: "https://www.motorradklinik.at/"
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00; PH,Su off; Nov-Feb We,Th
+    off
+website: https://www.motorradklinik.at/

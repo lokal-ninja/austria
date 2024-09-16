@@ -4,8 +4,8 @@ latitude: 47.06865
 longitude: 15.43871
 postcode: "8010"
 city: Graz
-street: "Raubergasse"
-housenumber: 17
+street: Raubergasse
+housenumber: "17"
 phone: ""
-opening_hours: "ondemand"
-website: "https://www.kosmetiksalonandrea.at/"
+opening_hours: '"ondemand"'
+website: https://www.kosmetiksalonandrea.at/

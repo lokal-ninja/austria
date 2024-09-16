@@ -4,8 +4,8 @@ latitude: 47.02829
 longitude: 15.43363
 postcode: "8055"
 city: Graz
-street: "Triester Straße"
-housenumber: 371
+street: Triester Straße
+housenumber: "371"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bipa.at/

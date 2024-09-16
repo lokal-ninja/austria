@@ -1,11 +1,11 @@
 id: 842704946
-type: way
+type: node
 latitude: 47.37573
 longitude: 14.12014
 postcode: "8953"
 city: Irdning-Donnersbachtal
 street: ""
-housenumber: 196
-phone: "03680-350"
-opening_hours: "Fr-Tu 08:00-17:00"
+housenumber: "196"
+phone: 03680-350
+opening_hours: Fr-Tu 08:00-17:00
 website: ""

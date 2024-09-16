@@ -1,11 +1,11 @@
 id: 325302998
-type: way
+type: node
 latitude: 47.83464
 longitude: 16.52892
 postcode: "7000"
 city: Eisenstadt
-street: "Ruster Straße"
-housenumber: 110
+street: Ruster Straße
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.koinegg.at/kontakt"
+website: https://www.koinegg.at/kontakt

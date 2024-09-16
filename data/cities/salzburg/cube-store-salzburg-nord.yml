@@ -1,11 +1,11 @@
 id: 50989714
-type: way
+type: node
 latitude: 47.81561
 longitude: 13.06036
 postcode: "5020"
 city: Salzburg
-street: "Samergasse"
-housenumber: 34
-phone: "+43 720 779900017"
-opening_hours: "Di-Fr 10:00-18:30; Sa 9:00-16:00; Su,PH off"
-website: "https://multicycle.at/salzburg/"
+street: Samergasse
+housenumber: "34"
+phone: +43 720 779900017
+opening_hours: Di-Fr 10:00-18:30; Sa 9:00-16:00; Su,PH off
+website: https://multicycle.at/salzburg/

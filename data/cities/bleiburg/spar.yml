@@ -1,11 +1,11 @@
 id: 242181250
-type: way
+type: node
 latitude: 46.59082
 longitude: 14.79499
 postcode: "9150"
 city: Bleiburg
-street: "Völkermarkter Straße"
-housenumber: 1
+street: Völkermarkter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:00; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:00; Sa 07:15-18:00
 website: ""

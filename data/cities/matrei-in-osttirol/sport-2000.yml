@@ -1,11 +1,11 @@
 id: 152792112
-type: way
+type: node
 latitude: 46.99048
 longitude: 12.54235
 postcode: "9971"
 city: Matrei in Osttirol
-street: "Europastraße"
-housenumber: 20
+street: Europastraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

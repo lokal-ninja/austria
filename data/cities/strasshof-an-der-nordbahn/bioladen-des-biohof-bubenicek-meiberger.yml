@@ -1,11 +1,11 @@
 id: 398608904
-type: way
+type: node
 latitude: 48.3211
 longitude: 16.66885
 postcode: "2231"
 city: Strasshof an der Nordbahn
-street: "Hauptstraße"
-housenumber: 425
+street: Hauptstraße
+housenumber: "425"
 phone: ""
-opening_hours: "Mar-Dec: Th-Sa 10:00-18:00; PH off"
+opening_hours: 'Mar-Dec: Th-Sa 10:00-18:00; PH off'
 website: ""

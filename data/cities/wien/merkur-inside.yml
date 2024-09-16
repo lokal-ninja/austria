@@ -1,11 +1,11 @@
 id: 29780596
-type: way
+type: node
 latitude: 48.1562
 longitude: 16.34186
 postcode: "1100"
 city: Wien
-street: "Triester Straße"
-housenumber: 153
+street: Triester Straße
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00-24:00"
+opening_hours: Mo-Su,PH 00:00-24:00
 website: ""

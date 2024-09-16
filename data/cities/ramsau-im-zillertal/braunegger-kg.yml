@@ -1,11 +1,11 @@
 id: 127065543
-type: way
+type: node
 latitude: 47.20459
 longitude: 11.87132
 postcode: "6284"
 city: Ramsau im Zillertal
-street: "Talstraße"
-housenumber: 67
+street: Talstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Sa 07:15-12:00; Mo-Fr 07:15-12:00,16:00-18:00"
+opening_hours: Sa 07:15-12:00; Mo-Fr 07:15-12:00,16:00-18:00
 website: ""

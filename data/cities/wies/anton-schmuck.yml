@@ -1,11 +1,11 @@
 id: 463243695
-type: way
+type: node
 latitude: 46.73509
 longitude: 15.24052
 postcode: "8551"
 city: Wies
 street: ""
-housenumber: 125
-phone: "+43 3465 2796"
+housenumber: "125"
+phone: +43 3465 2796
 opening_hours: ""
 website: ""

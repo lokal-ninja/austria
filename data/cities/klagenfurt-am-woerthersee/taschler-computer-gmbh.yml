@@ -1,11 +1,11 @@
 id: 143542694
-type: way
+type: node
 latitude: 46.63424
 longitude: 14.29538
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Paul-Mühlbacher-Weg"
-housenumber: 6
+street: Paul-Mühlbacher-Weg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

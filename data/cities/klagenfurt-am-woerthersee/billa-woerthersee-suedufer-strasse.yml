@@ -1,11 +1,11 @@
 id: 267064477
-type: way
+type: node
 latitude: 46.60704
 longitude: 14.25555
 postcode: ""
 city: Klagenfurt am Wörthersee
-street: "Wörthersee-Südufer-Straße"
-housenumber: 60
+street: Wörthersee-Südufer-Straße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su;PH 08:00-13:00; Su;PH 15:00-18:00"
+opening_hours: Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su;PH 08:00-13:00; Su;PH 15:00-18:00
 website: ""

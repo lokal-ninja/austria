@@ -4,8 +4,8 @@ latitude: 48.19704
 longitude: 16.39592
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 113
-phone: "+43 1 7136173"
-opening_hours: "Mo-Su 09:00-18:00"
+street: Landstraßer Hauptstraße
+housenumber: "113"
+phone: +43 1 7136173
+opening_hours: Mo-Su 09:00-18:00
 website: ""

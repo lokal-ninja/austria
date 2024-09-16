@@ -4,8 +4,8 @@ latitude: 48.41046
 longitude: 15.6018
 postcode: "3500"
 city: Krems an der Donau
-street: "Göglstraße"
-housenumber: 2
-phone: "+43 2732 74 428"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; PH off"
-website: "https://www.audio-art.at/"
+street: Göglstraße
+housenumber: "2"
+phone: +43 2732 74 428
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; PH off
+website: https://www.audio-art.at/

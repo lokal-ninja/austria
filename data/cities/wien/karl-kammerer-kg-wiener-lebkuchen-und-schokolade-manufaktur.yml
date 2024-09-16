@@ -4,8 +4,8 @@ latitude: 48.23487
 longitude: 16.37384
 postcode: "1200"
 city: Wien
-street: "Dammstraße"
-housenumber: 39
+street: Dammstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-11:30"
-website: "https://www.wiener-lebkuchen.at"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-11:30
+website: https://www.wiener-lebkuchen.at

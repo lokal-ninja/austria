@@ -4,8 +4,8 @@ latitude: 48.19888
 longitude: 16.35793
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 34
+street: Gumpendorfer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00, Sa 09:00-17:00"
-website: "http://www.kopfart.net/"
+opening_hours: Tu-Fr 09:00-19:00, Sa 09:00-17:00
+website: http://www.kopfart.net/

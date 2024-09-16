@@ -4,8 +4,8 @@ latitude: 48.22779
 longitude: 16.35478
 postcode: "1090"
 city: Wien
-street: "Nussdorfer Straße"
-housenumber: 45
+street: Nussdorfer Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Tu-Fr 10:00-20:00; Sa 09:00-17:00"
-website: "http://www.hair-wolf.at"
+opening_hours: Tu-Fr 10:00-20:00; Sa 09:00-17:00
+website: http://www.hair-wolf.at

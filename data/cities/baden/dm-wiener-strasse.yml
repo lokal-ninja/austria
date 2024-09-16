@@ -4,8 +4,8 @@ latitude: 48.01411
 longitude: 16.25751
 postcode: "2500"
 city: Baden
-street: "Wiener Straße"
-housenumber: 121
+street: Wiener Straße
+housenumber: "121"
 phone: "+432252259753"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

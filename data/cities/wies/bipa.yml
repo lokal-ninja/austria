@@ -1,11 +1,11 @@
 id: 726088578
-type: way
+type: node
 latitude: 46.71947
 longitude: 15.25414
 postcode: "8551"
 city: Wies
-street: "Radlpaßstraße"
+street: Radlpaßstraße
 housenumber: 21a
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off"
-website: "https://www.bipa.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off
+website: https://www.bipa.at

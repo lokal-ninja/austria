@@ -4,8 +4,8 @@ latitude: 48.30364
 longitude: 14.28636
 postcode: "4020"
 city: Linz
-street: "Promenade"
-housenumber: 15
-phone: "+43 699 190 778 26"
-opening_hours: "Tu,We,Fr 15:00-18:00; Sa 12:00-15:00"
-website: "http://www.colino.at"
+street: Promenade
+housenumber: "15"
+phone: +43 699 190 778 26
+opening_hours: Tu,We,Fr 15:00-18:00; Sa 12:00-15:00
+website: http://www.colino.at

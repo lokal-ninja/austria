@@ -1,11 +1,11 @@
 id: 255220398
-type: way
+type: node
 latitude: 48.38724
 longitude: 16.2269
 postcode: "2000"
 city: Stockerau
-street: "Eduard Rösch-Straße"
+street: Eduard Rösch-Straße
 housenumber: 71-73
-phone: "+43 59915 09001"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+phone: +43 59915 09001
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

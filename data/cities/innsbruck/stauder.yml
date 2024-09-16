@@ -4,8 +4,8 @@ latitude: 47.26477
 longitude: 11.41009
 postcode: "6020"
 city: Innsbruck
-street: "Pradler Straße"
-housenumber: 55
-phone: "+43 512 341187"
-opening_hours: "Fr 09:00-18:00; Mo-Th 09:00-16:00"
-website: "https://www.obst-stauder.at/"
+street: Pradler Straße
+housenumber: "55"
+phone: +43 512 341187
+opening_hours: Fr 09:00-18:00; Mo-Th 09:00-16:00
+website: https://www.obst-stauder.at/

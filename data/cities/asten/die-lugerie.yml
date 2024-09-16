@@ -4,8 +4,8 @@ latitude: 48.21777
 longitude: 14.42411
 postcode: "4481"
 city: Asten
-street: "Geranienstraße"
-housenumber: 1
-phone: "+43 678 1266792"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.dielugerie.at"
+street: Geranienstraße
+housenumber: "1"
+phone: +43 678 1266792
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.dielugerie.at

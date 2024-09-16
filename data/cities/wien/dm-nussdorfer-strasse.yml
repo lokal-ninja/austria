@@ -4,8 +4,8 @@ latitude: 48.22276
 longitude: 16.3533
 postcode: "1090"
 city: Wien
-street: "Nußdorfer Straße"
-housenumber: 3
-phone: "+43 13176333"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-18:00"
-website: "https://www.dm.at"
+street: Nußdorfer Straße
+housenumber: "3"
+phone: +43 13176333
+opening_hours: Mo-Fr 08:00-19:00, Sa 09:00-18:00
+website: https://www.dm.at

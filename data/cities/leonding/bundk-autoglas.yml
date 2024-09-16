@@ -1,11 +1,11 @@
 id: 51685159
-type: way
+type: node
 latitude: 48.2716
 longitude: 14.2715
 postcode: "4060"
 city: Leonding
-street: "Haagerfeldstraße"
-housenumber: 16
-phone: "+43 (0) 732/ 31 40 44"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:15; Fr 08:00-14:00"
-website: "http://www.bk-autoglas.at"
+street: Haagerfeldstraße
+housenumber: "16"
+phone: +43 (0) 732/ 31 40 44
+opening_hours: Mo-Th 08:00-12:00,13:00-17:15; Fr 08:00-14:00
+website: http://www.bk-autoglas.at

@@ -1,11 +1,11 @@
 id: 128269464
-type: way
+type: node
 latitude: 48.30777
 longitude: 14.02214
 postcode: "4070"
 city: Eferding
-street: "Unterer Graben"
-housenumber: 6
+street: Unterer Graben
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00;Sa 09:00-12:00
 website: ""

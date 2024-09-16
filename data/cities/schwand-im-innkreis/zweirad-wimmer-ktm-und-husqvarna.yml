@@ -1,11 +1,11 @@
 id: 270405449
-type: way
+type: node
 latitude: 48.17826
 longitude: 12.96665
 postcode: "5134"
 city: Schwand im Innkreis
-street: "Braunauer Straße"
-housenumber: 1
+street: Braunauer Straße
+housenumber: "1"
 phone: "+437728700411"
-opening_hours: "Mo-Fr 08:00-12:00; Mo,Tu,Th,Fr 14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.zweirad-wimmer.at/"
+opening_hours: Mo-Fr 08:00-12:00; Mo,Tu,Th,Fr 14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.zweirad-wimmer.at/

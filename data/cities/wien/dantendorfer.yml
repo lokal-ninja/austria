@@ -4,8 +4,8 @@ latitude: 48.20699
 longitude: 16.37302
 postcode: "1010"
 city: Wien
-street: "Weihburggasse"
-housenumber: 9
+street: Weihburggasse
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.dantendorfer.at/"
+website: https://www.dantendorfer.at/

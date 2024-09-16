@@ -1,11 +1,11 @@
 id: 82120966
-type: way
+type: node
 latitude: 47.49372
 longitude: 10.7219
 postcode: "6600"
 city: Reutte
-street: "Werner Storf-Straße"
-housenumber: 6
+street: Werner Storf-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

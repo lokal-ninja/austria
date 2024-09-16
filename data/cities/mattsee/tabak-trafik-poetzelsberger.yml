@@ -1,11 +1,11 @@
 id: 164075643
-type: way
+type: node
 latitude: 47.97099
 longitude: 13.10496
 postcode: "5163"
 city: Mattsee
-street: "Seestraße"
-housenumber: 1
+street: Seestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

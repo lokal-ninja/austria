@@ -4,8 +4,8 @@ latitude: 48.5692
 longitude: 16.08144
 postcode: "2020"
 city: Hollabrunn
-street: "Aspersdorferstraße"
-housenumber: 11
-phone: "+43 29524068"
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-18:30; Sa 08:30-17:00"
+street: Aspersdorferstraße
+housenumber: "11"
+phone: +43 29524068
+opening_hours: Mo-Th 08:30-18:00; Fr 08:30-18:30; Sa 08:30-17:00
 website: ""

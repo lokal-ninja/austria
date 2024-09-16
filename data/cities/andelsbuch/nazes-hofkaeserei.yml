@@ -1,11 +1,11 @@
 id: 323593876
-type: way
+type: node
 latitude: 47.41421
 longitude: 9.88697
 postcode: "6866"
 city: Andelsbuch
-street: "Wirth"
-housenumber: 49
+street: Wirth
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

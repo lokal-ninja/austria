@@ -1,11 +1,11 @@
 id: 175482420
-type: way
+type: node
 latitude: 47.96588
 longitude: 13.10109
 postcode: "5163"
 city: Mattsee
-street: "Salzburger Straße"
-housenumber: 33
+street: Salzburger Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "http://lampelmaier.fordpartner.at/home.html"
+website: http://lampelmaier.fordpartner.at/home.html

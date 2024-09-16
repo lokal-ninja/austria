@@ -1,11 +1,11 @@
 id: 263771029
-type: way
+type: node
 latitude: 46.59502
 longitude: 13.83882
 postcode: "9500"
 city: Villach
-street: "Auenweg"
-housenumber: 5
-phone: "+43 50111 917 0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.moebelix.at"
+street: Auenweg
+housenumber: "5"
+phone: +43 50111 917 0
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.moebelix.at

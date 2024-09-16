@@ -5,7 +5,7 @@ longitude: 15.23696
 postcode: "8551"
 city: Wies
 street: ""
-housenumber: 186
+housenumber: "186"
 phone: "+4369910400441"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://sabrina-hair.art"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://sabrina-hair.art

@@ -1,11 +1,11 @@
 id: 369090510
-type: way
+type: node
 latitude: 47.47295
 longitude: 9.90136
 postcode: "6941"
 city: Langenegg
-street: "Gfäll"
-housenumber: 134
-phone: "+435513 41 16 0"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:30; Sa 08:00-12:00"
-website: "https://www.waelderhaus.at/"
+street: Gfäll
+housenumber: "134"
+phone: +435513 41 16 0
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:30; Sa 08:00-12:00
+website: https://www.waelderhaus.at/

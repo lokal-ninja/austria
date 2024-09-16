@@ -1,11 +1,11 @@
 id: 731979622
-type: way
+type: node
 latitude: 47.37229
 longitude: 9.69387
 postcode: "6845"
 city: Hohenems
-street: "Lukas-Cranach-Weg"
-housenumber: 1
-phone: "+43 664 1945154"
+street: Lukas-Cranach-Weg
+housenumber: "1"
+phone: +43 664 1945154
 opening_hours: ""
-website: "http://www.autoduke.at/"
+website: http://www.autoduke.at/

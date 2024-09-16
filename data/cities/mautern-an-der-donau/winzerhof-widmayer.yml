@@ -5,7 +5,7 @@ longitude: 15.56221
 postcode: "3512"
 city: Mautern an der Donau
 street: ""
-housenumber: 27
-phone: "+43 2732 87654"
+housenumber: "27"
+phone: +43 2732 87654
 opening_hours: ""
-website: "https://www.widi-wein.at/"
+website: https://www.widi-wein.at/

@@ -1,11 +1,11 @@
 id: 638675845
-type: way
+type: node
 latitude: 48.2035
 longitude: 16.24491
 postcode: "1140"
 city: Wien
-street: "Linzer Straße"
-housenumber: 480
+street: Linzer Straße
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

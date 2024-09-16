@@ -1,11 +1,11 @@
 id: 152844801
-type: way
+type: node
 latitude: 48.20943
 longitude: 16.21549
 postcode: "1140"
 city: Wien
-street: "Hauptstraße"
-housenumber: 87
+street: Hauptstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00, Sa 08:00-13:00"
+opening_hours: Tu-Fr 08:00-18:00, Sa 08:00-13:00
 website: ""

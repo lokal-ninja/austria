@@ -1,11 +1,11 @@
 id: 863068357
-type: way
+type: node
 latitude: 47.71937
 longitude: 16.51518
 postcode: "7022"
 city: Schattendorf
-street: "Baumgartnerstraße"
-housenumber: 78
-phone: "+43 59915 07220"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Baumgartnerstraße
+housenumber: "78"
+phone: +43 59915 07220
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

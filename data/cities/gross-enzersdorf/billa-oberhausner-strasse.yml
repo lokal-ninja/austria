@@ -1,11 +1,11 @@
 id: 115670236
-type: way
+type: node
 latitude: 48.18988
 longitude: 16.57753
 postcode: "2301"
 city: Groß-Enzersdorf
-street: "Oberhausner Straße"
-housenumber: 2
-phone: "+43 59915 03670"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Oberhausner Straße
+housenumber: "2"
+phone: +43 59915 03670
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

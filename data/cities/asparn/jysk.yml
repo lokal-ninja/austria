@@ -4,8 +4,8 @@ latitude: 48.32173
 longitude: 16.02347
 postcode: "3442"
 city: Asparn
-street: "Europastraße"
-housenumber: 4
+street: Europastraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5162"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5162

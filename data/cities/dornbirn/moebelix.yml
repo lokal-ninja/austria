@@ -1,11 +1,11 @@
 id: 128845891
-type: way
+type: node
 latitude: 47.43074
 longitude: 9.73992
 postcode: "6850"
 city: Dornbirn
-street: "Schwefel"
-housenumber: 78
+street: Schwefel
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.moebelix.at/filiale/moebelix-dornbirn/6D"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.moebelix.at/filiale/moebelix-dornbirn/6D

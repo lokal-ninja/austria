@@ -1,11 +1,11 @@
 id: 396141550
-type: way
+type: node
 latitude: 47.1685
 longitude: 16.01083
 postcode: "8271"
 city: Bad Waltersdorf
 street: ""
-housenumber: 66
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

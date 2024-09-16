@@ -1,11 +1,11 @@
 id: 197228242
-type: way
+type: node
 latitude: 48.54528
 longitude: 14.14527
 postcode: "4184"
 city: Helfenberg
-street: "Leonfelder Straße"
-housenumber: 26
+street: Leonfelder Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

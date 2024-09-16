@@ -4,8 +4,8 @@ latitude: 48.19421
 longitude: 16.38849
 postcode: "1030"
 city: Wien
-street: "Rennweg"
-housenumber: 47
-phone: "+43 (0)720 / 979 247"
-opening_hours: "Tu 18:00-20:00"
-website: "https://www.workandstore.at/"
+street: Rennweg
+housenumber: "47"
+phone: +43 (0)720 / 979 247
+opening_hours: Tu 18:00-20:00
+website: https://www.workandstore.at/

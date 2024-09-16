@@ -4,8 +4,8 @@ latitude: 47.27255
 longitude: 14.78644
 postcode: "8732"
 city: Seckau
-street: "Hochalmstraße"
-housenumber: 19
-phone: "+43/3514/5310"
-opening_hours: "Mo-Fr 07:00-19:30; Sa 07:00-18:00"
-website: "https://www.adeg.at/Marktsuche/"
+street: Hochalmstraße
+housenumber: "19"
+phone: +43/3514/5310
+opening_hours: Mo-Fr 07:00-19:30; Sa 07:00-18:00
+website: https://www.adeg.at/Marktsuche/

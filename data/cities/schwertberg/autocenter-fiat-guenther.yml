@@ -1,11 +1,11 @@
 id: 1036504502
-type: way
+type: node
 latitude: 48.25231
 longitude: 14.58096
 postcode: "4311"
 city: Schwertberg
-street: "Technologiepark"
-housenumber: 2
+street: Technologiepark
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.autocenter-guenther.at/"
+website: https://www.autocenter-guenther.at/

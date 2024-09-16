@@ -1,11 +1,11 @@
 id: 94828813
-type: way
+type: node
 latitude: 47.26576
 longitude: 11.42839
 postcode: "6020"
 city: Innsbruck
-street: "Bernhard-Höfel-Straße"
-housenumber: 9
-phone: "+43 512 33770-0"
+street: Bernhard-Höfel-Straße
+housenumber: "9"
+phone: +43 512 33770-0
 opening_hours: ""
-website: "https://www.rowa-moser.at/"
+website: https://www.rowa-moser.at/

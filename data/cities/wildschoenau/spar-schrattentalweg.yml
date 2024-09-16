@@ -1,11 +1,11 @@
 id: 133391309
-type: way
+type: node
 latitude: 47.40986
 longitude: 12.03771
 postcode: "6313"
 city: Wildschönau
-street: "Schrattentalweg"
-housenumber: 54
+street: Schrattentalweg
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,14:00-18:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 07:00-12:00,14:00-18:00; Sa 07:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 90844870
-type: way
+type: node
 latitude: 48.2358
 longitude: 14.02706
 postcode: "4611"
 city: Buchkirchen
-street: "Schartner Straße"
-housenumber: 16
-phone: "+43 7242 28082"
+street: Schartner Straße
+housenumber: "16"
+phone: +43 7242 28082
 opening_hours: ""
 website: ""

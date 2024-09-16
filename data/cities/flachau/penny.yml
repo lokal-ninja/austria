@@ -4,8 +4,8 @@ latitude: 47.36276
 longitude: 13.38271
 postcode: "5542"
 city: Flachau
-street: "Feuersang"
-housenumber: 319
-phone: "+43 6457 3296"
-opening_hours: "Apr-Nov: Mo-Sa 07:30-19:00; Dec-Mar: Mo-Sa 07:30-18:00"
+street: Feuersang
+housenumber: "319"
+phone: +43 6457 3296
+opening_hours: 'Apr-Nov: Mo-Sa 07:30-19:00; Dec-Mar: Mo-Sa 07:30-18:00'
 website: ""

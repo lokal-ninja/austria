@@ -1,11 +1,11 @@
 id: 86674590
-type: way
+type: node
 latitude: 47.26978
 longitude: 16.23893
 postcode: "7501"
 city: Unterwart
-street: "Steinamangererstraße"
-housenumber: 338
+street: Steinamangererstraße
+housenumber: "338"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://www.penny.at"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://www.penny.at

@@ -5,7 +5,7 @@ longitude: 9.83422
 postcode: "6861"
 city: Alberschwende
 street: ""
-housenumber: 462
+housenumber: "462"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.spettel.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.spettel.at/

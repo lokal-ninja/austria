@@ -1,11 +1,11 @@
 id: 130776803
-type: way
+type: node
 latitude: 47.48384
 longitude: 9.72703
 postcode: "6923"
 city: Lauterach
-street: "Harderstraße"
-housenumber: 22
+street: Harderstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

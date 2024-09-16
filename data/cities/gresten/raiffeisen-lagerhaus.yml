@@ -1,11 +1,11 @@
 id: 294790791
-type: way
+type: node
 latitude: 47.98339
 longitude: 15.02421
 postcode: "3264"
 city: Gresten
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

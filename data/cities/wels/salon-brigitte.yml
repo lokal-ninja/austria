@@ -1,11 +1,11 @@
 id: 55509587
-type: way
+type: node
 latitude: 48.16645
 longitude: 14.02349
 postcode: "4600"
 city: Wels
-street: "Grünbachplatz"
+street: Grünbachplatz
 housenumber: 6a
-phone: "+43-7242-61382"
-opening_hours: "Tu,Fr 07:30-18:00; We,Th 08:00-18:00; Sa 07:00-12:00"
+phone: +43-7242-61382
+opening_hours: Tu,Fr 07:30-18:00; We,Th 08:00-18:00; Sa 07:00-12:00
 website: ""

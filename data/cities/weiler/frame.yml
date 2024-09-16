@@ -1,11 +1,11 @@
 id: 335753238
-type: way
+type: node
 latitude: 47.30495
 longitude: 9.62075
 postcode: "6837"
 city: Weiler
-street: "Herzogried"
-housenumber: 2
-phone: "+43 5523 58580"
+street: Herzogried
+housenumber: "2"
+phone: +43 5523 58580
 opening_hours: ""
 website: ""

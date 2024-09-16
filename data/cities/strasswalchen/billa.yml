@@ -1,11 +1,11 @@
 id: 120368001
-type: way
+type: node
 latitude: 47.97326
 longitude: 13.25068
 postcode: "5204"
 city: Straßwalchen
-street: "Salzburgerstraße"
-housenumber: 52
+street: Salzburgerstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

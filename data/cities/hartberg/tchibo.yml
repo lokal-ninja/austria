@@ -4,8 +4,8 @@ latitude: 47.28103
 longitude: 15.99104
 postcode: "8230"
 city: Hartberg
-street: "Im Hatric"
-housenumber: 2
+street: Im Hatric
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.eduscho.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.eduscho.at/

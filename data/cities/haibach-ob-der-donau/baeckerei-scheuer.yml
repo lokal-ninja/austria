@@ -4,8 +4,9 @@ latitude: 48.41029
 longitude: 13.91638
 postcode: "4083"
 city: Haibach ob der Donau
-street: "Kirchenplatz"
-housenumber: 2
-phone: "07279 8234"
-opening_hours: "Mo 05:00-12:00; Tu-Fr 05:00-12:00, 14:00-18:00; Sa 05:00-12:00; Su 08:00-11:00"
-website: "https://cafe-scheuer.at/"
+street: Kirchenplatz
+housenumber: "2"
+phone: 07279 8234
+opening_hours: Mo 05:00-12:00; Tu-Fr 05:00-12:00, 14:00-18:00; Sa 05:00-12:00; Su
+    08:00-11:00
+website: https://cafe-scheuer.at/

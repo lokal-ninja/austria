@@ -1,11 +1,11 @@
 id: 149194962
-type: way
+type: node
 latitude: 47.19066
 longitude: 14.74851
 postcode: "8740"
 city: Zeltweg
-street: "Hauptstraße"
-housenumber: 105
+street: Hauptstraße
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "http://www.malez.at/"
+website: http://www.malez.at/

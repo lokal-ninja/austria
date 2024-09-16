@@ -1,11 +1,11 @@
 id: 436739887
-type: way
+type: node
 latitude: 46.78522
 longitude: 15.2372
 postcode: "8530"
 city: Schwanberg
 street: ""
-housenumber: 97
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "https://www.handwerkskaeserei-mago.at/"
+website: https://www.handwerkskaeserei-mago.at/

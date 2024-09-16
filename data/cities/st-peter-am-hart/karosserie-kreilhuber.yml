@@ -1,11 +1,11 @@
 id: 293957930
-type: way
+type: node
 latitude: 48.23439
 longitude: 13.07317
 postcode: "5280"
 city: St. Peter am Hart
 street: ""
-housenumber: 63
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

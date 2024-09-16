@@ -1,11 +1,11 @@
 id: 89179706
-type: way
+type: node
 latitude: 48.18832
 longitude: 14.18482
 postcode: "4055"
 city: Pucking
-street: "Puckinger Straße"
-housenumber: 3
+street: Puckinger Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

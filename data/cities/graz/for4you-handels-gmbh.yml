@@ -1,11 +1,11 @@
 id: 137012191
-type: way
+type: node
 latitude: 47.03318
 longitude: 15.47869
 postcode: "8041"
 city: Graz
-street: "Raabaweg"
-housenumber: 17
+street: Raabaweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

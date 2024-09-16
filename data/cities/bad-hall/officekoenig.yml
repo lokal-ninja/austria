@@ -1,11 +1,11 @@
 id: 116901736
-type: way
+type: node
 latitude: 48.03625
 longitude: 14.21074
 postcode: "4540"
 city: Bad Hall
-street: "Bahnhofplatz"
-housenumber: 19
+street: Bahnhofplatz
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

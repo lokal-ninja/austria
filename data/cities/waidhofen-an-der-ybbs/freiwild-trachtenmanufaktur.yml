@@ -4,8 +4,8 @@ latitude: 47.95844
 longitude: 14.77278
 postcode: "3340"
 city: Waidhofen an der Ybbs
-street: "Eberhard-Platz"
-housenumber: 7
+street: Eberhard-Platz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00"
-website: "https://www.freiwild-design.at/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
+website: https://www.freiwild-design.at/

@@ -1,11 +1,11 @@
 id: 167202207
-type: way
+type: node
 latitude: 47.06808
 longitude: 16.32138
 postcode: "7540"
 city: Güssing
-street: "Wiener Straße"
-housenumber: 27
+street: Wiener Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

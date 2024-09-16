@@ -1,11 +1,11 @@
 id: 123242959
-type: way
+type: node
 latitude: 48.32955
 longitude: 16.05425
 postcode: "3430"
 city: Tulln an der Donau
-street: "Wilhelmstraße"
-housenumber: 1
+street: Wilhelmstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

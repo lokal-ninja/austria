@@ -1,11 +1,11 @@
 id: 132381658
-type: way
+type: node
 latitude: 47.93537
 longitude: 12.94626
 postcode: "5110"
 city: Oberndorf bei Salzburg
-street: "Römerweg"
-housenumber: 2
+street: Römerweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

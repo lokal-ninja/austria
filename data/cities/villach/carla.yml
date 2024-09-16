@@ -4,8 +4,8 @@ latitude: 46.61454
 longitude: 13.846
 postcode: "9500"
 city: Villach
-street: "Rathausgasse"
-housenumber: 6
-phone: "+43 4242 218 736"
-opening_hours: "Mo-Tu, Th-Fr 09:00-13:00, 14:00-17:30; We 09:00-13:00"
-website: "https://www.caritas-kaernten.at/hilfe-angebote/einkaufen-stoebern/carlas"
+street: Rathausgasse
+housenumber: "6"
+phone: +43 4242 218 736
+opening_hours: Mo-Tu, Th-Fr 09:00-13:00, 14:00-17:30; We 09:00-13:00
+website: https://www.caritas-kaernten.at/hilfe-angebote/einkaufen-stoebern/carlas

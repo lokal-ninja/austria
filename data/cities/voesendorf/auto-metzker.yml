@@ -1,11 +1,11 @@
 id: 112206108
-type: way
+type: node
 latitude: 48.11967
 longitude: 16.31758
 postcode: "2334"
 city: Vösendorf
-street: "Lokalbahnweg"
-housenumber: 6
+street: Lokalbahnweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
+opening_hours: Mo-Fr 09:00-17:30
 website: ""

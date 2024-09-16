@@ -4,8 +4,8 @@ latitude: 47.25951
 longitude: 11.39717
 postcode: "6020"
 city: Innsbruck
-street: "Mentlgasse"
-housenumber: 2
-phone: "+43 677 63980898"
-opening_hours: "Mo-Fr 13:00-19:00; Sa 14:00-18:00"
-website: "https://www.canvory.at"
+street: Mentlgasse
+housenumber: "2"
+phone: +43 677 63980898
+opening_hours: Mo-Fr 13:00-19:00; Sa 14:00-18:00
+website: https://www.canvory.at

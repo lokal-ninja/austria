@@ -1,11 +1,11 @@
 id: 318801030
-type: way
+type: node
 latitude: 46.68358
 longitude: 14.33789
 postcode: "9063"
 city: Maria Saal
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.armin-stippich.at/"
+website: https://www.armin-stippich.at/

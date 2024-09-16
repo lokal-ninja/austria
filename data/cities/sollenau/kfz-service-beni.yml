@@ -1,11 +1,11 @@
 id: 543659632
-type: way
+type: node
 latitude: 47.906
 longitude: 16.2534
 postcode: "2601"
 city: Sollenau
-street: "Industriestraße"
-housenumber: 7
+street: Industriestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

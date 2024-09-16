@@ -1,11 +1,11 @@
 id: 138322491
-type: way
+type: node
 latitude: 48.06968
 longitude: 15.05194
 postcode: "3261"
 city: Steinakirchen am Forst
-street: "Hauptstraße"
-housenumber: 8
+street: Hauptstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

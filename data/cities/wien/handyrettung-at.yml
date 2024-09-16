@@ -4,8 +4,8 @@ latitude: 48.19782
 longitude: 16.36579
 postcode: "1040"
 city: Wien
-street: "Operngasse"
-housenumber: 32
+street: Operngasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-18:00"
-website: "https://handyrettung.at"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-18:00
+website: https://handyrettung.at

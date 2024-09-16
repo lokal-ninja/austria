@@ -4,8 +4,8 @@ latitude: 47.18357
 longitude: 14.67814
 postcode: "8753"
 city: Fohnsdorf
-street: "Bundesstraße"
-housenumber: 8
-phone: "+43 650 6444466"
-opening_hours: "Mo-Fr 09:00-12:00, 14:30-18:00"
-website: "https://liwo.at/"
+street: Bundesstraße
+housenumber: "8"
+phone: +43 650 6444466
+opening_hours: Mo-Fr 09:00-12:00, 14:30-18:00
+website: https://liwo.at/

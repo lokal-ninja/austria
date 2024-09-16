@@ -1,11 +1,11 @@
 id: 147990707
-type: way
+type: node
 latitude: 47.51961
 longitude: 12.0961
 postcode: "6322"
 city: Kirchbichl
-street: "Perlmooserstraße"
-housenumber: 2
+street: Perlmooserstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

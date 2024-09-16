@@ -1,11 +1,11 @@
 id: 411618794
-type: way
+type: node
 latitude: 46.81735
 longitude: 15.31524
 postcode: "8522"
 city: Groß Sankt Florian
-street: "Laßnitzstraße"
-housenumber: 26
-phone: "+43 3464 22 63 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00,PH off"
-website: "https://www.mercedes-stelzer.at/"
+street: Laßnitzstraße
+housenumber: "26"
+phone: +43 3464 22 63 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00,PH off
+website: https://www.mercedes-stelzer.at/

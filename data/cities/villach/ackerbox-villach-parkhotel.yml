@@ -1,11 +1,11 @@
 id: 832028469
-type: way
+type: node
 latitude: 46.61195
 longitude: 13.84734
 postcode: "9500"
 city: Villach
-street: "Moritschstraße"
-housenumber: 4
+street: Moritschstraße
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

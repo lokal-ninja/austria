@@ -1,11 +1,11 @@
 id: 339162787
-type: way
+type: node
 latitude: 48.00312
 longitude: 13.67903
 postcode: "4840"
 city: Vöcklabruck
-street: "Max Planck-Straße"
-housenumber: 6
-phone: "+43 50306601"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+street: Max Planck-Straße
+housenumber: "6"
+phone: +43 50306601
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

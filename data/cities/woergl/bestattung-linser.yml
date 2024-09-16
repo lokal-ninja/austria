@@ -1,11 +1,11 @@
 id: 115838983
-type: way
+type: node
 latitude: 47.48176
 longitude: 12.06964
 postcode: "6300"
 city: Wörgl
-street: "Wildschönauer Straße"
-housenumber: 41
-phone: "+43 50 1717-150"
+street: Wildschönauer Straße
+housenumber: "41"
+phone: +43 50 1717-150
 opening_hours: ""
 website: ""

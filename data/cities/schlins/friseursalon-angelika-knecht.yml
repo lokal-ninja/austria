@@ -1,11 +1,11 @@
 id: 127606976
-type: way
+type: node
 latitude: 47.20051
 longitude: 9.69289
 postcode: "6824"
 city: Schlins
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

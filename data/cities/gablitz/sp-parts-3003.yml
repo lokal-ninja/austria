@@ -4,8 +4,8 @@ latitude: 48.23193
 longitude: 16.14768
 postcode: "3003"
 city: Gablitz
-street: "Linzer Straße"
-housenumber: 122
-phone: "+43 2231 64369"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-12:00; PH off"
-website: "http://www.spparts.at/"
+street: Linzer Straße
+housenumber: "122"
+phone: +43 2231 64369
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-12:00; PH off
+website: http://www.spparts.at/

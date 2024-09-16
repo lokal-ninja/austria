@@ -4,8 +4,8 @@ latitude: 47.71102
 longitude: 13.62267
 postcode: "4820"
 city: Bad Ischl
-street: "Sparkassenplatz"
-housenumber: 4
+street: Sparkassenplatz
+housenumber: "4"
 phone: "+43613227060"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

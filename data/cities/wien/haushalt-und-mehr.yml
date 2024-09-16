@@ -4,8 +4,8 @@ latitude: 48.18459
 longitude: 16.32963
 postcode: "1150"
 city: Wien
-street: "Ullmannstraße"
-housenumber: 56
+street: Ullmannstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00; Su off"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00; Su off
 website: ""

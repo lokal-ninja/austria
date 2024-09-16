@@ -4,8 +4,8 @@ latitude: 48.25173
 longitude: 14.26882
 postcode: "4021"
 city: Linz
-street: "Banner Straße"
-housenumber: 1
+street: Banner Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 07:45-12:00,13:00-17:00;Fr 07:45-12:00,13:00-15:00"
+opening_hours: Mo-Th 07:45-12:00,13:00-17:00;Fr 07:45-12:00,13:00-15:00
 website: ""

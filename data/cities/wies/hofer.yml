@@ -1,11 +1,11 @@
 id: 190568071
-type: way
+type: node
 latitude: 46.71775
 longitude: 15.25343
 postcode: "8551"
 city: Wies
-street: "Radlpass Straße"
-housenumber: 30
-phone: "+43 57 0303 1027"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su,PH off"
+street: Radlpass Straße
+housenumber: "30"
+phone: +43 57 0303 1027
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su,PH off
 website: ""

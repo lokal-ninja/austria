@@ -4,8 +4,8 @@ latitude: 47.26484
 longitude: 11.43956
 postcode: "6020"
 city: Innsbruck
-street: "Grabenweg"
-housenumber: 68
-phone: "+43 59921 300"
-opening_hours: "Mo-Fr 14:00-18:00; Sa 09:00-12:00; PH off"
-website: "https://www.create-sports.com/hockeystore_innsbruck.php"
+street: Grabenweg
+housenumber: "68"
+phone: +43 59921 300
+opening_hours: Mo-Fr 14:00-18:00; Sa 09:00-12:00; PH off
+website: https://www.create-sports.com/hockeystore_innsbruck.php

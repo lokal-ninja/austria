@@ -4,8 +4,8 @@ latitude: 48.21796
 longitude: 16.37751
 postcode: "1020"
 city: Wien
-street: "Haidgasse"
-housenumber: 5
+street: Haidgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 08:00-15:00; Tu,Th 08:00-18:00; We,Fr 08:00-15:00; Sa 08:00-12:00"
+opening_hours: Mo 08:00-15:00; Tu,Th 08:00-18:00; We,Fr 08:00-15:00; Sa 08:00-12:00
 website: ""

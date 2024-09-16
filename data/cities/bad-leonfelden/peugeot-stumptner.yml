@@ -1,11 +1,11 @@
 id: 126446713
-type: way
+type: node
 latitude: 48.52777
 longitude: 14.2938
 postcode: "4190"
 city: Bad Leonfelden
-street: "Böhmer Straße"
-housenumber: 17
+street: Böhmer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "http://auto-stumptner.at/"
+website: http://auto-stumptner.at/

@@ -1,11 +1,11 @@
 id: 1093252497
-type: way
+type: node
 latitude: 47.82583
 longitude: 13.07893
 postcode: "5020"
 city: Salzburg
-street: "Linzer Bundesstraße"
-housenumber: 103
+street: Linzer Bundesstraße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 325148151
-type: way
+type: node
 latitude: 48.38398
 longitude: 16.21177
 postcode: "2000"
 city: Stockerau
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 06:45-18:45; Sa 07:30-17:00"
+opening_hours: Mo-Fr 06:45-18:45; Sa 07:30-17:00
 website: ""

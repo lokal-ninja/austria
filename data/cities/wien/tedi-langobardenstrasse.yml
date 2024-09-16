@@ -4,8 +4,8 @@ latitude: 48.22361
 longitude: 16.4556
 postcode: "1220"
 city: Wien
-street: "Langobardenstraße"
-housenumber: 26
+street: Langobardenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.tedi.com/at/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://www.tedi.com/at/

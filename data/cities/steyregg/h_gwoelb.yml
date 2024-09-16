@@ -4,8 +4,8 @@ latitude: 48.28547
 longitude: 14.36975
 postcode: "4221"
 city: Steyregg
-street: "Weißenwolffstraße"
-housenumber: 14
-phone: "+43 732 640 579"
-opening_hours: "Tu,Th,Fr 08:00-19:00;We 08:00-18:00"
-website: "https://www.hgwoelb.at/"
+street: Weißenwolffstraße
+housenumber: "14"
+phone: +43 732 640 579
+opening_hours: Tu,Th,Fr 08:00-19:00;We 08:00-18:00
+website: https://www.hgwoelb.at/

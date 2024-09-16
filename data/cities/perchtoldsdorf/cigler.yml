@@ -1,11 +1,11 @@
 id: 86928482
-type: way
+type: node
 latitude: 48.12617
 longitude: 16.26644
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Ambros-Rieder-Gasse"
-housenumber: 30
-phone: "+43 1 865 17 72"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://www.cigler-blumen.at/"
+street: Ambros-Rieder-Gasse
+housenumber: "30"
+phone: +43 1 865 17 72
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00
+website: https://www.cigler-blumen.at/

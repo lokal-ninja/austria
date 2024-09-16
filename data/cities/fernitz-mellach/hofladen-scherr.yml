@@ -1,11 +1,11 @@
 id: 235441079
-type: way
+type: node
 latitude: 46.96668
 longitude: 15.50425
 postcode: "8072"
 city: Fernitz-Mellach
-street: "Murbergstraße"
-housenumber: 69
+street: Murbergstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

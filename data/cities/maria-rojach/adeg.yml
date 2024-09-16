@@ -1,11 +1,11 @@
 id: 291548213
-type: way
+type: node
 latitude: 46.73554
 longitude: 14.88111
 postcode: "9422"
 city: Maria Rojach
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.nahundfrisch.at/de/kaufmann/nahfrisch_maria_rojach"
+website: https://www.nahundfrisch.at/de/kaufmann/nahfrisch_maria_rojach

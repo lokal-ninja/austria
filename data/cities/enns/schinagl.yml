@@ -1,11 +1,11 @@
 id: 143472006
-type: way
+type: node
 latitude: 48.21677
 longitude: 14.44024
 postcode: "4470"
 city: Enns
-street: "Astner Straße"
-housenumber: 34
+street: Astner Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-schinagl.at/"
+website: https://www.autohaus-schinagl.at/

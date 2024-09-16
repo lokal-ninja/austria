@@ -4,8 +4,8 @@ latitude: 46.61432
 longitude: 13.84814
 postcode: "9500"
 city: Villach
-street: "Gerbergasse"
-housenumber: 6
+street: Gerbergasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.ruefa.at/reisebueros/kaernten/19500/"
+website: https://www.ruefa.at/reisebueros/kaernten/19500/

@@ -4,8 +4,8 @@ latitude: 48.2042
 longitude: 16.35392
 postcode: "1070"
 city: Wien
-street: "Burggasse"
-housenumber: 18
+street: Burggasse
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30; Sa,Su off, Mo-Fr 13:30-18:00"
-website: "home.hnat.at/"
+opening_hours: Mo-Fr 10:00-12:30; Sa,Su off, Mo-Fr 13:30-18:00
+website: home.hnat.at/

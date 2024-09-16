@@ -1,11 +1,11 @@
 id: 245231811
-type: way
+type: node
 latitude: 46.75327
 longitude: 13.24803
 postcode: "9754"
 city: Steinfeld
-street: "Lindenweg"
-housenumber: 13
+street: Lindenweg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

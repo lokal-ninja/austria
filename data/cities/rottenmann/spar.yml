@@ -1,11 +1,11 @@
 id: 162293246
-type: way
+type: node
 latitude: 47.52622
 longitude: 14.36355
 postcode: "8786"
 city: Rottenmann
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30, Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30, Sa 07:15-18:00
 website: ""

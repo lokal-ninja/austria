@@ -1,11 +1,11 @@
 id: 106083172
-type: way
+type: node
 latitude: 47.28068
 longitude: 11.50685
 postcode: "6060"
 city: Hall in Tirol
-street: "Unterer Stadtplatz"
-housenumber: 8
+street: Unterer Stadtplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:30"
-website: "https://www.libro.at/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:30
+website: https://www.libro.at/

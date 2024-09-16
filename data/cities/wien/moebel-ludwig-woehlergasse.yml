@@ -1,11 +1,11 @@
 id: 196988431
-type: way
+type: node
 latitude: 48.1633
 longitude: 16.38392
 postcode: "1100"
 city: Wien
-street: "Wöhlergasse"
-housenumber: 1
+street: Wöhlergasse
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

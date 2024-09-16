@@ -1,11 +1,11 @@
 id: 157695051
-type: way
+type: node
 latitude: 47.2103
 longitude: 14.80392
 postcode: "8724"
 city: Spielberg
-street: "An der Ingering"
-housenumber: 37
+street: An der Ingering
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

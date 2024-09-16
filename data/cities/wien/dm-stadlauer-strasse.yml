@@ -4,8 +4,8 @@ latitude: 48.23135
 longitude: 16.45873
 postcode: "1220"
 city: Wien
-street: "Stadlauer Straße"
-housenumber: 64
-phone: "+43 1 3430423"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.dm.at"
+street: Stadlauer Straße
+housenumber: "64"
+phone: +43 1 3430423
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.dm.at

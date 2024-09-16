@@ -4,8 +4,8 @@ latitude: 48.20263
 longitude: 16.3753
 postcode: "1010"
 city: Wien
-street: "Schubertring"
-housenumber: 8
-phone: "+43 1 512 37 08"
+street: Schubertring
+housenumber: "8"
+phone: +43 1 512 37 08
 opening_hours: ""
-website: "https://www.eckeramschubertring.at/en/"
+website: https://www.eckeramschubertring.at/en/

@@ -4,8 +4,8 @@ latitude: 48.28536
 longitude: 14.36523
 postcode: "4221"
 city: Steyregg
-street: "Kirchengasse"
-housenumber: 35
-phone: "+43 722 631 14"
-opening_hours: "Mo-Fr 08:00-12:00"
-website: "http://www.good-feelings.com/"
+street: Kirchengasse
+housenumber: "35"
+phone: +43 722 631 14
+opening_hours: Mo-Fr 08:00-12:00
+website: http://www.good-feelings.com/

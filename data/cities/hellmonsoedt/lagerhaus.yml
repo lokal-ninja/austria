@@ -1,11 +1,11 @@
 id: 349783060
-type: way
+type: node
 latitude: 48.43317
 longitude: 14.29536
 postcode: "4202"
 city: Hellmonsödt
-street: "Linzer Straße"
-housenumber: 14
+street: Linzer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

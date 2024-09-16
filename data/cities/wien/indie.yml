@@ -4,8 +4,8 @@ latitude: 48.20841
 longitude: 16.37496
 postcode: "1010"
 city: Wien
-street: "Strobelgasse"
-housenumber: 2
+street: Strobelgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-18:00"
-website: "http://www.indie.land/"
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:30-18:00
+website: http://www.indie.land/

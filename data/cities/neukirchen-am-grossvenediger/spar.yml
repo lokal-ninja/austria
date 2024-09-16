@@ -1,11 +1,11 @@
 id: 430153083
-type: way
+type: node
 latitude: 47.25486
 longitude: 12.28251
 postcode: "5741"
 city: Neukirchen am Großvenediger
-street: "Wildkogelbahnstraße"
-housenumber: 315
+street: Wildkogelbahnstraße
+housenumber: "315"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at/standorte/spar-neukirchen-5741-wildkogelbahnstrasse-315"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at/standorte/spar-neukirchen-5741-wildkogelbahnstrasse-315

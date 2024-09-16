@@ -1,11 +1,11 @@
 id: 25777704
-type: way
+type: node
 latitude: 47.72177
 longitude: 13.06049
 postcode: "5400"
 city: Hallein
-street: "Salzburgerstraße"
-housenumber: 143
-phone: "+43 (0)6245 / 70669"
+street: Salzburgerstraße
+housenumber: "143"
+phone: +43 (0)6245 / 70669
 opening_hours: ""
-website: "https://www.billa.at/"
+website: https://www.billa.at/

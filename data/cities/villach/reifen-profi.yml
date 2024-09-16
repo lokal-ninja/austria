@@ -1,11 +1,11 @@
 id: 59830997
-type: way
+type: node
 latitude: 46.59933
 longitude: 13.84776
 postcode: "9500"
 city: Villach
-street: "Karawankenweg"
-housenumber: 6
+street: Karawankenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 97875848
-type: way
+type: node
 latitude: 48.26376
 longitude: 13.93172
 postcode: "4076"
 city: St. Marienkirchen an der Polsenz
-street: "Kirchenplatz"
-housenumber: 7
+street: Kirchenplatz
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

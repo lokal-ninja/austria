@@ -4,8 +4,8 @@ latitude: 48.12849
 longitude: 14.98946
 postcode: "3372"
 city: Blindenmarkt
-street: "Hauptstraße"
-housenumber: 19
-phone: "+43 7473 - 8342 2"
-opening_hours: "Mo-Fr 06:00-12:00,15:00-18:00; Th,Sa 06:00-12:00"
-website: "https://baeckerei-fischer.at/"
+street: Hauptstraße
+housenumber: "19"
+phone: +43 7473 - 8342 2
+opening_hours: Mo-Fr 06:00-12:00,15:00-18:00; Th,Sa 06:00-12:00
+website: https://baeckerei-fischer.at/

@@ -1,11 +1,11 @@
 id: 217582615
-type: way
+type: node
 latitude: 48.13647
 longitude: 16.32399
 postcode: "1230"
 city: Wien
-street: "Altmannsdorfer Straße"
-housenumber: 230
+street: Altmannsdorfer Straße
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.dm.at

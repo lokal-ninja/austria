@@ -1,11 +1,11 @@
 id: 175368619
-type: way
+type: node
 latitude: 48.09899
 longitude: 16.41797
 postcode: "2326"
 city: Maria-Lanzendorf
-street: "Leopoldsdorfer Straße"
-housenumber: 2
+street: Leopoldsdorfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

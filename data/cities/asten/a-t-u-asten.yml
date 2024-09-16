@@ -1,11 +1,11 @@
 id: 130204821
-type: way
+type: node
 latitude: 48.22211
 longitude: 14.40741
 postcode: "4481"
 city: Asten
-street: "Handelsring"
-housenumber: 5
-phone: "+43 50306624"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Handelsring
+housenumber: "5"
+phone: +43 50306624
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

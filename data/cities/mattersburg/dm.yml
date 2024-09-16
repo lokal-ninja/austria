@@ -4,8 +4,8 @@ latitude: 47.72947
 longitude: 16.41279
 postcode: "7210"
 city: Mattersburg
-street: "Fachmarktzentrum"
-housenumber: 1
+street: Fachmarktzentrum
+housenumber: "1"
 phone: "+43262667623"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00"
-website: "https://www.dm-drogeriemarkt.at"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00
+website: https://www.dm-drogeriemarkt.at

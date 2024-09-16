@@ -4,8 +4,8 @@ latitude: 47.06252
 longitude: 15.46667
 postcode: "8010"
 city: Graz
-street: "Plüddemanngasse"
-housenumber: 77
+street: Plüddemanngasse
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00"
-website: "http://www.zach-boeden.at/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00
+website: http://www.zach-boeden.at/

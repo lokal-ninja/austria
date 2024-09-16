@@ -1,11 +1,11 @@
 id: 184322010
-type: way
+type: node
 latitude: 48.07918
 longitude: 14.81897
 postcode: "3363"
 city: Hausmening
-street: "Schulstraße"
-housenumber: 15
+street: Schulstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:00, 13:00-18:00; Sa 7:30-12:30"
+opening_hours: Mo-Fr 8:00-12:00, 13:00-18:00; Sa 7:30-12:30
 website: ""

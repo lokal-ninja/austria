@@ -1,11 +1,11 @@
 id: 161898135
-type: way
+type: node
 latitude: 47.48583
 longitude: 12.53184
 postcode: "6391"
 city: Fieberbrunn
-street: "Rosenegg"
-housenumber: 66
-phone: "+43 5354 56388"
-opening_hours: "Mo-Th 06:30-18:30; Fr 06:30-19:00; Sa 06:30-18:00"
-website: "https://www.alois-hofer.at/"
+street: Rosenegg
+housenumber: "66"
+phone: +43 5354 56388
+opening_hours: Mo-Th 06:30-18:30; Fr 06:30-19:00; Sa 06:30-18:00
+website: https://www.alois-hofer.at/

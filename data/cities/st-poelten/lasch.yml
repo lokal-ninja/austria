@@ -4,8 +4,8 @@ latitude: 48.17484
 longitude: 15.62305
 postcode: "3100"
 city: St. Pölten
-street: "Messestraße"
-housenumber: 10
+street: Messestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://lasch-garagen.at/"
+website: https://lasch-garagen.at/

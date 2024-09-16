@@ -1,11 +1,11 @@
 id: 746191289
-type: way
+type: node
 latitude: 47.99597
 longitude: 16.85461
 postcode: "7111"
 city: Parndorf
-street: "Bruckerstraße"
+street: Bruckerstraße
 housenumber: 10a
 phone: ""
 opening_hours: ""
-website: "https://www.ws-motorradtechnik.com/de"
+website: https://www.ws-motorradtechnik.com/de

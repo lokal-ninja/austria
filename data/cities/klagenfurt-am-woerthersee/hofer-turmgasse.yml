@@ -1,11 +1,11 @@
 id: 109376387
-type: way
+type: node
 latitude: 46.63717
 longitude: 14.29854
 postcode: "9010"
 city: Klagenfurt am Wörthersee
-street: "Turmgasse"
-housenumber: 26
+street: Turmgasse
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
+website: https://www.hofer.at/

@@ -4,8 +4,8 @@ latitude: 48.2835
 longitude: 14.30573
 postcode: "4020"
 city: Linz
-street: "Wienerstraße"
-housenumber: 99
+street: Wienerstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

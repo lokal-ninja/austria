@@ -1,11 +1,11 @@
 id: 105614221
-type: way
+type: node
 latitude: 48.28993
 longitude: 16.34315
 postcode: "3400"
 city: Klosterneuburg
-street: "Inkustraße"
-housenumber: 15
+street: Inkustraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://forstinger.com/"
+website: https://forstinger.com/

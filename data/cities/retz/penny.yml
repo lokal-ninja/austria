@@ -1,11 +1,11 @@
 id: 792596245
-type: way
+type: node
 latitude: 48.75755
 longitude: 15.95999
 postcode: "2070"
 city: Retz
-street: "Sandweg"
-housenumber: 6
+street: Sandweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

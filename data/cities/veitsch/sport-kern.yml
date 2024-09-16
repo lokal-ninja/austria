@@ -1,11 +1,11 @@
 id: 474288463
-type: way
+type: node
 latitude: 47.58042
 longitude: 15.49123
 postcode: "8663"
 city: Veitsch
-street: "Badstraße"
-housenumber: 2
+street: Badstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

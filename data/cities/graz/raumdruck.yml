@@ -4,8 +4,8 @@ latitude: 47.05145
 longitude: 15.43449
 postcode: "8020"
 city: Graz
-street: "Puchstraße"
-housenumber: 17
-phone: "+43680 55 888 56"
+street: Puchstraße
+housenumber: "17"
+phone: +43680 55 888 56
 opening_hours: ""
-website: "http://www.raumdruck.at"
+website: http://www.raumdruck.at

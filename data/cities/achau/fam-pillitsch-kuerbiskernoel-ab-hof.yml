@@ -1,11 +1,11 @@
 id: 345711838
-type: way
+type: node
 latitude: 48.08012
 longitude: 16.3826
 postcode: "2481"
 city: Achau
-street: "Hauptstraße"
-housenumber: 70
-phone: "+43 664 3669627"
-opening_hours: "nach Vereinbarung"
-website: "https://www.kuerbiskernoel-achau.at/"
+street: Hauptstraße
+housenumber: "70"
+phone: +43 664 3669627
+opening_hours: '"nach Vereinbarung"'
+website: https://www.kuerbiskernoel-achau.at/

@@ -4,8 +4,8 @@ latitude: 47.15139
 longitude: 14.41277
 postcode: "8811"
 city: Scheifling
-street: "Kärntner Straße"
-housenumber: 5
+street: Kärntner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:00-16:30; Fr 07:30-12:00, 13:00-15:00"
-website: "https://cinibulk.go1a.at/kontakt/"
+opening_hours: Mo-Th 07:30-12:00, 13:00-16:30; Fr 07:30-12:00, 13:00-15:00
+website: https://cinibulk.go1a.at/kontakt/

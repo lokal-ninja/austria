@@ -1,11 +1,11 @@
 id: 221824014
-type: way
+type: node
 latitude: 48.23645
 longitude: 16.46325
 postcode: "1220"
 city: Wien
-street: "Süßenbrunner Straße"
-housenumber: 2
+street: Süßenbrunner Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

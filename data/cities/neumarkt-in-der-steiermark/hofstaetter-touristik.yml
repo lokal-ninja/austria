@@ -4,8 +4,8 @@ latitude: 47.0734
 longitude: 14.42618
 postcode: "8820"
 city: Neumarkt in der Steiermark
-street: "Hauptplatz"
-housenumber: 24
+street: Hauptplatz
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:00"
-website: "http://www.hofstaetter.biz/reisebuero-neumarkt"
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:00
+website: http://www.hofstaetter.biz/reisebuero-neumarkt

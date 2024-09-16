@@ -1,11 +1,11 @@
 id: 567839161
-type: way
+type: node
 latitude: 47.27739
 longitude: 11.44815
 postcode: "6063"
 city: Rum
-street: "Bundesstraße"
-housenumber: 29
-phone: "+43 512 24495"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-12:00; PH off"
-website: "https://www.blasy.eu/"
+street: Bundesstraße
+housenumber: "29"
+phone: +43 512 24495
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-12:00; PH off
+website: https://www.blasy.eu/

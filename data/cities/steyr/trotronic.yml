@@ -1,11 +1,11 @@
 id: 30577471
-type: way
+type: node
 latitude: 48.04853
 longitude: 14.40321
 postcode: "4400"
 city: Steyr
-street: "Wolfernstraße"
+street: Wolfernstraße
 housenumber: 17b
 phone: ""
 opening_hours: ""
-website: "https://trotronic.at/"
+website: https://trotronic.at/

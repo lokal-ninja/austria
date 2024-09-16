@@ -4,8 +4,8 @@ latitude: 48.20427
 longitude: 16.3533
 postcode: "1070"
 city: Wien
-street: "Burggasse"
-housenumber: 20
+street: Burggasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 10:00-22:00; Sa 10:00-20:00"
+opening_hours: Mo-Fr 10:00-22:00; Sa 10:00-20:00
 website: ""

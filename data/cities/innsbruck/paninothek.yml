@@ -4,8 +4,8 @@ latitude: 47.26491
 longitude: 11.3982
 postcode: "6020"
 city: Innsbruck
-street: "Bozner Platz"
-housenumber: 4
+street: Bozner Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-23:00; Sa 11:30-23:30; PH off"
-website: "https://www.paninothek.at/"
+opening_hours: Tu-Fr 10:00-23:00; Sa 11:30-23:30; PH off
+website: https://www.paninothek.at/

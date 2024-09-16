@@ -4,8 +4,8 @@ latitude: 47.58567
 longitude: 12.16184
 postcode: "6330"
 city: Kufstein
-street: "Schubertstraße"
-housenumber: 27
-phone: "+43 5372 64740"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-12:00"
-website: "http://www.honda-kufstein.at/"
+street: Schubertstraße
+housenumber: "27"
+phone: +43 5372 64740
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00; Sa 09:00-12:00
+website: http://www.honda-kufstein.at/

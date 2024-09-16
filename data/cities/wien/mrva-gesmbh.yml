@@ -4,8 +4,8 @@ latitude: 48.26916
 longitude: 16.3915
 postcode: "1210"
 city: Wien
-street: "Prager Straße"
-housenumber: 93
-phone: "+43 1 2705192"
-opening_hours: "Mo-Th 08:00-15:00; Fr 08:00-12:00"
+street: Prager Straße
+housenumber: "93"
+phone: +43 1 2705192
+opening_hours: Mo-Th 08:00-15:00; Fr 08:00-12:00
 website: ""

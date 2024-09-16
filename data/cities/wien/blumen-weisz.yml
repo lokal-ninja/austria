@@ -1,11 +1,11 @@
 id: 90042195
-type: way
+type: node
 latitude: 48.17661
 longitude: 16.29759
 postcode: "1130"
 city: Wien
-street: "Maxingstraße"
-housenumber: 
+street: Maxingstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://blumen-weisz.at/"
+website: https://blumen-weisz.at/

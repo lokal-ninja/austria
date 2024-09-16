@@ -4,8 +4,8 @@ latitude: 48.20074
 longitude: 16.33675
 postcode: "1150"
 city: Wien
-street: "Märzstraße"
-housenumber: 4
-phone: "+43 1 526 43 83"
-opening_hours: "Mo-Fr 14:00-17:00,10:00-13:00"
-website: "https://www.cvjm-medien.at/"
+street: Märzstraße
+housenumber: "4"
+phone: +43 1 526 43 83
+opening_hours: Mo-Fr 14:00-17:00,10:00-13:00
+website: https://www.cvjm-medien.at/

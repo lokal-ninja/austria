@@ -1,11 +1,11 @@
 id: 264965849
-type: way
+type: node
 latitude: 47.90265
 longitude: 16.38034
 postcode: "2486"
 city: Pottendorf
-street: "Wr. Neustädter Straße"
-housenumber: 49
+street: Wr. Neustädter Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "http://www.georgs-autocenter.at/"
+website: http://www.georgs-autocenter.at/

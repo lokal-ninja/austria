@@ -4,8 +4,8 @@ latitude: 47.07852
 longitude: 15.47384
 postcode: "8010"
 city: Graz
-street: "Ragnitzstraße"
-housenumber: 16
+street: Ragnitzstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-13:00"
-website: "https://mariaundmaria.at/graz-ragnitzstrase/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-13:00
+website: https://mariaundmaria.at/graz-ragnitzstrase/

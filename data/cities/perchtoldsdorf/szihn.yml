@@ -4,8 +4,8 @@ latitude: 48.11818
 longitude: 16.26557
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Marktplatz"
-housenumber: 18
-phone: "+43 1 86 537 10"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 07:00-12:00; PH off"
-website: "https://www.szihn.at/"
+street: Marktplatz
+housenumber: "18"
+phone: +43 1 86 537 10
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-12:00; Su 07:00-12:00; PH off
+website: https://www.szihn.at/

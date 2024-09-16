@@ -1,11 +1,11 @@
 id: 83603970
-type: way
+type: node
 latitude: 48.47583
 longitude: 15.70015
 postcode: "3493"
 city: Hadersdorf-Kammern
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

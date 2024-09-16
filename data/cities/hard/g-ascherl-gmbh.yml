@@ -1,11 +1,11 @@
 id: 121242205
-type: way
+type: node
 latitude: 47.4791
 longitude: 9.67615
 postcode: "6971"
 city: Hard
-street: "Industriestraße"
-housenumber: 43
+street: Industriestraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00; Nov-Feb Sa off"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00; Nov-Feb Sa off
 website: ""

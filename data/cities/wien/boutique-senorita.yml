@@ -4,8 +4,8 @@ latitude: 48.21695
 longitude: 16.48881
 postcode: "1220"
 city: Wien
-street: "Groß-Enzersdorfer Straße"
-housenumber: 4
-phone: "+43 1 2804540"
-opening_hours: "Mo-Fr 09:00-12:00,15:00-18:00"
+street: Groß-Enzersdorfer Straße
+housenumber: "4"
+phone: +43 1 2804540
+opening_hours: Mo-Fr 09:00-12:00,15:00-18:00
 website: ""

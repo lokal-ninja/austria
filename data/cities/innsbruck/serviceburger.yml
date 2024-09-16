@@ -4,8 +4,8 @@ latitude: 47.26254
 longitude: 11.3789
 postcode: "6020"
 city: Innsbruck
-street: "Ampfererstraße"
-housenumber: 3
-phone: "+43 512 281381"
-opening_hours: "Mo-Fr 09:00-12:00, 15:00-17:30; PH off || nach Vereinbarung"
-website: "https://www.serviceburger.at/"
+street: Ampfererstraße
+housenumber: "3"
+phone: +43 512 281381
+opening_hours: Mo-Fr 09:00-12:00, 15:00-17:30; PH off || "nach Vereinbarung"
+website: https://www.serviceburger.at/

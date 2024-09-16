@@ -1,11 +1,11 @@
 id: 114140828
-type: way
+type: node
 latitude: 48.33822
 longitude: 13.95705
 postcode: "4074"
 city: Stroheim
 street: ""
-housenumber: 38
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

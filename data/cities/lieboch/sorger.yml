@@ -1,11 +1,11 @@
 id: 294018535
-type: way
+type: node
 latitude: 46.97459
 longitude: 15.33521
 postcode: "8501"
 city: Lieboch
-street: "Packer Straße"
-housenumber: 116
-phone: "+43 3136 20 027"
-opening_hours: "Mo-Fr 07:00-18:30; Su 07:00-17:00; Sa 07:00-17:00"
-website: "https://www.sorgerbrot.at"
+street: Packer Straße
+housenumber: "116"
+phone: +43 3136 20 027
+opening_hours: Mo-Fr 07:00-18:30; Su 07:00-17:00; Sa 07:00-17:00
+website: https://www.sorgerbrot.at

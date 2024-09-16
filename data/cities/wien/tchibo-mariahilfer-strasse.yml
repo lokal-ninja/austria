@@ -4,8 +4,8 @@ latitude: 48.20011
 longitude: 16.35469
 postcode: "1070"
 city: Wien
-street: "Mariahilfer Straße"
-housenumber: 34
+street: Mariahilfer Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.eduscho.at/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.eduscho.at/

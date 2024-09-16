@@ -1,11 +1,11 @@
 id: 163217773
-type: way
+type: node
 latitude: 47.14727
 longitude: 16.10312
 postcode: "8291"
 city: Burgau
-street: "Neudauer Straße"
-housenumber: 275
+street: Neudauer Straße
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

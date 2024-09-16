@@ -4,8 +4,8 @@ latitude: 48.34027
 longitude: 16.72485
 postcode: "2230"
 city: Gänserndorf
-street: "Bahnstraße"
-housenumber: 44
-phone: "+43 2282 61169 11"
-opening_hours: "Mo-Fr 10:00-13:00, 13:30-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.dampferlagune.at/"
+street: Bahnstraße
+housenumber: "44"
+phone: +43 2282 61169 11
+opening_hours: Mo-Fr 10:00-13:00, 13:30-19:00; Sa 09:00-16:00; PH off
+website: https://www.dampferlagune.at/

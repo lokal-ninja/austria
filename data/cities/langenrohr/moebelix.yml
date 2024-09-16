@@ -1,11 +1,11 @@
 id: 166821278
-type: way
+type: node
 latitude: 48.31714
 longitude: 16.01605
 postcode: "3442"
 city: Langenrohr
-street: "Europastraße"
-housenumber: 17
+street: Europastraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

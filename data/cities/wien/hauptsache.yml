@@ -4,8 +4,8 @@ latitude: 48.19933
 longitude: 16.34939
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 9
-phone: "+43-1-5262090"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.hauptsache.at/"
+street: Neubaugasse
+housenumber: "9"
+phone: +43-1-5262090
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.hauptsache.at/

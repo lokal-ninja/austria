@@ -4,8 +4,8 @@ latitude: 48.41683
 longitude: 14.03904
 postcode: "4113"
 city: St. Martin im Mühlkreis
-street: "Markt"
-housenumber: 11
+street: Markt
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.gkampelt-gschnien.at/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.gkampelt-gschnien.at/

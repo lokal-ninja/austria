@@ -4,8 +4,8 @@ latitude: 46.99583
 longitude: 12.5417
 postcode: "9971"
 city: Matrei in Osttirol
-street: "Lienzer Straße"
-housenumber: 45
-phone: "+43-4875-6909"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:00"
-website: "https://www.blumenmaier.at/kontakt"
+street: Lienzer Straße
+housenumber: "45"
+phone: +43-4875-6909
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:00; Sa 08:30-12:00
+website: https://www.blumenmaier.at/kontakt

@@ -1,11 +1,11 @@
 id: 169302735
-type: way
+type: node
 latitude: 48.54384
 longitude: 14.37847
 postcode: "4193"
 city: Reichenthal
-street: "Sportplatzstraße"
-housenumber: 7
+street: Sportplatzstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.friecom.at/"
+website: https://www.friecom.at/

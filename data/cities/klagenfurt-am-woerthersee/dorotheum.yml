@@ -1,11 +1,11 @@
 id: 122771598
-type: way
+type: node
 latitude: 46.62387
 longitude: 14.30287
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Villacher Straße"
-housenumber: 8
+street: Villacher Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

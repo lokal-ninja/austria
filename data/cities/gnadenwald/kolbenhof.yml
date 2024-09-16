@@ -1,11 +1,11 @@
 id: 124114693
-type: way
+type: node
 latitude: 47.31803
 longitude: 11.55632
 postcode: "6069"
 city: Gnadenwald
-street: "Gnadenwald"
-housenumber: 9
+street: Gnadenwald
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.26666
 longitude: 11.39734
 postcode: "6020"
 city: Innsbruck
-street: "Wilhelm-Greil-Straße"
-housenumber: 2
-phone: "+43 660 3610632"
-opening_hours: "Mo-Fr 09:30-13:00; 14:00-18:00; Sa 09:30-13:00; PH off"
-website: "https://www.sophiebiowelt.at"
+street: Wilhelm-Greil-Straße
+housenumber: "2"
+phone: +43 660 3610632
+opening_hours: Mo-Fr 09:30-13:00; 14:00-18:00; Sa 09:30-13:00; PH off
+website: https://www.sophiebiowelt.at

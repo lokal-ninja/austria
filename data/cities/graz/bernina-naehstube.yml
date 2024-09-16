@@ -4,8 +4,8 @@ latitude: 47.07208
 longitude: 15.4335
 postcode: "8020"
 city: Graz
-street: "Mariahilferstraße"
-housenumber: 11
+street: Mariahilferstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 09:00-13:00,14:00-17:00"
+opening_hours: Mo-Th 09:00-13:00,14:00-17:00
 website: ""

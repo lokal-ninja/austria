@@ -4,8 +4,8 @@ latitude: 48.23775
 longitude: 16.35392
 postcode: "1190"
 city: Wien
-street: "Reithlegasse"
-housenumber: 16
+street: Reithlegasse
+housenumber: "16"
 phone: ""
-opening_hours: "Dienstag-Freitag, nur gegen Voranmeldung"
+opening_hours: '"Dienstag-Freitag, nur gegen Voranmeldung"'
 website: ""

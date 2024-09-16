@@ -1,11 +1,11 @@
 id: 1165180059
-type: way
+type: node
 latitude: 48.13775
 longitude: 16.27827
 postcode: "1230"
 city: Wien
-street: "Breitenfurter Straße"
+street: Breitenfurter Straße
 housenumber: 372/13
-phone: "+43 (1) 802 12 80"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.uhrenkruzik.at/"
+phone: +43 (1) 802 12 80
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH off
+website: https://www.uhrenkruzik.at/

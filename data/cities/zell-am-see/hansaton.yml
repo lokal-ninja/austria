@@ -4,8 +4,8 @@ latitude: 47.32085
 longitude: 12.79621
 postcode: "5700"
 city: Zell am See
-street: "Bahnhofplatz"
-housenumber: 4
-phone: "+43 6542 72565"
-opening_hours: "Mo-Th 08:30-12:30,13:00-17:00; Fr 08:30-12:30"
-website: "https://www.hansaton.at/"
+street: Bahnhofplatz
+housenumber: "4"
+phone: +43 6542 72565
+opening_hours: Mo-Th 08:30-12:30,13:00-17:00; Fr 08:30-12:30
+website: https://www.hansaton.at/

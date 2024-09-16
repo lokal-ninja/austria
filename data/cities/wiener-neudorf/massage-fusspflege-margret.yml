@@ -1,11 +1,11 @@
 id: 165423481
-type: way
+type: node
 latitude: 48.08942
 longitude: 16.327
 postcode: "2351"
 city: Wiener Neudorf
-street: "Raimundweg"
-housenumber: 34
+street: Raimundweg
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

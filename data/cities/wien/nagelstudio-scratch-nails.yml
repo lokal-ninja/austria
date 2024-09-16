@@ -4,8 +4,11 @@ latitude: 48.21125
 longitude: 16.39036
 postcode: "1030"
 city: Wien
-street: "Radetzkystraße"
-housenumber: 21
+street: Radetzkystraße
+housenumber: "21"
 phone: ""
-opening_hours: "Wir öffnen meistens um 9 oder 10 Uhr, manchmal schon um 7 Uhr, aber dann wieder erst um 12 oder 13 Uhr. Wir schließen ungefähr zwischen 17 und 20 Uhr, manchmal schon um 15 oder 16 Uhr, aber dann wiederum erst um 23 Uhr oder Mitternacht."
+opening_hours: '"Wir öffnen meistens um 9 oder 10 Uhr, manchmal schon um 7 Uhr, aber
+    dann wieder erst um 12 oder 13 Uhr. Wir schließen ungefähr zwischen 17 und 20
+    Uhr, manchmal schon um 15 oder 16 Uhr, aber dann wiederum erst um 23 Uhr oder
+    Mitternacht."'
 website: ""

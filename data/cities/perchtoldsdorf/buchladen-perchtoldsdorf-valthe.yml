@@ -4,8 +4,8 @@ latitude: 48.12027
 longitude: 16.26516
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Wiener Gasse"
-housenumber: 1
-phone: "+43 1 869 83 30"
-opening_hours: "Tu-Th 09:00-12:30,13:30-18:00; Fr 09:00-18:00; Sa 09:00-12:30"
-website: "http://www.buchladen-perchtoldsdorf.at/"
+street: Wiener Gasse
+housenumber: "1"
+phone: +43 1 869 83 30
+opening_hours: Tu-Th 09:00-12:30,13:30-18:00; Fr 09:00-18:00; Sa 09:00-12:30
+website: http://www.buchladen-perchtoldsdorf.at/

@@ -4,8 +4,8 @@ latitude: 48.19655
 longitude: 16.28712
 postcode: "1140"
 city: Wien
-street: "Zehetnergasse"
-housenumber: 44
+street: Zehetnergasse
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Th 09:00-18:00, Fr 05:00-18:00, Sa 08:00-12:00"
+opening_hours: Tu-Th 09:00-18:00, Fr 05:00-18:00, Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 88834472
-type: way
+type: node
 latitude: 47.27943
 longitude: 16.00948
 postcode: "8295"
 city: Sankt Johann in der Haide
-street: "Forstingerstraße"
-housenumber: 6
+street: Forstingerstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

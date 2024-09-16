@@ -1,11 +1,13 @@
 id: 132659367
-type: way
+type: node
 latitude: 48.24599
 longitude: 14.2952
 postcode: "4030"
 city: Linz
-street: "Franzosenhausweg"
-housenumber: 33
-phone: "0732/38 77 33 - 0"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-12:00 open verkauf || Mo-Th 07:15-17:00, Fr 07:15-13:00 open Service, Ersatzteile & Zubehör || Mo-Fr 08:00-12:00, 12:45-18:00 open Zulassungstelle"
-website: "https://www.autowelt-linz.com/"
+street: Franzosenhausweg
+housenumber: "33"
+phone: 0732/38 77 33 - 0
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-12:00 open "verkauf" || Mo-Th 07:15-17:00,
+    Fr 07:15-13:00 open "Service, Ersatzteile & Zubehör" || Mo-Fr 08:00-12:00, 12:45-18:00
+    open "Zulassungstelle"
+website: https://www.autowelt-linz.com/

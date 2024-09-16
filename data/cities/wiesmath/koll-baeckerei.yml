@@ -1,11 +1,11 @@
 id: 140616321
-type: way
+type: node
 latitude: 47.61616
 longitude: 16.28856
 postcode: "2811"
 city: Wiesmath
-street: "Hauptstraße"
-housenumber: 13
+street: Hauptstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

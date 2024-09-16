@@ -4,8 +4,8 @@ latitude: 48.20714
 longitude: 16.37206
 postcode: "1010"
 city: Wien
-street: "Weihburggasse"
-housenumber: 3
+street: Weihburggasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

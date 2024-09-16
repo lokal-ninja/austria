@@ -1,11 +1,11 @@
 id: 561159156
-type: way
+type: node
 latitude: 48.36423
 longitude: 14.02317
 postcode: "4082"
 city: Aschach an der Donau
-street: "Abelstraße"
-housenumber: 8
+street: Abelstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

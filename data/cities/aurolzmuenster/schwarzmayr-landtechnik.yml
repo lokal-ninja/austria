@@ -1,11 +1,11 @@
 id: 347411785
-type: way
+type: node
 latitude: 48.23751
 longitude: 13.48205
 postcode: "4971"
 city: Aurolzmünster
 street: ""
-housenumber: 10
-phone: "07752-86502"
+housenumber: "10"
+phone: 07752-86502
 opening_hours: ""
-website: "https://www.schwarzmayr.at/"
+website: https://www.schwarzmayr.at/

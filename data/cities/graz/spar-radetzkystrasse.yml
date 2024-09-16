@@ -4,8 +4,8 @@ latitude: 47.0665
 longitude: 15.44103
 postcode: "8010"
 city: Graz
-street: "Radetzkystraße"
+street: Radetzkystraße
 housenumber: 1;3
-phone: "+43316 810867"
-opening_hours: "Mo-Fr 06:45-19:00; Sa 06:45-18:00; Su,PH off"
-website: "https://www.spar.at"
+phone: +43316 810867
+opening_hours: Mo-Fr 06:45-19:00; Sa 06:45-18:00; Su,PH off
+website: https://www.spar.at

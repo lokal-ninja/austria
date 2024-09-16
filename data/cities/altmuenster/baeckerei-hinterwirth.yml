@@ -4,8 +4,8 @@ latitude: 47.87385
 longitude: 13.70894
 postcode: "4814"
 city: Altmünster
-street: "Neukirchen"
-housenumber: 13
-phone: "+43 7618 8220"
-opening_hours: "Mo,Tu,Th,Fr 06:30-12:00,15:00-18:00; We,Sa 06:30-12:00"
-website: "http://www.backhaus-hinterwirth.at"
+street: Neukirchen
+housenumber: "13"
+phone: +43 7618 8220
+opening_hours: Mo,Tu,Th,Fr 06:30-12:00,15:00-18:00; We,Sa 06:30-12:00
+website: http://www.backhaus-hinterwirth.at

@@ -1,11 +1,11 @@
 id: 361594248
-type: way
+type: node
 latitude: 47.27856
 longitude: 9.64992
 postcode: "6830"
 city: Rankweil
-street: "Stiegstraße"
-housenumber: 44
+street: Stiegstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; PH off
 website: ""

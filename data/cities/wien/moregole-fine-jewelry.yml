@@ -4,8 +4,8 @@ latitude: 48.20934
 longitude: 16.37061
 postcode: "1010"
 city: Wien
-street: "Freisingergasse"
-housenumber: 1
+street: Freisingergasse
+housenumber: "1"
 phone: "+431293992015"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 10:30-18:00"
-website: "https://moregola.at"
+opening_hours: Mo-Fr 11:00-18:30; Sa 10:30-18:00
+website: https://moregola.at

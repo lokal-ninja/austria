@@ -1,11 +1,11 @@
 id: 353846862
-type: way
+type: node
 latitude: 46.90406
 longitude: 15.71045
 postcode: "8083"
 city: Sankt Stefan im Rosental
-street: "Grazerstraße"
-housenumber: 3
+street: Grazerstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

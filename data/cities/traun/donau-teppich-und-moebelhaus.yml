@@ -1,11 +1,11 @@
 id: 28021947
-type: way
+type: node
 latitude: 48.22675
 longitude: 14.23628
 postcode: "4050"
 city: Traun
-street: "Weidfeldstraße"
-housenumber: 8
-phone: "+43-7229-69074"
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-19:30; Sa 09:00-17:00"
-website: "http://www.donaumoebel.com/"
+street: Weidfeldstraße
+housenumber: "8"
+phone: +43-7229-69074
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-19:30; Sa 09:00-17:00
+website: http://www.donaumoebel.com/

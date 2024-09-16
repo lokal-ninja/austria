@@ -1,11 +1,11 @@
 id: 111212823
-type: way
+type: node
 latitude: 47.32898
 longitude: 13.08019
 postcode: "5622"
 city: Goldegg
-street: "Weng"
-housenumber: 2
+street: Weng
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

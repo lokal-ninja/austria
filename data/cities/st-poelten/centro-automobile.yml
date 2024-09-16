@@ -1,11 +1,11 @@
 id: 84087370
-type: way
+type: node
 latitude: 48.17432
 longitude: 15.61661
 postcode: "3100"
 city: St. Pölten
-street: "Porschestraße"
-housenumber: 33
+street: Porschestraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.centro.at/st-poelten.html"
+website: https://www.centro.at/st-poelten.html

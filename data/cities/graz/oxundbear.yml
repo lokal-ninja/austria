@@ -4,8 +4,8 @@ latitude: 47.07071
 longitude: 15.44257
 postcode: "8010"
 city: Graz
-street: "Bürgergasse"
-housenumber: 7
-phone: "+43 699 15 53 17 51"
-opening_hours: "Th-Fr 14:00-18:00; Sa 11:00-15:00"
-website: "https://oxandbear.com/"
+street: Bürgergasse
+housenumber: "7"
+phone: +43 699 15 53 17 51
+opening_hours: Th-Fr 14:00-18:00; Sa 11:00-15:00
+website: https://oxandbear.com/

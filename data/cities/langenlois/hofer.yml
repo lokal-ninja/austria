@@ -1,11 +1,11 @@
 id: 45673139
-type: way
+type: node
 latitude: 48.47124
 longitude: 15.68511
 postcode: "3550"
 city: Langenlois
-street: "Wiener Straße"
-housenumber: 47
+street: Wiener Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

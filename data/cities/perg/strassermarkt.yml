@@ -4,8 +4,8 @@ latitude: 48.24898
 longitude: 14.63033
 postcode: "4320"
 city: Perg
-street: "Bahnhofstrasse"
-housenumber: 16
+street: Bahnhofstrasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 07:40-18:00; Sa 07:40-17:00"
-website: "https://www.strasser-markt.at/"
+opening_hours: Mo-Fr 07:40-18:00; Sa 07:40-17:00
+website: https://www.strasser-markt.at/

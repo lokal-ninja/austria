@@ -1,11 +1,11 @@
 id: 82222038
-type: way
+type: node
 latitude: 47.04333
 longitude: 15.45039
 postcode: "8041"
 city: Graz
-street: "Ziehrerstraße"
-housenumber: 11
+street: Ziehrerstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

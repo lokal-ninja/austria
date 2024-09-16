@@ -1,11 +1,11 @@
 id: 249875685
-type: way
+type: node
 latitude: 48.43544
 longitude: 14.78358
 postcode: "4273"
 city: Unterweißenbach
-street: "Markt"
-housenumber: 4
+street: Markt
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

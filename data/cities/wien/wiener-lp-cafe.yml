@@ -4,8 +4,8 @@ latitude: 48.20247
 longitude: 16.3938
 postcode: "1030"
 city: Wien
-street: "Erdbergstraße"
-housenumber: 10
-phone: "+43 660 631 84 74"
-opening_hours: "Mo,We 10:00-18:00; Fr 10:00-19:00; Sa 10:00-17:00; PH off"
-website: "https://lp-cafe.wien"
+street: Erdbergstraße
+housenumber: "10"
+phone: +43 660 631 84 74
+opening_hours: Mo,We 10:00-18:00; Fr 10:00-19:00; Sa 10:00-17:00; PH off
+website: https://lp-cafe.wien

@@ -4,8 +4,8 @@ latitude: 48.35636
 longitude: 16.31829
 postcode: "2100"
 city: Korneuburg
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.kfz-meisterbetrieb.at/"
+website: https://www.kfz-meisterbetrieb.at/

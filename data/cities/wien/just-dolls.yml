@@ -4,8 +4,8 @@ latitude: 48.21123
 longitude: 16.37147
 postcode: "1010"
 city: Wien
-street: "Schultergasse"
-housenumber: 2
+street: Schultergasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

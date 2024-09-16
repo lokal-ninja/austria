@@ -1,11 +1,11 @@
 id: 254923271
-type: way
+type: node
 latitude: 47.89548
 longitude: 13.71465
 postcode: "4814"
 city: Altmünster
-street: "Reindlmühl"
-housenumber: 5
+street: Reindlmühl
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

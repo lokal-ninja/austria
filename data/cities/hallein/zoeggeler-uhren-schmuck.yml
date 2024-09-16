@@ -1,11 +1,11 @@
 id: 168832416
-type: way
+type: node
 latitude: 47.68188
 longitude: 13.09513
 postcode: "5400"
 city: Hallein
-street: "Griestorgasse"
-housenumber: 2
+street: Griestorgasse
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:00,14:30-18:00; We off; Sa 08:30-12:00"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:00,14:30-18:00; We off; Sa 08:30-12:00
 website: ""

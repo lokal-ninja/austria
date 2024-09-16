@@ -4,8 +4,8 @@ latitude: 48.24088
 longitude: 16.38605
 postcode: "1200"
 city: Wien
-street: "Handelskai"
+street: Handelskai
 housenumber: 94-96
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.dm.at

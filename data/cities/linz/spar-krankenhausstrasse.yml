@@ -4,8 +4,8 @@ latitude: 48.30247
 longitude: 14.30337
 postcode: "4020"
 city: Linz
-street: "Krankenhausstraße"
-housenumber: 5
+street: Krankenhausstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.at/"
+website: https://www.spar.at/

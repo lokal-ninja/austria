@@ -4,8 +4,8 @@ latitude: 47.92209
 longitude: 15.61503
 postcode: "3192"
 city: Hohenberg
-street: "Schlossergasse"
-housenumber: 2
-phone: "+43 2767-7367"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
+street: Schlossergasse
+housenumber: "2"
+phone: +43 2767-7367
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
 website: ""

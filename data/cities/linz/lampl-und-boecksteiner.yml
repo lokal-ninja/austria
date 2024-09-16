@@ -4,8 +4,8 @@ latitude: 48.26535
 longitude: 14.28301
 postcode: "4020"
 city: Linz
-street: "Europastraße"
-housenumber: 10
+street: Europastraße
+housenumber: "10"
 phone: "+43732382800"
-opening_hours: "Mo-Fr 08:30-12:30,14:30-18:30"
-website: "https://www.lampl-boecksteiner.at"
+opening_hours: Mo-Fr 08:30-12:30,14:30-18:30
+website: https://www.lampl-boecksteiner.at

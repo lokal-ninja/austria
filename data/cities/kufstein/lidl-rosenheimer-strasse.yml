@@ -1,11 +1,11 @@
 id: 660308610
-type: way
+type: node
 latitude: 47.59446
 longitude: 12.17565
 postcode: "6330"
 city: Kufstein
-street: "Rosenheimer Straße"
-housenumber: 9
+street: Rosenheimer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

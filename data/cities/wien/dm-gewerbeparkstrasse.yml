@@ -4,8 +4,8 @@ latitude: 48.24385
 longitude: 16.46207
 postcode: "1220"
 city: Wien
-street: "Gewerbeparkstraße"
-housenumber: 12
+street: Gewerbeparkstraße
+housenumber: "12"
 phone: "+4317342585"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.dm.at

@@ -4,8 +4,8 @@ latitude: 46.88739
 longitude: 15.51226
 postcode: "8410"
 city: Wildon
-street: "Hauptplatz"
-housenumber: 64
-phone: "+43 3182 3230"
-opening_hours: "Tu, Fr 08:00-18:00; Th 08:00-19:00; Sa 07:00-13:00"
-website: "https://www.friseursalon-conny.at/"
+street: Hauptplatz
+housenumber: "64"
+phone: +43 3182 3230
+opening_hours: Tu, Fr 08:00-18:00; Th 08:00-19:00; Sa 07:00-13:00
+website: https://www.friseursalon-conny.at/

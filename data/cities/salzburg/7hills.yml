@@ -4,8 +4,8 @@ latitude: 47.80269
 longitude: 13.00885
 postcode: "5020"
 city: Salzburg
-street: "Michael-Walz-Gasse"
-housenumber: 20
-phone: "+43 662 238 662"
-opening_hours: "Mo-Fr 10:00-17:00; Sa-Su,PH off"
-website: "https://www.7hills.at/"
+street: Michael-Walz-Gasse
+housenumber: "20"
+phone: +43 662 238 662
+opening_hours: Mo-Fr 10:00-17:00; Sa-Su,PH off
+website: https://www.7hills.at/

@@ -1,11 +1,11 @@
 id: 122521708
-type: way
+type: node
 latitude: 48.02506
 longitude: 13.29183
 postcode: "5212"
 city: Lengau
-street: "Kobernaußerwaldstraße"
-housenumber: 15
+street: Kobernaußerwaldstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

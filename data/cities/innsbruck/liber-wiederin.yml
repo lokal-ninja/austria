@@ -4,8 +4,8 @@ latitude: 47.26665
 longitude: 11.3959
 postcode: "6020"
 city: Innsbruck
-street: "Erlerstraße"
-housenumber: 6
-phone: "+43 512 890365"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off"
-website: "http://www.liberwiederin.at"
+street: Erlerstraße
+housenumber: "6"
+phone: +43 512 890365
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; PH off
+website: http://www.liberwiederin.at

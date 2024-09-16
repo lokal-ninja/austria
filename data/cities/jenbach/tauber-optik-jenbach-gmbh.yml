@@ -4,8 +4,9 @@ latitude: 47.39167
 longitude: 11.77457
 postcode: "6200"
 city: Jenbach
-street: "Schalserstraße"
-housenumber: 7
+street: Schalserstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:00 || Mittags und Abends nach Vereinbarung"
-website: "https://www.tauber-optik.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:00 || "Mittags und Abends
+    nach Vereinbarung"
+website: https://www.tauber-optik.at/

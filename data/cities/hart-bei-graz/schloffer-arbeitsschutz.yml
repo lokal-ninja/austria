@@ -1,11 +1,11 @@
 id: 121562330
-type: way
+type: node
 latitude: 47.04443
 longitude: 15.51564
 postcode: "8075"
 city: Hart bei Graz
-street: "Gewerbepark"
+street: Gewerbepark
 housenumber: 4a
-phone: "+43316 491692 0"
-opening_hours: "Mo-Th 07:30-12:00, 12:45-16:30; Fr 7:30-12:30; Sa, Su, PH off"
-website: "https://www.schloffer.eu/"
+phone: +43316 491692 0
+opening_hours: Mo-Th 07:30-12:00, 12:45-16:30; Fr 7:30-12:30; Sa, Su, PH off
+website: https://www.schloffer.eu/

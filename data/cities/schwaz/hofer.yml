@@ -1,11 +1,11 @@
 id: 923626384
-type: way
+type: node
 latitude: 47.35657
 longitude: 11.71454
 postcode: "6130"
 city: Schwaz
-street: "Dr.-Karl-Psenner-Straße"
-housenumber: 14
+street: Dr.-Karl-Psenner-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:40-19:30; Sa 07:40-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:40-19:30; Sa 07:40-18:00
+website: https://www.hofer.at/

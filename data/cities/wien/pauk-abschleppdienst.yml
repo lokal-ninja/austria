@@ -1,11 +1,11 @@
 id: 235921164
-type: way
+type: node
 latitude: 48.23753
 longitude: 16.45708
 postcode: "1220"
 city: Wien
-street: "Ostbahnweg"
-housenumber: 15
+street: Ostbahnweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.pauk.at/"
+website: https://www.pauk.at/

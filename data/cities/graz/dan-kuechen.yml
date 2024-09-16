@@ -1,11 +1,11 @@
 id: 148112443
-type: way
+type: node
 latitude: 47.05216
 longitude: 15.47761
 postcode: "8042"
 city: Graz
-street: "Sankt-Peter-Hauptstraße"
-housenumber: 117
+street: Sankt-Peter-Hauptstraße
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

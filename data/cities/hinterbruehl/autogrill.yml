@@ -1,11 +1,11 @@
 id: 93323604
-type: way
+type: node
 latitude: 48.07145
 longitude: 16.20158
 postcode: ""
 city: Hinterbrühl
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "PH,Sa-Th 07:30-16:30; Fr 07:00-19:00"
+opening_hours: PH,Sa-Th 07:30-16:30; Fr 07:00-19:00
 website: ""

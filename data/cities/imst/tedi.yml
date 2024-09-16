@@ -1,11 +1,11 @@
 id: 244832517
-type: way
+type: node
 latitude: 47.21808
 longitude: 10.73386
 postcode: "6460"
 city: Imst
-street: "Industriezone"
+street: Industriezone
 housenumber: 41a
-phone: "+43 5412 63137"
-opening_hours: "Mo-Sa 09:00-18:30; Sa 09:00-18:00"
-website: "https://stores.tedi.com/tedi-b61289b40f30"
+phone: +43 5412 63137
+opening_hours: Mo-Sa 09:00-18:30; Sa 09:00-18:00
+website: https://stores.tedi.com/tedi-b61289b40f30

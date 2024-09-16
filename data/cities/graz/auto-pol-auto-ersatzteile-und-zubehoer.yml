@@ -1,11 +1,11 @@
 id: 146655275
-type: way
+type: node
 latitude: 47.09217
 longitude: 15.40619
 postcode: "8051"
 city: Graz
-street: "Wiener Straße"
-housenumber: 241
+street: Wiener Straße
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

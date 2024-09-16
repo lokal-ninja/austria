@@ -1,11 +1,11 @@
 id: 92379483
-type: way
+type: node
 latitude: 47.56031
 longitude: 14.24676
 postcode: "8940"
 city: Liezen
-street: "Selzthaler Straße"
-housenumber: 2
+street: Selzthaler Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://www.timbertown.at/info/schauraum"
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://www.timbertown.at/info/schauraum

@@ -4,8 +4,8 @@ latitude: 47.36583
 longitude: 9.68812
 postcode: "6845"
 city: Hohenems
-street: "Harrachgasse"
-housenumber: 6
+street: Harrachgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-14:00"
-website: "https://daniel-w.at/"
+opening_hours: Tu-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-14:00
+website: https://daniel-w.at/

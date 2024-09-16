@@ -1,11 +1,11 @@
 id: 338965307
-type: way
+type: node
 latitude: 48.58394
 longitude: 16.07046
 postcode: "2020"
 city: Suttenbrunn
-street: "Bundesstraße"
-housenumber: 44
+street: Bundesstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

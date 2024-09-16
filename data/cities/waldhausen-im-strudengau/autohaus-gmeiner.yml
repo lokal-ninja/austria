@@ -1,11 +1,11 @@
 id: 124058979
-type: way
+type: node
 latitude: 48.27215
 longitude: 14.95114
 postcode: "4391"
 city: Waldhausen im Strudengau
-street: "Markt"
-housenumber: 97
+street: Markt
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-gmeiner.at/"
+website: https://www.autohaus-gmeiner.at/

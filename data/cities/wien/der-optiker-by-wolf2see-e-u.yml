@@ -4,8 +4,8 @@ latitude: 48.21427
 longitude: 16.38018
 postcode: "1020"
 city: Wien
-street: "Taborstraße"
-housenumber: 10
+street: Taborstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:00"
-website: "https://www.facebook.com/deroptikerbywolf2see/"
+opening_hours: Mo-Fr 09:30-13:00, 14:00-18:00
+website: https://www.facebook.com/deroptikerbywolf2see/

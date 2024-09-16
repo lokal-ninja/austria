@@ -1,11 +1,11 @@
 id: 298582698
-type: way
+type: node
 latitude: 47.28534
 longitude: 9.65082
 postcode: "6832"
 city: Sulz
-street: "Müsinenstraße"
-housenumber: 42
-phone: "+43 5522 42125"
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+street: Müsinenstraße
+housenumber: "42"
+phone: +43 5522 42125
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

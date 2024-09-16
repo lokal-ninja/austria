@@ -4,8 +4,8 @@ latitude: 48.1856
 longitude: 16.40504
 postcode: "1030"
 city: Wien
-street: "Rinnböckstraße"
-housenumber: 3
+street: Rinnböckstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.0815.at/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.0815.at/

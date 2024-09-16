@@ -1,11 +1,11 @@
 id: 253080621
-type: way
+type: node
 latitude: 47.84751
 longitude: 16.53284
 postcode: "7000"
 city: Eisenstadt
-street: "Neusiedler Straße"
-housenumber: 49
+street: Neusiedler Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:00"
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.16789
 longitude: 16.46273
 postcode: "1110"
 city: Wien
-street: "Jedletzbergerstraße"
-housenumber: 22
-phone: "+43 1 76068"
-opening_hours: "Mo-Fr 06:00-22:00;Sa 08:00-18:00"
-website: "https://www.metro.at/"
+street: Jedletzbergerstraße
+housenumber: "22"
+phone: +43 1 76068
+opening_hours: Mo-Fr 06:00-22:00;Sa 08:00-18:00
+website: https://www.metro.at/

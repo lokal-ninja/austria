@@ -4,8 +4,8 @@ latitude: 47.17401
 longitude: 9.80094
 postcode: "6714"
 city: Nüziders
-street: "Sonnenbergstraße"
-housenumber: 2
+street: Sonnenbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00,14:00-18:00; Sa 06:00-12:00"
-website: "https://begle-brot.at/"
+opening_hours: Mo-Fr 06:00-12:00,14:00-18:00; Sa 06:00-12:00
+website: https://begle-brot.at/

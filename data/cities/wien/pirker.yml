@@ -4,8 +4,8 @@ latitude: 48.20886
 longitude: 16.37365
 postcode: "1010"
 city: Wien
-street: "Stephansplatz"
-housenumber: 7
+street: Stephansplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00"
+opening_hours: Mo-Sa 11:00-17:00
 website: ""

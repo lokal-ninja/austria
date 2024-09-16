@@ -4,8 +4,8 @@ latitude: 47.90169
 longitude: 13.31791
 postcode: "4893"
 city: Zell am Moos
-street: "Kirchenplatz"
-housenumber: 10
-phone: "+43 6234 8203"
-opening_hours: "Mo-Sa 06:45-11:00"
-website: "https://www.baeckerei-obauer.at/"
+street: Kirchenplatz
+housenumber: "10"
+phone: +43 6234 8203
+opening_hours: Mo-Sa 06:45-11:00
+website: https://www.baeckerei-obauer.at/

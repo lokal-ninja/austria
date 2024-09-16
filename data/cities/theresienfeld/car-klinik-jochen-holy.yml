@@ -1,11 +1,11 @@
 id: 309496083
-type: way
+type: node
 latitude: 47.86299
 longitude: 16.23074
 postcode: "2604"
 city: Theresienfeld
-street: "Bahnstraße"
-housenumber: 48
-phone: "+43 2622 71832"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00; Su, PH off"
-website: "https://www.carklinik.at/"
+street: Bahnstraße
+housenumber: "48"
+phone: +43 2622 71832
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-12:00; Su, PH off
+website: https://www.carklinik.at/

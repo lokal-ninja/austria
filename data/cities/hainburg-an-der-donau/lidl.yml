@@ -1,11 +1,11 @@
 id: 314407897
-type: way
+type: node
 latitude: 48.14827
 longitude: 16.94528
 postcode: "2410"
 city: Hainburg an der Donau
-street: "Pressburger Reichsstraße"
-housenumber: 1
+street: Pressburger Reichsstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:40-20:00; PH,Su off"
-website: "https://www.lidl.at/"
+opening_hours: Mo-Sa 07:40-20:00; PH,Su off
+website: https://www.lidl.at/

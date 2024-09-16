@@ -4,8 +4,8 @@ latitude: 48.19609
 longitude: 16.32119
 postcode: "1150"
 city: Wien
-street: "Märzstraße"
-housenumber: 77
+street: Märzstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Th 06:00-12:00,14:00-18:00; Fr 06:00-18:00; Sa 06:00-12:00"
+opening_hours: Mo-Th 06:00-12:00,14:00-18:00; Fr 06:00-18:00; Sa 06:00-12:00
 website: ""

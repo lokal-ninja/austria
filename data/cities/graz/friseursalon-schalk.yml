@@ -4,8 +4,8 @@ latitude: 47.04563
 longitude: 15.43272
 postcode: "8020"
 city: Graz
-street: "Lauzilgasse"
-housenumber: 21
-phone: "+43316 262396"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
+street: Lauzilgasse
+housenumber: "21"
+phone: +43316 262396
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-15:00
 website: ""

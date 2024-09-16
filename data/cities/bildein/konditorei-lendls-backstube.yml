@@ -4,8 +4,8 @@ latitude: 47.12702
 longitude: 16.46783
 postcode: "7521"
 city: Bildein
-street: "Hauptstraße"
-housenumber: 132
-phone: "+43 3323 2915"
-opening_hours: "Tu-Sa 08:00-20:00; Su 10:00-12:00,13:00-19:00"
-website: "https://www.lendls.at/"
+street: Hauptstraße
+housenumber: "132"
+phone: +43 3323 2915
+opening_hours: Tu-Sa 08:00-20:00; Su 10:00-12:00,13:00-19:00
+website: https://www.lendls.at/

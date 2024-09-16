@@ -1,11 +1,11 @@
 id: 293831135
-type: way
+type: node
 latitude: 46.88845
 longitude: 15.50005
 postcode: "8410"
 city: Wildon
-street: "Grazer Straße"
-housenumber: 7
-phone: "+43-3182-2344"
-opening_hours: "Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00"
-website: "https://www.farbenkubelka.at/"
+street: Grazer Straße
+housenumber: "7"
+phone: +43-3182-2344
+opening_hours: Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00
+website: https://www.farbenkubelka.at/

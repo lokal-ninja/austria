@@ -1,11 +1,11 @@
 id: 406725155
-type: way
+type: node
 latitude: 47.86901
 longitude: 14.6744
 postcode: "3335"
 city: Weyer
-street: "Waidhofner Straße"
-housenumber: 77
+street: Waidhofner Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "http://www.holzner-tuning.at/kontakt/"
+website: http://www.holzner-tuning.at/kontakt/

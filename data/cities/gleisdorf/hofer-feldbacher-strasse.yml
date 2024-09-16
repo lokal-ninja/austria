@@ -1,11 +1,11 @@
 id: 140128426
-type: way
+type: node
 latitude: 47.09995
 longitude: 15.71734
 postcode: "8200"
 city: Gleisdorf
-street: "Feldbacher Straße"
-housenumber: 8
+street: Feldbacher Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

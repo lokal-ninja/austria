@@ -1,11 +1,11 @@
 id: 4882686
-type: way
+type: node
 latitude: 47.01174
 longitude: 15.41391
 postcode: "8055"
 city: Seiersberg
-street: "Shopping City Seiersberg"
+street: Shopping City Seiersberg
 housenumber: 1-9
-phone: "+43 316 2961370"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:00"
-website: "https://www.shoppingcityseiersberg.at/"
+phone: +43 316 2961370
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-18:00
+website: https://www.shoppingcityseiersberg.at/

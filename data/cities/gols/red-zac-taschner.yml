@@ -1,11 +1,11 @@
 id: 360597326
-type: way
+type: node
 latitude: 47.89874
 longitude: 16.90861
 postcode: "7122"
 city: Gols
-street: "Neustiftgasse"
+street: Neustiftgasse
 housenumber: 7-11
-phone: "02173 223214"
-opening_hours: "Mo-We,Fr 08:00-12:00,14:00-18:00; Th,Sa 08:00-12:00"
+phone: 02173 223214
+opening_hours: Mo-We,Fr 08:00-12:00,14:00-18:00; Th,Sa 08:00-12:00
 website: ""

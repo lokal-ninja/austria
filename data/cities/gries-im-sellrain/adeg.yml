@@ -1,5 +1,5 @@
 id: 92678513
-type: way
+type: node
 latitude: 47.19564
 longitude: 11.15633
 postcode: "6182"
@@ -7,5 +7,5 @@ city: Gries im Sellrain
 street: ""
 housenumber: 19a
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00, 15:00-17:00; Sa 06:30-12:00"
+opening_hours: Mo-Fr 06:30-12:00, 15:00-17:00; Sa 06:30-12:00
 website: ""

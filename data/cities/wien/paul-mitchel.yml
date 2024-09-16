@@ -4,8 +4,8 @@ latitude: 48.21199
 longitude: 16.35607
 postcode: "1010"
 city: Wien
-street: "Landesgerichtsstraße"
-housenumber: 10
-phone: "+43 676 4810581"
-opening_hours: "Tu-Fr 09:00-19:00"
-website: "https://www.hairsalons.at/"
+street: Landesgerichtsstraße
+housenumber: "10"
+phone: +43 676 4810581
+opening_hours: Tu-Fr 09:00-19:00
+website: https://www.hairsalons.at/

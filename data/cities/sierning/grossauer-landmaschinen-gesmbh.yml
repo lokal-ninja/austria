@@ -1,11 +1,11 @@
 id: 238030853
-type: way
+type: node
 latitude: 48.07666
 longitude: 14.31442
 postcode: "4522"
 city: Sierning
-street: "Oberbrunnernstraße"
-housenumber: 2
+street: Oberbrunnernstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

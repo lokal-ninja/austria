@@ -4,8 +4,8 @@ latitude: 48.39702
 longitude: 15.59542
 postcode: "3512"
 city: Mautern an der Donau
-street: "Austraße"
-housenumber: 86
-phone: "+43 2732 85 833"
-opening_hours: "Mo-Fr 07:30-12:00, 13:00-17:00; Sa 08:00-11:00"
-website: "https://www.provino.at/"
+street: Austraße
+housenumber: "86"
+phone: +43 2732 85 833
+opening_hours: Mo-Fr 07:30-12:00, 13:00-17:00; Sa 08:00-11:00
+website: https://www.provino.at/

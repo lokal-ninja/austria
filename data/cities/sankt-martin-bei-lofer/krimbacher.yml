@@ -1,11 +1,11 @@
 id: 218898733
-type: way
+type: node
 latitude: 47.58054
 longitude: 12.69856
 postcode: "5092"
 city: Sankt Martin bei Lofer
-street: "Lofer"
-housenumber: 192
+street: Lofer
+housenumber: "192"
 phone: ""
 opening_hours: ""
 website: ""

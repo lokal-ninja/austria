@@ -1,11 +1,11 @@
 id: 140588380
-type: way
+type: node
 latitude: 47.61677
 longitude: 16.28883
 postcode: "2811"
 city: Wiesmath
-street: "Marktring"
-housenumber: 8
+street: Marktring
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 396042182
-type: way
+type: node
 latitude: 48.18567
 longitude: 16.37674
 postcode: "1100"
 city: Wien
-street: "Am Hauptbahnhof"
-housenumber: 1
-phone: "+43 732 761569217"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-19:00"
+street: Am Hauptbahnhof
+housenumber: "1"
+phone: +43 732 761569217
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-19:00
 website: ""

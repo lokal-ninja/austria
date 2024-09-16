@@ -1,11 +1,11 @@
 id: 204539750
-type: way
+type: node
 latitude: 47.26191
 longitude: 10.76183
 postcode: "6464"
 city: Tarrenz
-street: "Hauptstraße"
-housenumber: 39
-phone: "+43 5412 61460"
+street: Hauptstraße
+housenumber: "39"
+phone: +43 5412 61460
 opening_hours: ""
 website: ""

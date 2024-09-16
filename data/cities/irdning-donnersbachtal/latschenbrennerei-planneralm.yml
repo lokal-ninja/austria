@@ -4,8 +4,8 @@ latitude: 47.40369
 longitude: 14.20201
 postcode: "8953"
 city: Irdning-Donnersbachtal
-street: "Planneralm"
-housenumber: 26
-phone: "+43 3683 8175"
-opening_hours: "Jun 19-Oct 31: 11:00-16:00; Nov 01-Jun 18: Th 11:00-16:00"
-website: "https://www.latschenbrennerei.at"
+street: Planneralm
+housenumber: "26"
+phone: +43 3683 8175
+opening_hours: 'Jun 19-Oct 31: 11:00-16:00; Nov 01-Jun 18: Th 11:00-16:00'
+website: https://www.latschenbrennerei.at

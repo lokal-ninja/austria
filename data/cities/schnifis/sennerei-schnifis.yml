@@ -1,11 +1,11 @@
 id: 240047289
-type: way
+type: node
 latitude: 47.21466
 longitude: 9.72427
 postcode: "6822"
 city: Schnifis
-street: "Jagdbergstraße"
-housenumber: 84
+street: Jagdbergstraße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,17:00-18:30; Su,PH 09:00-11:00,17:00-18:30"
+opening_hours: Mo-Sa 08:00-12:00,17:00-18:30; Su,PH 09:00-11:00,17:00-18:30
 website: ""

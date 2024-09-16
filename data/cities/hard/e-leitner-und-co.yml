@@ -1,11 +1,11 @@
 id: 83926288
-type: way
+type: node
 latitude: 47.48585
 longitude: 9.70095
 postcode: "6971"
 city: Hard
-street: "Rebengasse"
-housenumber: 12
-phone: "+43 5574 73102"
+street: Rebengasse
+housenumber: "12"
+phone: +43 5574 73102
 opening_hours: ""
 website: ""

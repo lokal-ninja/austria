@@ -1,11 +1,11 @@
 id: 31612828
-type: way
+type: node
 latitude: 48.27032
 longitude: 16.40917
 postcode: "1210"
 city: Wien
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

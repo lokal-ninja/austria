@@ -1,11 +1,11 @@
 id: 88506274
-type: way
+type: node
 latitude: 47.37078
 longitude: 15.08951
 postcode: "8700"
 city: Leoben
-street: "Ferdinand Hanusch-Straße"
-housenumber: 19
+street: Ferdinand Hanusch-Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

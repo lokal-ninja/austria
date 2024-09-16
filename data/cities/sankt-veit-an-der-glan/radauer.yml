@@ -1,11 +1,11 @@
 id: 498857210
-type: way
+type: node
 latitude: 46.7447
 longitude: 14.38809
 postcode: "9300"
 city: Sankt Veit an der Glan
-street: "Wirtschaftspark St. Veit/Glan"
-housenumber: 1
+street: Wirtschaftspark St. Veit/Glan
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://radauer.at"
+website: https://radauer.at

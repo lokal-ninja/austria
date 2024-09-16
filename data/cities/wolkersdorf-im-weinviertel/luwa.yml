@@ -1,11 +1,11 @@
 id: 37790675
-type: way
+type: node
 latitude: 48.37578
 longitude: 16.50874
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Wiener Straße"
-housenumber: 45
+street: Wiener Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Th 08:00-14:00; Fr 08:00-12:00"
-website: "https://luwa-dessous.com/kontakt"
+opening_hours: Mo-Th 08:00-14:00; Fr 08:00-12:00
+website: https://luwa-dessous.com/kontakt

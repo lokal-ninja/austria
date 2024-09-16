@@ -4,8 +4,8 @@ latitude: 48.20061
 longitude: 16.34927
 postcode: "1070"
 city: Wien
-street: "Neubaugasse"
-housenumber: 32
+street: Neubaugasse
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:30; Fr 09:00-18:00"
-website: "http://kohlmaier.wien/"
+opening_hours: Mo-Th 09:00-16:30; Fr 09:00-18:00
+website: http://kohlmaier.wien/

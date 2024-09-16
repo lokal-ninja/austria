@@ -1,11 +1,11 @@
 id: 238748238
-type: way
+type: node
 latitude: 48.77215
 longitude: 14.9858
 postcode: "3950"
 city: Gmünd
-street: "Schremser Straße"
-housenumber: 5
+street: Schremser Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

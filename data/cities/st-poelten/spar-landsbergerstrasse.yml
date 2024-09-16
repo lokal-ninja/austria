@@ -1,11 +1,11 @@
 id: 178469536
-type: way
+type: node
 latitude: 48.18562
 longitude: 15.62075
 postcode: "3100"
 city: St. Pölten
-street: "Landsbergerstraße"
-housenumber: 9
-phone: "+43 2742 70870"
+street: Landsbergerstraße
+housenumber: "9"
+phone: +43 2742 70870
 opening_hours: ""
-website: "https://www.spar.at/standorte/spar-st-poelten-3100-landsberger-strasse-9"
+website: https://www.spar.at/standorte/spar-st-poelten-3100-landsberger-strasse-9

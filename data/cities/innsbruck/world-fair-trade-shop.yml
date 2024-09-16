@@ -4,8 +4,8 @@ latitude: 47.26216
 longitude: 11.39466
 postcode: "6020"
 city: Innsbruck
-street: "Leopoldstraße"
-housenumber: 2
+street: Leopoldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Sa 10:00-17:00; PH off"
-website: "http://www.weltladen-innsbruck.at"
+opening_hours: Mo-Sa 09:00-18:00; Sa 10:00-17:00; PH off
+website: http://www.weltladen-innsbruck.at

@@ -4,8 +4,8 @@ latitude: 47.37806
 longitude: 15.09124
 postcode: "8700"
 city: Leoben
-street: "Waasenplatz"
-housenumber: 1
-phone: "+43 660 7901036"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.pfandhaus-leoben.at/"
+street: Waasenplatz
+housenumber: "1"
+phone: +43 660 7901036
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.pfandhaus-leoben.at/

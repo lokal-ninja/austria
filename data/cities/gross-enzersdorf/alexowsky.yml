@@ -4,8 +4,8 @@ latitude: 48.20215
 longitude: 16.55045
 postcode: "2301"
 city: Groß-Enzersdorf
-street: "Bischof Berthold-Platz"
-housenumber: 1
-phone: "+43 2249 2329"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"
-website: "https://www.alex-buch.at"
+street: Bischof Berthold-Platz
+housenumber: "1"
+phone: +43 2249 2329
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:30
+website: https://www.alex-buch.at

@@ -4,8 +4,8 @@ latitude: 48.17839
 longitude: 16.32839
 postcode: "1120"
 city: Wien
-street: "Pohlgasse"
-housenumber: 10
+street: Pohlgasse
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

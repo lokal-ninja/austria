@@ -4,8 +4,8 @@ latitude: 48.26435
 longitude: 16.4591
 postcode: "1220"
 city: Wien
-street: "Dassanowskyweg"
-housenumber: 2
+street: Dassanowskyweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-13:30"
-website: "https://www.wuerth.at/de/wuerth_at/niederlassungen/kundenzentren_a_z/kundenzentren_neu_detail_224.php"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-13:30
+website: https://www.wuerth.at/de/wuerth_at/niederlassungen/kundenzentren_a_z/kundenzentren_neu_detail_224.php

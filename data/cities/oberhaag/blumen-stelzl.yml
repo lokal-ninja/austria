@@ -1,5 +1,5 @@
 id: 231141431
-type: way
+type: node
 latitude: 46.68514
 longitude: 15.34648
 postcode: "8455"
@@ -7,5 +7,5 @@ city: Oberhaag
 street: ""
 housenumber: 112a
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://www.gartenbau-stelzl.at/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://www.gartenbau-stelzl.at/

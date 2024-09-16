@@ -4,8 +4,8 @@ latitude: 47.80155
 longitude: 13.01857
 postcode: "5020"
 city: Salzburg
-street: "Maxglaner Hauptstraße"
-housenumber: 72
-phone: "+43 662 8271 3222"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.kuecheco.at/salzburg"
+street: Maxglaner Hauptstraße
+housenumber: "72"
+phone: +43 662 8271 3222
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.kuecheco.at/salzburg

@@ -1,11 +1,11 @@
 id: 321548481
-type: way
+type: node
 latitude: 47.96844
 longitude: 16.83784
 postcode: "7100"
 city: Neusiedl am See
-street: "Kurzes Hirschfeld"
-housenumber: 33
+street: Kurzes Hirschfeld
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

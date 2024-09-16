@@ -1,11 +1,11 @@
 id: 92334683
-type: way
+type: node
 latitude: 47.69981
 longitude: 14.15596
 postcode: "4573"
 city: Hinterstoder
-street: "Hinterstoder"
-housenumber: 15
+street: Hinterstoder
+housenumber: "15"
 phone: "+4375645271"
-opening_hours: "Mo-Sa 07:30-18:00; Su,PH off"
+opening_hours: Mo-Sa 07:30-18:00; Su,PH off
 website: ""

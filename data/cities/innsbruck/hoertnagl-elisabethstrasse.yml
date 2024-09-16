@@ -4,8 +4,8 @@ latitude: 47.27586
 longitude: 11.40486
 postcode: "6020"
 city: Innsbruck
-street: "Elisabethstraße"
-housenumber: 11
+street: Elisabethstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30, 07:00-14:00"
-website: "https://www.hoertnagl.at/"
+opening_hours: Mo-Fr 07:00-18:30, 07:00-14:00
+website: https://www.hoertnagl.at/

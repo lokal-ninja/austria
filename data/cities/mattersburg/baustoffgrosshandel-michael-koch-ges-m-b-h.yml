@@ -1,11 +1,11 @@
 id: 376077564
-type: way
+type: node
 latitude: 47.7368
 longitude: 16.41009
 postcode: "7210"
 city: Mattersburg
-street: "Bauweltstraße"
-housenumber: 7
+street: Bauweltstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

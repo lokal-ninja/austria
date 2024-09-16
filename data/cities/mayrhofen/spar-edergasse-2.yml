@@ -1,11 +1,11 @@
 id: 129120982
-type: way
+type: node
 latitude: 47.16472
 longitude: 11.86331
 postcode: "6290"
 city: Mayrhofen
-street: "Edergasse"
-housenumber: 522
+street: Edergasse
+housenumber: "522"
 phone: ""
 opening_hours: ""
 website: ""

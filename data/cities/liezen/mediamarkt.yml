@@ -4,8 +4,8 @@ latitude: 47.56145
 longitude: 14.24601
 postcode: "8940"
 city: Liezen
-street: "Salzburger Straße"
-housenumber: 1
-phone: "+43 1 54699"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00"
-website: "https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Liezen-ELI,175552,-15.html"
+street: Salzburger Straße
+housenumber: "1"
+phone: +43 1 54699
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00
+website: https://www.mediamarkt.at/mcs/marketinfo/_MediaMarkt-Liezen-ELI,175552,-15.html

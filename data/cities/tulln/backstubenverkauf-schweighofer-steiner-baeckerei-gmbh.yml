@@ -4,8 +4,8 @@ latitude: 48.32064
 longitude: 16.08249
 postcode: "3430"
 city: Tulln
-street: "Königstetterstraße"
-housenumber: 165
-phone: "+43 2272 62409"
-opening_hours: "Mo-Sa 07:00-11:00"
-website: "http://www.steinerbrot.at"
+street: Königstetterstraße
+housenumber: "165"
+phone: +43 2272 62409
+opening_hours: Mo-Sa 07:00-11:00
+website: http://www.steinerbrot.at

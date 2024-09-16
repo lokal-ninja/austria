@@ -1,11 +1,11 @@
 id: 140560353
-type: way
+type: node
 latitude: 48.24144
 longitude: 16.45402
 postcode: "1220"
 city: Wien
-street: "Pogrelzstraße"
-housenumber: 53
+street: Pogrelzstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00
 website: ""

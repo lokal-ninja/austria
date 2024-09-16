@@ -1,11 +1,11 @@
 id: 181470707
-type: way
+type: node
 latitude: 47.23139
 longitude: 14.83062
 postcode: "8723"
 city: Kobenz
-street: "Gewerbestraße"
-housenumber: 2
-phone: "+43 3512/82776"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:00; Sa 08:00-11:00"
-website: "http://www.reifenservice.cc/kontakt"
+street: Gewerbestraße
+housenumber: "2"
+phone: +43 3512/82776
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:00; Sa 08:00-11:00
+website: http://www.reifenservice.cc/kontakt

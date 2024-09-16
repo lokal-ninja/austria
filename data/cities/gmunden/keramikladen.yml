@@ -4,8 +4,8 @@ latitude: 47.91867
 longitude: 13.80088
 postcode: "4810"
 city: Gmunden
-street: "Kammerhofgasse"
-housenumber: 7
-phone: "+43 67688794425"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00, 14:00-17:00"
+street: Kammerhofgasse
+housenumber: "7"
+phone: +43 67688794425
+opening_hours: Mo-Fr 10:00-13:00, 14:00-18:00; Sa 10:00-13:00, 14:00-17:00
 website: ""

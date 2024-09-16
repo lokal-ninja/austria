@@ -4,8 +4,8 @@ latitude: 47.06728
 longitude: 15.45046
 postcode: "8010"
 city: Graz
-street: "Mandellstraße"
-housenumber: 21
+street: Mandellstraße
+housenumber: "21"
 phone: ""
-opening_hours: "PH,Sa,Su off; Mo-Th 09:00-16:30; Fr 09:00-13:00"
-website: "https://www.tapezierer-kaufmann.at/"
+opening_hours: PH,Sa,Su off; Mo-Th 09:00-16:30; Fr 09:00-13:00
+website: https://www.tapezierer-kaufmann.at/

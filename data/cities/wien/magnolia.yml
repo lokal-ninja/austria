@@ -4,8 +4,8 @@ latitude: 48.19824
 longitude: 16.30391
 postcode: "1140"
 city: Wien
-street: "Hütteldorfer Straße"
-housenumber: 155
-phone: "+43 1 7866979"
-opening_hours: "Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
+street: Hütteldorfer Straße
+housenumber: "155"
+phone: +43 1 7866979
+opening_hours: Mo-We 09:00-19:00; Th-Fr 09:00-20:00; Sa 09:00-18:00; PH off
 website: ""

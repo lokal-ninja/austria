@@ -1,11 +1,11 @@
 id: 87705650
-type: way
+type: node
 latitude: 48.56483
 longitude: 16.56295
 postcode: "2130"
 city: Mistelbach
-street: "Gaswerkstraße"
-housenumber: 10
+street: Gaswerkstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-12:00
 website: ""

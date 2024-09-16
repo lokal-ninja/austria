@@ -1,11 +1,11 @@
 id: 916316976
-type: way
+type: node
 latitude: 47.27331
 longitude: 11.90034
 postcode: "6274"
 city: Aschau im Zillertal
-street: "Gewerbestraße"
-housenumber: 10
+street: Gewerbestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

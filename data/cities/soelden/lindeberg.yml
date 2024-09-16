@@ -1,11 +1,11 @@
 id: 207457914
-type: way
+type: node
 latitude: 46.96859
 longitude: 11.00772
 postcode: "6450"
 city: Sölden
-street: "Rettenbachstraße"
-housenumber: 1
+street: Rettenbachstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

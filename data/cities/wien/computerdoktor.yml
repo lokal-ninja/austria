@@ -4,8 +4,8 @@ latitude: 48.2262
 longitude: 16.34774
 postcode: "1180"
 city: Wien
-street: "Gentzgasse"
-housenumber: 9
+street: Gentzgasse
+housenumber: "9"
 phone: ""
-opening_hours: "Termine nur nach telefonischer Vereinbarung"
+opening_hours: '"Termine nur nach telefonischer Vereinbarung"'
 website: ""

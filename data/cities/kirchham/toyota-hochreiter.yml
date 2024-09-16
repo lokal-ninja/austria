@@ -1,11 +1,11 @@
 id: 317192954
-type: way
+type: node
 latitude: 47.97496
 longitude: 13.89927
 postcode: "4656"
 city: Kirchham
-street: "Kirchham"
-housenumber: 9
+street: Kirchham
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

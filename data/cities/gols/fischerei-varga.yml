@@ -1,11 +1,11 @@
 id: 222264376
-type: way
+type: node
 latitude: 47.89402
 longitude: 16.9169
 postcode: "7122"
 city: Gols
-street: "Untere Hauptstraße"
-housenumber: 123
-phone: "+432173 2231"
-opening_hours: "Fr 08:30-15:00"
-website: "http://www.varga.co.at"
+street: Untere Hauptstraße
+housenumber: "123"
+phone: +432173 2231
+opening_hours: Fr 08:30-15:00
+website: http://www.varga.co.at

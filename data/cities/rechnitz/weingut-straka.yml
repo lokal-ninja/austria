@@ -1,11 +1,11 @@
 id: 179865482
-type: way
+type: node
 latitude: 47.3016
 longitude: 16.44325
 postcode: "7471"
 city: Rechnitz
-street: "Bahnhofstraße"
-housenumber: 15
+street: Bahnhofstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.straka.wine/ueber-uns"
+website: https://www.straka.wine/ueber-uns

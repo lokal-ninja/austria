@@ -4,8 +4,8 @@ latitude: 48.17519
 longitude: 16.37359
 postcode: "1100"
 city: Wien
-street: "Laxenburger Straße"
-housenumber: 73
+street: Laxenburger Straße
+housenumber: "73"
 phone: "004316030122"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.komolka.at/"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.komolka.at/

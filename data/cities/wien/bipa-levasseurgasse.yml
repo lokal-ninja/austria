@@ -4,8 +4,8 @@ latitude: 48.14666
 longitude: 16.29569
 postcode: "1230"
 city: Wien
-street: "Levasseurgasse"
-housenumber: 4
-phone: "+43 1 86 92 399"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Levasseurgasse
+housenumber: "4"
+phone: +43 1 86 92 399
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

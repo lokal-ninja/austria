@@ -4,8 +4,8 @@ latitude: 47.26725
 longitude: 11.42637
 postcode: "6020"
 city: Innsbruck
-street: "Stadlweg"
-housenumber: 1
+street: Stadlweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.21021
 longitude: 16.36754
 postcode: "1010"
 city: Wien
-street: "Naglergasse"
-housenumber: 9
+street: Naglergasse
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su,PH off
 website: ""

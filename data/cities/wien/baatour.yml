@@ -4,8 +4,8 @@ latitude: 48.20669
 longitude: 16.34707
 postcode: "1070"
 city: Wien
-street: "Lerchenfelder Straße"
-housenumber: 63
+street: Lerchenfelder Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00"
-website: "https://www.braun-service.at/"
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:00
+website: https://www.braun-service.at/

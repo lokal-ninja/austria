@@ -1,11 +1,11 @@
 id: 199639096
-type: way
+type: node
 latitude: 48.56347
 longitude: 16.57676
 postcode: "2130"
 city: Mistelbach
-street: "Mitschastraße"
-housenumber: 35
-phone: "+43(0)2572 / 2618"
-opening_hours: "Mo-Fr 07:00-12:00,13:00-17:30; Sa 08:00-12:00"
-website: "https://www.weninger.co.at/"
+street: Mitschastraße
+housenumber: "35"
+phone: +43(0)2572 / 2618
+opening_hours: Mo-Fr 07:00-12:00,13:00-17:30; Sa 08:00-12:00
+website: https://www.weninger.co.at/

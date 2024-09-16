@@ -4,8 +4,8 @@ latitude: 48.18648
 longitude: 16.29783
 postcode: "1130"
 city: Wien
-street: "Hietzinger Hauptstraße"
-housenumber: 23
-phone: "+43 1 8762954"
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-13:30"
+street: Hietzinger Hauptstraße
+housenumber: "23"
+phone: +43 1 8762954
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:30-13:30
 website: ""

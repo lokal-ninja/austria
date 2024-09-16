@@ -1,11 +1,11 @@
 id: 222561078
-type: way
+type: node
 latitude: 48.23251
 longitude: 13.82363
 postcode: "4710"
 city: Grieskirchen
-street: "Wengerstraße"
-housenumber: 12
-phone: "+43-7248-64991"
+street: Wengerstraße
+housenumber: "12"
+phone: +43-7248-64991
 opening_hours: ""
-website: "https://www.peugeot-zauner.at/"
+website: https://www.peugeot-zauner.at/

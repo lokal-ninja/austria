@@ -1,11 +1,11 @@
 id: 84812002
-type: way
+type: node
 latitude: 47.95758
 longitude: 14.01795
 postcode: "4643"
 city: Pettenbach
-street: "Kirchdorfer Straße"
-housenumber: 14
+street: Kirchdorfer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.33051
 longitude: 16.36002
 postcode: "2102"
 city: Bisamberg
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 08:00-12:00"
-website: "https://www.lovelyblumen.at/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 08:00-12:00
+website: https://www.lovelyblumen.at/

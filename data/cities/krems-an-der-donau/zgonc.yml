@@ -1,11 +1,11 @@
 id: 50235368
-type: way
+type: node
 latitude: 48.40668
 longitude: 15.66471
 postcode: "3500"
 city: Krems an der Donau
-street: "Gewerbeparkstraße"
-housenumber: 24
-phone: "+43 2732 701 79"
+street: Gewerbeparkstraße
+housenumber: "24"
+phone: +43 2732 701 79
 opening_hours: ""
-website: "https://www.zgonc.at"
+website: https://www.zgonc.at

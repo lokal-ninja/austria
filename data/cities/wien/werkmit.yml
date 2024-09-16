@@ -4,8 +4,8 @@ latitude: 48.18095
 longitude: 16.33565
 postcode: "1120"
 city: Wien
-street: "Niederhofstraße"
-housenumber: 7
+street: Niederhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00,13:00-16:30; Sa 07:00-12:00"
-website: "https://www.werkmit.at/"
+opening_hours: Mo-Fr 06:30-12:00,13:00-16:30; Sa 07:00-12:00
+website: https://www.werkmit.at/

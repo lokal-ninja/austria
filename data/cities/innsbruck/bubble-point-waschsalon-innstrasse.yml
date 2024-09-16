@@ -4,8 +4,8 @@ latitude: 47.26947
 longitude: 11.39055
 postcode: "6020"
 city: Innsbruck
-street: "Innstraße"
-housenumber: 11
+street: Innstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-22:30; Sa-Su 07:30-22:00"
-website: "https://www.bubblepoint.com/innstrasse.php"
+opening_hours: Mo-Fr 07:30-22:30; Sa-Su 07:30-22:00
+website: https://www.bubblepoint.com/innstrasse.php

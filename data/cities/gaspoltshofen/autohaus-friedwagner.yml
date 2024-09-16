@@ -5,7 +5,7 @@ longitude: 13.73366
 postcode: "4673"
 city: Gaspoltshofen
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:00; Sa 09:00-12:00"
-website: "https://www.friedwagner.at/"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-15:00; Sa 09:00-12:00
+website: https://www.friedwagner.at/

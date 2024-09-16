@@ -1,11 +1,11 @@
 id: 341818811
-type: way
+type: node
 latitude: 47.99673
 longitude: 12.87795
 postcode: "5120"
 city: St. Pantaleon
-street: "Am Schneidergraben"
-housenumber: 2
+street: Am Schneidergraben
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

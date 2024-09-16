@@ -1,11 +1,11 @@
 id: 31966736
-type: way
+type: node
 latitude: 48.17616
 longitude: 16.39606
 postcode: "1030"
 city: Wien
-street: "Hüttenbrennergasse"
-housenumber: 5
+street: Hüttenbrennergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

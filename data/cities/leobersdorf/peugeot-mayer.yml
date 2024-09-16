@@ -1,11 +1,11 @@
 id: 113560098
-type: way
+type: node
 latitude: 47.93465
 longitude: 16.21933
 postcode: "2544"
 city: Leobersdorf
-street: "Hirtenberger Straße"
-housenumber: 25
-phone: "+43 2256 62274"
+street: Hirtenberger Straße
+housenumber: "25"
+phone: +43 2256 62274
 opening_hours: ""
 website: ""

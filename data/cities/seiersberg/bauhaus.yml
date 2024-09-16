@@ -1,11 +1,11 @@
 id: 196866289
-type: way
+type: node
 latitude: 47.00816
 longitude: 15.41492
 postcode: "8054"
 city: Seiersberg
-street: "Josef Pock-Straße"
-housenumber: 10
-phone: "+43 316 680000"
-opening_hours: "Mo-Fr 07:00-19:20; Sa 07:00-18:00; Su,PH off"
-website: "https://www.bauhaus.at/fachcentren/fachcentrum-seiersberg/fc/761"
+street: Josef Pock-Straße
+housenumber: "10"
+phone: +43 316 680000
+opening_hours: Mo-Fr 07:00-19:20; Sa 07:00-18:00; Su,PH off
+website: https://www.bauhaus.at/fachcentren/fachcentrum-seiersberg/fc/761

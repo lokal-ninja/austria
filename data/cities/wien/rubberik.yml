@@ -4,8 +4,8 @@ latitude: 48.18929
 longitude: 16.35109
 postcode: "1050"
 city: Wien
-street: "Schönbrunner Straße"
+street: Schönbrunner Straße
 housenumber: 82/3-4
-phone: "+43 650 8575888"
-opening_hours: "Anrufen oder anklopfen"
-website: "https://www.rubberik.at/index.php?route=common/home"
+phone: +43 650 8575888
+opening_hours: '"Anrufen oder anklopfen"'
+website: https://www.rubberik.at/index.php?route=common/home

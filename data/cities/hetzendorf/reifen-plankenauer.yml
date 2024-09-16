@@ -1,11 +1,11 @@
 id: 146360255
-type: way
+type: node
 latitude: 47.18287
 longitude: 14.67608
 postcode: "8753"
 city: Hetzendorf
-street: "Marktstraße"
-housenumber: 2
+street: Marktstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

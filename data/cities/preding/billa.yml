@@ -1,11 +1,11 @@
 id: 330288167
-type: way
+type: node
 latitude: 46.85192
 longitude: 15.41124
 postcode: "8504"
 city: Preding
-street: "Gewerbepark Süd"
-housenumber: 2
-phone: "+43 59915 06805"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Gewerbepark Süd
+housenumber: "2"
+phone: +43 59915 06805
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

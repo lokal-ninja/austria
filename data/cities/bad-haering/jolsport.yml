@@ -1,11 +1,11 @@
 id: 153982507
-type: way
+type: node
 latitude: 47.50969
 longitude: 12.11671
 postcode: "6323"
 city: Bad Häring
-street: "Dorfstraße"
-housenumber: 18
+street: Dorfstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

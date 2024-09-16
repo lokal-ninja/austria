@@ -1,5 +1,5 @@
 id: 1105845946
-type: way
+type: node
 latitude: 46.947
 longitude: 15.68282
 postcode: "8082"
@@ -7,5 +7,5 @@ city: Kirchbach-Zerlach
 street: ""
 housenumber: 6a
 phone: "+436644727263"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:00;"
-website: "http://www.kfzbauer.at/"
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 13:00-17:00;
+website: http://www.kfzbauer.at/

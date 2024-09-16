@@ -4,8 +4,8 @@ latitude: 47.06354
 longitude: 15.45128
 postcode: "8010"
 city: Graz
-street: "Münzgrabenstraße"
-housenumber: 45
+street: Münzgrabenstraße
+housenumber: "45"
 phone: ""
-opening_hours: "mach telefonischer Vereinbarung"
-website: "http://www.baumarkt-antiqua.at/"
+opening_hours: '"mach telefonischer Vereinbarung"'
+website: http://www.baumarkt-antiqua.at/

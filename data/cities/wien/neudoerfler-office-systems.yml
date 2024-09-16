@@ -4,8 +4,8 @@ latitude: 48.19875
 longitude: 16.37721
 postcode: "1030"
 city: Wien
-street: "Schwarzenbergplatz"
-housenumber: 7
+street: Schwarzenbergplatz
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:00, Fr 08:30-15:00"
-website: "https://www.neudoerfler.com/"
+opening_hours: Mo-Th 08:30-18:00, Fr 08:30-15:00
+website: https://www.neudoerfler.com/

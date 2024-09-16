@@ -1,11 +1,11 @@
 id: 430939948
-type: way
+type: node
 latitude: 47.98231
 longitude: 15.02674
 postcode: "3264"
 city: Gresten
-street: "Unterer Markt"
-housenumber: 5
-phone: "+43 7473 300 20"
-opening_hours: "Tu-Sa 07:30-12:00"
-website: "https://www.fleisch-keusch.at/"
+street: Unterer Markt
+housenumber: "5"
+phone: +43 7473 300 20
+opening_hours: Tu-Sa 07:30-12:00
+website: https://www.fleisch-keusch.at/

@@ -4,8 +4,8 @@ latitude: 48.30226
 longitude: 14.2874
 postcode: "4020"
 city: Linz
-street: "Spittelwiese"
-housenumber: 11
-phone: "+43 732 77 02 90"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.zwei-spittelwiese.at/"
+street: Spittelwiese
+housenumber: "11"
+phone: +43 732 77 02 90
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.zwei-spittelwiese.at/

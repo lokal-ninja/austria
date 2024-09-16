@@ -1,11 +1,11 @@
 id: 42762692
-type: way
+type: node
 latitude: 48.35029
 longitude: 15.7453
 postcode: "3133"
 city: Traismauer
-street: "Wiener Straße"
-housenumber: 17
+street: Wiener Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

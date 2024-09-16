@@ -1,11 +1,11 @@
 id: 294881162
-type: way
+type: node
 latitude: 47.14542
 longitude: 9.82608
 postcode: "6700"
 city: Bludenz
-street: "Klarenbrunnstraße"
-housenumber: 69
+street: Klarenbrunnstraße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

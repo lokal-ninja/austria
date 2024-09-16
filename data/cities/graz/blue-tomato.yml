@@ -4,8 +4,8 @@ latitude: 47.07093
 longitude: 15.43608
 postcode: "8010"
 city: Graz
-street: "Murgasse"
-housenumber: 11
+street: Murgasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:30; Fr 09:30-19:00; Sa 09:30-18:00"
+opening_hours: Mo-Th 09:30-18:30; Fr 09:30-19:00; Sa 09:30-18:00
 website: ""

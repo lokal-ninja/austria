@@ -1,11 +1,11 @@
 id: 378177818
-type: way
+type: node
 latitude: 47.98382
 longitude: 15.07658
 postcode: "3264"
 city: Reinsberg
-street: "Reinsberg"
-housenumber: 50
+street: Reinsberg
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

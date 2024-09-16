@@ -1,11 +1,11 @@
 id: 123516205
-type: way
+type: node
 latitude: 47.29838
 longitude: 11.58765
 postcode: "6112"
 city: Wattens
-street: "Ritter-Waldauf-Straße"
-housenumber: 2
+street: Ritter-Waldauf-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
 website: ""

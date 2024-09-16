@@ -4,8 +4,8 @@ latitude: 48.30326
 longitude: 14.2858
 postcode: "4020"
 city: Linz
-street: "Herrenstraße"
-housenumber: 2
-phone: "+43 732 942789"
-opening_hours: "Mo-Th 11:00-13:00,14:00-18:00; Fr 11:00-18:00; Sa 11:00-17:00"
-website: "https://kleidermachenleute.at/"
+street: Herrenstraße
+housenumber: "2"
+phone: +43 732 942789
+opening_hours: Mo-Th 11:00-13:00,14:00-18:00; Fr 11:00-18:00; Sa 11:00-17:00
+website: https://kleidermachenleute.at/

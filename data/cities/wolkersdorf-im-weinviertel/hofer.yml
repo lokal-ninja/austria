@@ -1,11 +1,11 @@
 id: 234220540
-type: way
+type: node
 latitude: 48.37743
 longitude: 16.50862
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Winzerstraße"
-housenumber: 1
+street: Winzerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

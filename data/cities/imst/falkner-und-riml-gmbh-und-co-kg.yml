@@ -1,11 +1,11 @@
 id: 244459638
-type: way
+type: node
 latitude: 47.23226
 longitude: 10.7423
 postcode: "6460"
 city: Imst
-street: "Langgasse"
-housenumber: 19
+street: Langgasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.20726
 longitude: 16.17666
 postcode: "3002"
 city: Purkersdorf
-street: "Hauptplatz"
-housenumber: 3
-phone: "+43 1 8669991"
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su,PH 07:00-16:00"
-website: "https://www.dermann.at/filiale/hauptplatz-3/"
+street: Hauptplatz
+housenumber: "3"
+phone: +43 1 8669991
+opening_hours: Mo-Fr 06:00-19:00; Sa-Su,PH 07:00-16:00
+website: https://www.dermann.at/filiale/hauptplatz-3/

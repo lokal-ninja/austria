@@ -1,11 +1,11 @@
 id: 121937296
-type: way
+type: node
 latitude: 48.56278
 longitude: 16.57764
 postcode: "2130"
 city: Mistelbach
-street: "Mitschastraße"
-housenumber: 37
-phone: "+43 2572 5430"
+street: Mitschastraße
+housenumber: "37"
+phone: +43 2572 5430
 opening_hours: ""
-website: "https://www.opel-mayer.at/"
+website: https://www.opel-mayer.at/

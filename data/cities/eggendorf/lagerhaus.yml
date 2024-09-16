@@ -1,11 +1,11 @@
 id: 1207984021
-type: way
+type: node
 latitude: 47.84586
 longitude: 16.2917
 postcode: "2493"
 city: Eggendorf
-street: "Am Stampf"
-housenumber: 64
+street: Am Stampf
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 49171756
-type: way
+type: node
 latitude: 48.28119
 longitude: 14.25369
 postcode: "4060"
 city: Leonding
-street: "Zehetlandweg"
-housenumber: 2
+street: Zehetlandweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.22616
 longitude: 16.39453
 postcode: "1020"
 city: Wien
-street: "Ernst-Melchior-Gasse"
-housenumber: 3
-phone: "+43 1 2125149"
-opening_hours: "Tu-Fr 11:30-19:00"
-website: "https://der-burgenlaender.jimdo.com/"
+street: Ernst-Melchior-Gasse
+housenumber: "3"
+phone: +43 1 2125149
+opening_hours: Tu-Fr 11:30-19:00
+website: https://der-burgenlaender.jimdo.com/

@@ -4,8 +4,8 @@ latitude: 48.20592
 longitude: 16.34016
 postcode: "1070"
 city: Wien
-street: "Neustiftgasse"
-housenumber: 135
+street: Neustiftgasse
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,12:30-18:00"
-website: "https://www.izi-ride.at/"
+opening_hours: Mo-Fr 09:00-12:00,12:30-18:00
+website: https://www.izi-ride.at/

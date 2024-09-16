@@ -1,11 +1,11 @@
 id: 217120922
-type: way
+type: node
 latitude: 46.69444
 longitude: 15.42522
 postcode: "8454"
 city: Arnfels
 street: ""
-housenumber: 54
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

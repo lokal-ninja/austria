@@ -4,8 +4,8 @@ latitude: 47.16701
 longitude: 10.5909
 postcode: "6511"
 city: Zams
-street: "Hauptstraße"
-housenumber: 150
-phone: "+43 5442 69990"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+street: Hauptstraße
+housenumber: "150"
+phone: +43 5442 69990
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
 website: ""

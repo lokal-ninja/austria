@@ -4,8 +4,8 @@ latitude: 47.0781
 longitude: 15.42976
 postcode: "8020"
 city: Graz
-street: "Neubaugasse"
-housenumber: 43
-phone: "+43 664 927 50 41"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.loftselected.com/"
+street: Neubaugasse
+housenumber: "43"
+phone: +43 664 927 50 41
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.loftselected.com/

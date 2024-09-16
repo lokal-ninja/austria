@@ -1,11 +1,11 @@
 id: 190317245
-type: way
+type: node
 latitude: 46.80317
 longitude: 14.85024
 postcode: "9431"
 city: Sankt Stefan
-street: "Hauptstraße"
-housenumber: 58
-phone: "+43 4352 2181"
+street: Hauptstraße
+housenumber: "58"
+phone: +43 4352 2181
 opening_hours: ""
 website: ""

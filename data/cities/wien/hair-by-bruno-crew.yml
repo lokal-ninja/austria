@@ -4,8 +4,8 @@ latitude: 48.19243
 longitude: 16.35488
 postcode: "1050"
 city: Wien
-street: "Rechte Wienzeile"
+street: Rechte Wienzeile
 housenumber: 93-95
-phone: "+43 1 5448171"
-opening_hours: "Tu,We,Fr 09:00-18:00; Sa 09:00-13:00; Th 09:00-19:00"
+phone: +43 1 5448171
+opening_hours: Tu,We,Fr 09:00-18:00; Sa 09:00-13:00; Th 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.17879
 longitude: 16.36827
 postcode: "1100"
 city: Wien
-street: "Gudrunstraße"
-housenumber: 156
-phone: "+43 1 6410503"
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
-website: "https://www.spar.at/de_AT/index/standorte/11/wien_10_1134.html"
+street: Gudrunstraße
+housenumber: "156"
+phone: +43 1 6410503
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
+website: https://www.spar.at/de_AT/index/standorte/11/wien_10_1134.html

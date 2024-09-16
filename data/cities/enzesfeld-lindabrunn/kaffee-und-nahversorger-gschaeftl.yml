@@ -1,11 +1,11 @@
 id: 232265305
-type: way
+type: node
 latitude: 47.91211
 longitude: 16.17135
 postcode: "2551"
 city: Enzesfeld-Lindabrunn
-street: "Hernsteinerstraße"
-housenumber: 109
+street: Hernsteinerstraße
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 06:00-12:00; Sa-Su 07:00-12:00; Mo-Tu,Fr-Su 16:00-20:00"
+opening_hours: Mo-Fr 06:00-12:00; Sa-Su 07:00-12:00; Mo-Tu,Fr-Su 16:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.12018
 longitude: 14.90899
 postcode: "3300"
 city: Amstetten
-street: "Jakob-Mayer-Straße"
-housenumber: 2
+street: Jakob-Mayer-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 13:00-16:30"
-website: "https://www.profisamwerk.at/"
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 13:00-16:30
+website: https://www.profisamwerk.at/

@@ -5,7 +5,7 @@ longitude: 14.33384
 postcode: "4421"
 city: Aschach an der Steyr
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:30; Sa 06:00-12:00; Su 07:00-12:00"
-website: "http://www.schnadiscafe.at/anfahrtsplan"
+opening_hours: Mo-Fr 06:00-13:30; Sa 06:00-12:00; Su 07:00-12:00
+website: http://www.schnadiscafe.at/anfahrtsplan

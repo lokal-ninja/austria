@@ -4,8 +4,9 @@ latitude: 47.95492
 longitude: 13.58726
 postcode: "4863"
 city: Seewalchen am Attersee
-street: "Hatschekstraße"
-housenumber: 9
+street: Hatschekstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Tu 05:00-12:00,14:30-18:00; We 05:00-12:00; Th-Fr 05:00-12:00,14:30-18:00; Sa 05:00-12:00"
+opening_hours: Mo-Tu 05:00-12:00,14:30-18:00; We 05:00-12:00; Th-Fr 05:00-12:00,14:30-18:00;
+    Sa 05:00-12:00
 website: ""

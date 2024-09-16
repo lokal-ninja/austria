@@ -4,8 +4,8 @@ latitude: 47.26792
 longitude: 11.39354
 postcode: "6020"
 city: Innsbruck
-street: "Herzog-Friedrich-Straße"
-housenumber: 27
-phone: "+43 512 582071"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://www.kapfererstoffe.at/"
+street: Herzog-Friedrich-Straße
+housenumber: "27"
+phone: +43 512 582071
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://www.kapfererstoffe.at/

@@ -4,8 +4,8 @@ latitude: 48.21661
 longitude: 16.38551
 postcode: "1020"
 city: Wien
-street: "Rotensterngasse"
-housenumber: 30
+street: Rotensterngasse
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 05:45-18:00; Sa 07:15-12:00"
+opening_hours: Mo-Fr 05:45-18:00; Sa 07:15-12:00
 website: ""

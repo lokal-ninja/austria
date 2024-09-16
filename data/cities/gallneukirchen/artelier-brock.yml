@@ -4,8 +4,8 @@ latitude: 48.35204
 longitude: 14.41541
 postcode: ""
 city: Gallneukirchen
-street: "Gaisbacher Straße"
-housenumber: 2
+street: Gaisbacher Straße
+housenumber: "2"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.henrikebrock.at/"
+opening_hours: '"by appointment"'
+website: https://www.henrikebrock.at/

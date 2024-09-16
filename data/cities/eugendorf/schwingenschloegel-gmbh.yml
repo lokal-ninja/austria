@@ -1,11 +1,11 @@
 id: 523981705
-type: way
+type: node
 latitude: 47.85806
 longitude: 13.13364
 postcode: "5301"
 city: Eugendorf
-street: "Gewerbestraße"
-housenumber: 12
-phone: "+43 6225 8344"
+street: Gewerbestraße
+housenumber: "12"
+phone: +43 6225 8344
 opening_hours: ""
-website: "https://www.schwingenschloegel.at"
+website: https://www.schwingenschloegel.at

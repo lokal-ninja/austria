@@ -1,11 +1,11 @@
 id: 297325198
-type: way
+type: node
 latitude: 47.9677
 longitude: 16.83849
 postcode: "7100"
 city: Neusiedl am See
-street: "Wiener Straße"
-housenumber: 110
+street: Wiener Straße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

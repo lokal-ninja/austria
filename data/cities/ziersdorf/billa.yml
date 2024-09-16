@@ -1,11 +1,11 @@
 id: 122818254
-type: way
+type: node
 latitude: 48.52587
 longitude: 15.93186
 postcode: "3710"
 city: Ziersdorf
-street: "Wiener Straße"
-housenumber: 22
-phone: "+43 59915 09498"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Wiener Straße
+housenumber: "22"
+phone: +43 59915 09498
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

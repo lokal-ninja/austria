@@ -4,8 +4,9 @@ latitude: 48.18956
 longitude: 16.35675
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 93
-phone: "+43 1 5448339"
-opening_hours: "Sep-Jun: Mo-Fr 10:00-18:00; Sep-Jun: Sa 10:00-16:00;Jul-Aug: Mo-Fr 10:00-18:00; Jul-Aug: Sa 10:00-13:00"
-website: "https://gruenbeck.co.at/"
+street: Margaretenstraße
+housenumber: "93"
+phone: +43 1 5448339
+opening_hours: 'Sep-Jun: Mo-Fr 10:00-18:00; Sep-Jun: Sa 10:00-16:00;Jul-Aug: Mo-Fr
+    10:00-18:00; Jul-Aug: Sa 10:00-13:00'
+website: https://gruenbeck.co.at/

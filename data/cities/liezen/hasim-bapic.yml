@@ -1,11 +1,11 @@
 id: 795894661
-type: way
+type: node
 latitude: 47.5625
 longitude: 14.24001
 postcode: "8940"
 city: Liezen
-street: "Schönaustraße"
-housenumber: 8
-phone: "+43 3612 21193"
+street: Schönaustraße
+housenumber: "8"
+phone: +43 3612 21193
 opening_hours: ""
-website: "http://www.transport-bapic-hasim.at/"
+website: http://www.transport-bapic-hasim.at/

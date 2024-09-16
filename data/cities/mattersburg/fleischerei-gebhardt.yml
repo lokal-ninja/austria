@@ -4,8 +4,8 @@ latitude: 47.73687
 longitude: 16.39849
 postcode: "7210"
 city: Mattersburg
-street: "Hauptplatz"
-housenumber: 2
+street: Hauptplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:30, 15:00-18:00; Sa 07:00-12:30"
-website: "https://www.fleischerei-gebhardt.at/filialen.php"
+opening_hours: Mo-Fr 07:00-12:30, 15:00-18:00; Sa 07:00-12:30
+website: https://www.fleischerei-gebhardt.at/filialen.php

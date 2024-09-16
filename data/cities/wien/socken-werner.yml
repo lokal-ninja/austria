@@ -4,8 +4,8 @@ latitude: 48.18611
 longitude: 16.30042
 postcode: "1130"
 city: Wien
-street: "Hietzinger Hauptstraße"
-housenumber: 5
-phone: "+43 1 8764827"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.socken-werner.at/"
+street: Hietzinger Hauptstraße
+housenumber: "5"
+phone: +43 1 8764827
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.socken-werner.at/

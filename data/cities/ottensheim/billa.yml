@@ -4,8 +4,8 @@ latitude: 48.34034
 longitude: 14.16743
 postcode: "4100"
 city: Ottensheim
-street: "Hostauerstraße"
-housenumber: 90
+street: Hostauerstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

@@ -4,8 +4,8 @@ latitude: 48.09176
 longitude: 16.60511
 postcode: "2431"
 city: Kleinneusiedl
-street: "Kirchenplatz"
-housenumber: 2
+street: Kirchenplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 05:30-12:30, 15:30-18:00;Th 05:30-12:30; Sa 06:30-12:00"
-website: "https://www.klein-neusiedl.gv.at/Kaufhaus_und_Postpartner_ADEG"
+opening_hours: Mo,Tu,We,Fr 05:30-12:30, 15:30-18:00;Th 05:30-12:30; Sa 06:30-12:00
+website: https://www.klein-neusiedl.gv.at/Kaufhaus_und_Postpartner_ADEG

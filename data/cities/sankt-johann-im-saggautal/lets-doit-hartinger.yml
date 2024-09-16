@@ -1,11 +1,11 @@
 id: 230953060
-type: way
+type: node
 latitude: 46.69428
 longitude: 15.36755
 postcode: "8453"
 city: Sankt Johann im Saggautal
 street: ""
-housenumber: 24
-phone: "+43 3455 361"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00; Sa 07:30-12:00"
-website: "http://www.hartinger-kg.at"
+housenumber: "24"
+phone: +43 3455 361
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00; Sa 07:30-12:00
+website: http://www.hartinger-kg.at

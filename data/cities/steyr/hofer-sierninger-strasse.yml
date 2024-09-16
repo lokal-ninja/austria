@@ -1,11 +1,11 @@
 id: 133323342
-type: way
+type: node
 latitude: 48.04383
 longitude: 14.38861
 postcode: "4400"
 city: Steyr
-street: "Sierninger Straße"
-housenumber: 131
+street: Sierninger Straße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

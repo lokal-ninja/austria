@@ -4,8 +4,8 @@ latitude: 47.20177
 longitude: 14.69355
 postcode: "8753"
 city: Fohnsdorf
-street: "Buchengasse"
-housenumber: 6
-phone: "+43 676 6491071"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "www.kfz-karner.at"
+street: Buchengasse
+housenumber: "6"
+phone: +43 676 6491071
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: www.kfz-karner.at

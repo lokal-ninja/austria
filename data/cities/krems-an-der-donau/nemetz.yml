@@ -4,8 +4,8 @@ latitude: 48.40605
 longitude: 15.60217
 postcode: "3500"
 city: Krems an der Donau
-street: "Bertschingerstraße"
-housenumber: 4
-phone: "+43 664 810 94 54"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-17:00"
-website: "http://www.nemetz-markt.at"
+street: Bertschingerstraße
+housenumber: "4"
+phone: +43 664 810 94 54
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-17:00
+website: http://www.nemetz-markt.at

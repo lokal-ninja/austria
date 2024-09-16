@@ -1,11 +1,11 @@
 id: 28809167
-type: way
+type: node
 latitude: 48.20341
 longitude: 16.43316
 postcode: "1020"
 city: Wien
-street: "Wehlistraße"
-housenumber: 364
+street: Wehlistraße
+housenumber: "364"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

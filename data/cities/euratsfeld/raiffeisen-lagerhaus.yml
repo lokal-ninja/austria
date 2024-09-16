@@ -1,11 +1,11 @@
 id: 179153775
-type: way
+type: node
 latitude: 48.08146
 longitude: 14.93013
 postcode: "3324"
 city: Euratsfeld
-street: "Römerstraße"
-housenumber: 8
+street: Römerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:00-16:30; Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Th 08:00-12:00, 13:00-16:30; Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 379057202
-type: way
+type: node
 latitude: 48.14514
 longitude: 14.64361
 postcode: "3314"
 city: Strengberg
-street: "Hauptstraße"
-housenumber: 34
+street: Hauptstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

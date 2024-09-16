@@ -1,11 +1,11 @@
 id: 797870533
-type: way
+type: node
 latitude: 48.35248
 longitude: 15.73969
 postcode: "3133"
 city: Traismauer
-street: "Herzogenburger Straße"
-housenumber: 2
+street: Herzogenburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

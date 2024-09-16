@@ -4,8 +4,8 @@ latitude: 47.07285
 longitude: 15.45294
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 39
+street: Leonhardstraße
+housenumber: "39"
 phone: "+436607222038"
 opening_hours: ""
-website: "https://taplink.cc/hoedl_friseur"
+website: https://taplink.cc/hoedl_friseur

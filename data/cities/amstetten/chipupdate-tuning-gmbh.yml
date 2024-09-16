@@ -1,11 +1,11 @@
 id: 585578210
-type: way
+type: node
 latitude: 48.11575
 longitude: 14.8945
 postcode: "3300"
 city: Amstetten
-street: "Arthur-Krupp-Straße"
-housenumber: 9
+street: Arthur-Krupp-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"
-website: "https://chipupdate.at/"
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00
+website: https://chipupdate.at/

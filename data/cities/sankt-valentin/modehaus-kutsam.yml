@@ -4,8 +4,8 @@ latitude: 48.17541
 longitude: 14.52487
 postcode: "4300"
 city: Sankt Valentin
-street: "Hauptstraße"
-housenumber: 56
+street: Hauptstraße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "http://kutsam.at/index.php/standorte-oeffnungszeiten/st-valentin"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: http://kutsam.at/index.php/standorte-oeffnungszeiten/st-valentin

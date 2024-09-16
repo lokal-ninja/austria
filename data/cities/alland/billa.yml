@@ -1,11 +1,11 @@
 id: 56311672
-type: way
+type: node
 latitude: 48.05787
 longitude: 16.08875
 postcode: "2534"
 city: Alland
-street: "Heiligenkreuzerstraße"
-housenumber: 584
+street: Heiligenkreuzerstraße
+housenumber: "584"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

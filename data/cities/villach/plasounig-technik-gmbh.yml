@@ -4,8 +4,8 @@ latitude: 46.61679
 longitude: 13.86656
 postcode: "9500"
 city: Villach
-street: "Emil-von-Behring-Straße"
-housenumber: 30
+street: Emil-von-Behring-Straße
+housenumber: "30"
 phone: "+43424241021"
-opening_hours: "Mo-Th 07:30-12:00 12:45-16:30; Fr 07:30-13:00"
-website: "https://plasounig.at/"
+opening_hours: Mo-Th 07:30-12:00 12:45-16:30; Fr 07:30-13:00
+website: https://plasounig.at/

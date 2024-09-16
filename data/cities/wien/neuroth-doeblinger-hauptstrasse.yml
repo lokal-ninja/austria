@@ -4,8 +4,8 @@ latitude: 48.23608
 longitude: 16.35323
 postcode: "1190"
 city: Wien
-street: "Döblinger Hauptstraße"
-housenumber: 21
+street: Döblinger Hauptstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:30-15:30"
-website: "https://at.neuroth.com/"
+opening_hours: Mo-Th 08:30-18:00; Fr 08:30-15:30
+website: https://at.neuroth.com/

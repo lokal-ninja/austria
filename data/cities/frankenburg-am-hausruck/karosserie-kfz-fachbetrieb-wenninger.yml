@@ -1,11 +1,11 @@
 id: 187437928
-type: way
+type: node
 latitude: 48.07043
 longitude: 13.49464
 postcode: "4873"
 city: Frankenburg am Hausruck
-street: "Hofbergstraße"
-housenumber: 15
+street: Hofbergstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.21214
 longitude: 16.5224
 postcode: "1220"
 city: Wien
-street: "Schlachthammerstraße"
-housenumber: 76
+street: Schlachthammerstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo,Tu 08:00-18:00; Th,Fr 09:00-18:00; Sa 09:00-13:00; We off"
-website: "https://www.gaderer.info/"
+opening_hours: Mo,Tu 08:00-18:00; Th,Fr 09:00-18:00; Sa 09:00-13:00; We off
+website: https://www.gaderer.info/

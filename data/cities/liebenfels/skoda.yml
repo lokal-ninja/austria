@@ -1,11 +1,11 @@
 id: 335119926
-type: way
+type: node
 latitude: 46.74316
 longitude: 14.30516
 postcode: "9556"
 city: Liebenfels
-street: "Ossiacher Bundesstraße"
-housenumber: 1
+street: Ossiacher Bundesstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

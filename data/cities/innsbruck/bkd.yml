@@ -1,11 +1,11 @@
 id: 48578640
-type: way
+type: node
 latitude: 47.25945
 longitude: 11.41542
 postcode: "6020"
 city: Innsbruck
-street: "Burgenlandstraße"
-housenumber: 29
-phone: "+43 512343226"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://bkd.at/"
+street: Burgenlandstraße
+housenumber: "29"
+phone: +43 512343226
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://bkd.at/

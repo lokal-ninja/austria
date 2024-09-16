@@ -4,8 +4,8 @@ latitude: 47.0774
 longitude: 15.43138
 postcode: "8020"
 city: Graz
-street: "Neubaugasse"
-housenumber: 24
-phone: "+43699 1714 3504"
-opening_hours: "Mo-Fr 9:30-12:30, 14:00-17:30; Sa 9:00-12:00"
-website: "http://www.aristokrat.cc"
+street: Neubaugasse
+housenumber: "24"
+phone: +43699 1714 3504
+opening_hours: Mo-Fr 9:30-12:30, 14:00-17:30; Sa 9:00-12:00
+website: http://www.aristokrat.cc

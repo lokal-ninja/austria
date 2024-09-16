@@ -4,8 +4,8 @@ latitude: 48.14768
 longitude: 16.17548
 postcode: "2381"
 city: Laab im Walde
-street: "Klostergasse"
-housenumber: 11
+street: Klostergasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 07:30-19:00; Fr-Su 07:30-20:00"
-website: "https://www.annahof-laab.at/"
+opening_hours: Mo-Th 07:30-19:00; Fr-Su 07:30-20:00
+website: https://www.annahof-laab.at/

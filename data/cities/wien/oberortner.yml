@@ -4,8 +4,8 @@ latitude: 48.22283
 longitude: 16.45123
 postcode: "1220"
 city: Wien
-street: "Brausewettergasse"
-housenumber: 11
-phone: "+43 1 2823382"
-opening_hours: "Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00"
+street: Brausewettergasse
+housenumber: "11"
+phone: +43 1 2823382
+opening_hours: Mo-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00
 website: ""

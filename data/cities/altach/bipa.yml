@@ -1,11 +1,11 @@
 id: 182444160
-type: way
+type: node
 latitude: 47.35574
 longitude: 9.66254
 postcode: "6844"
 city: Altach
-street: "Kopfstraße"
+street: Kopfstraße
 housenumber: 22a
-phone: "+43 5576 76716"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"
-website: "https://www.bipa.at/"
+phone: +43 5576 76716
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+website: https://www.bipa.at/

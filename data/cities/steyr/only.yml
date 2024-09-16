@@ -4,8 +4,8 @@ latitude: 48.04785
 longitude: 14.42239
 postcode: "4400"
 city: Steyr
-street: "Anton-Plochberger-Straße"
-housenumber: 2
+street: Anton-Plochberger-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.only.com/at/de/home"
+website: https://www.only.com/at/de/home

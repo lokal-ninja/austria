@@ -4,8 +4,8 @@ latitude: 46.9466
 longitude: 15.37788
 postcode: "8143"
 city: Dobl-Zwaring
-street: "Unterberg"
-housenumber: 63
-phone: "+43 3136 52204"
-opening_hours: "Mo-Tu 06:00-14:00; Fr 06:00-18:00; Sa 06:00-12:30"
-website: "https://www.fuernschuss.or.at/"
+street: Unterberg
+housenumber: "63"
+phone: +43 3136 52204
+opening_hours: Mo-Tu 06:00-14:00; Fr 06:00-18:00; Sa 06:00-12:30
+website: https://www.fuernschuss.or.at/

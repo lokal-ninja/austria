@@ -4,8 +4,8 @@ latitude: 47.79768
 longitude: 13.03561
 postcode: "5020"
 city: Salzburg
-street: "Neutorstraße"
-housenumber: 16
-phone: "+43 662 84 24 61"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-13:00"
-website: "https://www.oliverk.at/"
+street: Neutorstraße
+housenumber: "16"
+phone: +43 662 84 24 61
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-13:00
+website: https://www.oliverk.at/

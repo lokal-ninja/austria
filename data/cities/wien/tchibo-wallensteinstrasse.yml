@@ -4,8 +4,8 @@ latitude: 48.22982
 longitude: 16.37048
 postcode: "1200"
 city: Wien
-street: "Wallensteinstraße"
-housenumber: 29
+street: Wallensteinstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
 website: ""

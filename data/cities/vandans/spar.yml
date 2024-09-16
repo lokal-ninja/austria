@@ -4,8 +4,8 @@ latitude: 47.096
 longitude: 9.86526
 postcode: "6773"
 city: Vandans
-street: "Dorfstraße"
-housenumber: 35
+street: Dorfstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
-website: "https://www.spar.at/"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
+website: https://www.spar.at/

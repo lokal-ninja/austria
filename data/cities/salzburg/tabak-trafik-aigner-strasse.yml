@@ -4,8 +4,9 @@ latitude: 47.79077
 longitude: 13.07468
 postcode: "5026"
 city: Salzburg
-street: "Aigner Straße"
-housenumber: 53
+street: Aigner Straße
+housenumber: "53"
 phone: "+43662633499"
-opening_hours: "Mo,Tu,Th 07:00-12:30,13:30-18:00; We 07:00-12:00,14:00-18:00; Fr 07:00-18:00; Sa 07:30-12:30"
+opening_hours: Mo,Tu,Th 07:00-12:30,13:30-18:00; We 07:00-12:00,14:00-18:00; Fr 07:00-18:00;
+    Sa 07:30-12:30
 website: ""

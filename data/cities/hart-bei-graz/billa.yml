@@ -1,11 +1,11 @@
 id: 48834338
-type: way
+type: node
 latitude: 47.04525
 longitude: 15.51902
 postcode: "8075"
 city: Hart bei Graz
-street: "Pachern-Hauptstraße"
-housenumber: 87
-phone: "+43 59915 06634"
-opening_hours: "Mo-Fr 07:00-19:15; Sa 07:15-18:00"
+street: Pachern-Hauptstraße
+housenumber: "87"
+phone: +43 59915 06634
+opening_hours: Mo-Fr 07:00-19:15; Sa 07:15-18:00
 website: ""

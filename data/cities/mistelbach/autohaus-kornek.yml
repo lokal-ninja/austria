@@ -1,11 +1,11 @@
 id: 81654294
-type: way
+type: node
 latitude: 48.55866
 longitude: 16.56247
 postcode: "2130"
 city: Mistelbach
-street: "Ernstbrunnerstraße"
-housenumber: 15
+street: Ernstbrunnerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-12:00"
-website: "https://autohaus-kornek.business.site"
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-12:00
+website: https://autohaus-kornek.business.site

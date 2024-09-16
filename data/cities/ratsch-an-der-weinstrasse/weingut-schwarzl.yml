@@ -1,11 +1,11 @@
 id: 208705409
-type: way
+type: node
 latitude: 46.69249
 longitude: 15.58266
 postcode: "8461"
 city: Ratsch an der Weinstraße
 street: ""
-housenumber: 32
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.weingutschwarzl.at/"
+website: https://www.weingutschwarzl.at/

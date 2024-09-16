@@ -4,8 +4,8 @@ latitude: 48.20672
 longitude: 16.39813
 postcode: "1020"
 city: Wien
-street: "Schüttelstraße"
-housenumber: 39
-phone: "+43 1 9610299"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off"
-website: "https://www.billa.at/"
+street: Schüttelstraße
+housenumber: "39"
+phone: +43 1 9610299
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00; Su off; PH off
+website: https://www.billa.at/

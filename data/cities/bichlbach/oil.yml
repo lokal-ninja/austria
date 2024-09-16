@@ -1,11 +1,11 @@
 id: 213578528
-type: way
+type: node
 latitude: 47.42281
 longitude: 10.78298
 postcode: "6621"
 city: Bichlbach
 street: ""
-housenumber: 179
+housenumber: "179"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00; PH 06:00-22:00"
-website: "https://www.oil-tankstellen.de/tankstellenfinder/finderresultsnew/?tsid=501"
+opening_hours: Mo-Su 06:00-22:00; PH 06:00-22:00
+website: https://www.oil-tankstellen.de/tankstellenfinder/finderresultsnew/?tsid=501

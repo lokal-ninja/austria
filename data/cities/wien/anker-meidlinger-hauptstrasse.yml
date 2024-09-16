@@ -4,8 +4,8 @@ latitude: 48.17467
 longitude: 16.33054
 postcode: "1120"
 city: Wien
-street: "Meidlinger Hauptstraße"
-housenumber: 79
+street: Meidlinger Hauptstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa,Su,PH 06:00-18:00"
-website: "https://www.ankerbrot.at/"
+opening_hours: Mo-Fr 05:00-19:00; Sa,Su,PH 06:00-18:00
+website: https://www.ankerbrot.at/

@@ -4,8 +4,8 @@ latitude: 48.40799
 longitude: 15.66143
 postcode: "3500"
 city: Krems an der Donau
-street: "Gewerbeparkstraße"
-housenumber: 21
-phone: "+43 2732 799 99"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "https://www.bikefactory.at/"
+street: Gewerbeparkstraße
+housenumber: "21"
+phone: +43 2732 799 99
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00
+website: https://www.bikefactory.at/

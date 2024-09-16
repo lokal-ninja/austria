@@ -4,8 +4,8 @@ latitude: 48.20476
 longitude: 16.38817
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 19
+street: Landstraßer Hauptstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-19:00"
-website: "https://www.oefferl.bio"
+opening_hours: Mo-Su,PH 07:00-19:00
+website: https://www.oefferl.bio

@@ -4,8 +4,8 @@ latitude: 47.06698
 longitude: 15.44218
 postcode: "8010"
 city: Graz
-street: "Jakominiplatz"
-housenumber: 17
+street: Jakominiplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.snipes.at/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.snipes.at/

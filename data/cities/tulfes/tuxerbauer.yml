@@ -1,11 +1,11 @@
 id: 111850277
-type: way
+type: node
 latitude: 47.25752
 longitude: 11.53158
 postcode: "6075"
 city: Tulfes
-street: "Schmalzgasse"
-housenumber: 5
+street: Schmalzgasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su"
+opening_hours: Mo-Su
 website: ""

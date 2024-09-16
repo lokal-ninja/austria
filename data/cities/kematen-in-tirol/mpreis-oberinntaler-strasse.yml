@@ -1,11 +1,11 @@
 id: 35669327
-type: way
+type: node
 latitude: 47.25255
 longitude: 11.26644
 postcode: "6175"
 city: Kematen in Tirol
-street: "Oberinntaler Straße"
-housenumber: 11
-phone: "+43 50321 928088"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-19:30; Sa 08:00-18:00; PH off"
-website: "https://www.mpreis.at/sp/standorte"
+street: Oberinntaler Straße
+housenumber: "11"
+phone: +43 50321 928088
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-19:30; Sa 08:00-18:00; PH off
+website: https://www.mpreis.at/sp/standorte

@@ -4,8 +4,8 @@ latitude: 47.17709
 longitude: 14.66693
 postcode: ""
 city: Judenburg
-street: "Gabelhofer Straße"
-housenumber: 8
-phone: "+43 3572 44040"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://auto-kastner.at/"
+street: Gabelhofer Straße
+housenumber: "8"
+phone: +43 3572 44040
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://auto-kastner.at/

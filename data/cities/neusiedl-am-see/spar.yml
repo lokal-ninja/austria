@@ -1,11 +1,11 @@
 id: 319012412
-type: way
+type: node
 latitude: 47.93837
 longitude: 16.85515
 postcode: "7100"
 city: Neusiedl am See
-street: "Untere Hauptstraße"
-housenumber: 187
+street: Untere Hauptstraße
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

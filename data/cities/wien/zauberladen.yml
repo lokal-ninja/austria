@@ -4,8 +4,8 @@ latitude: 48.18528
 longitude: 16.29943
 postcode: "1130"
 city: Wien
-street: "Altgasse"
-housenumber: 11
+street: Altgasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,13:30-18:00; Sa 11:00-15:00"
+opening_hours: Tu-Fr 10:00-13:00,13:30-18:00; Sa 11:00-15:00
 website: ""

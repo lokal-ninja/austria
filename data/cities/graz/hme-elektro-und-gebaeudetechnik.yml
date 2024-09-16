@@ -4,8 +4,8 @@ latitude: 47.02894
 longitude: 15.41239
 postcode: "8054"
 city: Graz
-street: "Riedlerweg"
-housenumber: 29
-phone: "+43 316 29 29 70"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://hme-gmbh.at/"
+street: Riedlerweg
+housenumber: "29"
+phone: +43 316 29 29 70
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://hme-gmbh.at/

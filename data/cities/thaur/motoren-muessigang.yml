@@ -1,11 +1,11 @@
 id: 112911323
-type: way
+type: node
 latitude: 47.29273
 longitude: 11.47878
 postcode: "6065"
 city: Thaur
-street: "Dörferstraße"
-housenumber: 28
+street: Dörferstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

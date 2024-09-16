@@ -1,11 +1,11 @@
 id: 148831650
-type: way
+type: node
 latitude: 47.03459
 longitude: 15.49332
 postcode: "8041"
 city: Graz
-street: "Josef-Krainer-Straße"
-housenumber: 11
-phone: "+43 (0)316 401100"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:00-12:00"
-website: "https://www.weinhof-auer.at/"
+street: Josef-Krainer-Straße
+housenumber: "11"
+phone: +43 (0)316 401100
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:00-12:00
+website: https://www.weinhof-auer.at/

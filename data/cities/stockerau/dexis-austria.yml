@@ -1,11 +1,11 @@
 id: 230443936
-type: way
+type: node
 latitude: 48.38601
 longitude: 16.19777
 postcode: "2000"
 city: Stockerau
-street: "Pragerstraße"
-housenumber: 3
+street: Pragerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 12:30-16:30; Fr 07:30-12:00"
-website: "https://dexis.at/de/Standorte/stockerau.html"
+opening_hours: Mo-Th 07:30-12:00, 12:30-16:30; Fr 07:30-12:00
+website: https://dexis.at/de/Standorte/stockerau.html

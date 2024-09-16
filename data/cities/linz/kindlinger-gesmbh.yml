@@ -1,11 +1,11 @@
 id: 86634896
-type: way
+type: node
 latitude: 48.25265
 longitude: 14.27903
 postcode: "4030"
 city: Linz
-street: "Salzburger Straße"
-housenumber: 275
+street: Salzburger Straße
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

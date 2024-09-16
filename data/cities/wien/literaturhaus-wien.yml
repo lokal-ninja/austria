@@ -4,8 +4,8 @@ latitude: 48.20028
 longitude: 16.34531
 postcode: "1070"
 city: Wien
-street: "Seidengasse"
-housenumber: 13
+street: Seidengasse
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-We 09:00-17:00"
+opening_hours: Mo-We 09:00-17:00
 website: ""

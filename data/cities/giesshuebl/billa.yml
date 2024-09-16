@@ -1,11 +1,11 @@
 id: 26179013
-type: way
+type: node
 latitude: 48.09865
 longitude: 16.24555
 postcode: "2372"
 city: Gießhübl
-street: "Hauptstraße"
-housenumber: 40
-phone: "+43 59915 03452"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:40-18:00"
+street: Hauptstraße
+housenumber: "40"
+phone: +43 59915 03452
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:40-18:00
 website: ""

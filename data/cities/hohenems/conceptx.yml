@@ -4,8 +4,8 @@ latitude: 47.36203
 longitude: 9.68891
 postcode: "6845"
 city: Hohenems
-street: "Schloßplatz"
-housenumber: 1
-phone: "+43 5576 75522"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-17:30"
-website: "https://www.conceptx.at/"
+street: Schloßplatz
+housenumber: "1"
+phone: +43 5576 75522
+opening_hours: Mo-Fr 09:00-12:00,14:00-17:30
+website: https://www.conceptx.at/

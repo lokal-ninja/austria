@@ -5,7 +5,7 @@ longitude: 15.99327
 postcode: "8263"
 city: Großwilfersdorf
 street: ""
-housenumber: 67
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:00, 15:00-18:30; Sa 06:30-12:30; PH off"
-website: "https://www.nahundfrisch.at/de/kaufmann/spoerk-grosswilfersdorf"
+opening_hours: Mo-Fr 06:30-12:00, 15:00-18:30; Sa 06:30-12:30; PH off
+website: https://www.nahundfrisch.at/de/kaufmann/spoerk-grosswilfersdorf

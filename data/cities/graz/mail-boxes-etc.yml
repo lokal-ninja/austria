@@ -4,8 +4,8 @@ latitude: 47.072
 longitude: 15.44764
 postcode: "8010"
 city: Graz
-street: "Leonhardstraße"
-housenumber: 2
+street: Leonhardstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "http://www.mbe-graz.at"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: http://www.mbe-graz.at

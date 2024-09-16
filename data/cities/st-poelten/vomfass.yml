@@ -4,8 +4,8 @@ latitude: 48.20452
 longitude: 15.62474
 postcode: "3100"
 city: St. Pölten
-street: "Wiener Straße"
-housenumber: 4
+street: Wiener Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.vomfass.at/stpoelten/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.vomfass.at/stpoelten/

@@ -1,11 +1,11 @@
 id: 327635787
-type: way
+type: node
 latitude: 47.84651
 longitude: 16.52834
 postcode: "7000"
 city: Eisenstadt
-street: "Neusiedler Straße"
-housenumber: 7
-phone: "+43 2682 75655"
-opening_hours: "Mo-Th 08:00-12:00, Fr 08:00-12:00, Mo-Th 13:00-17:00, Fr 13:00-16:00"
-website: "https://www.jt-computer.at/"
+street: Neusiedler Straße
+housenumber: "7"
+phone: +43 2682 75655
+opening_hours: Mo-Th 08:00-12:00, Fr 08:00-12:00, Mo-Th 13:00-17:00, Fr 13:00-16:00
+website: https://www.jt-computer.at/

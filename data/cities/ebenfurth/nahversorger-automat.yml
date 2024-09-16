@@ -1,11 +1,11 @@
 id: 1118057907
-type: way
+type: node
 latitude: 47.88848
 longitude: 16.33661
 postcode: "2490"
 city: Ebenfurth
-street: "Föhrenstraße"
-housenumber: 36
+street: Föhrenstraße
+housenumber: "36"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

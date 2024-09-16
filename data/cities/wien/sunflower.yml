@@ -1,11 +1,11 @@
 id: 39234157
-type: way
+type: node
 latitude: 48.19669
 longitude: 16.39564
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 118
-phone: "+43 1 713 81 15"
-opening_hours: "Su 09:00-16:00; PH 09:00-16:00; Mo-Sa 08:00-19:00"
+street: Landstraßer Hauptstraße
+housenumber: "118"
+phone: +43 1 713 81 15
+opening_hours: Su 09:00-16:00; PH 09:00-16:00; Mo-Sa 08:00-19:00
 website: ""

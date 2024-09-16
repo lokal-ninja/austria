@@ -4,8 +4,8 @@ latitude: 48.14984
 longitude: 16.2688
 postcode: "1230"
 city: Wien
-street: "Geßlgasse"
-housenumber: 3
-phone: "+43 664 994 866 99"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Sun off"
+street: Geßlgasse
+housenumber: "3"
+phone: +43 664 994 866 99
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Sun off
 website: ""

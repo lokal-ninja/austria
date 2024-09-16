@@ -1,11 +1,11 @@
 id: 305626407
-type: way
+type: node
 latitude: 48.2837
 longitude: 16.36786
 postcode: "1210"
 city: Wien
-street: "Lohnergasse"
-housenumber: 6
-phone: "+43 1 2788545"
+street: Lohnergasse
+housenumber: "6"
+phone: +43 1 2788545
 opening_hours: ""
-website: "https://www.av-hall.at/"
+website: https://www.av-hall.at/

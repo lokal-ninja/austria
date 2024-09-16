@@ -4,8 +4,8 @@ latitude: 48.1231
 longitude: 16.90638
 postcode: "2405"
 city: Bad Deutsch-Altenburg
-street: "Eumigstraße"
-housenumber: 1
-phone: "+43 664 1836569"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://sites.google.com/view/duernsteiner/startseite"
+street: Eumigstraße
+housenumber: "1"
+phone: +43 664 1836569
+opening_hours: Mo-Sa 08:00-18:00
+website: https://sites.google.com/view/duernsteiner/startseite

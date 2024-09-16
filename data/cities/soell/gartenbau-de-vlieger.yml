@@ -1,11 +1,11 @@
 id: 156432207
-type: way
+type: node
 latitude: 47.49829
 longitude: 12.18726
 postcode: "6306"
 city: Söll
 street: ""
-housenumber: 10
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

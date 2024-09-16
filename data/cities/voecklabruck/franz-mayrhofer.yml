@@ -1,11 +1,11 @@
 id: 144037339
-type: way
+type: node
 latitude: 48.00334
 longitude: 13.65803
 postcode: "4840"
 city: Vöcklabruck
-street: "Linzer Straße"
-housenumber: 10
-phone: "+43-7672-96249"
+street: Linzer Straße
+housenumber: "10"
+phone: +43-7672-96249
 opening_hours: ""
-website: "https://www.kachelofen-fliesen.at/"
+website: https://www.kachelofen-fliesen.at/

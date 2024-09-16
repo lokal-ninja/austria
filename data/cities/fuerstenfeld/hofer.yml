@@ -1,11 +1,11 @@
 id: 195007973
-type: way
+type: node
 latitude: 47.0547
 longitude: 16.08031
 postcode: "8280"
 city: Fürstenfeld
-street: "Körmenderstraße"
-housenumber: 25
+street: Körmenderstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

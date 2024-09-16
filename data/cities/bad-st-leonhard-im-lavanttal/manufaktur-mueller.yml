@@ -4,8 +4,8 @@ latitude: 46.96422
 longitude: 14.7899
 postcode: "9462"
 city: Bad St. Leonhard im Lavanttal
-street: "Hauptplatz"
-housenumber: 1
+street: Hauptplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Fr 15:00-19:00; Sa 09:00-13:00"
-website: "https://www.manufaktur-mueller.at/"
+opening_hours: Fr 15:00-19:00; Sa 09:00-13:00
+website: https://www.manufaktur-mueller.at/

@@ -4,8 +4,8 @@ latitude: 48.30825
 longitude: 14.29524
 postcode: "4020"
 city: Linz
-street: "Kaisergasse"
-housenumber: 25
+street: Kaisergasse
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.38891
 longitude: 9.72431
 postcode: "6850"
 city: Dornbirn
-street: "Wallenmahd"
-housenumber: 23
-phone: "+43 5572 222680"
-opening_hours: "Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00"
-website: "https://www.pixdruck.at/"
+street: Wallenmahd
+housenumber: "23"
+phone: +43 5572 222680
+opening_hours: Mo-Th 08:00-12:00,13:30-17:30; Fr 08:00-12:00
+website: https://www.pixdruck.at/

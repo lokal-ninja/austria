@@ -1,11 +1,11 @@
 id: 32390518
-type: way
+type: node
 latitude: 47.37938
 longitude: 9.70453
 postcode: "6845"
 city: Hohenems
-street: "Radetzkystraße"
-housenumber: 142
-phone: "+43 5576 76990"
-opening_hours: "Sa 08:30-18:00;Jul-Feb Mo-Fr 09:00-19:00;Mar-Jun Mo-Fr 08:30-19:00"
-website: "https://www.dehner.at/market/dehner-gartencenter-hohenems/"
+street: Radetzkystraße
+housenumber: "142"
+phone: +43 5576 76990
+opening_hours: Sa 08:30-18:00;Jul-Feb Mo-Fr 09:00-19:00;Mar-Jun Mo-Fr 08:30-19:00
+website: https://www.dehner.at/market/dehner-gartencenter-hohenems/

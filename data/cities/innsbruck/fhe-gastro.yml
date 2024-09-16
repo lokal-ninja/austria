@@ -1,11 +1,11 @@
 id: 104201041
-type: way
+type: node
 latitude: 47.265
 longitude: 11.36768
 postcode: "6020"
 city: Innsbruck
-street: "Kranebitter Allee"
-housenumber: 22
+street: Kranebitter Allee
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

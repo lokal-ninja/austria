@@ -4,8 +4,8 @@ latitude: 48.3276
 longitude: 14.32596
 postcode: "4040"
 city: Linz
-street: "Freistädter Straße"
-housenumber: 400
-phone: "+43 732 280444"
-opening_hours: "Mo-Fr 08:30-12:30,13:00-17:00"
-website: "https://www.olina.com/standorte/oberoesterreich/linz"
+street: Freistädter Straße
+housenumber: "400"
+phone: +43 732 280444
+opening_hours: Mo-Fr 08:30-12:30,13:00-17:00
+website: https://www.olina.com/standorte/oberoesterreich/linz

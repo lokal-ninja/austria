@@ -1,11 +1,11 @@
 id: 150374961
-type: way
+type: node
 latitude: 48.25394
 longitude: 14.20017
 postcode: "4061"
 city: Pasching
-street: "Westbahnstraße"
-housenumber: 1
-phone: "+43 7221 88887"
+street: Westbahnstraße
+housenumber: "1"
+phone: +43 7221 88887
 opening_hours: ""
-website: "https://khan.at/"
+website: https://khan.at/

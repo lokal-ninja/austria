@@ -4,8 +4,8 @@ latitude: 48.18368
 longitude: 16.33461
 postcode: "1120"
 city: Wien
-street: "Gierstergasse"
-housenumber: 5
+street: Gierstergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-13:00; PH off"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-13:00; PH off
 website: ""

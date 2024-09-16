@@ -1,11 +1,11 @@
 id: 59811182
-type: way
+type: node
 latitude: 46.59846
 longitude: 13.83982
 postcode: "9500"
 city: Villach
-street: "Richtstraße"
-housenumber: 8
+street: Richtstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

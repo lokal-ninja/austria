@@ -4,8 +4,8 @@ latitude: 48.30885
 longitude: 16.35868
 postcode: "2103"
 city: Langenzersdorf
-street: "Wiener Straße"
-housenumber: 13
-phone: "+43 2244 2643"
-opening_hours: "Mo-Fr 08:30-12:00,15:00-18:00"
-website: "https://drohtesl.at/"
+street: Wiener Straße
+housenumber: "13"
+phone: +43 2244 2643
+opening_hours: Mo-Fr 08:30-12:00,15:00-18:00
+website: https://drohtesl.at/

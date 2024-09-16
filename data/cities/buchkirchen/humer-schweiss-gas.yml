@@ -1,11 +1,11 @@
 id: 90844934
-type: way
+type: node
 latitude: 48.2265
 longitude: 14.03535
 postcode: "4611"
 city: Buchkirchen
-street: "Marchtrenker Straße"
-housenumber: 9
-phone: "+43-7242-28133"
+street: Marchtrenker Straße
+housenumber: "9"
+phone: +43-7242-28133
 opening_hours: ""
-website: "http://schweiss-humer.at/"
+website: http://schweiss-humer.at/

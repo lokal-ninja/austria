@@ -1,11 +1,11 @@
 id: 460186471
-type: way
+type: node
 latitude: 48.17073
 longitude: 13.2715
 postcode: "5251"
 city: Höhnhart
-street: "Höhnhart"
-housenumber: 79
+street: Höhnhart
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.43344
 longitude: 9.73869
 postcode: "6850"
 city: Dornbirn
-street: "Schwefel"
-housenumber: 100
+street: Schwefel
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

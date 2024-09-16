@@ -1,11 +1,11 @@
 id: 63576770
-type: way
+type: node
 latitude: 47.84252
 longitude: 13.04147
 postcode: "5101"
 city: Bergheim
-street: "Lamprechtshausener Bundesstraße"
-housenumber: 4
+street: Lamprechtshausener Bundesstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.salzburger-lagerhaus.at/"
+website: https://www.salzburger-lagerhaus.at/

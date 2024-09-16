@@ -1,11 +1,11 @@
 id: 198472510
-type: way
+type: node
 latitude: 47.78087
 longitude: 16.19056
 postcode: "2700"
 city: Wiener Neustadt
-street: "Neunkirchner Straße"
-housenumber: 200
-phone: "+43 2622 24548"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-14:00"
+street: Neunkirchner Straße
+housenumber: "200"
+phone: +43 2622 24548
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-14:00
 website: ""

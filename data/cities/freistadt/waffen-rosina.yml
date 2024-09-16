@@ -1,11 +1,11 @@
 id: 109742237
-type: way
+type: node
 latitude: 48.50158
 longitude: 14.49959
 postcode: "4240"
 city: Freistadt
-street: "Makovskystraße"
-housenumber: 4
+street: Makovskystraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

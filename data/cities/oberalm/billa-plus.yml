@@ -1,11 +1,11 @@
 id: 34829561
-type: way
+type: node
 latitude: 47.69091
 longitude: 13.10017
 postcode: "5411"
 city: Oberalm
-street: "Halleiner Landesstraße"
-housenumber: 10
+street: Halleiner Landesstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.billa.at"
+website: https://www.billa.at

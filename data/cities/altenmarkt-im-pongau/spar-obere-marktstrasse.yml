@@ -1,11 +1,11 @@
 id: 66491516
-type: way
+type: node
 latitude: 47.38166
 longitude: 13.41474
 postcode: "5541"
 city: Altenmarkt im Pongau
-street: "Obere Marktstraße"
-housenumber: 54
-phone: "+43 6452 4904"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "https://www.spar.at/standorte/spar-altenmarkt-im-pongau-5541-obere-marktstrasse-54"
+street: Obere Marktstraße
+housenumber: "54"
+phone: +43 6452 4904
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: https://www.spar.at/standorte/spar-altenmarkt-im-pongau-5541-obere-marktstrasse-54

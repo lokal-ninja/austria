@@ -1,11 +1,11 @@
 id: 213551448
-type: way
+type: node
 latitude: 47.60691
 longitude: 15.68085
 postcode: "8680"
 city: Mürzzuschlag
-street: "Alleegasse"
-housenumber: 13
+street: Alleegasse
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

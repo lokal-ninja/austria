@@ -4,8 +4,9 @@ latitude: 47.71334
 longitude: 13.62286
 postcode: "4820"
 city: Bad Ischl
-street: "Kaiser-Franz-Josef-Straße"
-housenumber: 18
+street: Kaiser-Franz-Josef-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Oct-Apr Mo-Fr 09:00-13:00,14:00-18:00; Oct-Apr Sa 09:00-13:00; May-Sep Mo-Fr 09:00-18:00; May-Sep Sa 09:00-16:00"
-website: "https://www.salzwelten.at/"
+opening_hours: Oct-Apr Mo-Fr 09:00-13:00,14:00-18:00; Oct-Apr Sa 09:00-13:00; May-Sep
+    Mo-Fr 09:00-18:00; May-Sep Sa 09:00-16:00
+website: https://www.salzwelten.at/

@@ -1,11 +1,11 @@
 id: 216966977
-type: way
+type: node
 latitude: 46.70384
 longitude: 15.48639
 postcode: "8462"
 city: Gamlitz
 street: ""
-housenumber: 30
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.trabos.at/"
+website: https://www.trabos.at/

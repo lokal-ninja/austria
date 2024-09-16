@@ -1,11 +1,11 @@
 id: 326051017
-type: way
+type: node
 latitude: 48.04196
 longitude: 14.62898
 postcode: "3353"
 city: Seitenstetten
-street: "Steyrer Straße"
-housenumber: 91
+street: Steyrer Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
-website: "https://www.hofer.at/"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
+website: https://www.hofer.at/

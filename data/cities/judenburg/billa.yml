@@ -1,11 +1,11 @@
 id: 512829567
-type: way
+type: node
 latitude: 47.16827
 longitude: 14.65654
 postcode: "8750"
 city: Judenburg
-street: "Burggasse"
-housenumber: 39
-phone: "+43 59915 06875"
-opening_hours: "Mo-Fr 06:45-19:00; Sa 07:15-18:00"
+street: Burggasse
+housenumber: "39"
+phone: +43 59915 06875
+opening_hours: Mo-Fr 06:45-19:00; Sa 07:15-18:00
 website: ""

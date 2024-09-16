@@ -4,8 +4,8 @@ latitude: 48.20235
 longitude: 15.63355
 postcode: "3100"
 city: St. Pölten
-street: "Landhaus-Boulevard"
-housenumber: 2
-phone: "+43 59915 03510"
-opening_hours: "Mo-Fr 06:30-19:00"
+street: Landhaus-Boulevard
+housenumber: "2"
+phone: +43 59915 03510
+opening_hours: Mo-Fr 06:30-19:00
 website: ""

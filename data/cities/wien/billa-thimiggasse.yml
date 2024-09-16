@@ -4,8 +4,8 @@ latitude: 48.23115
 longitude: 16.32402
 postcode: "1180"
 city: Wien
-street: "Thimiggasse"
-housenumber: 42
+street: Thimiggasse
+housenumber: "42"
 phone: "+4319291800"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

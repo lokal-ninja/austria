@@ -4,8 +4,8 @@ latitude: 47.2648
 longitude: 11.39914
 postcode: "6020"
 city: Innsbruck
-street: "Brixner Straße"
-housenumber: 4
-phone: "+43 676 84995521"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off"
-website: "https://www.trachtenwelt.com"
+street: Brixner Straße
+housenumber: "4"
+phone: +43 676 84995521
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH off
+website: https://www.trachtenwelt.com

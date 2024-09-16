@@ -4,8 +4,9 @@ latitude: 47.40893
 longitude: 15.26932
 postcode: "8600"
 city: Bruck an der Mur
-street: "Schiffgasse"
-housenumber: 1
+street: Schiffgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th,Tu-Fr 09:00-12:00,15:00-18:00; We closed; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Th,Tu-Fr 09:00-12:00,15:00-18:00; We closed; Sa 09:00-12:00; PH
+    off
 website: ""

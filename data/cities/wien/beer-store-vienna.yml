@@ -4,8 +4,8 @@ latitude: 48.17712
 longitude: 16.33534
 postcode: "1120"
 city: Wien
-street: "Wilhelmstraße"
-housenumber: 23
-phone: "+43 1 9744627"
-opening_hours: "Mo off; Tu-Fr 12:00-19:00; Sa 10:00-18:00"
-website: "http://www.beerstorevienna.at"
+street: Wilhelmstraße
+housenumber: "23"
+phone: +43 1 9744627
+opening_hours: Mo off; Tu-Fr 12:00-19:00; Sa 10:00-18:00
+website: http://www.beerstorevienna.at

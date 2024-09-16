@@ -1,11 +1,11 @@
 id: 101013097
-type: way
+type: node
 latitude: 47.20935
 longitude: 14.81163
 postcode: "8720"
 city: Knittelfeld
-street: "Kärntner Str"
-housenumber: 71
+street: Kärntner Str
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

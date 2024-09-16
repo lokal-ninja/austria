@@ -4,8 +4,8 @@ latitude: 47.3995
 longitude: 9.73631
 postcode: "6850"
 city: Dornbirn
-street: "Arlbergstraße"
-housenumber: 7
+street: Arlbergstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00"
-website: "https://www.stahlgruber.at/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00
+website: https://www.stahlgruber.at/

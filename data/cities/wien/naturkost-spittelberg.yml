@@ -4,8 +4,8 @@ latitude: 48.20371
 longitude: 16.3552
 postcode: "1070"
 city: Wien
-street: "Spittelberggasse"
-housenumber: 24
-phone: "+43 1 52 36 192"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
-website: "https://www.naturkost-spittelberg.at/"
+street: Spittelberggasse
+housenumber: "24"
+phone: +43 1 52 36 192
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
+website: https://www.naturkost-spittelberg.at/

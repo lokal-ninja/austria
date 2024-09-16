@@ -1,11 +1,11 @@
 id: 129300403
-type: way
+type: node
 latitude: 47.31103
 longitude: 9.61794
 postcode: "6842"
 city: Koblach
-street: "Dürne"
-housenumber: 76
+street: Dürne
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.50108
 longitude: 9.73728
 postcode: "6900"
 city: Bregenz
-street: "Bahnhofstraße"
-housenumber: 53
+street: Bahnhofstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.bauhaus.at/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.bauhaus.at/

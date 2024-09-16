@@ -4,8 +4,8 @@ latitude: 48.21051
 longitude: 16.34496
 postcode: "1080"
 city: Wien
-street: "Josefstädter Straße"
-housenumber: 60
-phone: "+43 1 4082250"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.gradwohl.info"
+street: Josefstädter Straße
+housenumber: "60"
+phone: +43 1 4082250
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off
+website: https://www.gradwohl.info

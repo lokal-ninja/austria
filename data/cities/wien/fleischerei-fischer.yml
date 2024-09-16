@@ -4,8 +4,8 @@ latitude: 48.19524
 longitude: 16.36042
 postcode: "1050"
 city: Wien
-street: "Kettenbrückengasse"
-housenumber: 11
+street: Kettenbrückengasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.guenter-fischer.at/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.guenter-fischer.at/

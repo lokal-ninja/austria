@@ -4,8 +4,8 @@ latitude: 48.25772
 longitude: 16.4489
 postcode: "1220"
 city: Wien
-street: "Wagramer Straße"
-housenumber: 173
-phone: "+43 (0) 677 / 628 093 45"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
+street: Wagramer Straße
+housenumber: "173"
+phone: +43 (0) 677 / 628 093 45
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
 website: ""

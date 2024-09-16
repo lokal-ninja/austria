@@ -1,11 +1,11 @@
 id: 504292247
-type: way
+type: node
 latitude: 47.66326
 longitude: 16.20638
 postcode: "2833"
 city: Bromberg
-street: "Thernberger Straße"
-housenumber: 8
+street: Thernberger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://kfz-czeitschner.at/"
+website: https://kfz-czeitschner.at/

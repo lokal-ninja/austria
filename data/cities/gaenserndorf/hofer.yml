@@ -1,11 +1,11 @@
 id: 92016922
-type: way
+type: node
 latitude: 48.33534
 longitude: 16.71324
 postcode: "2230"
 city: Gänserndorf
-street: "Bodenzeile"
-housenumber: 2
+street: Bodenzeile
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

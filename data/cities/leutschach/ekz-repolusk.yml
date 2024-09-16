@@ -1,11 +1,11 @@
 id: 971150083
-type: way
+type: node
 latitude: 46.66159
 longitude: 15.46999
 postcode: "8463"
 city: Leutschach
 street: ""
-housenumber: 202
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

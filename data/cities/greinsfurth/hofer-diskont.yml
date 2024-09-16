@@ -1,11 +1,11 @@
 id: 218993595
-type: way
+type: node
 latitude: 48.10634
 longitude: 14.83259
 postcode: "3300"
 city: Greinsfurth
-street: "Leinerstraße"
+street: Leinerstraße
 housenumber: 4b
 phone: ""
-opening_hours: "24/7"
-website: "https://www.diskonttanken.at"
+opening_hours: 24/7
+website: https://www.diskonttanken.at

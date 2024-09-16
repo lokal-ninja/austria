@@ -1,11 +1,11 @@
 id: 728847604
-type: way
+type: node
 latitude: 48.11535
 longitude: 15.53528
 postcode: "3205"
 city: Weinburg
-street: "Brüder-Teich-Straße"
-housenumber: 2
+street: Brüder-Teich-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

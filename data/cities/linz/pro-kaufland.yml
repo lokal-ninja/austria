@@ -1,11 +1,11 @@
 id: 39263416
-type: way
+type: node
 latitude: 48.32273
 longitude: 14.28743
 postcode: "4040"
 city: Linz
-street: "Lindengasse"
-housenumber: 16
+street: Lindengasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 893360733
-type: way
+type: node
 latitude: 48.75685
 longitude: 15.95325
 postcode: "2070"
 city: Retz
-street: "Lehengasse"
-housenumber: 12
+street: Lehengasse
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://wimmer.hwtech.at/"
+website: https://wimmer.hwtech.at/

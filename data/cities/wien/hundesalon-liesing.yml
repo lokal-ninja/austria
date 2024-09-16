@@ -1,11 +1,11 @@
 id: 292124735
-type: way
+type: node
 latitude: 48.15022
 longitude: 16.27388
 postcode: "1230"
 city: Wien
-street: "Endresstraße"
-housenumber: 84
+street: Endresstraße
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

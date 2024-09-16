@@ -4,8 +4,8 @@ latitude: 47.03052
 longitude: 15.46492
 postcode: "8041"
 city: Graz
-street: "Liebenauer Hauptstraße"
-housenumber: 200
-phone: "+43 316 40 16 73"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.optik-temmel.at/"
+street: Liebenauer Hauptstraße
+housenumber: "200"
+phone: +43 316 40 16 73
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.optik-temmel.at/

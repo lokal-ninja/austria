@@ -4,8 +4,8 @@ latitude: 47.2584
 longitude: 11.37373
 postcode: "6020"
 city: Innsbruck
-street: "Mitterweg"
-housenumber: 27
-phone: "+43 505 91174"
-opening_hours: "Mo-Fr 08:00-18:00; 09:00-12:00; PH off"
-website: "https://www.porscheinterauto.at/kontakt/porsche-innsbruck-mitterweg"
+street: Mitterweg
+housenumber: "27"
+phone: +43 505 91174
+opening_hours: Mo-Fr 08:00-18:00; 09:00-12:00; PH off
+website: https://www.porscheinterauto.at/kontakt/porsche-innsbruck-mitterweg

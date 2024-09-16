@@ -1,11 +1,11 @@
 id: 653527197
-type: way
+type: node
 latitude: 48.28651
 longitude: 14.14419
 postcode: "4072"
 city: Straßham
-street: "Wehrgasse"
-housenumber: 1
+street: Wehrgasse
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00, Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00, Sa 07:40-18:00
 website: ""

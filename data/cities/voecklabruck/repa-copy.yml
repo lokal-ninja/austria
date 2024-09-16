@@ -4,8 +4,8 @@ latitude: 48.00596
 longitude: 13.67621
 postcode: "4840"
 city: Vöcklabruck
-street: "Linzer Straße"
-housenumber: 71
-phone: "+43 50 208 222"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.repacopy.at/index.php?id=340"
+street: Linzer Straße
+housenumber: "71"
+phone: +43 50 208 222
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.repacopy.at/index.php?id=340

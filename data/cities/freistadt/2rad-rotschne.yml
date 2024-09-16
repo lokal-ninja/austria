@@ -1,11 +1,11 @@
 id: 366724797
-type: way
+type: node
 latitude: 48.50275
 longitude: 14.50088
 postcode: "4240"
 city: Freistadt
-street: "Leonfeldner Straße"
-housenumber: 2
-phone: "07942/72530"
-opening_hours: "Mo.- Sa.: 8:00 - 12:00 und Mo. - Fr.: 14:00 - 18:00"
-website: "https://www.rotschne.at/zweirad.html"
+street: Leonfeldner Straße
+housenumber: "2"
+phone: 07942/72530
+opening_hours: 'Mo.- Sa.: 8:00 - 12:00 und Mo. - Fr.: 14:00 - 18:00'
+website: https://www.rotschne.at/zweirad.html

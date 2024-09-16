@@ -1,11 +1,11 @@
 id: 180675510
-type: way
+type: node
 latitude: 47.16382
 longitude: 10.59176
 postcode: "6511"
 city: Zams
-street: "Innstraße"
-housenumber: 38
+street: Innstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

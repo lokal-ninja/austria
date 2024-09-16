@@ -1,11 +1,11 @@
 id: 209233674
-type: way
+type: node
 latitude: 46.68631
 longitude: 15.61063
 postcode: "8461"
 city: Ehrenhausen an der Weinstraße
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.felix-weinstock.at/"
+website: https://www.felix-weinstock.at/

@@ -4,8 +4,8 @@ latitude: 48.14925
 longitude: 16.29572
 postcode: "1230"
 city: Wien
-street: "Hödlgasse"
-housenumber: 10
-phone: "+43 1 4020759"
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-13:00; PH off"
-website: "https://www.szihn.at/"
+street: Hödlgasse
+housenumber: "10"
+phone: +43 1 4020759
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-13:00; PH off
+website: https://www.szihn.at/

@@ -1,11 +1,11 @@
 id: 69059628
-type: way
+type: node
 latitude: 48.3411
 longitude: 14.29293
 postcode: "4040"
 city: Linz
-street: "Leonfeldner Straße"
-housenumber: 252
+street: Leonfeldner Straße
+housenumber: "252"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:30; Sa 09:00-12:00"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:30; Sa 09:00-12:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 15.54306
 postcode: "3601"
 city: Dürnstein
 street: ""
-housenumber: 12
-phone: "+43 2732 853 62"
+housenumber: "12"
+phone: +43 2732 853 62
 opening_hours: ""
-website: "http://www.tegernseerhof.at"
+website: http://www.tegernseerhof.at

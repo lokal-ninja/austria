@@ -1,11 +1,11 @@
 id: 144245943
-type: way
+type: node
 latitude: 47.23093
 longitude: 10.85442
 postcode: "6430"
 city: Haiming
-street: "Ötztaler Höhe"
-housenumber: 6
-phone: "+43 5266 87181"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
-website: "https://www.fristo.de/maerkte/info/getraenkemarkt/%C3%96tztal-bahnhof-%C3%96tztaler-hoehe-6/"
+street: Ötztaler Höhe
+housenumber: "6"
+phone: +43 5266 87181
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00
+website: https://www.fristo.de/maerkte/info/getraenkemarkt/%C3%96tztal-bahnhof-%C3%96tztaler-hoehe-6/

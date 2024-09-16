@@ -1,11 +1,11 @@
 id: 359150012
-type: way
+type: node
 latitude: 47.18132
 longitude: 16.07502
 postcode: "8292"
 city: Neudau
 street: ""
-housenumber: 81
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

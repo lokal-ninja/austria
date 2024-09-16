@@ -1,11 +1,11 @@
 id: 145715067
-type: way
+type: node
 latitude: 47.0988
 longitude: 15.40391
 postcode: "8051"
 city: Graz
-street: "Wiener Straße"
-housenumber: 306
+street: Wiener Straße
+housenumber: "306"
 phone: ""
 opening_hours: ""
-website: "https://www.vogl-auto.at/"
+website: https://www.vogl-auto.at/

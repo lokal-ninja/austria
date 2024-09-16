@@ -1,11 +1,11 @@
 id: 870750357
-type: way
+type: node
 latitude: 46.92427
 longitude: 15.48138
 postcode: "8402"
 city: Werndorf
-street: "Bundesstraße"
-housenumber: 110
-phone: "+43 59915 06928"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Bundesstraße
+housenumber: "110"
+phone: +43 59915 06928
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

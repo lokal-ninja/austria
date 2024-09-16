@@ -1,11 +1,11 @@
 id: 141252472
-type: way
+type: node
 latitude: 47.8292
 longitude: 16.52159
 postcode: "7000"
 city: Eisenstadt
-street: "Mattersburger Straße"
-housenumber: 48
+street: Mattersburger Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

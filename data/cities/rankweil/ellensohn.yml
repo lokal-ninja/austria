@@ -1,11 +1,11 @@
 id: 156796022
-type: way
+type: node
 latitude: 47.28069
 longitude: 9.61888
 postcode: "6830"
 city: Rankweil
-street: "Appenzeller Straße"
-housenumber: 20
+street: Appenzeller Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
 website: ""

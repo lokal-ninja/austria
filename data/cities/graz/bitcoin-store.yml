@@ -4,8 +4,8 @@ latitude: 47.06952
 longitude: 15.43345
 postcode: "8020"
 city: Graz
-street: "Belgiergasse"
-housenumber: 5
-phone: "+43 660 2521100"
-opening_hours: "Mo-Th 10:00-13:00, 13:30-18:00; Sa 08:00-12:00"
-website: "https://btc-store.at/"
+street: Belgiergasse
+housenumber: "5"
+phone: +43 660 2521100
+opening_hours: Mo-Th 10:00-13:00, 13:30-18:00; Sa 08:00-12:00
+website: https://btc-store.at/

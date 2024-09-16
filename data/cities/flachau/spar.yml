@@ -1,11 +1,11 @@
 id: 104138467
-type: way
+type: node
 latitude: 47.34804
 longitude: 13.39171
 postcode: "5542"
 city: Flachau
-street: "Flachauer Straße"
-housenumber: 18
+street: Flachauer Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-18:00; Dec-Mar: Su 14:00-18:00"
+opening_hours: 'Mo-Fr 07:30-18:30; Sa 07:30-18:00; Dec-Mar: Su 14:00-18:00'
 website: ""

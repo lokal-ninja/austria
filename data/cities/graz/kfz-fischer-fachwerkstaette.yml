@@ -1,11 +1,11 @@
 id: 241215925
-type: way
+type: node
 latitude: 47.04586
 longitude: 15.40661
 postcode: "8053"
 city: Graz
-street: "Harter Straße"
-housenumber: 108
+street: Harter Straße
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.kfz-fischer.at/"
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.kfz-fischer.at/

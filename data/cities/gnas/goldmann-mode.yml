@@ -1,11 +1,11 @@
 id: 241420070
-type: way
+type: node
 latitude: 46.8756
 longitude: 15.82522
 postcode: "8342"
 city: Gnas
 street: ""
-housenumber: 40
-phone: "+43 3151 2275"
-opening_hours: "Mo-Fr 08:00-12:00,14:30-18:00;Sa 08:00-12:00"
-website: "https://www.goldmann-mode.at/"
+housenumber: "40"
+phone: +43 3151 2275
+opening_hours: Mo-Fr 08:00-12:00,14:30-18:00;Sa 08:00-12:00
+website: https://www.goldmann-mode.at/

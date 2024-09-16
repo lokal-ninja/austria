@@ -4,8 +4,8 @@ latitude: 48.38943
 longitude: 16.20841
 postcode: "2000"
 city: Stockerau
-street: "Manhartstraße"
+street: Manhartstraße
 housenumber: 13-16
 phone: ""
-opening_hours: "Mo-Fr 7:15-19:30, Sa 7:15-18:00"
+opening_hours: '"Mo-Fr 7:15-19:30, Sa 7:15-18:00"'
 website: ""

@@ -1,11 +1,11 @@
 id: 153734000
-type: way
+type: node
 latitude: 48.01993
 longitude: 16.58559
 postcode: ""
 city: Götzendorf
-street: "Trautmannsdorfer Straße"
-housenumber: 1
+street: Trautmannsdorfer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

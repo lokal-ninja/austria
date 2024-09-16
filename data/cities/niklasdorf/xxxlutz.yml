@@ -1,11 +1,11 @@
 id: 390538850
-type: way
+type: node
 latitude: 47.38682
 longitude: 15.13128
 postcode: "8712"
 city: Niklasdorf
-street: "Leobner Straße"
-housenumber: 61
+street: Leobner Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.44731
 longitude: 15.30426
 postcode: "8605"
 city: Kapfenberg
-street: "Wiener Straße"
-housenumber: 92
-phone: "+43-3862-22024"
-opening_hours: "Mo-Fr 08:00-12:00, 14:30-18:00"
-website: "http://www.putzereiperfekt.at/"
+street: Wiener Straße
+housenumber: "92"
+phone: +43-3862-22024
+opening_hours: Mo-Fr 08:00-12:00, 14:30-18:00
+website: http://www.putzereiperfekt.at/

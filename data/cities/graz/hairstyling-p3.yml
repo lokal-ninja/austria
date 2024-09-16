@@ -4,8 +4,8 @@ latitude: 47.06763
 longitude: 15.4378
 postcode: "8010"
 city: Graz
-street: "Neutorgasse"
-housenumber: 49
+street: Neutorgasse
+housenumber: "49"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-17:30"
+opening_hours: Mo,Tu,Th,Fr 09:00-17:30
 website: ""

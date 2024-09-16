@@ -1,11 +1,11 @@
 id: 89252566
-type: way
+type: node
 latitude: 47.93772
 longitude: 16.26256
 postcode: "2525"
 city: Günselsdorf
-street: "Wiener Neustädter Straße"
-housenumber: 11
-phone: "+43 59915 03769"
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+street: Wiener Neustädter Straße
+housenumber: "11"
+phone: +43 59915 03769
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

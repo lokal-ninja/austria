@@ -1,11 +1,11 @@
 id: 859425681
-type: way
+type: node
 latitude: 47.27988
 longitude: 16.01073
 postcode: "8295"
 city: Sankt Johann in der Haide
-street: "Forstingerstraße"
-housenumber: 4
-phone: "+43 333265796"
+street: Forstingerstraße
+housenumber: "4"
+phone: +43 333265796
 opening_hours: ""
-website: "https://www.wheelmasters.at/"
+website: https://www.wheelmasters.at/

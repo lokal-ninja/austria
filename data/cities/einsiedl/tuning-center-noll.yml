@@ -1,11 +1,11 @@
 id: 579220977
-type: way
+type: node
 latitude: 48.26909
 longitude: 15.97488
 postcode: "3441"
 city: Einsiedl
-street: "Gewerbestraße"
-housenumber: 1
-phone: "+43 2274 46 100"
+street: Gewerbestraße
+housenumber: "1"
+phone: +43 2274 46 100
 opening_hours: ""
-website: "https://www.reifen-noll.at/"
+website: https://www.reifen-noll.at/

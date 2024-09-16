@@ -4,8 +4,8 @@ latitude: 47.06021
 longitude: 15.40366
 postcode: "8020"
 city: Graz
-street: "Gaswerkstraße"
-housenumber: 103
-phone: "+43 316 22 8124 10"
+street: Gaswerkstraße
+housenumber: "103"
+phone: +43 316 22 8124 10
 opening_hours: ""
-website: "https://mobil-show.at/"
+website: https://mobil-show.at/

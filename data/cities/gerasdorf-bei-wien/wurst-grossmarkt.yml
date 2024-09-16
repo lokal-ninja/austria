@@ -1,11 +1,11 @@
 id: 230590685
-type: way
+type: node
 latitude: 48.28273
 longitude: 16.48176
 postcode: "2201"
 city: Gerasdorf bei Wien
-street: "Industriestraße"
-housenumber: 7
+street: Industriestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

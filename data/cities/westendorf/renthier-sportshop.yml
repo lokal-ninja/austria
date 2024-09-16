@@ -4,8 +4,8 @@ latitude: 47.42758
 longitude: 12.21384
 postcode: "6363"
 city: Westendorf
-street: "Bergliftstraße"
-housenumber: 18
-phone: "+43 5334 20888"
+street: Bergliftstraße
+housenumber: "18"
+phone: +43 5334 20888
 opening_hours: ""
-website: "https://www.rent-hier.at/"
+website: https://www.rent-hier.at/

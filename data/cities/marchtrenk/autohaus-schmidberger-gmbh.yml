@@ -1,11 +1,11 @@
 id: 120115625
-type: way
+type: node
 latitude: 48.20233
 longitude: 14.15419
 postcode: "4614"
 city: Marchtrenk
-street: "Linzer Straße"
-housenumber: 185
-phone: "+43 7243 50505"
+street: Linzer Straße
+housenumber: "185"
+phone: +43 7243 50505
 opening_hours: ""
-website: "https://www.schmidberger.co.at/"
+website: https://www.schmidberger.co.at/

@@ -1,11 +1,11 @@
 id: 110487642
-type: way
+type: node
 latitude: 47.7964
 longitude: 15.98749
 postcode: "2733"
 city: Grünbach am Schneeberg
-street: "Hauptplatz"
-housenumber: 6
-phone: "+43 59915 03642"
-opening_hours: "Mo-Th 07:00-19:15; Fr 07:00-19:30; Sa 07:30-18:00"
+street: Hauptplatz
+housenumber: "6"
+phone: +43 59915 03642
+opening_hours: Mo-Th 07:00-19:15; Fr 07:00-19:30; Sa 07:30-18:00
 website: ""

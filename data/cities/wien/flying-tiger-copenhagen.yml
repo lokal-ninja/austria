@@ -4,8 +4,8 @@ latitude: 48.20863
 longitude: 16.3759
 postcode: "1010"
 city: Wien
-street: "Wollzeile"
-housenumber: 15
+street: Wollzeile
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-18:00"
-website: "https://flyingtiger.com/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-18:00
+website: https://flyingtiger.com/

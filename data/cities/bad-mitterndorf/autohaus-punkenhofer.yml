@@ -1,11 +1,11 @@
 id: 320080442
-type: way
+type: node
 latitude: 47.56732
 longitude: 13.89857
 postcode: "8983"
 city: Bad Mitterndorf
 street: ""
-housenumber: 98
-phone: "+43-3623-2201"
+housenumber: "98"
+phone: +43-3623-2201
 opening_hours: ""
-website: "https://www.punkenhofer.fordpartner.at/"
+website: https://www.punkenhofer.fordpartner.at/

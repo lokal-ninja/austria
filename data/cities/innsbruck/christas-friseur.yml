@@ -4,8 +4,8 @@ latitude: 47.26585
 longitude: 11.3948
 postcode: "6020"
 city: Innsbruck
-street: "Sparkassenplatz"
-housenumber: 2
-phone: "+43 512 580828"
-opening_hours: "Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.sparkassenplatz.info/de/home/Betriebe/christas"
+street: Sparkassenplatz
+housenumber: "2"
+phone: +43 512 580828
+opening_hours: Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.sparkassenplatz.info/de/home/Betriebe/christas

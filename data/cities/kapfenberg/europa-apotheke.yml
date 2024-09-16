@@ -4,8 +4,8 @@ latitude: 47.44395
 longitude: 15.2922
 postcode: "8605"
 city: Kapfenberg
-street: "Wiener Straße"
-housenumber: 48
-phone: "+43 3862 22318"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.europa-apotheke.at/"
+street: Wiener Straße
+housenumber: "48"
+phone: +43 3862 22318
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.europa-apotheke.at/

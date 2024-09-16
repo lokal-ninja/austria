@@ -1,11 +1,11 @@
 id: 406129375
-type: way
+type: node
 latitude: 47.99707
 longitude: 16.34662
 postcode: "2521"
 city: Trumau
-street: "Dr. Körner-Straße"
-housenumber: 40
+street: Dr. Körner-Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 05:15-12:30,15:00-20:00; Sa 07:15-18:00; Su 07:00-13:00"
+opening_hours: Mo-Fr 05:15-12:30,15:00-20:00; Sa 07:15-18:00; Su 07:00-13:00
 website: ""

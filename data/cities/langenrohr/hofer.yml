@@ -1,11 +1,11 @@
 id: 123158861
-type: way
+type: node
 latitude: 48.32004
 longitude: 16.02111
 postcode: "3442"
 city: Langenrohr
-street: "Europastraße"
-housenumber: 3
+street: Europastraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
 website: ""

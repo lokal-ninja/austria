@@ -1,11 +1,11 @@
 id: 975464603
-type: way
+type: node
 latitude: 48.19513
 longitude: 14.13841
 postcode: "4614"
 city: Marchtrenk
-street: "Carl-Auer-von-Welsbach-Straße"
-housenumber: 2
+street: Carl-Auer-von-Welsbach-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.bellfoodgroup.com/de/"
+website: https://www.bellfoodgroup.com/de/

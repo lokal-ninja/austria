@@ -1,11 +1,11 @@
 id: 88865441
-type: way
+type: node
 latitude: 48.21551
 longitude: 15.65212
 postcode: "3100"
 city: St. Pölten
-street: "Engelbert Laimer-Straße"
-housenumber: 4
+street: Engelbert Laimer-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

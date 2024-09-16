@@ -1,11 +1,11 @@
 id: 314888280
-type: way
+type: node
 latitude: 46.6644
 longitude: 14.63667
 postcode: "9100"
 city: Völkermarkt
-street: "Griffner Straße"
-housenumber: 17
+street: Griffner Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 233817827
-type: way
+type: node
 latitude: 47.94419
 longitude: 16.10755
 postcode: "2560"
 city: Berndorf
-street: "Hernsteiner Straße"
-housenumber: 4
+street: Hernsteiner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00, 14:30-18:00; Sa 08:00-12:00
 website: ""

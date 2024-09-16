@@ -4,8 +4,8 @@ latitude: 46.61334
 longitude: 13.83804
 postcode: "9500"
 city: Villach
-street: "Tiroler Straße"
-housenumber: 10
-phone: "0676 3550456"
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH 07:00-20:00"
-website: "https://www.spar.at"
+street: Tiroler Straße
+housenumber: "10"
+phone: 0676 3550456
+opening_hours: Mo-Sa 06:00-22:00; Su,PH 07:00-20:00
+website: https://www.spar.at

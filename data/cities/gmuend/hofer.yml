@@ -1,11 +1,11 @@
 id: 224356369
-type: way
+type: node
 latitude: 48.76562
 longitude: 14.98144
 postcode: "3950"
 city: Gmünd
-street: "Emerich-Berger-Straße"
-housenumber: 7
+street: Emerich-Berger-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa 07:30-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.19444
 longitude: 16.35048
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 77
+street: Gumpendorfer Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 09:00-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 09:00-18:00
+website: https://www.billa.at/

@@ -1,11 +1,11 @@
 id: 56248833
-type: way
+type: node
 latitude: 47.47316
 longitude: 11.98014
 postcode: "6250"
 city: Kundl
-street: "Dr. Hans-Bachmann-Straße"
-housenumber: 47
+street: Dr. Hans-Bachmann-Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

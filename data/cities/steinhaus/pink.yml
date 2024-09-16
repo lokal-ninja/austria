@@ -1,11 +1,11 @@
 id: 125429684
-type: way
+type: node
 latitude: 48.10398
 longitude: 14.03964
 postcode: "4641"
 city: Steinhaus
-street: "Reitingerstraße"
-housenumber: 1
-phone: "+43 7242 27589"
-opening_hours: "Mo-Su 06:00-21:00"
+street: Reitingerstraße
+housenumber: "1"
+phone: +43 7242 27589
+opening_hours: Mo-Su 06:00-21:00
 website: ""

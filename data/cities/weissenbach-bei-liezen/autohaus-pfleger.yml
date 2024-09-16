@@ -1,11 +1,11 @@
 id: 92003856
-type: way
+type: node
 latitude: 47.56964
 longitude: 14.21542
 postcode: "8940"
 city: Weißenbach bei Liezen
-street: "Knaufstraße"
-housenumber: 5
+street: Knaufstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

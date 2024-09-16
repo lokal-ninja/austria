@@ -1,11 +1,11 @@
 id: 103240532
-type: way
+type: node
 latitude: 48.30564
 longitude: 14.31743
 postcode: "4020"
 city: Linz
-street: "Industriezeile"
-housenumber: 51
+street: Industriezeile
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.bikesandwheels.com"
+website: https://www.bikesandwheels.com

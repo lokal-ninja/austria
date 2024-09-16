@@ -4,8 +4,8 @@ latitude: 47.0586
 longitude: 15.47018
 postcode: "8042"
 city: Graz
-street: "Sankt-Peter-Hauptstraße"
-housenumber: 8
+street: Sankt-Peter-Hauptstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.e-dampfzigarette.at/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.e-dampfzigarette.at/

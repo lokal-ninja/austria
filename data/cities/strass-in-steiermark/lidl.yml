@@ -1,11 +1,11 @@
 id: 741855317
-type: way
+type: node
 latitude: 46.74205
 longitude: 15.6043
 postcode: "8472"
 city: Straß in Steiermark
-street: "Leonhardweg"
-housenumber: 74
+street: Leonhardweg
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.lidl.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.lidl.at/

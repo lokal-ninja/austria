@@ -4,8 +4,8 @@ latitude: 47.26051
 longitude: 11.38212
 postcode: "6020"
 city: Innsbruck
-street: "Innrain"
-housenumber: 70
-phone: "+43 50322 926122"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:00; PH off"
-website: "https://www.baguette.at/handel/baguette/innsbruck-innrain-70.html"
+street: Innrain
+housenumber: "70"
+phone: +43 50322 926122
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-12:00; PH off
+website: https://www.baguette.at/handel/baguette/innsbruck-innrain-70.html

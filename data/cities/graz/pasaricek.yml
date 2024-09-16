@@ -4,8 +4,8 @@ latitude: 47.0779
 longitude: 15.44396
 postcode: "8010"
 city: Graz
-street: "Heinrichstraße"
-housenumber: 2
+street: Heinrichstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:30,13:30-17:00; Fr 08:30-12:30"
+opening_hours: Mo-Th 08:30-12:30,13:30-17:00; Fr 08:30-12:30
 website: ""

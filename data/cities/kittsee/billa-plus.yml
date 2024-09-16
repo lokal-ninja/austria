@@ -1,11 +1,11 @@
 id: 595238355
-type: way
+type: node
 latitude: 48.0858
 longitude: 17.04737
 postcode: "2421"
 city: Kittsee
-street: "Eisenstädter Straße"
-housenumber: 31
+street: Eisenstädter Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00"
-website: "https://www.billa.at"
+opening_hours: Mo-Th 07:20-19:30; Fr 07:20-20:00; Sa 07:20-18:00
+website: https://www.billa.at

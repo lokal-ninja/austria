@@ -1,11 +1,11 @@
 id: 663281424
-type: way
+type: node
 latitude: 48.57499
 longitude: 16.07476
 postcode: "2020"
 city: Hollabrunn
-street: "Gewerbering"
-housenumber: 7
+street: Gewerbering
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

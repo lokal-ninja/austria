@@ -4,8 +4,8 @@ latitude: 47.06865
 longitude: 15.41905
 postcode: "8020"
 city: Graz
-street: "Prankergasse"
-housenumber: 75
+street: Prankergasse
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:30,13:00-17:00; Fr 08:00-12:30"
-website: "https://www.hirschmann-service.at/"
+opening_hours: Mo-Th 08:00-12:30,13:00-17:00; Fr 08:00-12:30
+website: https://www.hirschmann-service.at/

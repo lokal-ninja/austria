@@ -1,11 +1,11 @@
 id: 129470503
-type: way
+type: node
 latitude: 47.71977
 longitude: 14.32875
 postcode: "4580"
 city: Windischgarsten
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
 website: ""

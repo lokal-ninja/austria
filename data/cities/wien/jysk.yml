@@ -4,8 +4,8 @@ latitude: 48.24461
 longitude: 16.46296
 postcode: "1220"
 city: Wien
-street: "Gewerbeparkstraße"
-housenumber: 15
+street: Gewerbeparkstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://jysk.at/stores-locator?storeId=5118"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://jysk.at/stores-locator?storeId=5118

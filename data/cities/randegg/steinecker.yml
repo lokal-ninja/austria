@@ -5,7 +5,8 @@ longitude: 14.97272
 postcode: "3263"
 city: Randegg
 street: ""
-housenumber: 34
+housenumber: "34"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-16:00; Su off"
+opening_hours: Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr
+    09:00-18:00; Sa 09:00-16:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.24936
 longitude: 14.26961
 postcode: "4030"
 city: Linz
-street: "Salzburger Straße"
-housenumber: 345
-phone: "+43-732-386451"
-opening_hours: "Mo-Th 08:00-12:00, 12:30-16:00; Fr 08:00-12:00"
-website: "https://www.topstudio-druckerei.at/"
+street: Salzburger Straße
+housenumber: "345"
+phone: +43-732-386451
+opening_hours: Mo-Th 08:00-12:00, 12:30-16:00; Fr 08:00-12:00
+website: https://www.topstudio-druckerei.at/

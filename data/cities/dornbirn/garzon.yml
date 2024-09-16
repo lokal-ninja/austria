@@ -1,11 +1,11 @@
 id: 135727507
-type: way
+type: node
 latitude: 47.41573
 longitude: 9.741
 postcode: "6850"
 city: Dornbirn
-street: "Klostergasse"
-housenumber: 6
-phone: "+43 5572 20804"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00"
-website: "https://www.garzon.at/"
+street: Klostergasse
+housenumber: "6"
+phone: +43 5572 20804
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-16:00
+website: https://www.garzon.at/

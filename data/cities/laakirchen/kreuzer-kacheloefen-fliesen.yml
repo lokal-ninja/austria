@@ -1,11 +1,11 @@
 id: 285012119
-type: way
+type: node
 latitude: 47.95907
 longitude: 13.81615
 postcode: "4664"
 city: Laakirchen
-street: "Melkusstraße"
-housenumber: 11
+street: Melkusstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 08:30-12:00, 14:00-18:00, Fr 08:30-12:00"
+opening_hours: Mo-Th 08:30-12:00, 14:00-18:00, Fr 08:30-12:00
 website: ""

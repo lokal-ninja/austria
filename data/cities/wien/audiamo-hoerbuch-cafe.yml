@@ -4,8 +4,8 @@ latitude: 48.20401
 longitude: 16.3402
 postcode: "1070"
 city: Wien
-street: "Kaiserstraße"
-housenumber: 70
+street: Kaiserstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.audiamo.com"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.audiamo.com

@@ -1,11 +1,11 @@
 id: 243943559
-type: way
+type: node
 latitude: 48.10815
 longitude: 16.30511
 postcode: "2345"
 city: Brunn am Gebirge
-street: "Rennweg"
-housenumber: 87
+street: Rennweg
+housenumber: "87"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; Mo,Su,PH off"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00; Mo,Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.19195
 longitude: 16.39526
 postcode: "1030"
 city: Wien
-street: "Rennweg"
-housenumber: 89
+street: Rennweg
+housenumber: "89"
 phone: ""
-opening_hours: "Termin nach Vereinbarung"
+opening_hours: '"Termin nach Vereinbarung"'
 website: ""

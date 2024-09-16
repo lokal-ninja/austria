@@ -4,8 +4,8 @@ latitude: 48.41738
 longitude: 15.62038
 postcode: "3500"
 city: Krems an der Donau
-street: "Wiener Straße"
-housenumber: 91
-phone: "+43 2732 758 88"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.hervis.at"
+street: Wiener Straße
+housenumber: "91"
+phone: +43 2732 758 88
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.hervis.at

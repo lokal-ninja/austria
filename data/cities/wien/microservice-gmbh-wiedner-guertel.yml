@@ -4,8 +4,8 @@ latitude: 48.18543
 longitude: 16.37088
 postcode: "1040"
 city: Wien
-street: "Wiedner Gürtel"
-housenumber: 56
-phone: "+43 664 4413723"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.microservice.at/"
+street: Wiedner Gürtel
+housenumber: "56"
+phone: +43 664 4413723
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.microservice.at/

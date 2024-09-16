@@ -4,8 +4,8 @@ latitude: 47.80116
 longitude: 16.67654
 postcode: "7071"
 city: Rust
-street: "Joseph Haydngasse"
-housenumber: 3
+street: Joseph Haydngasse
+housenumber: "3"
 phone: "+432685265"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://www.schandlwein.com/"
+opening_hours: Mo-Su 08:00-19:00
+website: https://www.schandlwein.com/

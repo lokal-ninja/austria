@@ -1,11 +1,11 @@
 id: 206312892
-type: way
+type: node
 latitude: 48.16788
 longitude: 14.04487
 postcode: "4600"
 city: Wels
-street: "Lessingstraße"
-housenumber: 2
+street: Lessingstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

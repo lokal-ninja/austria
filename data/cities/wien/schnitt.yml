@@ -4,8 +4,8 @@ latitude: 48.20039
 longitude: 16.36128
 postcode: "1060"
 city: Wien
-street: "Gumpendorfer Straße"
-housenumber: 10
+street: Gumpendorfer Straße
+housenumber: "10"
 phone: "015812953"
-opening_hours: "Tu-Th 09:30-16:00; Fr 09:30-18:00"
-website: "http://www.friseurschnitt.at"
+opening_hours: Tu-Th 09:30-16:00; Fr 09:30-18:00
+website: http://www.friseurschnitt.at

@@ -1,11 +1,11 @@
 id: 174682005
-type: way
+type: node
 latitude: 48.45305
 longitude: 16.21138
 postcode: "2011"
 city: Senning
 street: ""
-housenumber: 75
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

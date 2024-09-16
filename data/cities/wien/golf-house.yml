@@ -4,8 +4,8 @@ latitude: 48.21349
 longitude: 16.35128
 postcode: "1080"
 city: Wien
-street: "Lange Gasse"
-housenumber: 68
+street: Lange Gasse
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:30-15:00"
-website: "https://www.golfhouse.at"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:30-15:00
+website: https://www.golfhouse.at

@@ -1,11 +1,11 @@
 id: 82467346
-type: way
+type: node
 latitude: 48.3793
 longitude: 16.50594
 postcode: "2120"
 city: Wolkersdorf im Weinviertel
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autolamberg.at/kontakt"
+website: https://www.autolamberg.at/kontakt

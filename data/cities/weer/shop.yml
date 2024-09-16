@@ -1,11 +1,11 @@
 id: 242104637
-type: way
+type: node
 latitude: 47.31831
 longitude: 11.65331
 postcode: "6116"
 city: Weer
-street: "Inntalautobahn A 12"
-housenumber: 2
+street: Inntalautobahn A 12
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

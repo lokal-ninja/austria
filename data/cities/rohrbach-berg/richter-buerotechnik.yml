@@ -1,11 +1,11 @@
 id: 349239957
-type: way
+type: node
 latitude: 48.56649
 longitude: 13.97983
 postcode: "4150"
 city: Rohrbach-Berg
-street: "Hanriederstraße"
-housenumber: 39
+street: Hanriederstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 83034362
-type: way
+type: node
 latitude: 46.61536
 longitude: 14.32048
 postcode: "9020"
 city: Klagenfurt am Wörthersee
-street: "Südpark"
-housenumber: 1
+street: Südpark
+housenumber: "1"
 phone: "+43463338190"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su, PH off"
-website: "https://www.suedpark.at/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su, PH off
+website: https://www.suedpark.at/

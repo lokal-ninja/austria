@@ -1,11 +1,11 @@
 id: 90308188
-type: way
+type: node
 latitude: 47.37492
 longitude: 9.67564
 postcode: "6845"
 city: Hohenems
-street: "Diepoldsauer Straße"
-housenumber: 53
+street: Diepoldsauer Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

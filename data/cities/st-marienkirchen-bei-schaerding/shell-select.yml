@@ -1,11 +1,11 @@
 id: 241229966
-type: way
+type: node
 latitude: 48.39132
 longitude: 13.42495
 postcode: "4774"
 city: St. Marienkirchen bei Schärding
 street: ""
-housenumber: 8
+housenumber: "8"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

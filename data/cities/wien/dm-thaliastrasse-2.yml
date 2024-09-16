@@ -4,8 +4,8 @@ latitude: 48.20925
 longitude: 16.33479
 postcode: "1160"
 city: Wien
-street: "Thaliastraße"
-housenumber: 28
+street: Thaliastraße
+housenumber: "28"
 phone: "+4314098573"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.dm.at"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.dm.at

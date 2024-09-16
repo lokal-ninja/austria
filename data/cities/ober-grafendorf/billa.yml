@@ -1,11 +1,11 @@
 id: 163559821
-type: way
+type: node
 latitude: 48.15341
 longitude: 15.54623
 postcode: "3200"
 city: Ober-Grafendorf
-street: "Ebersdorfer Straße"
-housenumber: 2
+street: Ebersdorfer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:15-19:30; Sa 07:15-18:00"
-website: "https://www.billa.at/"
+opening_hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00
+website: https://www.billa.at/

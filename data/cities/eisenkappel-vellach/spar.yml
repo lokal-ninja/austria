@@ -1,11 +1,11 @@
 id: 546451346
-type: way
+type: node
 latitude: 46.48805
 longitude: 14.59002
 postcode: "9135"
 city: Eisenkappel-Vellach
 street: ""
-housenumber: 333
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.at/"
+website: https://www.spar.at/

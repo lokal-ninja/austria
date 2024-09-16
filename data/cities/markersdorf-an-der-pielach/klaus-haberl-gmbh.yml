@@ -4,8 +4,8 @@ latitude: 48.18598
 longitude: 15.50422
 postcode: "3385"
 city: Markersdorf an der Pielach
-street: "Falkenstraße"
-housenumber: 11
-phone: "+43 2749 8628"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.haberl.at/"
+street: Falkenstraße
+housenumber: "11"
+phone: +43 2749 8628
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.haberl.at/

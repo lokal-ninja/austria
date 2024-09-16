@@ -1,11 +1,11 @@
 id: 398393738
-type: way
+type: node
 latitude: 48.66368
 longitude: 16.24523
 postcode: "2034"
 city: Großharras
 street: ""
-housenumber: 80
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

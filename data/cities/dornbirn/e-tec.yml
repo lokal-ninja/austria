@@ -4,8 +4,9 @@ latitude: 47.41564
 longitude: 9.73899
 postcode: "6850"
 city: Dornbirn
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 15a
-phone: "+43 7672 958800"
-opening_hours: "Mo 09:00-13:00,14:00-18:00; Tu-Th 09:30-13:00,14:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off"
-website: "https://www.e-tec.at/"
+phone: +43 7672 958800
+opening_hours: Mo 09:00-13:00,14:00-18:00; Tu-Th 09:30-13:00,14:00-18:00; Fr 09:00-13:00,14:00-18:00;
+    Sa,Su,PH off
+website: https://www.e-tec.at/

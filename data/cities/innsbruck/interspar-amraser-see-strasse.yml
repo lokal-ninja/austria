@@ -1,11 +1,11 @@
 id: 1238172074
-type: way
+type: node
 latitude: 47.26201
 longitude: 11.42977
 postcode: "6020"
 city: Innsbruck
-street: "Amraser-See-Straße"
+street: Amraser-See-Straße
 housenumber: 56a
-phone: "+43 512 341809"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.interspar.at/standorte/interspar-hypermarkt-innsbruck-dez"
+phone: +43 512 341809
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.interspar.at/standorte/interspar-hypermarkt-innsbruck-dez

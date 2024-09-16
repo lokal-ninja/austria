@@ -4,8 +4,8 @@ latitude: 47.25741
 longitude: 11.32487
 postcode: "6176"
 city: Völs
-street: "Cytastraße"
-housenumber: 4
-phone: "+43 512 302166"
-opening_hours: "Mo-Sa 06:30-19:00; Su, PH 06:30-17:00"
-website: "https://www.ruetz.at/baeckereien/standorte/einkaufszentrum_cyta_tirol"
+street: Cytastraße
+housenumber: "4"
+phone: +43 512 302166
+opening_hours: Mo-Sa 06:30-19:00; Su, PH 06:30-17:00
+website: https://www.ruetz.at/baeckereien/standorte/einkaufszentrum_cyta_tirol

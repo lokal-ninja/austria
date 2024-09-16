@@ -4,8 +4,8 @@ latitude: 47.06671
 longitude: 15.44573
 postcode: "8010"
 city: Graz
-street: "Reitschulgasse"
-housenumber: 20
+street: Reitschulgasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "http://jakomini.heinzelmaennchen.at/data/18177/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: http://jakomini.heinzelmaennchen.at/data/18177/

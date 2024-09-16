@@ -1,11 +1,11 @@
 id: 90120240
-type: way
+type: node
 latitude: 47.42613
 longitude: 13.62465
 postcode: "8972"
 city: Ramsau am Dachstein
 street: ""
-housenumber: 83
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

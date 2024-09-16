@@ -1,11 +1,11 @@
 id: 725434585
-type: way
+type: node
 latitude: 46.85148
 longitude: 15.51447
 postcode: "8403"
 city: Lang
 street: ""
-housenumber: 106
-phone: "+43 664 1309944"
-opening_hours: "Mo-Fr 08:00-17:00"
+housenumber: "106"
+phone: +43 664 1309944
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

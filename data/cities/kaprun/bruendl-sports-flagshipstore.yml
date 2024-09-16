@@ -1,11 +1,11 @@
 id: 224139480
-type: way
+type: node
 latitude: 47.27075
 longitude: 12.75684
 postcode: "5710"
 city: Kaprun
-street: "Nikolaus-Gassner-Straße"
-housenumber: 4
-phone: "+43 6547 8388"
-opening_hours: "closed"
-website: "https://www.bruendl.at/"
+street: Nikolaus-Gassner-Straße
+housenumber: "4"
+phone: +43 6547 8388
+opening_hours: closed
+website: https://www.bruendl.at/

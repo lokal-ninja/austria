@@ -4,8 +4,8 @@ latitude: 48.19332
 longitude: 16.36105
 postcode: "1050"
 city: Wien
-street: "Margaretenstraße"
-housenumber: 64
-phone: "+43 650 8340721"
-opening_hours: "Mo-Th 11:00-19:00; Sa 11:00-18:00"
+street: Margaretenstraße
+housenumber: "64"
+phone: +43 650 8340721
+opening_hours: Mo-Th 11:00-19:00; Sa 11:00-18:00
 website: ""

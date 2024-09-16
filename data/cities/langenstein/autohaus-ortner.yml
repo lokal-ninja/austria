@@ -1,11 +1,11 @@
 id: 119831765
-type: way
+type: node
 latitude: 48.25493
 longitude: 14.4669
 postcode: "4222"
 city: Langenstein
-street: "Georgestraße"
-housenumber: 20
+street: Georgestraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.ortner-autohaus.at/langenstein/autohaus/Haendler/A00352/"
+website: https://www.ortner-autohaus.at/langenstein/autohaus/Haendler/A00352/

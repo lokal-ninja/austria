@@ -1,11 +1,11 @@
 id: 92231644
-type: way
+type: node
 latitude: 47.56871
 longitude: 14.24336
 postcode: "8940"
 city: Liezen
-street: "Hauptstraße"
-housenumber: 3
-phone: "+43 3612 222920"
+street: Hauptstraße
+housenumber: "3"
+phone: +43 3612 222920
 opening_hours: ""
 website: ""

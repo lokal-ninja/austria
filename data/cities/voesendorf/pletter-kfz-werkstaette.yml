@@ -1,11 +1,11 @@
 id: 415805698
-type: way
+type: node
 latitude: 48.13261
 longitude: 16.32653
 postcode: "2331"
 city: Vösendorf
-street: "Schönbrunner Allee"
-housenumber: 41
+street: Schönbrunner Allee
+housenumber: "41"
 phone: "004316993931"
-opening_hours: "Mo-Fr 07:30-16:00"
-website: "https://www.pletter.at/"
+opening_hours: Mo-Fr 07:30-16:00
+website: https://www.pletter.at/

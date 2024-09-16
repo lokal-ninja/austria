@@ -1,11 +1,11 @@
 id: 173450688
-type: way
+type: node
 latitude: 48.23077
 longitude: 16.37068
 postcode: "1200"
 city: Wien
-street: "Jägerstraße"
+street: Jägerstraße
 housenumber: 37-39
 phone: ""
-opening_hours: "Mo-Fr 08:15-19:00; Sa 08:15-17:30"
+opening_hours: Mo-Fr 08:15-19:00; Sa 08:15-17:30
 website: ""

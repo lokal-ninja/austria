@@ -1,11 +1,11 @@
 id: 115475440
-type: way
+type: node
 latitude: 47.25037
 longitude: 12.12113
 postcode: "5742"
 city: Wald im Pinzgau
 street: ""
-housenumber: 73
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://www.unterwurzacher.eu/de_winter/shop"
+website: https://www.unterwurzacher.eu/de_winter/shop

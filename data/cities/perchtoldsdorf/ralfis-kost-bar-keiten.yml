@@ -4,8 +4,8 @@ latitude: 48.12052
 longitude: 16.26415
 postcode: "2380"
 city: Perchtoldsdorf
-street: "Hochstraße"
-housenumber: 11
-phone: "+43 660 4878475"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:00"
-website: "https://ralfis.at/"
+street: Hochstraße
+housenumber: "11"
+phone: +43 660 4878475
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-13:00
+website: https://ralfis.at/

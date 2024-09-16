@@ -1,11 +1,11 @@
 id: 1133339926
-type: way
+type: node
 latitude: 47.11006
 longitude: 15.42396
 postcode: "8045"
 city: Graz
-street: "Stattegger Straße"
-housenumber: 22
+street: Stattegger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

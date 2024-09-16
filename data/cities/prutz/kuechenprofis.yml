@@ -1,11 +1,11 @@
 id: 206269496
-type: way
+type: node
 latitude: 47.07177
 longitude: 10.66735
 postcode: "6522"
 city: Prutz
-street: "Kampleweg"
-housenumber: 2
+street: Kampleweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

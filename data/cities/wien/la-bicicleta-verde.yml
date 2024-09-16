@@ -4,8 +4,8 @@ latitude: 48.22322
 longitude: 16.40458
 postcode: "1020"
 city: Wien
-street: "Engerthstraße"
-housenumber: 194
+street: Engerthstraße
+housenumber: "194"
 phone: ""
-opening_hours: "Mo-Fr 13:00-19:00; Th off; Sa 13:00-17:00"
-website: "https://www.gruenesrad2.at/"
+opening_hours: Mo-Fr 13:00-19:00; Th off; Sa 13:00-17:00
+website: https://www.gruenesrad2.at/

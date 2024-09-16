@@ -1,11 +1,11 @@
 id: 98230560
-type: way
+type: node
 latitude: 48.23513
 longitude: 16.46509
 postcode: "1220"
 city: Wien
-street: "Hirschstettner Straße"
-housenumber: 92
-phone: "+43 1 2825147"
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-13:30"
-website: "http://carbodyrepair.at"
+street: Hirschstettner Straße
+housenumber: "92"
+phone: +43 1 2825147
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-13:30
+website: http://carbodyrepair.at

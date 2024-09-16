@@ -1,11 +1,11 @@
 id: 130846111
-type: way
+type: node
 latitude: 47.59091
 longitude: 12.16341
 postcode: "6330"
 city: Kufstein
-street: "Münchner Straße"
-housenumber: 45
+street: Münchner Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

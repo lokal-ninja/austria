@@ -4,8 +4,8 @@ latitude: 47.26672
 longitude: 11.39
 postcode: "6020"
 city: Innsbruck
-street: "Innrain"
-housenumber: 14
+street: Innrain
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00"
-website: "https://www.innsbruck-tattoo.at/"
+opening_hours: Mo-Fr 11:00-19:00
+website: https://www.innsbruck-tattoo.at/

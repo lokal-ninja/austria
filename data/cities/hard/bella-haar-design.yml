@@ -1,11 +1,11 @@
 id: 66325545
-type: way
+type: node
 latitude: 47.49287
 longitude: 9.68884
 postcode: "6971"
 city: Hard
-street: "Kohlplatzstraße"
-housenumber: 2
-phone: "+43 5574 65065"
+street: Kohlplatzstraße
+housenumber: "2"
+phone: +43 5574 65065
 opening_hours: ""
 website: ""

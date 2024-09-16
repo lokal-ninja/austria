@@ -1,11 +1,11 @@
 id: 130568917
-type: way
+type: node
 latitude: 47.77807
 longitude: 12.98988
 postcode: "5071"
 city: Wals-Siezenheim
-street: "Laschenskystraße"
-housenumber: 37
+street: Laschenskystraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 69730838
-type: way
+type: node
 latitude: 48.32234
 longitude: 14.71329
 postcode: "4324"
 city: Rechberg
 street: ""
-housenumber: 14
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

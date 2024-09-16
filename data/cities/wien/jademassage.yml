@@ -4,8 +4,8 @@ latitude: 48.18945
 longitude: 16.37041
 postcode: "1040"
 city: Wien
-street: "Graf-Starhemberg-Gasse"
-housenumber: 22
-phone: "+43 1 9557435"
-opening_hours: "10:00-21:00"
-website: "https://jademassage.at/"
+street: Graf-Starhemberg-Gasse
+housenumber: "22"
+phone: +43 1 9557435
+opening_hours: 10:00-21:00
+website: https://jademassage.at/

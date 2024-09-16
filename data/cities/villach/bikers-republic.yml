@@ -4,8 +4,8 @@ latitude: 46.61387
 longitude: 13.84772
 postcode: "9500"
 city: Villach
-street: "Ankershofengasse"
-housenumber: 2
+street: Ankershofengasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.bikers-republic.at"
+website: https://www.bikers-republic.at

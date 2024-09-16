@@ -5,7 +5,7 @@ longitude: 15.50556
 postcode: "3602"
 city: Rossatz-Arnsdorf
 street: ""
-housenumber: 76
-phone: "+43 2714 6204"
+housenumber: "76"
+phone: +43 2714 6204
 opening_hours: ""
-website: "https://www.weinbau-reithofer.at/"
+website: https://www.weinbau-reithofer.at/

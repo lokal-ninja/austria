@@ -4,8 +4,8 @@ latitude: 47.06846
 longitude: 15.44218
 postcode: "8010"
 city: Graz
-street: "Am Eisernen Tor"
-housenumber: 3
-phone: "+43 316 830124"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-17:00"
-website: "http://www.breinedergibiser.at/"
+street: Am Eisernen Tor
+housenumber: "3"
+phone: +43 316 830124
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-17:00
+website: http://www.breinedergibiser.at/

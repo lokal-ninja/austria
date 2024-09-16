@@ -1,11 +1,11 @@
 id: 1009335529
-type: way
+type: node
 latitude: 48.25732
 longitude: 15.57123
 postcode: "3121"
 city: Karlstetten
-street: "St.Pöltner Straße"
-housenumber: 7
-phone: "+43 2741 8005"
+street: St.Pöltner Straße
+housenumber: "7"
+phone: +43 2741 8005
 opening_hours: ""
-website: "https://www.adeg.at/"
+website: https://www.adeg.at/

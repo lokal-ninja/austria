@@ -4,8 +4,8 @@ latitude: 48.22628
 longitude: 16.36224
 postcode: "1090"
 city: Wien
-street: "Nordbergstraße"
-housenumber: 2
+street: Nordbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "We-Sa 11:00-21:00; Su 11:00-18:00; Mo,Tu off"
+opening_hours: We-Sa 11:00-21:00; Su 11:00-18:00; Mo,Tu off
 website: ""

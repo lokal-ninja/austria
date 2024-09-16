@@ -1,11 +1,11 @@
 id: 122528951
-type: way
+type: node
 latitude: 48.56146
 longitude: 16.56175
 postcode: "2130"
 city: Mistelbach
-street: "Ernstbrunnerstraße"
-housenumber: 3
-phone: "+43 2572 32600"
-opening_hours: "Mo-Do 08:00-17:00; Fr 08:00-14:00, Sa,Su,PH off"
-website: "http://www.reifen-wittmann.at/"
+street: Ernstbrunnerstraße
+housenumber: "3"
+phone: +43 2572 32600
+opening_hours: Mo-Do 08:00-17:00; Fr 08:00-14:00, Sa,Su,PH off
+website: http://www.reifen-wittmann.at/

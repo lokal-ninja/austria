@@ -4,8 +4,8 @@ latitude: 47.07176
 longitude: 15.43809
 postcode: "8010"
 city: Graz
-street: "Sporgasse"
-housenumber: 3
+street: Sporgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "www.newone.at"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: www.newone.at

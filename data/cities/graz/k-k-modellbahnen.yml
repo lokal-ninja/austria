@@ -4,8 +4,8 @@ latitude: 47.06498
 longitude: 15.42543
 postcode: "8020"
 city: Graz
-street: "Kindermanngasse"
-housenumber: 40
+street: Kindermanngasse
+housenumber: "40"
 phone: ""
-opening_hours: "Tu 10:00-12:00, Tu-Fr 16:00-18:30, We-Fr 16:00-18:00; PH,Sa-Mo off"
+opening_hours: Tu 10:00-12:00, Tu-Fr 16:00-18:30, We-Fr 16:00-18:00; PH,Sa-Mo off
 website: ""

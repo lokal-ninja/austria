@@ -4,8 +4,8 @@ latitude: 47.91764
 longitude: 13.79712
 postcode: "4810"
 city: Gmunden
-street: "Franz-Josef-Platz"
-housenumber: 6
+street: Franz-Josef-Platz
+housenumber: "6"
 phone: "+43761264153"
-opening_hours: "Mo-Tu 09:00-18:00; Th-Su 09:00-18:00"
-website: "https://konditorei-grellinger.at/"
+opening_hours: Mo-Tu 09:00-18:00; Th-Su 09:00-18:00
+website: https://konditorei-grellinger.at/

@@ -1,11 +1,11 @@
 id: 158546181
-type: way
+type: node
 latitude: 48.26815
 longitude: 16.42807
 postcode: "1210"
 city: Wien
-street: "Siemensstraße"
-housenumber: 105
+street: Siemensstraße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 07:40-20:00; Sa 07:40-18:00"
+opening_hours: Mo-Fr 07:40-20:00; Sa 07:40-18:00
 website: ""

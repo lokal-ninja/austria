@@ -4,8 +4,8 @@ latitude: 48.21768
 longitude: 16.3399
 postcode: "1180"
 city: Wien
-street: "Jörgerstraße"
-housenumber: 12
+street: Jörgerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "We-Fr 10:00-18:30; Sa 10:00-15:30"
-website: "https://www.muso-koroni.com/"
+opening_hours: We-Fr 10:00-18:30; Sa 10:00-15:30
+website: https://www.muso-koroni.com/

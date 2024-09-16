@@ -1,11 +1,11 @@
 id: 209678259
-type: way
+type: node
 latitude: 47.44952
 longitude: 12.30988
 postcode: "6365"
 city: Kirchberg in Tirol
-street: "Brixentaler Straße"
-housenumber: 19
+street: Brixentaler Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 08:00-13:00"
-website: "https://www.mpreis.at/sp/standorte/#store-8055"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 08:00-13:00
+website: https://www.mpreis.at/sp/standorte/#store-8055

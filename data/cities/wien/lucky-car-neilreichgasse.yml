@@ -1,11 +1,11 @@
 id: 105074801
-type: way
+type: node
 latitude: 48.17409
 longitude: 16.36591
 postcode: "1100"
 city: Wien
-street: "Neilreichgasse"
-housenumber: 50
+street: Neilreichgasse
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

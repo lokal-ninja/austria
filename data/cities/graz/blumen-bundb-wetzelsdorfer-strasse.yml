@@ -1,11 +1,11 @@
 id: 199824384
-type: way
+type: node
 latitude: 47.0601
 longitude: 15.39634
 postcode: "8052"
 city: Graz
-street: "Wetzelsdorfer Straße"
-housenumber: 132
+street: Wetzelsdorfer Straße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:30; Su,PH 09:00-14:30"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:30; Su,PH 09:00-14:30
 website: ""

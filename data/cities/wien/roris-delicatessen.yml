@@ -4,8 +4,8 @@ latitude: 48.19234
 longitude: 16.3557
 postcode: "1050"
 city: Wien
-street: "Pilgramgasse"
-housenumber: 11
+street: Pilgramgasse
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "https://roris.at/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: https://roris.at/

@@ -1,11 +1,11 @@
 id: 272229419
-type: way
+type: node
 latitude: 47.60738
 longitude: 13.78359
 postcode: "8990"
 city: Bad Aussee
-street: "Bahnhofstraße"
-housenumber: 118
+street: Bahnhofstraße
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

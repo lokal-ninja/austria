@@ -1,11 +1,11 @@
 id: 96616398
-type: way
+type: node
 latitude: 47.85288
 longitude: 16.19446
 postcode: "2752"
 city: Wöllersdorf
-street: "Römerstraße"
+street: Römerstraße
 housenumber: 1a
-phone: "+43 59915 03561"
-opening_hours: "Mo-Th 07:00-19:15; Fr 07:00-19:30; Sa 07:30-18:00"
+phone: +43 59915 03561
+opening_hours: Mo-Th 07:00-19:15; Fr 07:00-19:30; Sa 07:30-18:00
 website: ""

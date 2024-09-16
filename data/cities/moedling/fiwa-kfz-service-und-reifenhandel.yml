@@ -1,11 +1,11 @@
 id: 239877467
-type: way
+type: node
 latitude: 48.07289
 longitude: 16.30086
 postcode: "2340"
 city: Mödling
-street: "Guntramsdorfer Straße"
-housenumber: 89
+street: Guntramsdorfer Straße
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://fiwa-kfz.at/index.html"
+website: https://fiwa-kfz.at/index.html

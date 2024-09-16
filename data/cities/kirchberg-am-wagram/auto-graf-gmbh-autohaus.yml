@@ -1,11 +1,11 @@
 id: 264552135
-type: way
+type: node
 latitude: 48.42582
 longitude: 15.89716
 postcode: "3470"
 city: Kirchberg am Wagram
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-graf.at/"
+website: https://www.auto-graf.at/

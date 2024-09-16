@@ -1,11 +1,11 @@
 id: 228291966
-type: way
+type: node
 latitude: 47.13375
 longitude: 13.80352
 postcode: "5580"
 city: Tamsweg
-street: "Zinsgasse"
-housenumber: 38
-phone: "+43 (6474) 2555"
+street: Zinsgasse
+housenumber: "38"
+phone: +43 (6474) 2555
 opening_hours: ""
 website: ""

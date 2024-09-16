@@ -4,8 +4,8 @@ latitude: 47.2729
 longitude: 11.42971
 postcode: "6020"
 city: Innsbruck
-street: "Roßaugasse"
+street: Roßaugasse
 housenumber: 2a
-phone: "+43 512 344458"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-17:00; PH off || nach Vereinbarung"
-website: "https://www.siedler.co.at"
+phone: +43 512 344458
+opening_hours: Mo-Fr 08:00-12:00, 14:00-17:00; PH off || "nach Vereinbarung"
+website: https://www.siedler.co.at

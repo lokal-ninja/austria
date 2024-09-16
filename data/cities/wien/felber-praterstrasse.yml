@@ -4,8 +4,8 @@ latitude: 48.21473
 longitude: 16.38494
 postcode: "1020"
 city: Wien
-street: "Praterstraße"
-housenumber: 36
+street: Praterstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa-Su 07:00-12:00"
-website: "https://felberbrot.at/"
+opening_hours: Mo-Fr 06:30-18:30; Sa-Su 07:00-12:00
+website: https://felberbrot.at/

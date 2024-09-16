@@ -4,8 +4,8 @@ latitude: 47.97267
 longitude: 16.21482
 postcode: "2540"
 city: Bad Vöslau
-street: "Badner Straße"
-housenumber: 49
+street: Badner Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.bikeshop-kreuzer.at/"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: https://www.bikeshop-kreuzer.at/

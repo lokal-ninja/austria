@@ -1,11 +1,11 @@
 id: 382931045
-type: way
+type: node
 latitude: 48.04863
 longitude: 13.76405
 postcode: "4690"
 city: Schwanenstadt
-street: "Salzburger Straße"
-housenumber: 37
-phone: "+43 7673 2219"
-opening_hours: "Mo-Fr 08:00-12:00; 13:00-17:00"
-website: "https://www.autohaus-willeit.at/kontakt"
+street: Salzburger Straße
+housenumber: "37"
+phone: +43 7673 2219
+opening_hours: Mo-Fr 08:00-12:00; 13:00-17:00
+website: https://www.autohaus-willeit.at/kontakt

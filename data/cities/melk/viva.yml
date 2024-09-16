@@ -1,11 +1,11 @@
 id: 523396037
-type: way
+type: node
 latitude: 48.21942
 longitude: 15.3483
 postcode: "3390"
 city: Melk
-street: "Schlitpacherstraße"
-housenumber: 1
+street: Schlitpacherstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

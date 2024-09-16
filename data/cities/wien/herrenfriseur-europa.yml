@@ -4,8 +4,8 @@ latitude: 48.2421
 longitude: 16.37813
 postcode: "1200"
 city: Wien
-street: "Marchfeldstraße"
-housenumber: 17
+street: Marchfeldstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 12:00-19:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 12:00-19:00; Tu-Sa 10:00-19:00
 website: ""

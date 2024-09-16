@@ -4,8 +4,8 @@ latitude: 48.19632
 longitude: 16.39634
 postcode: "1030"
 city: Wien
-street: "Landstraßer Hauptstraße"
-housenumber: 117
-phone: "+43 (0)1 / 710 73 40"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "http://www.permanentbeauty.at/"
+street: Landstraßer Hauptstraße
+housenumber: "117"
+phone: +43 (0)1 / 710 73 40
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: http://www.permanentbeauty.at/

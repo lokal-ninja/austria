@@ -4,8 +4,8 @@ latitude: 47.26724
 longitude: 11.39301
 postcode: "6020"
 city: Innsbruck
-street: "Kiebachgasse"
-housenumber: 17
-phone: "+43 664 2345212"
-opening_hours: "Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.kontaktil.com"
+street: Kiebachgasse
+housenumber: "17"
+phone: +43 664 2345212
+opening_hours: Mo-Fr 10:00-14:00,15:00-18:00; Sa 10:00-13:00; PH off
+website: https://www.kontaktil.com

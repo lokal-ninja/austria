@@ -1,11 +1,11 @@
 id: 175926990
-type: way
+type: node
 latitude: 47.05507
 longitude: 15.11629
 postcode: "8582"
 city: Rosental an der Kainach
-street: "Hauptstraße"
-housenumber: 68
+street: Hauptstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00 - 17:00"
-website: "https://www.hervis.at/store/store/4360"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00 - 17:00
+website: https://www.hervis.at/store/store/4360

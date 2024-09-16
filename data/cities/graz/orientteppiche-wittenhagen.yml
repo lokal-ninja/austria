@@ -5,7 +5,7 @@ longitude: 15.40261
 postcode: "8051"
 city: Graz
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.wittenhagen.at/kontakt"
+website: https://www.wittenhagen.at/kontakt

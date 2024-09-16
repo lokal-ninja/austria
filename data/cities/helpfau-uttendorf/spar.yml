@@ -1,11 +1,11 @@
 id: 84328831
-type: way
+type: node
 latitude: 48.15104
 longitude: 13.11964
 postcode: "5261"
 city: Helpfau-Uttendorf
-street: "Mattighofnerstraße"
-housenumber: 4
+street: Mattighofnerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:50-19:00; Sa 06:50-18:00"
+opening_hours: Mo-Fr 06:50-19:00; Sa 06:50-18:00
 website: ""

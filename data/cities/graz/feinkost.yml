@@ -1,11 +1,11 @@
 id: 200446817
-type: way
+type: node
 latitude: 47.07029
 longitude: 15.42394
 postcode: "8020"
 city: Graz
-street: "Niesenbergergasse"
-housenumber: 33
+street: Niesenbergergasse
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

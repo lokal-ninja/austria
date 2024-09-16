@@ -1,11 +1,11 @@
 id: 224636351
-type: way
+type: node
 latitude: 47.58608
 longitude: 12.39938
 postcode: "6382"
 city: Kirchdorf in Tirol
-street: "Alm"
-housenumber: 86
+street: Alm
+housenumber: "86"
 phone: ""
 opening_hours: ""
-website: "https://www.koasa-mandl.at/"
+website: https://www.koasa-mandl.at/

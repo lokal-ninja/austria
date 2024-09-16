@@ -1,11 +1,11 @@
 id: 228299039
-type: way
+type: node
 latitude: 47.13554
 longitude: 13.80438
 postcode: "5580"
 city: Tamsweg
-street: "Mehlhartlweg"
-housenumber: 4
-phone: "+43 (6474) 6186"
+street: Mehlhartlweg
+housenumber: "4"
+phone: +43 (6474) 6186
 opening_hours: ""
-website: "https://fliesen-fritz.at/"
+website: https://fliesen-fritz.at/
