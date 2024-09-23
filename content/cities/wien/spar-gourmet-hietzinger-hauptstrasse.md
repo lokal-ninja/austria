@@ -1,5 +1,5 @@
 ---
-title: "Spar Gourmet"
+title: "SPAR Gourmet"
 url: /wien/spar-gourmet-hietzinger-hauptstrasse/
 shop: Supermarkt
 ---

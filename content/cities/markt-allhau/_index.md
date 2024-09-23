@@ -1,6 +1,6 @@
 ---
 title: Markt Allhau
 url: /markt-allhau/
-latitude: 47.282
-longitude: 16.091
+latitude: 47.289
+longitude: 16.081
 ---

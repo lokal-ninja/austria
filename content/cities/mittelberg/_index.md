@@ -1,6 +1,6 @@
 ---
 title: Mittelberg
 url: /mittelberg/
-latitude: 47.327
-longitude: 10.158
+latitude: 47.344
+longitude: 10.167
 ---
