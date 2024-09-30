@@ -1,6 +1,6 @@
 ---
 title: Bad Ischl
 url: /bad-ischl/
-latitude: 47.711
+latitude: 47.71
 longitude: 13.621
 ---

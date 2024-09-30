@@ -1,6 +1,6 @@
 ---
 title: Maishofen
 url: /maishofen/
-latitude: 47.361
-longitude: 12.809
+latitude: 47.369
+longitude: 12.806
 ---

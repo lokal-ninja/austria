@@ -1,5 +1,5 @@
 ---
 title: "Bogensport Frey"
 url: /wien/bogensport-frey/
-shop: Allgemein
+shop: Sport
 ---
