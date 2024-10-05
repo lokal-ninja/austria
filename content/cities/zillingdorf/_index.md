@@ -1,6 +1,6 @@
 ---
 title: Zillingdorf
 url: /zillingdorf/
-latitude: 47.847
-longitude: 16.38
+latitude: 47.854
+longitude: 16.326
 ---
