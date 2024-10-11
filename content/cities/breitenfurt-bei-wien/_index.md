@@ -1,6 +1,6 @@
 ---
 title: Breitenfurt bei Wien
 url: /breitenfurt-bei-wien/
-latitude: 48.135
-longitude: 16.188
+latitude: 48.136
+longitude: 16.194
 ---

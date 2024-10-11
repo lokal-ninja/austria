@@ -1,6 +1,6 @@
 ---
 title: Seyring
 url: /seyring/
-latitude: 48.339
-longitude: 16.464
+latitude: 48.333
+longitude: 16.487
 ---
