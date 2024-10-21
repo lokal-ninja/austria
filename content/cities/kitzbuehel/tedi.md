@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
 url: /kitzbuehel/tedi/
-shop: Supermarkt
+shop: Kramladen
 ---

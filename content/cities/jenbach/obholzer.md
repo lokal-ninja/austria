@@ -1,5 +1,5 @@
 ---
 title: "Obholzer"
 url: /jenbach/obholzer/
-shop: Radiotechnik
+shop: Elektrisch
 ---
