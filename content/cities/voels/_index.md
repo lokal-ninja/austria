@@ -1,6 +1,6 @@
 ---
 title: Völs
 url: /voels/
-latitude: 47.256
-longitude: 11.325
+latitude: 47.259
+longitude: 11.323
 ---

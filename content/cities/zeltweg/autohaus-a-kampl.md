@@ -1,5 +1,5 @@
 ---
-title: "AUTOHAUS A.KAMPL"
+title: "AUTOHAUS A. KAMPL"
 url: /zeltweg/autohaus-a-kampl/
 shop: Autohaus
 ---
