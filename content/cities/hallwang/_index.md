@@ -1,6 +1,6 @@
 ---
 title: Hallwang
 url: /hallwang/
-latitude: 47.85
-longitude: 13.106
+latitude: 47.832
+longitude: 13.086
 ---
