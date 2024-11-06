@@ -1,11 +1,11 @@
 id: 11964992694
 type: node
-latitude: 47.43405
-longitude: 12.40693
+latitude: 47.43412
+longitude: 12.40691
 postcode: "6370"
 city: Kitzbühel
 street: Jochberger Straße
 housenumber: "129"
-phone: +43-664-1000-533
-opening_hours: ""
+phone: +43-664-1000-533; +43 664 1000139
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off
 website: https://antikmarkt-tirol.at

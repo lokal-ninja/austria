@@ -1,6 +1,6 @@
 ---
 title: Raggal
 url: /raggal/
-latitude: 47.2
-longitude: 9.862
+latitude: 47.211
+longitude: 9.838
 ---

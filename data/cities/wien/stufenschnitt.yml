@@ -7,5 +7,5 @@ city: Wien
 street: Theobaldgasse
 housenumber: "13"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 09:30-20:00; We 11:00-20:00
+opening_hours: Tu,Th,Fr 09:30-20:00; We 11:00-20:00; Sa-Mo off
 website: http://www.stufenschnitt.com

@@ -7,6 +7,6 @@ city: Wien
 street: Gumpendorfer Straße
 housenumber: "55"
 phone: ""
-opening_hours: Mo,Tu 08:00-12:00, Mo-Th 13:00-17:00, We,Th 08:00-12:00,13:00-16:30,
-    Fr 08:00-13:00
+opening_hours: Mo,Tu 08:00-12:00,13:00-17:00; We,Th 08:00-12:00,13:00-16:30; Fr 08:00-13:00;
+    Sa off
 website: https://www.installateur-mariahilf.at/kontakt/
