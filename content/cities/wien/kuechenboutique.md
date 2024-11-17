@@ -1,5 +1,5 @@
 ---
 title: "Küchenboutique"
 url: /wien/kuechenboutique/
-shop: Warenhaus
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /wien/marionnaud/
-shop: Warenhaus
+shop: Parfümerie
 ---

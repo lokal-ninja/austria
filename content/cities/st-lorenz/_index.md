@@ -1,6 +1,6 @@
 ---
 title: St. Lorenz
 url: /st-lorenz/
-latitude: 47.846
-longitude: 13.337
+latitude: 47.839
+longitude: 13.321
 ---
