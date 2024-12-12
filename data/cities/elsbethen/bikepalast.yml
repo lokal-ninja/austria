@@ -7,7 +7,5 @@ city: Elsbethen
 street: Marktstraße 10
 housenumber: "10"
 phone: +43 662 633 030 - 40
-opening_hours: 'Mo: 09:00 - 13:00 & 15:00 - 18:00 Uhr Di: 09:00 - 13:00 & 15:00 -
-    18:00 Uhr Mi: 15:00 - 20:00 Uhr Do: 09:00 - 13:00 & 15:00 - 18:00 Uhr Fr: 09:00
-    - 13:00 & 15:00 - 18:00 Uhr Sa: 09:00 - 12:00 Uhr So: geschlossen'
+opening_hours: Tu-Fr 12:00-18:00; Sa 09:00-12:00
 website: https://web.bikepalast.com/standorte-1.html
