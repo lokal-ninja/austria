@@ -1,6 +1,6 @@
 ---
 title: Gornja Radgona
 url: /gornja-radgona/
-latitude: 46.676
-longitude: 15.992
+latitude: 46.664
+longitude: 16.01
 ---
