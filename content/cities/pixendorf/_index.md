@@ -1,6 +1,6 @@
 ---
 title: Pixendorf
 url: /pixendorf/
-latitude: 48.295
-longitude: 15.997
+latitude: 48.291
+longitude: 15.978
 ---
