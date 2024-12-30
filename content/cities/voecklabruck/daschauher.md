@@ -1,5 +1,5 @@
 ---
 title: "Daschauher"
 url: /voecklabruck/daschauher/
-shop: Warenhaus
+shop: Parfümerie
 ---

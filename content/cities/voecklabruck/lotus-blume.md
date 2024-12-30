@@ -1,5 +1,5 @@
 ---
 title: "Lotus Blume"
 url: /voecklabruck/lotus-blume/
-shop: Warenhaus
+shop: Allgemein
 ---
