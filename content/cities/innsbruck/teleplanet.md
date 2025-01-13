@@ -1,5 +1,5 @@
 ---
-title: "teleplanet"
+title: "Teleplanet"
 url: /innsbruck/teleplanet/
 shop: Handy
 ---

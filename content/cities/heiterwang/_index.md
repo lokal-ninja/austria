@@ -1,6 +1,6 @@
 ---
 title: Heiterwang
 url: /heiterwang/
-latitude: 47.436
+latitude: 47.437
 longitude: 10.766
 ---
