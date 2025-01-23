@@ -1,6 +1,6 @@
 ---
 title: Ternitz
 url: /ternitz/
-latitude: 47.71
-longitude: 16.04
+latitude: 47.693
+longitude: 15.995
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sankt Anton am Arlberg
 url: /sankt-anton-am-arlberg/
-latitude: 47.13
-longitude: 10.266
+latitude: 47.128
+longitude: 10.265
 ---

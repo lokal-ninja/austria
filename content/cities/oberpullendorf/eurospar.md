@@ -1,5 +1,5 @@
 ---
-title: "EUROSPAR"
+title: "Eurospar"
 url: /oberpullendorf/eurospar/
 shop: Supermarkt
 ---
