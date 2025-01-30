@@ -1,5 +1,5 @@
 ---
-title: "comma,"
+title: "comma"
 url: /graz/comma/
 shop: Kleidung
 ---

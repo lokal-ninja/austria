@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
 url: /wels/tchibo/
-shop: Lebensmittel
+shop: Kaffee
 ---

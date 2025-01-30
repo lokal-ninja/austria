@@ -1,6 +1,6 @@
 ---
 title: Rohrbach-Berg
 url: /rohrbach-berg/
-latitude: 48.559
-longitude: 13.988
+latitude: 48.572
+longitude: 13.99
 ---

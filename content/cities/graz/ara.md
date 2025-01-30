@@ -1,5 +1,5 @@
 ---
-title: "Ara"
+title: "ara"
 url: /graz/ara/
 shop: Schuhe
 ---
