@@ -1,5 +1,5 @@
 ---
-title: "Kik"
+title: "KiK"
 url: /sierning/kik/
 shop: Kleidung
 ---

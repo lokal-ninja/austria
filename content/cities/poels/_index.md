@@ -1,6 +1,6 @@
 ---
 title: Pöls
 url: /poels/
-latitude: 47.219
-longitude: 14.576
+latitude: 47.22
+longitude: 14.584
 ---

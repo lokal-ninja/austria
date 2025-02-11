@@ -1,5 +1,5 @@
 ---
-title: "BILLA NOW"
+title: "Billa Now"
 url: /wien/billa-now-hietzinger-kai/
-shop: Supermarkt
+shop: Lebensmittel
 ---

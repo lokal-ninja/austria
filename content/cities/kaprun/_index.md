@@ -1,6 +1,6 @@
 ---
 title: Kaprun
 url: /kaprun/
-latitude: 47.273
-longitude: 12.759
+latitude: 47.271
+longitude: 12.757
 ---

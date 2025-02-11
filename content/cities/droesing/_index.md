@@ -1,6 +1,6 @@
 ---
 title: Drösing
 url: /droesing/
-latitude: 48.538
-longitude: 16.899
+latitude: 48.539
+longitude: 16.892
 ---
