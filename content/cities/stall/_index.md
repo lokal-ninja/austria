@@ -1,6 +1,6 @@
 ---
 title: Stall
 url: /stall/
-latitude: 46.888
-longitude: 13.037
+latitude: 46.887
+longitude: 13.034
 ---

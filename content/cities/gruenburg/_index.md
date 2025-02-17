@@ -1,6 +1,6 @@
 ---
 title: Grünburg
 url: /gruenburg/
-latitude: 47.971
-longitude: 14.264
+latitude: 47.969
+longitude: 14.261
 ---
