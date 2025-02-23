@@ -1,6 +1,6 @@
 ---
 title: St. Michael in der Obersteiermark
 url: /st-michael-in-der-obersteiermark/
-latitude: 47.34
-longitude: 15.011
+latitude: 47.346
+longitude: 15.012
 ---
