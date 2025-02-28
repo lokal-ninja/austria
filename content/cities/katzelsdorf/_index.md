@@ -1,6 +1,6 @@
 ---
 title: Katzelsdorf
 url: /katzelsdorf/
-latitude: 47.776
-longitude: 16.282
+latitude: 47.782
+longitude: 16.27
 ---
