@@ -1,6 +1,6 @@
 ---
 title: Ziersdorf
 url: /ziersdorf/
-latitude: 48.526
-longitude: 15.932
+latitude: 48.528
+longitude: 15.928
 ---

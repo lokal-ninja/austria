@@ -1,5 +1,5 @@
 ---
-title: "BIPA"
+title: "Bipa"
 url: /neunkirchen/bipa/
-shop: Supermarkt
+shop: Drogerie
 ---

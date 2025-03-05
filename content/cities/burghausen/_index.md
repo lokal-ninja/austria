@@ -1,6 +1,6 @@
 ---
 title: Burghausen
 url: /burghausen/
-latitude: 48.16
-longitude: 12.834
+latitude: 48.157
+longitude: 12.832
 ---
