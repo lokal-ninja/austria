@@ -1,6 +1,6 @@
 ---
 title: Hausleiten
 url: /hausleiten/
-latitude: 48.396
+latitude: 48.394
 longitude: 16.102
 ---
