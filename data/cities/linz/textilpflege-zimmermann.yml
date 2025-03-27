@@ -7,5 +7,6 @@ city: Linz
 street: Am Bindermichl
 housenumber: "56"
 phone: "+43732343066"
-opening_hours: Mo-Fr 08:00-12:30, 13:30-18:00;Sa 08:00-12:00
+opening_hours: Mo-Tu,Th 08:00-12:30,13:30-16:00; We 08:30-12:30; Fr 08:30-12:30,13:30-17:00;
+    Sa 08:30-12:00
 website: https://www.textilpflege-zimmermann.at/

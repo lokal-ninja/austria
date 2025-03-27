@@ -1,5 +1,5 @@
 ---
 title: "Alladean"
 url: /wien/alladean/
-shop: Lebensmittel
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wiener Späti"
 url: /wien/wiener-spaeti-straussengasse/
-shop: Lebensmittel
+shop: Allgemein
 ---

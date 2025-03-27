@@ -1,6 +1,6 @@
 ---
 title: Gnadendorf
 url: /gnadendorf/
-latitude: 48.59
-longitude: 16.381
+latitude: 48.62
+longitude: 16.355
 ---
