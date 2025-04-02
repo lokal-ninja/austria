@@ -1,11 +1,11 @@
 id: 4949355565
 type: node
-latitude: 48.44031
-longitude: 15.61886
+latitude: 48.44036
+longitude: 15.6186
 postcode: "3500"
 city: Gneixendorf
 street: Gneixendorfer Hauptstraße
 housenumber: "65"
 phone: +43 2732 846 36
-opening_hours: Mo-Fr 07:00-18:00
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
 website: https://www.kfz-weidenauer.at/
