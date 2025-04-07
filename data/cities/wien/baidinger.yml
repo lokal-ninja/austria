@@ -7,7 +7,5 @@ city: Wien
 street: Baumgasse
 housenumber: "16"
 phone: +43 (0)1 / 713 11 90
-opening_hours: Mo-Tu 07:00-18:00; We 07:00-13:00; Th-Fr 07:00-18:00; Sa 07:00-12:00;
-    Jul-Sep Mo-Tu, Th-Fr 07:00-12:30, 15:30-18:00; Jul-Sep We 07:00-13:00; Jul-Sep
-    Sa 07:00-12:00
+opening_hours: Tu,Fr 07:30-12:30,14:30-17:00; We,Th 07:30-12:30; Sa 07:30-12:00
 website: ""
