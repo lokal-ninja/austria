@@ -1,5 +1,5 @@
 ---
 title: "Humana"
 url: /salzburg/humana/
-shop: Gebrauchtwaren
+shop: Kleidung
 ---

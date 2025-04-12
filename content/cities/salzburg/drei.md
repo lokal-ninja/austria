@@ -1,5 +1,5 @@
 ---
-title: "DREI"
+title: "Drei"
 url: /salzburg/drei/
 shop: Handy
 ---
