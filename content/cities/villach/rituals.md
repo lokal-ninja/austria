@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /villach/rituals/
-shop: Drogerie
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
 url: /perg/lagerhaus/
-shop: Warenhaus
+shop: Baumarkt
 ---
