@@ -7,5 +7,6 @@ city: Wien
 street: Alser Straße
 housenumber: "49"
 phone: +431 405 5254
-opening_hours: Mo-Sa 07:30-19:00
+opening_hours: 'Oct-May: Mo-Fr 07:30-19:00; Oct-May: Sa 08:00-18:00; Oct-May: Su 09:00-16:00;
+    Jun-Sep: Mo-Fr 07:30-19:00; Jun-Sep: Sa 08:00-18:00'
 website: https://blumenkreativwien.at/

@@ -1,6 +1,6 @@
 ---
 title: Haid
 url: /haid/
-latitude: 48.194
-longitude: 14.249
+latitude: 48.196
+longitude: 14.247
 ---
