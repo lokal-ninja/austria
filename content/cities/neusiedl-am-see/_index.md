@@ -1,6 +1,6 @@
 ---
 title: Neusiedl am See
 url: /neusiedl-am-see/
-latitude: 47.969
-longitude: 16.838
+latitude: 47.959
+longitude: 16.836
 ---

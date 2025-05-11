@@ -1,6 +1,6 @@
 ---
 title: Neukirchen am Walde
 url: /neukirchen-am-walde/
-latitude: 48.423
-longitude: 13.766
+latitude: 48.407
+longitude: 13.777
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mattighofen
 url: /mattighofen/
-latitude: 48.103
-longitude: 13.15
+latitude: 48.108
+longitude: 13.149
 ---
