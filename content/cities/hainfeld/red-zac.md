@@ -1,5 +1,5 @@
 ---
-title: "RED ZAC"
+title: "Red Zac"
 url: /hainfeld/red-zac/
 shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Neumarkt im Hausruckkreis
 url: /neumarkt-im-hausruckkreis/
-latitude: 48.272
-longitude: 13.722
+latitude: 48.275
+longitude: 13.731
 ---

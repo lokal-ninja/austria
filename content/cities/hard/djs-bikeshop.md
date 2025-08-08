@@ -1,5 +1,5 @@
 ---
-title: "DJ's Bikeshop"
+title: "DJs Bikeshop"
 url: /hard/djs-bikeshop/
 shop: Fahrrad
 ---

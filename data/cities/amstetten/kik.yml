@@ -7,7 +7,5 @@ city: Amstetten
 street: Industriestraße
 housenumber: "1"
 phone: ""
-opening_hours: 'Samstag: 08:30 - 17:00 Sonntag: - Montag: 08:30 - 18:00 Dienstag:
-    08:30 - 18:00 Mittwoch: 08:30 - 18:00 Donnerstag: 08:30 - 18:00 Freitag: 08:30
-    - 18:00'
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30-17:00, Su,PH off
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Kaltenbach
 url: /kaltenbach/
-latitude: 47.29
-longitude: 11.877
+latitude: 47.294
+longitude: 11.875
 ---

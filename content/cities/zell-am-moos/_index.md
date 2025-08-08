@@ -1,6 +1,6 @@
 ---
 title: Zell am Moos
 url: /zell-am-moos/
-latitude: 47.902
-longitude: 13.318
+latitude: 47.904
+longitude: 13.32
 ---

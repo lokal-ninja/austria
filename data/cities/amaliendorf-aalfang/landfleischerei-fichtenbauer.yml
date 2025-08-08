@@ -7,5 +7,5 @@ city: Amaliendorf-Aalfang
 street: Hauptstraße
 housenumber: "12"
 phone: ""
-opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 14:30-18:00; Sa 07:00-11:00
+opening_hours: Mo-Fr 08:00-12:00,14:30-18:00, Sa 07:00-11:00; PH off
 website: https://www.fleischerei-fichtenbauer.at/

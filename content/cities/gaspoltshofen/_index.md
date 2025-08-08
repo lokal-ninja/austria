@@ -1,6 +1,6 @@
 ---
 title: Gaspoltshofen
 url: /gaspoltshofen/
-latitude: 48.149
-longitude: 13.734
+latitude: 48.145
+longitude: 13.702
 ---

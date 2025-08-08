@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
 url: /graz/weltladen/
-shop: Kleidung
+shop: Modehaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grän
 url: /graen/
-latitude: 47.495
-longitude: 10.559
+latitude: 47.503
+longitude: 10.554
 ---

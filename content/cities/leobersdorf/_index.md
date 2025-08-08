@@ -1,6 +1,6 @@
 ---
 title: Leobersdorf
 url: /leobersdorf/
-latitude: 47.93
-longitude: 16.205
+latitude: 47.933
+longitude: 16.208
 ---

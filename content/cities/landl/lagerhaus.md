@@ -1,5 +1,5 @@
 ---
 title: "Lagerhaus"
 url: /landl/lagerhaus/
-shop: Haushaltsartikel
+shop: Baumarkt
 ---

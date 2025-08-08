@@ -1,6 +1,6 @@
 ---
 title: Gaweinstal
 url: /gaweinstal/
-latitude: 48.485
-longitude: 16.592
+latitude: 48.478
+longitude: 16.593
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wagrain
 url: /wagrain/
-latitude: 47.336
-longitude: 13.302
+latitude: 47.334
+longitude: 13.308
 ---

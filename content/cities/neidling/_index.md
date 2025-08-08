@@ -1,6 +1,6 @@
 ---
 title: Neidling
 url: /neidling/
-latitude: 48.237
-longitude: 15.557
+latitude: 48.23
+longitude: 15.568
 ---

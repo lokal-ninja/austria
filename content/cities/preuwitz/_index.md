@@ -1,6 +1,6 @@
 ---
 title: Preuwitz
 url: /preuwitz/
-latitude: 48.356
-longitude: 15.812
+latitude: 48.355
+longitude: 15.816
 ---

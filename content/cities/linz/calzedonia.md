@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /linz/calzedonia/
-shop: Modehaus
+shop: Kleidung
 ---

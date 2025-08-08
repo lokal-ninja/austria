@@ -4,8 +4,9 @@ latitude: 47.0594
 longitude: 16.32424
 postcode: "7540"
 city: Güssing
-street: P.Gratian Leser-Straße
+street: Pater Gratian Leser-Straße
 housenumber: "5"
 phone: ""
-opening_hours: Mo, Fr 7:45-12, 14:30-18, Di, Mi 8-12, 14:30-18, Do, Sa, 8-12
+opening_hours: Mo,Fr 07:45-12:00,14:30-18:00; Tu,We 08:00-12:00,14:30-18:00; Th,Sa
+    08:00-12:00
 website: ""

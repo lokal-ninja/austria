@@ -1,5 +1,5 @@
 ---
 title: "Brunner"
 url: /wien/brunner/
-shop: Schmuck
+shop: Uhren
 ---

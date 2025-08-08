@@ -1,6 +1,6 @@
 ---
 title: Mariazell
 url: /mariazell/
-latitude: 47.774
-longitude: 15.318
+latitude: 47.77
+longitude: 15.315
 ---

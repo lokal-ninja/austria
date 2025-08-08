@@ -1,5 +1,5 @@
 ---
-title: "Billa Stop & Shop"
+title: "Billa stop & shop"
 url: /schladming/billa-stop-und-shop/
 shop: Lebensmittel
 ---
