@@ -1,6 +1,6 @@
 ---
 title: Matzen
 url: /matzen/
-latitude: 48.398
-longitude: 16.695
+latitude: 48.401
+longitude: 16.694
 ---

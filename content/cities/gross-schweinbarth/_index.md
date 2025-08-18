@@ -1,6 +1,6 @@
 ---
 title: Groß-Schweinbarth
 url: /gross-schweinbarth/
-latitude: 48.417
-longitude: 16.64
+latitude: 48.416
+longitude: 16.633
 ---

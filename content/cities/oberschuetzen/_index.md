@@ -1,6 +1,6 @@
 ---
 title: Oberschützen
 url: /oberschuetzen/
-latitude: 47.349
-longitude: 16.208
+latitude: 47.35
+longitude: 16.207
 ---
