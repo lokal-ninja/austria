@@ -1,6 +1,6 @@
 ---
 title: Bromberg
 url: /bromberg/
-latitude: 47.663
-longitude: 16.206
+latitude: 47.665
+longitude: 16.212
 ---

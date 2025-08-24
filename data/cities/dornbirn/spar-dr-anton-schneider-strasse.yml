@@ -2,7 +2,7 @@ id: 151525530
 type: node
 latitude: 47.42403
 longitude: 9.74932
-postcode: 6860;6850
+postcode: "6850"
 city: Dornbirn
 street: Dr.-Anton-Schneider-Straße
 housenumber: 15b

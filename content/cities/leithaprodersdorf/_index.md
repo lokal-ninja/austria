@@ -1,6 +1,6 @@
 ---
 title: Leithaprodersdorf
 url: /leithaprodersdorf/
-latitude: 47.935
-longitude: 16.482
+latitude: 47.934
+longitude: 16.474
 ---
