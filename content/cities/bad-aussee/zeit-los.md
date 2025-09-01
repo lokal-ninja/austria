@@ -1,5 +1,5 @@
 ---
 title: "ZEIT:LOS"
 url: /bad-aussee/zeit-los/
-shop: Modehaus
+shop: Kleidung
 ---

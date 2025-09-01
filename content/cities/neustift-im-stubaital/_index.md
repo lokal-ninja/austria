@@ -1,6 +1,6 @@
 ---
 title: Neustift im Stubaital
 url: /neustift-im-stubaital/
-latitude: 47.13
-longitude: 11.338
+latitude: 47.011
+longitude: 11.155
 ---

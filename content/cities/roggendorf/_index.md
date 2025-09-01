@@ -1,6 +1,6 @@
 ---
 title: Roggendorf
 url: /roggendorf/
-latitude: 48.207
-longitude: 15.38
+latitude: 48.209
+longitude: 15.381
 ---
