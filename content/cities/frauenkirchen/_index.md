@@ -1,6 +1,6 @@
 ---
 title: Frauenkirchen
 url: /frauenkirchen/
-latitude: 47.835
-longitude: 16.926
+latitude: 47.837
+longitude: 16.928
 ---
