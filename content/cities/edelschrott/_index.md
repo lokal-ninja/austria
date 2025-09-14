@@ -1,6 +1,6 @@
 ---
 title: Edelschrott
 url: /edelschrott/
-latitude: 47.01
-longitude: 15.058
+latitude: 47.021
+longitude: 15.051
 ---
