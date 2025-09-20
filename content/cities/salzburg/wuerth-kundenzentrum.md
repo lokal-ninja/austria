@@ -1,5 +1,5 @@
 ---
 title: "Würth Kundenzentrum"
 url: /salzburg/wuerth-kundenzentrum/
-shop: Baustoffe
+shop: Eisenwaren
 ---

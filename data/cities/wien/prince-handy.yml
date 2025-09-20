@@ -7,5 +7,5 @@ city: Wien
 street: Wiedner Gürtel
 housenumber: "48"
 phone: ""
-opening_hours: Mo-Sa 10:00-20:00
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00
 website: https://princemobile.at/kontakt/
