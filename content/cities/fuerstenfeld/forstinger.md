@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
 url: /fuerstenfeld/forstinger/
-shop: Autoteile
+shop: Autowerkstatt
 ---
