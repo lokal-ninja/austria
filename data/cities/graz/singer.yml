@@ -1,11 +1,11 @@
-id: 2387608700
+id: 2387608597
 type: node
-latitude: 47.07115
-longitude: 15.43127
+latitude: 47.07101
+longitude: 15.43126
 postcode: "8020"
 city: Graz
 street: Annenstraße
-housenumber: "6"
+housenumber: 9;6
 phone: ""
 opening_hours: Mo-Fr 09:00-12:30,14:00-18:00
 website: http://www.naehmaschinen-graz.at/impressum/

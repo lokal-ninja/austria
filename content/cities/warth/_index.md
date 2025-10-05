@@ -1,6 +1,6 @@
 ---
 title: Warth
 url: /warth/
-latitude: 47.645
-longitude: 16.126
+latitude: 47.653
+longitude: 16.128
 ---

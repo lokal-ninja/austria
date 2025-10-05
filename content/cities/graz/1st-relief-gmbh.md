@@ -1,5 +1,5 @@
 ---
 title: "1st-Relief GmbH"
 url: /graz/1st-relief-gmbh/
-shop: Boot
+shop: Allgemein
 ---

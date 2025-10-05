@@ -1,5 +1,5 @@
 ---
-title: "DOGZONE"
+title: "Dogzone"
 url: /wien/dogzone/
 shop: Tiere
 ---

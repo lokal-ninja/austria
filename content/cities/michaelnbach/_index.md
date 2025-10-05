@@ -1,6 +1,6 @@
 ---
 title: Michaelnbach
 url: /michaelnbach/
-latitude: 48.291
-longitude: 13.829
+latitude: 48.287
+longitude: 13.831
 ---
