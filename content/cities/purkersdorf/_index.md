@@ -1,6 +1,6 @@
 ---
 title: Purkersdorf
 url: /purkersdorf/
-latitude: 48.207
-longitude: 16.18
+latitude: 48.208
+longitude: 16.176
 ---
