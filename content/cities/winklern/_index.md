@@ -1,6 +1,6 @@
 ---
 title: Winklern
 url: /winklern/
-latitude: 46.871
-longitude: 12.878
+latitude: 46.873
+longitude: 12.879
 ---
