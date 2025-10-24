@@ -1,6 +1,6 @@
 ---
 title: Taiskirchen im Innkreis
 url: /taiskirchen-im-innkreis/
-latitude: 48.268
-longitude: 13.564
+latitude: 48.272
+longitude: 13.56
 ---
