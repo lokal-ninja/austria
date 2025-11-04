@@ -7,5 +7,5 @@ city: Wien
 street: Quellenstraße
 housenumber: "18"
 phone: +43 1 6044671
-opening_hours: ""
+opening_hours: Mo,Sa 08:00-12:00; We,Fr 08:00-18:00; Tu,Th 08:00-12:00,15:00-18:00
 website: ""

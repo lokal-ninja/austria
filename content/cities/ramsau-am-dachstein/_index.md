@@ -1,6 +1,6 @@
 ---
 title: Ramsau am Dachstein
 url: /ramsau-am-dachstein/
-latitude: 47.422
-longitude: 13.655
+latitude: 47.421
+longitude: 13.658
 ---
