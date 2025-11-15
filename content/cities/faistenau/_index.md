@@ -1,6 +1,6 @@
 ---
 title: Faistenau
 url: /faistenau/
-latitude: 47.777
-longitude: 13.233
+latitude: 47.778
+longitude: 13.241
 ---
