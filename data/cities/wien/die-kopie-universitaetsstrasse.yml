@@ -7,5 +7,6 @@ city: Wien
 street: Universitätsstraße
 housenumber: "8"
 phone: ""
-opening_hours: Mo-Th 09:00-12:00, 12:30-17:30; Fr 09:00-15:00; PH off; Sa, Su off
+opening_hours: Mo-Th 09:00-12:00,12:30-17:30, Fr 09:00-12:00, Fr 12:30-17:00; PH off;
+    Sa,Su off
 website: https://diekopie.at/diekopie-09-uni-wien/

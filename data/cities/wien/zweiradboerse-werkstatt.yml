@@ -7,5 +7,5 @@ city: Wien
 street: Ernst-Renz-Gasse
 housenumber: "7"
 phone: +43 1 214 88 97
-opening_hours: Mo-Fr 08:00-12:00; Mo-Th 13:00-17:00; Fr 13:00-16:00
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00,13:00-16:00
 website: https://www.2rad-boerse-wkst.at/
