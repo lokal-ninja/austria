@@ -1,5 +1,5 @@
 ---
-title: "XXXLutz"
+title: "XXXlutz"
 url: /lauterach/xxxlutz/
-shop: Möbel
+shop: Supermarkt
 ---

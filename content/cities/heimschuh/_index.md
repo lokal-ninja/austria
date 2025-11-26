@@ -1,6 +1,6 @@
 ---
 title: Heimschuh
 url: /heimschuh/
-latitude: 46.765
-longitude: 15.496
+latitude: 46.76
+longitude: 15.489
 ---

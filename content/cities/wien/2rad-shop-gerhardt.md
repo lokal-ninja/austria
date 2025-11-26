@@ -1,5 +1,5 @@
 ---
-title: "2rad-Shop Gerhardt"
+title: "2rad-shop Gerhardt"
 url: /wien/2rad-shop-gerhardt/
 shop: Fahrrad
 ---
