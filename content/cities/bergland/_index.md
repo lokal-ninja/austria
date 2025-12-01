@@ -1,6 +1,6 @@
 ---
 title: Bergland
 url: /bergland/
-latitude: 48.159
-longitude: 15.106
+latitude: 48.16
+longitude: 15.104
 ---

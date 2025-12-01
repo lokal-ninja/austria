@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
 url: /wien/tchibo/
-shop: Lebensmittel
+shop: Kaffee
 ---

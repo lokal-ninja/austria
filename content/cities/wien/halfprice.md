@@ -1,5 +1,5 @@
 ---
-title: "Halfprice"
+title: "HalfPrice"
 url: /wien/halfprice/
 shop: Kleidung
 ---
