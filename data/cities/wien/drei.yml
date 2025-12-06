@@ -1,11 +1,11 @@
 id: 620475772
 type: node
-latitude: 48.19185
-longitude: 16.35655
+latitude: 48.19189
+longitude: 16.35643
 postcode: "1050"
 city: Wien
 street: Pilgramgasse
 housenumber: "7"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:00
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su,PH off
 website: ""
