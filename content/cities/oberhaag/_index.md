@@ -1,6 +1,6 @@
 ---
 title: Oberhaag
 url: /oberhaag/
-latitude: 46.686
-longitude: 15.357
+latitude: 46.683
+longitude: 15.377
 ---

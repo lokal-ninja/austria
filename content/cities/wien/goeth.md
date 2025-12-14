@@ -1,5 +1,5 @@
 ---
-title: "göth"
+title: "Göth"
 url: /wien/goeth/
 shop: Raumausstattung
 ---

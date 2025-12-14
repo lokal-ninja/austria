@@ -1,5 +1,5 @@
 ---
-title: "GINGER|LEMON Hairspace"
+title: "Ginger Lemon Hairspace"
 url: /wien/ginger-lemon-hairspace/
 shop: Friseur
 ---

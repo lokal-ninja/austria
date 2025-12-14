@@ -1,5 +1,5 @@
 ---
-title: "HILTI"
+title: "Hilti"
 url: /wien/hilti/
-shop: Werkzeuge
+shop: Allgemein
 ---
