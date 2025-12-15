@@ -1,6 +1,6 @@
 ---
 title: Steyr
 url: /steyr/
-latitude: 48.053
-longitude: 14.442
+latitude: 48.047
+longitude: 14.446
 ---
