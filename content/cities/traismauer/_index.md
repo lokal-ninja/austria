@@ -1,6 +1,6 @@
 ---
 title: Traismauer
 url: /traismauer/
-latitude: 48.359
-longitude: 15.713
+latitude: 48.337
+longitude: 15.804
 ---
