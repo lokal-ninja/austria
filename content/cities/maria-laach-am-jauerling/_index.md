@@ -1,6 +1,6 @@
 ---
 title: Maria Laach am Jauerling
 url: /maria-laach-am-jauerling/
-latitude: 48.304
-longitude: 15.344
+latitude: 48.303
+longitude: 15.345
 ---

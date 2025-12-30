@@ -1,6 +1,6 @@
 ---
 title: Kirchham
 url: /kirchham/
-latitude: 47.96
-longitude: 13.885
+latitude: 47.973
+longitude: 13.898
 ---

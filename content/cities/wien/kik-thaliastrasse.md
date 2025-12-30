@@ -1,5 +1,5 @@
 ---
-title: "Kik"
+title: "KiK"
 url: /wien/kik-thaliastrasse/
-shop: Supermarkt
+shop: Kleidung
 ---
