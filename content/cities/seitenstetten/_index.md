@@ -1,6 +1,6 @@
 ---
 title: Seitenstetten
 url: /seitenstetten/
-latitude: 48.037
+latitude: 48.036
 longitude: 14.653
 ---

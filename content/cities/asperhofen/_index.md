@@ -1,6 +1,6 @@
 ---
 title: Asperhofen
 url: /asperhofen/
-latitude: 48.233
-longitude: 15.921
+latitude: 48.242
+longitude: 15.926
 ---
