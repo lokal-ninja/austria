@@ -1,5 +1,5 @@
 ---
-title: "Leit­ha­land Ge­mü­se"
+title: "Leithaland Gemüse"
 url: /leithaprodersdorf/leithaland-gemuese/
 shop: Hofladen
 ---
