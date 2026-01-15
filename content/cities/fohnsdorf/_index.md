@@ -1,6 +1,6 @@
 ---
 title: Fohnsdorf
 url: /fohnsdorf/
-latitude: 47.185
-longitude: 14.684
+latitude: 47.186
+longitude: 14.689
 ---
