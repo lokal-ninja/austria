@@ -1,6 +1,6 @@
 ---
 title: Auersthal
 url: /auersthal/
-latitude: 48.374
-longitude: 16.637
+latitude: 48.373
+longitude: 16.641
 ---

@@ -1,5 +1,5 @@
 ---
-title: "morgenrot"
+title: "Morgenrot"
 url: /wien/morgenrot/
-shop: Supermarkt
+shop: Lebensmittel
 ---

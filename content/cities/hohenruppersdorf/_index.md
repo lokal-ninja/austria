@@ -1,6 +1,6 @@
 ---
 title: Hohenruppersdorf
 url: /hohenruppersdorf/
-latitude: 48.463
-longitude: 16.651
+latitude: 48.464
+longitude: 16.653
 ---

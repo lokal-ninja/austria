@@ -7,5 +7,6 @@ city: Zirl
 street: Kirchstraße
 housenumber: "17"
 phone: +43 5238 52291
-opening_hours: Mo-Fr 08:30-12:00,15:00-18:15; Sa 08:30-12:00; PH off
+opening_hours: Mo 08:30-12:00,15:00-18:00; Tu 08:30-12:00; We-Fr 08:30-12:00,15:00-18:00;
+    Sa 08:30-12:00; Su,PH off
 website: ""
