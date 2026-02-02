@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
 url: /schwechat/forstinger/
-shop: Autoteile
+shop: Autowerkstatt
 ---

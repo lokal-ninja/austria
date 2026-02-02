@@ -1,6 +1,6 @@
 ---
 title: Walchsee
 url: /walchsee/
-latitude: 47.65
-longitude: 12.313
+latitude: 47.651
+longitude: 12.332
 ---

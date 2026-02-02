@@ -1,5 +1,5 @@
 ---
-title: "ACTION"
+title: "Action"
 url: /wien/action/
 shop: Kramladen
 ---
