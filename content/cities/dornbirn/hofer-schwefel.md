@@ -1,5 +1,5 @@
 ---
 title: "Hofer"
-url: /dornbirn/hofer-wallenmahd/
+url: /dornbirn/hofer-schwefel/
 shop: Supermarkt
 ---
