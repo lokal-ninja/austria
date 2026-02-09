@@ -1,5 +1,5 @@
 ---
 title: "MPREIS"
-url: /kufstein/mpreis-feldgasse/
+url: /kufstein/mpreis-salurner-strasse/
 shop: Supermarkt
 ---

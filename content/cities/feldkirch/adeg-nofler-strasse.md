@@ -1,5 +1,5 @@
 ---
 title: "ADEG"
-url: /feldkirch/adeg-runastrasse/
+url: /feldkirch/adeg-nofler-strasse/
 shop: Supermarkt
 ---
