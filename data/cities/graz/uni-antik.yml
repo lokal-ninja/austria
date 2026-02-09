@@ -7,5 +7,5 @@ city: Graz
 street: Glacisstraße
 housenumber: "25"
 phone: ""
-opening_hours: Tu-Fr 16:00-18:00; We off
+opening_hours: Tu,Th,Fr 16:00-19:00
 website: ""

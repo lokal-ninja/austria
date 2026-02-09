@@ -1,6 +1,6 @@
 ---
 title: Riedau
 url: /riedau/
-latitude: 48.304
-longitude: 13.633
+latitude: 48.301
+longitude: 13.638
 ---

@@ -1,6 +1,6 @@
 ---
 title: Thüringen
 url: /thueringen/
-latitude: 47.198
-longitude: 9.767
+latitude: 47.199
+longitude: 9.766
 ---
