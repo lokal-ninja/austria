@@ -1,5 +1,5 @@
 ---
 title: "Billa"
-url: /graz/billa-waltendorfer-guertel/
+url: /wien/billa-loewengasse/
 shop: Supermarkt
 ---
