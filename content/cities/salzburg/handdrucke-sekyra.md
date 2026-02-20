@@ -1,5 +1,5 @@
 ---
 title: "Handdrucke Sekyra"
 url: /salzburg/handdrucke-sekyra/
-shop: Allgemein
+shop: Kleidung
 ---

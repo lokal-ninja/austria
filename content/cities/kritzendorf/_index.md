@@ -2,5 +2,5 @@
 title: Kritzendorf
 url: /kritzendorf/
 latitude: 48.335
-longitude: 16.3
+longitude: 16.299
 ---
