@@ -7,6 +7,5 @@ city: Mittelberg
 street: Bödmerstraße
 housenumber: "63"
 phone: ""
-opening_hours: 'Mo-Fr 07:00-12:30; Sa 07:00-12:30; Dec-Oct: Mo-Fr 14:30-18:30; Sa
-    14:30-17:00'
+opening_hours: Mo-Fr 07:00-12:30,14:30-18:30; Sa 07:00-12:30,14:30-17:00
 website: ""

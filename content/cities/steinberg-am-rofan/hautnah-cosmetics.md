@@ -1,5 +1,5 @@
 ---
-title: "Hautnah Cosmetics"
+title: "HAUTNAH Cosmetics"
 url: /steinberg-am-rofan/hautnah-cosmetics/
 shop: Kosmetik
 ---
