@@ -1,6 +1,6 @@
 ---
 title: Bischofshofen
 url: /bischofshofen/
-latitude: 47.421
+latitude: 47.416
 longitude: 13.219
 ---

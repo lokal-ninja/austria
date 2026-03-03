@@ -1,6 +1,6 @@
 ---
 title: Tweng
 url: /tweng/
-latitude: 47.247
-longitude: 13.561
+latitude: 47.248
+longitude: 13.562
 ---

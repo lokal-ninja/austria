@@ -1,6 +1,6 @@
 ---
 title: Kremsmünster
 url: /kremsmuenster/
-latitude: 48.057
-longitude: 14.13
+latitude: 48.053
+longitude: 14.132
 ---

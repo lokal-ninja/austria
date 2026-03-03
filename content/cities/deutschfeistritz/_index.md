@@ -1,6 +1,6 @@
 ---
 title: Deutschfeistritz
 url: /deutschfeistritz/
-latitude: 47.199
-longitude: 15.337
+latitude: 47.198
+longitude: 15.336
 ---
