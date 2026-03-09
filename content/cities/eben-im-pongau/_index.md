@@ -1,6 +1,6 @@
 ---
 title: Eben im Pongau
 url: /eben-im-pongau/
-latitude: 47.409
-longitude: 13.394
+latitude: 47.421
+longitude: 13.381
 ---

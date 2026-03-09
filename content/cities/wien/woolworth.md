@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /wien/woolworth/
-shop: Kleidung
+shop: Supermarkt
 ---
