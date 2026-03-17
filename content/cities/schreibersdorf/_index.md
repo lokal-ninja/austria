@@ -1,6 +1,6 @@
 ---
 title: Schreibersdorf
 url: /schreibersdorf/
-latitude: 47.404
-longitude: 16.146
+latitude: 47.403
+longitude: 16.153
 ---

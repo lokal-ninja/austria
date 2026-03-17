@@ -1,6 +1,6 @@
 ---
 title: Deutsch Kaltenbrunn
 url: /deutsch-kaltenbrunn/
-latitude: 47.093
+latitude: 47.094
 longitude: 16.123
 ---
