@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
-url: /wien/admiral-blindengasse/
+url: /wien/admiral-gablenzgasse/
 shop: Wettbüro
 ---

@@ -1,6 +1,6 @@
 ---
 title: Linz
 url: /linz/
-latitude: 48.311
-longitude: 14.283
+latitude: 48.312
+longitude: 14.282
 ---

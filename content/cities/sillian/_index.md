@@ -1,6 +1,6 @@
 ---
 title: Sillian
 url: /sillian/
-latitude: 46.746
-longitude: 12.406
+latitude: 46.74
+longitude: 12.374
 ---

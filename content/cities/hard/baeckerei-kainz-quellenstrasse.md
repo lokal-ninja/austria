@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Kainz"
-url: /hard/baeckerei-kainz-steinlochstrasse/
+url: /hard/baeckerei-kainz-quellenstrasse/
 shop: Bäckerei
 ---

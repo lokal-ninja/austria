@@ -1,6 +1,6 @@
 ---
 title: Lustenau
 url: /lustenau/
-latitude: 47.429
-longitude: 9.655
+latitude: 47.433
+longitude: 9.653
 ---

@@ -1,6 +1,6 @@
 ---
 title: Obsteig
 url: /obsteig/
-latitude: 47.298
-longitude: 10.927
+latitude: 47.3
+longitude: 10.914
 ---
