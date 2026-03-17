@@ -7,5 +7,5 @@ city: Stattegg
 street: Stattegger Straße
 housenumber: "206"
 phone: ""
-opening_hours: Mo-Fr 08:00-18:00; Th 08:00-12:30; Sa 07:30-12:00
+opening_hours: Mo,We,Fr 08:00-18:00; Tu,Th 08:00-12:30; Sa 07:30-12:00
 website: ""

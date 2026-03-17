@@ -1,6 +1,6 @@
 ---
 title: Pflach
 url: /pflach/
-latitude: 47.518
-longitude: 10.717
+latitude: 47.506
+longitude: 10.72
 ---

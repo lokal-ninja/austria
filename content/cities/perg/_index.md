@@ -1,6 +1,6 @@
 ---
 title: Perg
 url: /perg/
-latitude: 48.25
+latitude: 48.251
 longitude: 14.635
 ---

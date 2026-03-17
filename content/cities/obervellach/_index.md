@@ -1,6 +1,6 @@
 ---
 title: Obervellach
 url: /obervellach/
-latitude: 46.933
-longitude: 13.201
+latitude: 46.931
+longitude: 13.207
 ---
