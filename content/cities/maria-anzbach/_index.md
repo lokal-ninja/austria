@@ -2,5 +2,5 @@
 title: Maria Anzbach
 url: /maria-anzbach/
 latitude: 48.19
-longitude: 15.937
+longitude: 15.935
 ---

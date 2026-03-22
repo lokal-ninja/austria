@@ -2,5 +2,5 @@
 title: Lengau
 url: /lengau/
 latitude: 48.025
-longitude: 13.296
+longitude: 13.292
 ---

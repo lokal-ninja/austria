@@ -1,6 +1,6 @@
 ---
 title: Wittau
 url: /wittau/
-latitude: 48.182
-longitude: 16.604
+latitude: 48.183
+longitude: 16.6
 ---
