@@ -1,5 +1,5 @@
 ---
 title: "Humana"
 url: /wien/humana-favoritenstrasse/
-shop: Kleidung
+shop: Gebrauchtwaren
 ---

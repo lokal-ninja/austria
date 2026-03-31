@@ -1,5 +1,5 @@
 ---
-title: "alphaclean"
+title: "Alphaclean"
 url: /wien/alphaclean/
 shop: Wäscherei
 ---

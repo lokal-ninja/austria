@@ -1,6 +1,6 @@
 ---
 title: Eugendorf
 url: /eugendorf/
-latitude: 47.861
-longitude: 13.127
+latitude: 47.864
+longitude: 13.128
 ---

@@ -1,6 +1,6 @@
 ---
 title: Unzmarkt-Frauenburg
 url: /unzmarkt-frauenburg/
-latitude: 47.198
-longitude: 14.445
+latitude: 47.199
+longitude: 14.447
 ---

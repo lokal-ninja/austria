@@ -7,5 +7,5 @@ city: Wien
 street: Guglgasse
 housenumber: "6"
 phone: +43 1 743 79 79
-opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+opening_hours: Th,Fr 09:00-19:00; Sa 09:00-17:00; Mo-We 09:00-18:00
 website: ""

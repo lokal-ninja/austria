@@ -1,6 +1,6 @@
 ---
 title: Spitz
 url: /spitz/
-latitude: 48.366
-longitude: 15.411
+latitude: 48.367
+longitude: 15.418
 ---

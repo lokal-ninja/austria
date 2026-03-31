@@ -1,6 +1,6 @@
 ---
 title: Bad Tatzmannsdorf
 url: /bad-tatzmannsdorf/
-latitude: 47.334
+latitude: 47.333
 longitude: 16.23
 ---
