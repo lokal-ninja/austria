@@ -1,6 +1,6 @@
 ---
 title: Jenbach
 url: /jenbach/
-latitude: 47.39
-longitude: 11.773
+latitude: 47.392
+longitude: 11.775
 ---

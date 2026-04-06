@@ -1,6 +1,6 @@
 ---
 title: Ellmau
 url: /ellmau/
-latitude: 47.514
-longitude: 12.305
+latitude: 47.515
+longitude: 12.307
 ---

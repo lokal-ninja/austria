@@ -1,6 +1,6 @@
 ---
 title: Natternbach
 url: /natternbach/
-latitude: 48.395
-longitude: 13.749
+latitude: 48.385
+longitude: 13.752
 ---

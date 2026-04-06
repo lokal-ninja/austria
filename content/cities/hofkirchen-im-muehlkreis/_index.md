@@ -1,6 +1,6 @@
 ---
 title: Hofkirchen im Mühlkreis
 url: /hofkirchen-im-muehlkreis/
-latitude: 48.485
-longitude: 13.807
+latitude: 48.484
+longitude: 13.804
 ---

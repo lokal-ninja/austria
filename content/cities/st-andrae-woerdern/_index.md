@@ -1,6 +1,6 @@
 ---
 title: St. Andrä-Wördern
 url: /st-andrae-woerdern/
-latitude: 48.326
-longitude: 16.211
+latitude: 48.321
+longitude: 16.207
 ---
