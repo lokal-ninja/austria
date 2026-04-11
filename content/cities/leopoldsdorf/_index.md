@@ -1,6 +1,6 @@
 ---
 title: Leopoldsdorf
 url: /leopoldsdorf/
-latitude: 48.108
-longitude: 16.397
+latitude: 48.109
+longitude: 16.393
 ---

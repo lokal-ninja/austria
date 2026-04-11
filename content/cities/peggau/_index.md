@@ -1,6 +1,6 @@
 ---
 title: Peggau
 url: /peggau/
-latitude: 47.175
-longitude: 15.328
+latitude: 47.201
+longitude: 15.346
 ---

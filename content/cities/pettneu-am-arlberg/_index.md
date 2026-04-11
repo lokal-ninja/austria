@@ -1,6 +1,6 @@
 ---
 title: Pettneu am Arlberg
 url: /pettneu-am-arlberg/
-latitude: 47.15
-longitude: 10.374
+latitude: 47.148
+longitude: 10.341
 ---

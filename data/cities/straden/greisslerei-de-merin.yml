@@ -7,5 +7,5 @@ city: Straden
 street: ""
 housenumber: "5"
 phone: ""
-opening_hours: Fr-Su 10:00-17:00
+opening_hours: 'Apr-Oct: Fr-Tu 10:00-17:00; Nov-Mar: Fr-Su 10:00-17:00'
 website: ""

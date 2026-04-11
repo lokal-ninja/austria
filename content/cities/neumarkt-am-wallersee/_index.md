@@ -1,6 +1,6 @@
 ---
 title: Neumarkt am Wallersee
 url: /neumarkt-am-wallersee/
-latitude: 47.949
-longitude: 13.226
+latitude: 47.938
+longitude: 13.223
 ---
