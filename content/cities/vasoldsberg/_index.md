@@ -1,6 +1,6 @@
 ---
 title: Vasoldsberg
 url: /vasoldsberg/
-latitude: 47.063
-longitude: 15.59
+latitude: 47.057
+longitude: 15.603
 ---

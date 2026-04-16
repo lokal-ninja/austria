@@ -1,6 +1,6 @@
 ---
 title: Micheldorf
 url: /micheldorf/
-latitude: 47.89
-longitude: 14.127
+latitude: 47.891
+longitude: 14.128
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hittisau
 url: /hittisau/
-latitude: 47.459
+latitude: 47.458
 longitude: 9.959
 ---

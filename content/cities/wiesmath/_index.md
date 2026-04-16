@@ -1,6 +1,6 @@
 ---
 title: Wiesmath
 url: /wiesmath/
-latitude: 47.623
-longitude: 16.287
+latitude: 47.616
+longitude: 16.288
 ---
