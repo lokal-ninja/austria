@@ -1,6 +1,6 @@
 ---
 title: Vösendorf
 url: /voesendorf/
-latitude: 48.117
-longitude: 16.32
+latitude: 48.112
+longitude: 16.319
 ---

@@ -7,5 +7,5 @@ city: Wien
 street: Breitenfurter Straße
 housenumber: "378"
 phone: +43 1 867 29 46
-opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su,Mo off
+opening_hours: Tu,We 09:00-18:00; Sa 09:00-13:00; Th,Fr 09:00-19:00; Su,Mo,PH off
 website: ""
