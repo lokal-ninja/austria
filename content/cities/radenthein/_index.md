@@ -1,6 +1,6 @@
 ---
 title: Radenthein
 url: /radenthein/
-latitude: 46.8
-longitude: 13.703
+latitude: 46.798
+longitude: 13.713
 ---

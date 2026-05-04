@@ -1,6 +1,6 @@
 ---
 title: Wien
 url: /wien/
-latitude: 48.226
-longitude: 16.361
+latitude: 48.197
+longitude: 16.288
 ---

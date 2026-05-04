@@ -1,6 +1,6 @@
 ---
 title: Obritzberg
 url: /obritzberg/
-latitude: 48.292
-longitude: 15.593
+latitude: 48.29
+longitude: 15.592
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sierning
 url: /sierning/
-latitude: 48.044
-longitude: 14.309
+latitude: 48.043
+longitude: 14.308
 ---

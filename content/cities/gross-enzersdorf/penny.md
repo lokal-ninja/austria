@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /gross-enzersdorf/penny/
 shop: Supermarkt
 ---
