@@ -1,6 +1,6 @@
 ---
 title: Weppersdorf
 url: /weppersdorf/
-latitude: 47.581
+latitude: 47.582
 longitude: 16.426
 ---

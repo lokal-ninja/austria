@@ -1,11 +1,12 @@
 id: 2278271839
 type: node
-latitude: 48.23004
-longitude: 16.3259
+latitude: 48.2273
+longitude: 16.34079
 postcode: "1180"
 city: Wien
-street: Schindlergasse
-housenumber: "19"
+street: Weimarer Straße
+housenumber: "13"
 phone: ""
-opening_hours: Mo-Fr 10:00-12:00, 15:00-18:00; Sa 10:00-12:00
-website: http://www.fahrrad18.at
+opening_hours: Jan,Feb,Nov-Dec Mo-Fr 10:00-12:00,15:00-18:00; Feb,Nov-Dec,Mar-Jun,Sep-Oct
+    Sa 09:00-12:00; Mar-Jun,Sep-Oct,Jul-Aug Mo-Fr 10:00-18:00; PH off
+website: https://fahrrad18.at
