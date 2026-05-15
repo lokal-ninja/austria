@@ -1,6 +1,6 @@
 ---
 title: Freistadt
 url: /freistadt/
-latitude: 48.515
-longitude: 14.509
+latitude: 48.511
+longitude: 14.5
 ---

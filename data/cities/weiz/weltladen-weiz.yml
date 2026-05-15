@@ -1,11 +1,12 @@
 id: 1951436676
 type: node
-latitude: 47.2172
-longitude: 15.62347
+latitude: 47.21716
+longitude: 15.62286
 postcode: "8160"
 city: Weiz
-street: Dr.-Karl-Renner-Gasse
-housenumber: 4a
+street: Hauptplatz
+housenumber: "16"
 phone: ""
-opening_hours: Mo,Th,Fr 08:30-12:00,15:00-18:00; We 08:00-12:00,15:00-18:00; Sa 08:00-12:00
+opening_hours: Mo,Th-Fr 08:30-12:00,15:00-18:00; Tu 08:30-12:00; We 08:00-12:00,15:00-18:00;
+    Sa 08:00-12:00
 website: ""

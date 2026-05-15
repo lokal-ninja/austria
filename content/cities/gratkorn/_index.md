@@ -1,6 +1,6 @@
 ---
 title: Gratkorn
 url: /gratkorn/
-latitude: 47.134
-longitude: 15.343
+latitude: 47.137
+longitude: 15.329
 ---
