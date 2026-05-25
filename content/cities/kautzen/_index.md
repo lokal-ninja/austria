@@ -1,6 +1,6 @@
 ---
 title: Kautzen
 url: /kautzen/
-latitude: 48.906
-longitude: 15.237
+latitude: 48.918
+longitude: 15.258
 ---

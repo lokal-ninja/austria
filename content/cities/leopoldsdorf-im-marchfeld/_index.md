@@ -1,6 +1,6 @@
 ---
 title: Leopoldsdorf im Marchfeld
 url: /leopoldsdorf-im-marchfeld/
-latitude: 48.224
-longitude: 16.687
+latitude: 48.223
+longitude: 16.689
 ---

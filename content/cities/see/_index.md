@@ -1,6 +1,6 @@
 ---
 title: See
 url: /see/
-latitude: 47.071
-longitude: 10.423
+latitude: 47.084
+longitude: 10.465
 ---

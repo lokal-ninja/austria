@@ -1,6 +1,6 @@
 ---
 title: Großharras
 url: /grossharras/
-latitude: 48.664
-longitude: 16.245
+latitude: 48.708
+longitude: 16.234
 ---
