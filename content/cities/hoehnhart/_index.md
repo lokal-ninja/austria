@@ -1,6 +1,6 @@
 ---
 title: Höhnhart
 url: /hoehnhart/
-latitude: 48.171
-longitude: 13.271
+latitude: 48.148
+longitude: 13.308
 ---

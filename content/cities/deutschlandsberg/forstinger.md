@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
 url: /deutschlandsberg/forstinger/
-shop: Autoteile
+shop: Autowerkstatt
 ---

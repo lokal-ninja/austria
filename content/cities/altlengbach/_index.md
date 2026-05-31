@@ -1,6 +1,6 @@
 ---
 title: Altlengbach
 url: /altlengbach/
-latitude: 48.159
-longitude: 15.895
+latitude: 48.152
+longitude: 15.932
 ---
