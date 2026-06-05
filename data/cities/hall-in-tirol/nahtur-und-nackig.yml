@@ -7,5 +7,5 @@ city: Hall in Tirol
 street: Wallpachgasse
 housenumber: "15"
 phone: "+436609346957"
-opening_hours: Tu 09:00-17:00,We 09:00-14:00, Th 09:00-17:00, Fr 09:00-17:00, Sa 9:00-12:30
+opening_hours: Tu,Th,Fr 10:00-17:00; We 10:00-14:00; Sa 09:00-12:30
 website: https://www.nahtur-und-nackig.at/

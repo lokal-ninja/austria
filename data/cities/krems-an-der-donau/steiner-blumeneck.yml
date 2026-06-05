@@ -7,5 +7,6 @@ city: Krems an der Donau
 street: Steiner Kellergasse
 housenumber: "2"
 phone: "+43273282409"
-opening_hours: ""
+opening_hours: 'Jan-Dec: Mo-Fr 08:00-18:00, Jan-Dec: Sa 08:00-12:00, Jul,Aug: Mo-Th
+    08:00-14:00'
 website: https://www.blumen-kral.at/

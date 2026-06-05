@@ -1,6 +1,6 @@
 ---
 title: Mürzzuschlag
 url: /muerzzuschlag/
-latitude: 47.607
-longitude: 15.671
+latitude: 47.606
+longitude: 15.673
 ---

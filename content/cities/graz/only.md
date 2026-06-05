@@ -1,5 +1,5 @@
 ---
-title: "ONLY"
+title: "Only"
 url: /graz/only/
 shop: Kleidung
 ---

@@ -1,11 +1,11 @@
 id: 9727897984
 type: node
-latitude: 48.1966
-longitude: 16.34235
+latitude: 48.19658
+longitude: 16.3423
 postcode: "1070"
 city: Wien
 street: Mariahilfer Straße
 housenumber: "118"
 phone: +43 1 523 25 83
-opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We 09:00-15:00
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; We 09:00-15:00; Sa-Su,PH off
 website: https://www.bandagist-wien.at/
