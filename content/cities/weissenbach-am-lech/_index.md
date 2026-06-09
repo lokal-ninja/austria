@@ -1,5 +1,5 @@
 ---
-title: Weissenbach am Lech
+title: Weißenbach am Lech
 url: /weissenbach-am-lech/
 latitude: 47.441
 longitude: 10.641

@@ -1,6 +1,6 @@
 ---
-title: Ötztal- Bahnhof
+title: Ötztal-Bahnhof
 url: /oetztal-bahnhof/
-latitude: 47.232
-longitude: 10.853
+latitude: 47.229
+longitude: 10.858
 ---
