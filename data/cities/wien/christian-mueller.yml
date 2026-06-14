@@ -7,5 +7,5 @@ city: Wien
 street: Willergasse
 housenumber: "10"
 phone: "+4318886178"
-opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00
+opening_hours: Tu,Th,Fr 08:00-18:00; Sa 08:00-12:00; We 08:00-17:00
 website: https://www.frisurenchristian.com/
