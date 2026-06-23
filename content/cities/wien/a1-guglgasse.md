@@ -1,5 +1,0 @@
----
-title: "A1"
-url: /wien/a1-guglgasse/
-shop: Handy
----

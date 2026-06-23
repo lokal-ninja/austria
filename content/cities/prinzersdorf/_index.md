@@ -1,6 +1,6 @@
 ---
 title: Prinzersdorf
 url: /prinzersdorf/
-latitude: 48.209
-longitude: 15.517
+latitude: 48.2
+longitude: 15.506
 ---
