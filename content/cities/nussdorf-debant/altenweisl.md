@@ -1,5 +1,5 @@
 ---
 title: "Altenweisl"
 url: /nussdorf-debant/altenweisl/
-shop: Autohaus
+shop: Autowerkstatt
 ---
