@@ -7,5 +7,6 @@ city: Graz
 street: Am Eisernen Tor
 housenumber: ""
 phone: ""
-opening_hours: Mo-Fr 08:00-17:00
+opening_hours: Mo 08:00-17:00; Tu-Th 08:00-16:00; Fr 08:00-13:00, Fr 13:30-16:00 "nur
+    mit Termin / only by apointment"; Sa-Su,PH off
 website: ""

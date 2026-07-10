@@ -7,5 +7,5 @@ city: Graz
 street: Alte Poststraße
 housenumber: "90"
 phone: ""
-opening_hours: Mo-Sa 07:00-20:00; Su,PH 08:00-19:00
+opening_hours: Su,PH 08:00-19:00; Tu-Sa 08:00-19:00; Mo off
 website: ""

@@ -7,6 +7,5 @@ city: Trieben
 street: Triebener Bundesstraße
 housenumber: "17"
 phone: ""
-opening_hours: Mo 06:00-12:00; Di geschlossen; Mi-Sa 06:00-12:00; So 07:00-12:00;
-    feiertags geschlossen
+opening_hours: Mo 06:00-12:00; Tu off; We-Sa 06:00-12:00; Su 07:00-12:00; PH off
 website: https://stadtcafe-hupf.at/

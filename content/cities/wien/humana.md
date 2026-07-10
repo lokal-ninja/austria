@@ -1,5 +1,5 @@
 ---
 title: "Humana"
 url: /wien/humana/
-shop: Gebrauchtwaren
+shop: Kleidung
 ---
