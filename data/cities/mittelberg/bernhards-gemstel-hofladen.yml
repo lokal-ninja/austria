@@ -1,12 +1,11 @@
 id: 7371549894
 type: node
-latitude: 47.31362
-longitude: 10.14418
+latitude: 47.3136
+longitude: 10.14416
 postcode: "6993"
 city: Mittelberg
 street: Gemstelweg
 housenumber: "8"
 phone: +43 664 8774341
-opening_hours: 2025 May 29-Nov 08 Tu-Sa 13:00-17:00; Dec 24-easter +1 days Mo-Su 10:00-17:00;
-    "visit the Website for opening hours"
+opening_hours: 'May 29-Nov 08: Tu-Sa 13:00-17:00; Dec-Feb off'
 website: https://www.bernhards-gemstelalp.at/

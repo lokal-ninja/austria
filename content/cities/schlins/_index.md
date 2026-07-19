@@ -1,6 +1,6 @@
 ---
 title: Schlins
 url: /schlins/
-latitude: 47.201
-longitude: 9.693
+latitude: 47.2
+longitude: 9.697
 ---

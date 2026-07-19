@@ -1,6 +1,6 @@
 ---
 title: Reutte
 url: /reutte/
-latitude: 47.494
-longitude: 10.725
+latitude: 47.488
+longitude: 10.711
 ---
