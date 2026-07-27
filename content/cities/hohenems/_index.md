@@ -1,6 +1,6 @@
 ---
 title: Hohenems
 url: /hohenems/
-latitude: 47.363
-longitude: 9.685
+latitude: 47.364
+longitude: 9.681
 ---

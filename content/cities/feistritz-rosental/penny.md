@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /feistritz-rosental/penny/
 shop: Supermarkt
 ---

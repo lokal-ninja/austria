@@ -1,6 +1,6 @@
 ---
 title: Traiskirchen
 url: /traiskirchen/
-latitude: 48.022
-longitude: 16.297
+latitude: 48.014
+longitude: 16.293
 ---

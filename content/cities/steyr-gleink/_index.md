@@ -1,6 +1,6 @@
 ---
 title: Steyr-Gleink
 url: /steyr-gleink/
-latitude: 48.074
-longitude: 14.426
+latitude: 48.07
+longitude: 14.434
 ---
