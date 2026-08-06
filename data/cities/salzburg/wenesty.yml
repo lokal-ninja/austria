@@ -7,5 +7,5 @@ city: Salzburg
 street: Schallmooser Hauptstraße
 housenumber: "6"
 phone: ""
-opening_hours: Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-13:00
+opening_hours: Tu,Th,Fr 09:30-18:00; We 09:30-19:00; Sa 10:00-13:30
 website: ""

@@ -7,5 +7,6 @@ city: Radenthein
 street: Volksbankplatz
 housenumber: 1/8
 phone: +43 650 4330622
-opening_hours: 'Mo-Fr: Okt-Mai 8-12 14-17; Jun-Sep 8-14'
-website: www.skaeferle.at
+opening_hours: Oct-May Mo-Fr 08:00-12:00,14:00-17:00; Jun-Sep Mo-Fr 08:00-14:00; Sa,Su,PH
+    off
+website: https://www.skaeferle.at

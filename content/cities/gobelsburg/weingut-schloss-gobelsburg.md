@@ -1,5 +1,5 @@
 ---
-title: "Weingut Schloß Gobelsburg"
+title: "Weingut Schloss Gobelsburg"
 url: /gobelsburg/weingut-schloss-gobelsburg/
 shop: Wein
 ---

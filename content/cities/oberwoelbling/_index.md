@@ -1,6 +1,6 @@
 ---
 title: Oberwölbling
 url: /oberwoelbling/
-latitude: 48.315
-longitude: 15.59
+latitude: 48.319
+longitude: 15.592
 ---

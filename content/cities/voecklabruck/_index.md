@@ -1,6 +1,6 @@
 ---
 title: Vöcklabruck
 url: /voecklabruck/
-latitude: 48.007
-longitude: 13.653
+latitude: 48.008
+longitude: 13.654
 ---

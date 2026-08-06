@@ -7,5 +7,5 @@ city: Weiz
 street: Lederergasse
 housenumber: "12"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We-Fr 09:00-12:30,14:30-18:00; Tu,Sa 09:00-12:30; Su,PH off
 website: ""

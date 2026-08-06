@@ -1,6 +1,6 @@
 ---
 title: Stadt Kufstein
 url: /stadt-kufstein/
-latitude: 47.579
-longitude: 12.167
+latitude: 47.58
+longitude: 12.17
 ---
