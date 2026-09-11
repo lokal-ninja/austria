@@ -1,6 +1,6 @@
 ---
 title: Öhling
 url: /oehling/
-latitude: 48.099
-longitude: 14.8
+latitude: 48.102
+longitude: 14.798
 ---

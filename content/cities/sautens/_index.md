@@ -1,6 +1,6 @@
 ---
 title: Sautens
 url: /sautens/
-latitude: 47.21
-longitude: 10.869
+latitude: 47.208
+longitude: 10.863
 ---

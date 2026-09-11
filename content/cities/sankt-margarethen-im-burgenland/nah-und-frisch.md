@@ -1,5 +1,5 @@
 ---
 title: "Nah & Frisch"
 url: /sankt-margarethen-im-burgenland/nah-und-frisch/
-shop: Supermarkt
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
 url: /klagenfurt-am-woerthersee/forstinger/
-shop: Autoteile
+shop: Autowerkstatt
 ---

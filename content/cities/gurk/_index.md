@@ -1,6 +1,6 @@
 ---
 title: Gurk
 url: /gurk/
-latitude: 46.873
-longitude: 14.283
+latitude: 46.874
+longitude: 14.291
 ---

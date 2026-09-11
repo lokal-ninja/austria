@@ -1,5 +1,5 @@
 ---
-title: "Intersport Winninger"
+title: "INTERSPORT Winninger"
 url: /wien/intersport-winninger/
 shop: Sport
 ---

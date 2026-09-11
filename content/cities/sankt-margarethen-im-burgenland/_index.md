@@ -1,6 +1,6 @@
 ---
 title: Sankt Margarethen im Burgenland
 url: /sankt-margarethen-im-burgenland/
-latitude: 47.806
-longitude: 16.606
+latitude: 47.801
+longitude: 16.612
 ---

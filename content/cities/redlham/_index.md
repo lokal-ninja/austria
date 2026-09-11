@@ -1,6 +1,6 @@
 ---
 title: Redlham
 url: /redlham/
-latitude: 48.025
-longitude: 13.733
+latitude: 48.047
+longitude: 13.762
 ---

@@ -7,6 +7,6 @@ city: Velden am Wörther See
 street: Am Corso
 housenumber: "21"
 phone: +43 4274 52623
-opening_hours: 28.April - 30. September Mo-So 10-18h Juli / August Mo-So 10-22h Oktober
-    - Dezember Do-Sa 10-18h
+opening_hours: 'Apr 28-Sep 30: Mo-Su 10:00-18:00; Jul 01-Aug 31: Mo-Su 10:00-22:00;
+    Oct 01-Dec 31: Th-Sa 10:00-18:00'
 website: https://fishersfocus.com/

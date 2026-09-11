@@ -7,5 +7,5 @@ city: Westendorf
 street: Pfarrgasse
 housenumber: "2"
 phone: +43 5334 6225
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,15:00-18:00; We,Sa 08:00-12:00
 website: https://www.expert.at/standorte/expert-antretter-m35150

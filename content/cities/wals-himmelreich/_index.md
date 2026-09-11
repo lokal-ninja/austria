@@ -1,6 +1,6 @@
 ---
 title: Wals-Himmelreich
 url: /wals-himmelreich/
-latitude: 47.794
-longitude: 12.985
+latitude: 47.792
+longitude: 12.989
 ---

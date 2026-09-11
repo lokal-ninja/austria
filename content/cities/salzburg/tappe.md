@@ -1,5 +1,5 @@
 ---
 title: "TAPPE"
 url: /salzburg/tappe/
-shop: Sanitätshaus
+shop: Leerstehend
 ---

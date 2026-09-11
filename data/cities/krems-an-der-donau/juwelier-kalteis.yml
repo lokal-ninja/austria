@@ -7,5 +7,5 @@ city: Krems an der Donau
 street: Obere Landstraße
 housenumber: "21"
 phone: +43 2732 70 647
-opening_hours: Tu-Fr 10:00-13:00; Th,Fr 15:30-18:00; Sa 09:30-13:00; PH off
+opening_hours: Tu,We,Sa 10:00-13:00; Th,Fr 10:00-13:00,15:30-18:00
 website: http://www.kalteis-21.at/

@@ -1,6 +1,6 @@
 ---
 title: St. Ulrich am Pillersee
 url: /st-ulrich-am-pillersee/
-latitude: 47.528
-longitude: 12.574
+latitude: 47.545
+longitude: 12.57
 ---

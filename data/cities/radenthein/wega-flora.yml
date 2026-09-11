@@ -7,6 +7,6 @@ city: Radenthein
 street: Villacherstraße
 housenumber: "11"
 phone: ""
-opening_hours: 'Mo - Fr: 8:00 - 17:00 Uhr, April, Mai, Juni bis 18:00 Uhr, Sa: 8:00
-    - 13:00 Uhr, Sonntag & Feiertag geschlossen'
+opening_hours: 'Mo-Fr 08:00-17:00; Apr,May,Jun: Mo-Fr 08:00-18:00; Sa 08:00-13:00;
+    Su,PH off'
 website: ""

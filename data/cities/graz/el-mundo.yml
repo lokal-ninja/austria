@@ -7,5 +7,5 @@ city: Graz
 street: Schmiedgasse
 housenumber: "16"
 phone: ""
-opening_hours: Mo-Fr 09:30-18:00
+opening_hours: Mo-We 09:30-18:00; Th 09:30-16:30; Fr 09:30-16:00
 website: ""
