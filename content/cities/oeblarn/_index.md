@@ -1,6 +1,6 @@
 ---
 title: Öblarn
 url: /oeblarn/
-latitude: 47.46
-longitude: 13.985
+latitude: 47.461
+longitude: 13.99
 ---

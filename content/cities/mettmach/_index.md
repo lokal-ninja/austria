@@ -1,6 +1,6 @@
 ---
 title: Mettmach
 url: /mettmach/
-latitude: 48.172
-longitude: 13.344
+latitude: 48.173
+longitude: 13.345
 ---

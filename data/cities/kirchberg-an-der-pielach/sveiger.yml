@@ -7,5 +7,6 @@ city: Kirchberg an der Pielach
 street: St. Pöltner-Straße
 housenumber: "12"
 phone: ""
-opening_hours: ""
+opening_hours: Tu 08:00-12:00,13:00-18:00; We 08:00-13:00; Th 08:00-19:00; Fr 08:00-18:00;
+    Sa 07:00-13:00; Mo off
 website: ""

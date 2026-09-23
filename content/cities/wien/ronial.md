@@ -1,5 +1,5 @@
 ---
-title: "Ronial"
+title: "RONIAL"
 url: /wien/ronial/
 shop: Kosmetik
 ---

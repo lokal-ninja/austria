@@ -1,5 +1,5 @@
 ---
-title: "Schrei und Söhne"
+title: "Schrei & Söhne"
 url: /wien/schrei-und-soehne/
 shop: Feinkost
 ---

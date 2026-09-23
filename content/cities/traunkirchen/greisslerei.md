@@ -1,5 +1,5 @@
 ---
 title: "Greisslerei"
 url: /traunkirchen/greisslerei/
-shop: Lebensmittel
+shop: Kleidung
 ---

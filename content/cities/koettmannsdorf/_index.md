@@ -1,6 +1,6 @@
 ---
 title: Köttmannsdorf
 url: /koettmannsdorf/
-latitude: 46.58
-longitude: 14.282
+latitude: 46.558
+longitude: 14.229
 ---

@@ -7,5 +7,6 @@ city: Graz
 street: Annenstraße
 housenumber: "12"
 phone: +43 316 714 740
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00, Mo,Tu,Th,Fr 13:00-18:00, We 09:00-12:00, Sa
+    09:00-12:30
 website: ""
