@@ -7,6 +7,5 @@ city: Gleisdorf
 street: Ludwig-Binder-Straße
 housenumber: "27"
 phone: ""
-opening_hours: Montag 09:00 - 18:30 Dienstag 09:00 - 18:30 Mittwoch 09:00 - 18:30
-    Donnerstag Geschlossen Freitag 09:00 - 18:30 Samstag 09:00 - 17:00
+opening_hours: Mo,Tu,We,Fr 09:00-18:30; Th off; Sa 09:00-17:00
 website: ""

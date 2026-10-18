@@ -1,5 +1,5 @@
 ---
-title: "G-Room"
+title: "G-ROOM"
 url: /wien/g-room/
-shop: Friseur
+shop: Kosmetik
 ---

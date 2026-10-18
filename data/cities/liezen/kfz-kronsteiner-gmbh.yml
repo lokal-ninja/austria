@@ -7,5 +7,5 @@ city: Liezen
 street: Wirtschaftspark
 housenumber: F
 phone: ""
-opening_hours: Mo-Th 08:00-12:00; Mo-Th 13:00-17:00; Fr 8:00-11:30; Fr 12:30-17:00
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-11:30,12:30-17:00
 website: http://www.kfzkronsteiner.at

@@ -7,6 +7,5 @@ city: Linz
 street: Marktplatz
 housenumber: "12"
 phone: +43 732 606 562
-opening_hours: 'Monday: 08:00-16:00 Tuesday: 08:00-16:00 Wednesday: 08:00-16:00 Thursday:
-    08:00-16:00 Friday: 08:00-16:00 Saturday: 08:00-13:00 Sunday: 08:00-16:00'
+opening_hours: Su-Fr 08:00-16:00; Sa 08:00-13:00
 website: ""

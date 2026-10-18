@@ -1,5 +1,5 @@
 ---
-title: "SPRÖSSLING e. U."
+title: "Sprössling e. U."
 url: /mistelbach/sproessling-e-u/
 shop: Hanf
 ---

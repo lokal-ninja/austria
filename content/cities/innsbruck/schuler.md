@@ -1,5 +1,5 @@
 ---
-title: "schuler"
+title: "Schuler"
 url: /innsbruck/schuler/
 shop: Babysachen
 ---

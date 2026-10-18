@@ -1,5 +1,5 @@
 ---
 title: "Forstinger"
 url: /mistelbach/forstinger/
-shop: Autoteile
+shop: Autowerkstatt
 ---

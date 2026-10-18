@@ -1,5 +1,5 @@
 ---
-title: "Alois Mayr"
+title: "alois mayr"
 url: /woergl/alois-mayr/
-shop: Baustoffe
+shop: Baumarkt
 ---

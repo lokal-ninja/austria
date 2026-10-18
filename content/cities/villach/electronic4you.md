@@ -1,5 +1,5 @@
 ---
-title: "electronic4you"
+title: "Electronic4you"
 url: /villach/electronic4you/
 shop: Elektronik
 ---

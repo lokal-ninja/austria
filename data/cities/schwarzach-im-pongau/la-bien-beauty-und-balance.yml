@@ -7,6 +7,5 @@ city: Schwarzach im Pongau
 street: Salzleckerstraße
 housenumber: "18"
 phone: +43 676 5617548
-opening_hours: Tu 09:00,20:00; We 09:00,17:00; Th 09:00,20:00; Fr 09:00,17:00; Sa
-    08:00,12:00; PH off
+opening_hours: Tu,Th 09:00-20:00; We,Fr 09:00-17:00; Sa 08:00-12:00; PH off
 website: https://www.la-bien.at/

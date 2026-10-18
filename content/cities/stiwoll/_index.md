@@ -1,6 +1,6 @@
 ---
 title: Stiwoll
 url: /stiwoll/
-latitude: 47.105
-longitude: 15.218
+latitude: 47.094
+longitude: 15.229
 ---
