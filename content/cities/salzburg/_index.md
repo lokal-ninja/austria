@@ -1,6 +1,6 @@
 ---
 title: Salzburg
 url: /salzburg/
-latitude: 47.799
-longitude: 13.046
+latitude: 47.778
+longitude: 13.067
 ---

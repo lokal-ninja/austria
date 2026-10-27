@@ -1,6 +1,6 @@
 ---
 title: Ebbs
 url: /ebbs/
-latitude: 47.631
-longitude: 12.214
+latitude: 47.633
+longitude: 12.213
 ---
