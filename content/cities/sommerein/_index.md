@@ -1,6 +1,6 @@
 ---
 title: Sommerein
 url: /sommerein/
-latitude: 47.991
-longitude: 16.657
+latitude: 47.996
+longitude: 16.662
 ---

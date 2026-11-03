@@ -1,11 +1,12 @@
 id: 6898492489
 type: node
-latitude: 47.21815
-longitude: 15.62842
+latitude: 47.21816
+longitude: 15.62837
 postcode: "8160"
 city: Weiz
 street: Kapruner Generator Straße
 housenumber: "6"
 phone: ""
-opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:30
+opening_hours: Mo-We 09:00-12:30,14:00-18:00; Th-Fr 09:00-12:30,14:00-18:30; Sa-Su,PH
+    off
 website: ""
