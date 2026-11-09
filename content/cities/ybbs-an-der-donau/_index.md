@@ -1,6 +1,6 @@
 ---
 title: Ybbs an der Donau
 url: /ybbs-an-der-donau/
-latitude: 48.177
-longitude: 15.083
+latitude: 48.178
+longitude: 15.081
 ---

@@ -1,6 +1,6 @@
 ---
 title: Senning
 url: /senning/
-latitude: 48.453
-longitude: 16.211
+latitude: 48.456
+longitude: 16.212
 ---
