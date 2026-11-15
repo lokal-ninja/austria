@@ -1,6 +1,6 @@
 ---
 title: Eichgraben
 url: /eichgraben/
-latitude: 48.171
-longitude: 15.982
+latitude: 48.174
+longitude: 15.986
 ---

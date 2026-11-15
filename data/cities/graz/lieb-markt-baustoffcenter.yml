@@ -7,5 +7,6 @@ city: Graz
 street: Waltendorfer Gürtel
 housenumber: "15"
 phone: +43316 815150-0
-opening_hours: Mo-Fr 06:10-18:00; Sa 08:00-12:00
+opening_hours: 'Nov-Feb: Mo-Th 06:30-17:00; Nov-Feb: Fr 06:30-15:00; Nov-Feb: Sa,Su
+    off'
 website: https://www.liebmarkt.at/baumarkt_4.htm

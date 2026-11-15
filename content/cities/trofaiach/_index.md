@@ -1,6 +1,6 @@
 ---
 title: Trofaiach
 url: /trofaiach/
-latitude: 47.425
-longitude: 15.002
+latitude: 47.423
+longitude: 15.001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Eichkögl
 url: /eichkoegl/
-latitude: 47.008
-longitude: 15.776
+latitude: 47.045
+longitude: 15.798
 ---
