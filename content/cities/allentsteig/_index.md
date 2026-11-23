@@ -1,6 +1,6 @@
 ---
 title: Allentsteig
 url: /allentsteig/
-latitude: 48.699
-longitude: 15.32
+latitude: 48.697
+longitude: 15.324
 ---

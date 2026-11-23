@@ -1,6 +1,6 @@
 ---
 title: Pischelsdorf am Engelbach
 url: /pischelsdorf-am-engelbach/
-latitude: 48.13
-longitude: 13.08
+latitude: 48.125
+longitude: 13.092
 ---

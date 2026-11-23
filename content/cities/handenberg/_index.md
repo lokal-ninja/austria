@@ -1,6 +1,6 @@
 ---
 title: Handenberg
 url: /handenberg/
-latitude: 48.141
-longitude: 13.015
+latitude: 48.129
+longitude: 12.984
 ---

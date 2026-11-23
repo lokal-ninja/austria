@@ -1,5 +1,5 @@
 ---
-title: "METRO"
+title: "Metro"
 url: /langenzersdorf/metro/
 shop: Großhandel
 ---

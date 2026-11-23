@@ -1,6 +1,6 @@
 ---
 title: Loosdorf
 url: /loosdorf/
-latitude: 48.201
-longitude: 15.403
+latitude: 48.199
+longitude: 15.405
 ---

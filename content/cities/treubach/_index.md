@@ -1,6 +1,6 @@
 ---
 title: Treubach
 url: /treubach/
-latitude: 48.172
-longitude: 13.194
+latitude: 48.193
+longitude: 13.196
 ---

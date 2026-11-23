@@ -7,5 +7,6 @@ city: Wien
 street: Am Himmelreich
 housenumber: "325"
 phone: +43 1 3187074
-opening_hours: Fr 14:00-18:00; Sa 10:00-17:00 || "on appointment"
+opening_hours: Jan-Dec Mo-Th "nach Vereinbarung"; Mar-Oct Fr 12:00-18:00; Mar-Oct
+    Sa 10:00-17:00; Nov-Dec Fr 12:00-17:00; Nov-Dec Sa 10:00-17:00; PH off
 website: https://www.feigenhof.at/

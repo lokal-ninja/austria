@@ -1,6 +1,6 @@
 ---
 title: Zeiselmauer-Wolfpassing
 url: /zeiselmauer-wolfpassing/
-latitude: 48.328
-longitude: 16.175
+latitude: 48.324
+longitude: 16.188
 ---

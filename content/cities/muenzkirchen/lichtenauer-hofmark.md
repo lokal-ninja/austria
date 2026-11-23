@@ -1,5 +1,5 @@
 ---
 title: "Lichtenauer"
 url: /muenzkirchen/lichtenauer-hofmark/
-shop: Autohaus
+shop: Autowerkstatt
 ---

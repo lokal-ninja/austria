@@ -1,6 +1,6 @@
 ---
 title: Enzenkirchen
 url: /enzenkirchen/
-latitude: 48.379
-longitude: 13.629
+latitude: 48.381
+longitude: 13.644
 ---
